@@ -1,0 +1,19 @@
+{
+  "id": "swsh12pt5gg",
+  "name": "Crown Zenith Galarian Gallery",
+  "series": "Sword & Shield",
+  "printedTotal": 70,
+  "total": 70,
+  "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "CRZ",
+  "releaseDate": "2023/01/20",
+  "updatedAt": "2023/01/19 15:45:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
+    "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+  }
+}

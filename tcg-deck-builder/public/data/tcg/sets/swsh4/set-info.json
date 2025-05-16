@@ -1,0 +1,18 @@
+{
+  "id": "swsh4",
+  "name": "Vivid Voltage",
+  "series": "Sword & Shield",
+  "printedTotal": 185,
+  "total": 203,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "VIV",
+  "releaseDate": "2020/11/13",
+  "updatedAt": "2020/11/13 16:20:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+    "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+  }
+}

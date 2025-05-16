@@ -3,19 +3,16 @@
 /**
  * TCG Data Builder
  * Node.js script to fetch and organize TCG card data for local use
+ * Only fetches Sword & Shield and Scarlet & Violet sets
  * 
  * Run with: node build-tcg-data.js
- * 
- * Dependencies:
- * - node-fetch
- * - fs-extra (for better file operations)
- * - dotenv (for loading API key from .env file)
  */
 
 // Load environment variables from .env file
 require('dotenv').config();
 
-const fetch = require('node-fetch');
+// Fix for fetch import (use CommonJS version)
+const fetch = require('node-fetch').default; // Note the .default here
 const fs = require('fs-extra');
 const path = require('path');
 
@@ -77,8 +74,15 @@ async function fetchAllSets() {
     throw new Error('Failed to fetch TCG sets or received invalid data');
   }
   
-  console.log(`Found ${data.data.length} TCG sets.`);
-  return data.data;
+  // Filter for only Sword & Shield and Scarlet & Violet sets
+  const filteredSets = data.data.filter(set => 
+    set.series === 'Sword & Shield' || set.series === 'Scarlet & Violet'
+  );
+  
+  console.log(`Found ${data.data.length} total TCG sets.`);
+  console.log(`Filtered to ${filteredSets.length} Sword & Shield and Scarlet & Violet sets.`);
+  
+  return filteredSets;
 }
 
 async function fetchCardsBySet(setId) {
@@ -127,12 +131,12 @@ async function fetchCardsBySet(setId) {
 }
 
 async function buildTcgData() {
-  console.log('Starting TCG data build...');
+  console.log('Starting TCG data build (SWSH & SV sets only)...');
   
   // Create output directory
   await fs.ensureDir(OUTPUT_DIR);
   
-  // Fetch all sets
+  // Fetch all sets (filtered to SWSH & SV)
   const allSets = await fetchAllSets();
   
   // Initialize indexes
@@ -144,12 +148,12 @@ async function buildTcgData() {
   // Process sets and cards
   let completedSets = 0;
   
-  // For testing, limit to a few sets
-  const setsToProcess = process.env.LIMIT_SETS ? allSets.slice(0, parseInt(process.env.LIMIT_SETS)) : allSets;
+  // Process all SWSH and SV sets (already filtered)
+  const setsToProcess = allSets;
   
   for (const set of setsToProcess) {
     try {
-      console.log(`Processing set ${completedSets + 1}/${setsToProcess.length}: ${set.name} (${set.id})`);
+      console.log(`Processing set ${completedSets + 1}/${setsToProcess.length}: ${set.name} (${set.id}) [${set.series}]`);
       
       // Fetch cards for this set
       const setCards = await fetchCardsBySet(set.id);
@@ -296,9 +300,10 @@ async function buildTcgData() {
   
   // Create main index file
   const indexData = {
-    description: "TCG Card Database Index",
+    description: "TCG Card Database Index (SWSH & SV sets only)",
     lastUpdated: new Date().toISOString(),
     totalSets: Object.keys(setIndex).length,
+    series: ["Sword & Shield", "Scarlet & Violet"],
     indexes: {
       sets: SET_INDEX_FILE,
       supertypes: SUPERTYPE_INDEX_FILE,

@@ -1,0 +1,1795 @@
+[
+  {
+    "id": "sv7-129",
+    "name": "Antique Cover Fossil",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "hp": "60",
+    "rules": [
+      "Play this card as if it were a 60-HP Basic Colorless Pokémon. This card can't be affected by any Special Conditions and can't retreat.    At any time during your turn, you may discard this card from play.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "abilities": [
+      {
+        "name": "Protective Cover",
+        "text": "Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "129",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/129.png",
+      "large": "https://images.pokemontcg.io/sv7/129_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 10.08,
+          "market": 0.08,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.12,
+          "mid": 1.11,
+          "high": 7.95,
+          "market": 1.02,
+          "directLow": 1.52
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.78,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.67,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 1.13,
+        "reverseHoloAvg7": 1.16,
+        "reverseHoloAvg30": 0.79
+      }
+    }
+  },
+  {
+    "id": "sv7-130",
+    "name": "Antique Root Fossil",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "hp": "60",
+    "rules": [
+      "Play this card as if it were a 60-HP Basic Colorless Pokémon. This card can't be affected by any Special Conditions and can't retreat.  At any time during your turn, you may discard this card from play.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "abilities": [
+      {
+        "name": "Primal Root",
+        "text": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Basic Pokémon cost Colorless more.",
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "130",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/130.png",
+      "large": "https://images.pokemontcg.io/sv7/130_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.64,
+          "high": 4.95,
+          "market": 0.64,
+          "directLow": 0.69
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.69,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.68,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.48,
+        "reverseHoloAvg7": 0.56,
+        "reverseHoloAvg30": 0.69
+      }
+    }
+  },
+  {
+    "id": "sv7-131",
+    "name": "Area Zero Underdepths",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Each player who has any Tera Pokémon in play can have up to 8 Pokémon on their Bench.    If a player no longer has any Tera Pokémon in play, that player discards Pokémon from their Bench until they have 5. When this card leaves play, both players discard Pokémon from their Bench until they have 5, and the player who played this card discards first.",
+      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "131",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/131.png",
+      "large": "https://images.pokemontcg.io/sv7/131_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.57,
+          "high": 8.49,
+          "market": 0.54,
+          "directLow": 0.44
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 21,
+          "market": 0.15,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.13,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.29,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.25,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.13,
+        "avg7": 0.12,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 0.61,
+        "reverseHoloAvg7": 0.24,
+        "reverseHoloAvg30": 0.29
+      }
+    }
+  },
+  {
+    "id": "sv7-132",
+    "name": "Briar",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if your opponent has exactly 2 Prize cards remaining.    During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your Tera Pokémon, take 1 more Prize card.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "132",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/132.png",
+      "large": "https://images.pokemontcg.io/sv7/132_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": 0.13
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.17,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "sv7-133",
+    "name": "Crispin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 Basic Energy cards of different types, reveal them, and put 1 of them into your hand. Attach the other to 1 of your Pokémon. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "133",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/133.png",
+      "large": "https://images.pokemontcg.io/sv7/133_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.41,
+          "high": 4.95,
+          "market": 0.31,
+          "directLow": 0.3
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 1.48,
+          "high": 7.95,
+          "market": 1.33,
+          "directLow": 1.12
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.18,
+        "lowPrice": 0.02,
+        "trendPrice": 0.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.33,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.37,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.21,
+        "avg7": 0.13,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 0.69,
+        "reverseHoloAvg7": 0.37,
+        "reverseHoloAvg30": 0.34
+      }
+    }
+  },
+  {
+    "id": "sv7-134",
+    "name": "Deluxe Bomb",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "You can't have more than 1 ACE SPEC card in your deck.",
+      "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 12 damage counters on the Attacking Pokémon. If you placed any damage counters in this way, discard this card.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "134",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/134.png",
+      "large": "https://images.pokemontcg.io/sv7/134_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.04,
+          "mid": 0.47,
+          "high": 35,
+          "market": 0.38,
+          "directLow": 0.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.35,
+        "lowPrice": 0.02,
+        "trendPrice": 0.5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.43,
+        "avg7": 0.51,
+        "avg30": 0.37,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv7-135",
+    "name": "Glass Trumpet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you have any Tera Pokémon in play.    Choose up to 2 of your Benched Colorless Pokémon and attach a Basic Energy card from your discard pile to each of them.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "135",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/135.png",
+      "large": "https://images.pokemontcg.io/sv7/135_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 25,
+          "market": 0.11,
+          "directLow": 0.07
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.23,
+          "high": 5,
+          "market": 0.15,
+          "directLow": 0.15
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.17,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.22,
+        "reverseHoloAvg7": 0.21,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "sv7-136",
+    "name": "Grand Tree",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "You can't have more than 1 ACE SPEC card in your deck.",
+      "Once during each player's turn, that player may search their deck for a Stage 1 Pokémon that evolves from 1 of their Basic Pokémon and put it onto that Pokémon to evolve it. If that Pokémon was evolved in this way, that player may search their deck for a Stage 2 Pokémon that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, that player shuffles their deck. (Players can't evolve a Basic Pokémon during their first turn or a Basic Pokémon that was put into play this turn.)",
+      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "136",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/136.png",
+      "large": "https://images.pokemontcg.io/sv7/136_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.17,
+          "mid": 0.85,
+          "high": 9,
+          "market": 0.69,
+          "directLow": 0.71
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.63,
+        "lowPrice": 0.05,
+        "trendPrice": 0.62,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.89,
+        "avg7": 0.7,
+        "avg30": 0.63,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv7-137",
+    "name": "Gravity Gemstone",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "As long as the Pokémon this card is attached to is in the Active Spot, the Retreat Cost of both Active Pokémon is Colorless more.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "137",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/137.png",
+      "large": "https://images.pokemontcg.io/sv7/137_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": 0.15
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 3.99,
+          "market": 0.05,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.27,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.14,
+        "reverseHoloAvg7": 0.27,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "sv7-138",
+    "name": "Kofu",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put 2 cards from your hand on the bottom of your deck in any order. If you put 2 cards on the bottom of your deck in this way, draw 4 cards. (If you can't put 2 cards from your hand on the bottom of your deck, you can't use this card.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "138",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/138.png",
+      "large": "https://images.pokemontcg.io/sv7/138_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": 0.11
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.13,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.06,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.14
+      }
+    }
+  },
+  {
+    "id": "sv7-139",
+    "name": "Lacey",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "139",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/139.png",
+      "large": "https://images.pokemontcg.io/sv7/139_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.16,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": 0.13
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 5,
+          "market": 0.05,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.13,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.13,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "sv7-140",
+    "name": "Occa Berry",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon this card is attached to is damaged by an attack from your opponent's Fire Pokémon, it takes 60 less damage (after applying Weakness and Resistance), and discard this card.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "140",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/140.png",
+      "large": "https://images.pokemontcg.io/sv7/140_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.05
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.09,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.09,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.05,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.06,
+        "reverseHoloAvg30": 0.09
+      }
+    }
+  },
+  {
+    "id": "sv7-141",
+    "name": "Payapa Berry",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon this card is attached to is damaged by an attack from your opponent's Psychic Pokémon, it takes 60 less damage (after applying Weakness and Resistance), and discard this card.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "141",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/141.png",
+      "large": "https://images.pokemontcg.io/sv7/141_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.51,
+          "high": 4.95,
+          "market": 0.51,
+          "directLow": 0.68
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.36,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.28,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.28,
+        "reverseHoloAvg7": 0.28,
+        "reverseHoloAvg30": 0.37
+      }
+    }
+  },
+  {
+    "id": "sv7-142",
+    "name": "Sparkling Crystal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "You can't have more than 1 ACE SPEC card in your deck.",
+      "When the Tera Pokémon this card is attached to uses an attack, that attack costs 1 Energy less. (The Energy can be of any type.)",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "142",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/142.png",
+      "large": "https://images.pokemontcg.io/sv7/142_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.1,
+          "mid": 1.03,
+          "high": 21.77,
+          "market": 0.76,
+          "directLow": 0.74
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.73,
+        "lowPrice": 0.1,
+        "trendPrice": 0.68,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.1,
+        "avg1": 0.68,
+        "avg7": 0.76,
+        "avg30": 0.72,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv7-163",
+    "name": "Briar",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if your opponent has exactly 2 Prize cards remaining.    During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your Tera Pokémon, take 1 more Prize card.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "163",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/163.png",
+      "large": "https://images.pokemontcg.io/sv7/163_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-163",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1,
+          "mid": 2.99,
+          "high": 28,
+          "market": 2.54,
+          "directLow": 5.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-163",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.75,
+        "lowPrice": 1.22,
+        "trendPrice": 3.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.75,
+        "avg1": 3.84,
+        "avg7": 3.05,
+        "avg30": 2.76,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv7-164",
+    "name": "Crispin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 Basic Energy cards of different types, reveal them, and put 1 of them into your hand. Attach the other to 1 of your Pokémon. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "164",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/164.png",
+      "large": "https://images.pokemontcg.io/sv7/164_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-164",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 7,
+          "mid": 11.97,
+          "high": 34.95,
+          "market": 10.29,
+          "directLow": 11.36
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-164",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 9.14,
+        "lowPrice": 6.5,
+        "trendPrice": 9.79,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 6.5,
+        "avg1": 9.6,
+        "avg7": 9.58,
+        "avg30": 9.14,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv7-165",
+    "name": "Kofu",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put 2 cards from your hand on the bottom of your deck in any order. If you put 2 cards on the bottom of your deck in this way, draw 4 cards. (If you can't put 2 cards from your hand on the bottom of your deck, you can't use this card.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "165",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/165.png",
+      "large": "https://images.pokemontcg.io/sv7/165_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-165",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.63,
+          "mid": 1.44,
+          "high": 19.99,
+          "market": 1.17,
+          "directLow": 2.27
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-165",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.42,
+        "lowPrice": 0.7,
+        "trendPrice": 1.8,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.7,
+        "avg1": 5.11,
+        "avg7": 1.9,
+        "avg30": 1.44,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv7-166",
+    "name": "Lacey",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "166",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/166.png",
+      "large": "https://images.pokemontcg.io/sv7/166_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-166",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.62,
+          "mid": 3.15,
+          "high": 16,
+          "market": 2.8,
+          "directLow": 4.32
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-166",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.53,
+        "lowPrice": 1.25,
+        "trendPrice": 2.6,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.25,
+        "avg1": 2.32,
+        "avg7": 2.47,
+        "avg30": 2.52,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv7-171",
+    "name": "Briar",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if your opponent has exactly 2 Prize cards remaining.    During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your Tera Pokémon, take 1 more Prize card.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "171",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/171.png",
+      "large": "https://images.pokemontcg.io/sv7/171_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-171",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 13.25,
+          "mid": 17.31,
+          "high": 49.95,
+          "market": 16,
+          "directLow": 19.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-171",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 19.69,
+        "lowPrice": 13.8,
+        "trendPrice": 18.94,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 13.8,
+        "avg1": 18.25,
+        "avg7": 19.04,
+        "avg30": 19.78,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv7-172",
+    "name": "Lacey",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "172",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/172.png",
+      "large": "https://images.pokemontcg.io/sv7/172_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 20.67,
+          "mid": 28.51,
+          "high": 90,
+          "market": 23.43,
+          "directLow": 20.67
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 24.85,
+        "lowPrice": 19,
+        "trendPrice": 25.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 19.97,
+        "avg1": 22.72,
+        "avg7": 26.01,
+        "avg30": 24.94,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv7-174",
+    "name": "Area Zero Underdepths",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Each player who has any Tera Pokémon in play can have up to 8 Pokémon on their Bench.    If a player no longer has any Tera Pokémon in play, that player discards Pokémon from their Bench until they have 5. When this card leaves play, both players discard Pokémon from their Bench until they have 5, and the player who played this card discards first.",
+      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "174",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/174.png",
+      "large": "https://images.pokemontcg.io/sv7/174_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-174",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 10,
+          "mid": 16.21,
+          "high": 39.95,
+          "market": 13.7,
+          "directLow": 16.12
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-174",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 15.52,
+        "lowPrice": 12.77,
+        "trendPrice": 15.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 12.77,
+        "avg1": 14.8,
+        "avg7": 14.8,
+        "avg30": 15.34,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv7-175",
+    "name": "Bravery Charm",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Basic Pokémon this card is attached to gets +50 HP.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "series": "Scarlet & Violet",
+      "printedTotal": 142,
+      "total": 175,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SCR",
+      "releaseDate": "2024/09/13",
+      "updatedAt": "2024/09/13 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv7/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv7/logo.png"
+      }
+    },
+    "number": "175",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/175.png",
+      "large": "https://images.pokemontcg.io/sv7/175_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv7-175",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 9,
+          "mid": 13,
+          "high": 30,
+          "market": 12.74,
+          "directLow": 13.88
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv7-175",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 12.03,
+        "lowPrice": 7.99,
+        "trendPrice": 13.96,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 7.99,
+        "avg1": 12.56,
+        "avg7": 13.31,
+        "avg30": 12.17,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

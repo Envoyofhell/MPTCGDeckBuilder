@@ -1,0 +1,425 @@
+{
+  "Common": {
+    "sets": {
+      "sv9": 85,
+      "sv8pt5": 46,
+      "sv8": 88,
+      "sv7": 71,
+      "sv6pt5": 28,
+      "sv6": 76,
+      "sv5": 71,
+      "sv4pt5": 40,
+      "sv4": 81,
+      "sv3pt5": 66,
+      "sv3": 92,
+      "sv2": 81,
+      "sve": 8,
+      "sv1": 105,
+      "swsh12pt5": 42,
+      "swsh12": 53,
+      "swsh11": 49,
+      "pgo": 22,
+      "swsh10": 40,
+      "swsh9": 42,
+      "swsh8": 89,
+      "swsh7": 42,
+      "swsh6": 43,
+      "swsh5": 41,
+      "swsh45": 18,
+      "swsh4": 44,
+      "swsh35": 20,
+      "swsh3": 53,
+      "swsh2": 50,
+      "swsh1": 60
+    },
+    "count": 1646
+  },
+  "Rare": {
+    "sets": {
+      "sv9": 16,
+      "sv8pt5": 21,
+      "sv8": 16,
+      "sv7": 15,
+      "sv6pt5": 7,
+      "sv6": 16,
+      "sv5": 14,
+      "sv4pt5": 16,
+      "sv4": 27,
+      "sv3pt5": 25,
+      "sv3": 10,
+      "sv2": 25,
+      "sv1": 21,
+      "swsh12pt5": 22,
+      "swsh12": 21,
+      "swsh11": 28,
+      "swsh10": 21,
+      "swsh9": 26,
+      "swsh8": 32,
+      "cel25": 12,
+      "swsh7": 19,
+      "swsh6": 23,
+      "swsh5": 20,
+      "swsh45": 8,
+      "swsh4": 33,
+      "swsh3": 34,
+      "swsh2": 32,
+      "swsh1": 32
+    },
+    "count": 592
+  },
+  "Uncommon": {
+    "sets": {
+      "sv9": 42,
+      "sv8pt5": 33,
+      "sv8": 61,
+      "sv7": 39,
+      "sv6pt5": 20,
+      "sv6": 55,
+      "sv5": 55,
+      "sv4pt5": 25,
+      "sv4": 54,
+      "sv3pt5": 62,
+      "sv3": 74,
+      "sv2": 70,
+      "sv1": 60,
+      "swsh12pt5": 29,
+      "swsh12": 56,
+      "swsh11": 50,
+      "pgo": 20,
+      "swsh10": 47,
+      "swsh9": 46,
+      "swsh8": 83,
+      "swsh7": 51,
+      "swsh6": 46,
+      "swsh5": 46,
+      "swsh45": 13,
+      "swsh4": 46,
+      "swsh35": 24,
+      "swsh3": 50,
+      "swsh2": 51,
+      "swsh1": 56
+    },
+    "count": 1364
+  },
+  "Double Rare": {
+    "sets": {
+      "sv9": 16,
+      "sv8pt5": 25,
+      "sv8": 18,
+      "sv7": 14,
+      "sv6pt5": 6,
+      "sv6": 14,
+      "sv5": 15,
+      "sv4pt5": 10,
+      "sv4": 20,
+      "sv3pt5": 12,
+      "sv3": 21,
+      "sv2": 17,
+      "sv1": 12
+    },
+    "count": 200
+  },
+  "Illustration Rare": {
+    "sets": {
+      "sv9": 11,
+      "sv8": 23,
+      "sv7": 13,
+      "sv6pt5": 15,
+      "sv6": 21,
+      "sv5": 22,
+      "sv4pt5": 3,
+      "sv4": 34,
+      "sv3pt5": 16,
+      "sv3": 12,
+      "sv2": 36,
+      "sv1": 24
+    },
+    "count": 230
+  },
+  "Ultra Rare": {
+    "sets": {
+      "sv9": 11,
+      "sv8pt5": 12,
+      "sv8": 21,
+      "sv7": 11,
+      "sv6pt5": 10,
+      "sv6": 21,
+      "sv5": 18,
+      "sv4pt5": 5,
+      "sv4": 28,
+      "sv3pt5": 16,
+      "sv3": 12,
+      "sv2": 26,
+      "sv1": 20
+    },
+    "count": 211
+  },
+  "Special Illustration Rare": {
+    "sets": {
+      "sv9": 6,
+      "sv8pt5": 32,
+      "sv8": 11,
+      "sv7": 6,
+      "sv6pt5": 5,
+      "sv6": 11,
+      "sv5": 10,
+      "sv4pt5": 8,
+      "sv4": 15,
+      "sv3pt5": 7,
+      "sv3": 6,
+      "sv2": 15,
+      "sv1": 10
+    },
+    "count": 142
+  },
+  "Hyper Rare": {
+    "sets": {
+      "sv9": 3,
+      "sv8pt5": 5,
+      "sv8": 6,
+      "sv7": 3,
+      "sv6pt5": 5,
+      "sv6": 6,
+      "sv5": 6,
+      "sv4pt5": 6,
+      "sv4": 7,
+      "sv3pt5": 3,
+      "sv3": 3,
+      "sv2": 9,
+      "sv1": 6
+    },
+    "count": 68
+  },
+  "ACE SPEC Rare": {
+    "sets": {
+      "sv8pt5": 6,
+      "sv8": 8,
+      "sv7": 3,
+      "sv6pt5": 3,
+      "sv6": 6,
+      "sv5": 7
+    },
+    "count": 33
+  },
+  "Shiny Rare": {
+    "sets": {
+      "sv4pt5": 120
+    },
+    "count": 120
+  },
+  "Shiny Ultra Rare": {
+    "sets": {
+      "sv4pt5": 12
+    },
+    "count": 12
+  },
+  "Trainer Gallery Rare Holo": {
+    "sets": {
+      "swsh12pt5gg": 34,
+      "swsh12tg": 11,
+      "swsh11tg": 11,
+      "swsh10tg": 12,
+      "swsh9tg": 12
+    },
+    "count": 80
+  },
+  "Rare Holo VSTAR": {
+    "sets": {
+      "swsh12pt5gg": 10,
+      "swsh12pt5": 8,
+      "swsh12": 6,
+      "swsh11": 6,
+      "pgo": 2,
+      "swsh10": 7,
+      "swsh9": 4
+    },
+    "count": 43
+  },
+  "Rare Holo V": {
+    "sets": {
+      "swsh12pt5gg": 9,
+      "swsh12pt5": 17,
+      "swsh12tg": 7,
+      "swsh12": 15,
+      "swsh11tg": 7,
+      "swsh11": 12,
+      "pgo": 6,
+      "swsh10tg": 9,
+      "swsh10": 19,
+      "swsh9tg": 6,
+      "swsh9": 20,
+      "swsh8": 19,
+      "cel25": 4,
+      "swsh7": 18,
+      "swsh6": 15,
+      "swsh5": 12,
+      "swsh45sv": 9,
+      "swsh45": 8,
+      "swsh4": 11,
+      "swsh35": 11,
+      "swsh3": 14,
+      "swsh2": 16,
+      "swsh1": 17
+    },
+    "count": 281
+  },
+  "Rare Holo VMAX": {
+    "sets": {
+      "swsh12pt5gg": 3,
+      "swsh12pt5": 5,
+      "swsh12tg": 4,
+      "swsh12": 1,
+      "swsh11tg": 4,
+      "swsh11": 1,
+      "pgo": 1,
+      "swsh10tg": 2,
+      "swsh10": 2,
+      "swsh9tg": 5,
+      "swsh9": 3,
+      "swsh8": 8,
+      "cel25": 2,
+      "swsh7": 15,
+      "swsh6": 8,
+      "swsh5": 6,
+      "swsh45sv": 7,
+      "swsh45": 6,
+      "swsh4": 6,
+      "swsh35": 3,
+      "swsh3": 7,
+      "swsh2": 7,
+      "swsh1": 4
+    },
+    "count": 110
+  },
+  "Rare Ultra": {
+    "sets": {
+      "swsh12pt5gg": 10,
+      "swsh12pt5": 13,
+      "swsh12tg": 6,
+      "swsh12": 26,
+      "swsh11tg": 6,
+      "swsh11": 25,
+      "pgo": 8,
+      "swsh10tg": 5,
+      "swsh10": 30,
+      "swsh9tg": 5,
+      "swsh9": 21,
+      "swsh8": 20,
+      "cel25": 1,
+      "swsh7": 38,
+      "swsh6": 39,
+      "swsh5": 22,
+      "swsh45": 9,
+      "swsh4": 20,
+      "swsh35": 5,
+      "swsh3": 13,
+      "swsh2": 18,
+      "swsh1": 16
+    },
+    "count": 356
+  },
+  "Rare Secret": {
+    "sets": {
+      "swsh12pt5gg": 4,
+      "swsh12pt5": 1,
+      "swsh12tg": 2,
+      "swsh12": 6,
+      "swsh11tg": 2,
+      "swsh11": 6,
+      "pgo": 3,
+      "swsh10tg": 2,
+      "swsh10": 9,
+      "swsh9tg": 2,
+      "swsh9": 6,
+      "swsh8": 5,
+      "swsh7": 12,
+      "swsh6": 12,
+      "swsh5": 6,
+      "swsh45sv": 2,
+      "swsh4": 6,
+      "swsh35": 2,
+      "swsh3": 5,
+      "swsh2": 6,
+      "swsh1": 6
+    },
+    "count": 105
+  },
+  "Rare Holo": {
+    "sets": {
+      "swsh12pt5": 20,
+      "swsh12": 14,
+      "swsh11": 22,
+      "pgo": 16,
+      "swsh10": 20,
+      "swsh9": 10,
+      "swsh8": 13,
+      "cel25": 6,
+      "swsh7": 20,
+      "swsh6": 24,
+      "swsh5": 16,
+      "swsh45": 7,
+      "swsh4": 19,
+      "swsh35": 10,
+      "swsh3": 18,
+      "swsh2": 18,
+      "swsh1": 17
+    },
+    "count": 270
+  },
+  "Radiant Rare": {
+    "sets": {
+      "swsh12pt5": 3,
+      "swsh12": 3,
+      "swsh11": 3,
+      "pgo": 3,
+      "swsh10": 3
+    },
+    "count": 15
+  },
+  "Promo": {
+    "sets": {
+      "svp": 165,
+      "swshp": 304
+    },
+    "count": 469
+  },
+  "Rare Rainbow": {
+    "sets": {
+      "swsh12": 14,
+      "swsh11": 15,
+      "pgo": 7,
+      "swsh10": 18,
+      "swsh9": 8,
+      "swsh8": 15,
+      "swsh7": 22,
+      "swsh6": 23,
+      "swsh5": 14,
+      "swsh45": 1,
+      "swsh4": 12,
+      "swsh35": 5,
+      "swsh3": 7,
+      "swsh2": 11,
+      "swsh1": 8
+    },
+    "count": 180
+  },
+  "Classic Collection": {
+    "sets": {
+      "cel25c": 25
+    },
+    "count": 25
+  },
+  "Rare Shiny": {
+    "sets": {
+      "swsh45sv": 104
+    },
+    "count": 104
+  },
+  "Amazing Rare": {
+    "sets": {
+      "swsh45": 3,
+      "swsh4": 6
+    },
+    "count": 9
+  }
+}

@@ -1,0 +1,2830 @@
+[
+  {
+    "id": "sv2-171",
+    "name": "Artazon",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, that player may search their deck for a Basic Pokémon that doesn't have a Rule Box and put it onto their Bench. Then, that player shuffles their deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
+      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "171",
+    "artist": "Oswaldo KATO",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/171.png",
+      "large": "https://images.pokemontcg.io/sv2/171_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-171",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.25,
+          "directLow": 0.24
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-171",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.13,
+        "lowPrice": 0.02,
+        "trendPrice": 0.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.21,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.15,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.14,
+        "reverseHoloAvg7": 0.19,
+        "reverseHoloAvg30": 0.21
+      }
+    }
+  },
+  {
+    "id": "sv2-172",
+    "name": "Boss's Orders (Ghetsis)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "172",
+    "artist": "NC Empire",
+    "rarity": "Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/172.png",
+      "large": "https://images.pokemontcg.io/sv2/172_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 1,
+          "mid": 2.87,
+          "high": 7.95,
+          "market": 3.02,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.74,
+          "mid": 1.38,
+          "high": 10,
+          "market": 1.38,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.9,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.27,
+        "reverseHoloLow": 0.08,
+        "reverseHoloTrend": 1.26,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.68,
+        "avg7": 0.99,
+        "avg30": 0.99,
+        "reverseHoloAvg1": 0.75,
+        "reverseHoloAvg7": 1.12,
+        "reverseHoloAvg30": 1.24
+      }
+    }
+  },
+  {
+    "id": "sv2-173",
+    "name": "Bravery Charm",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Basic Pokémon this card is attached to gets +50 HP.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "173",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/173.png",
+      "large": "https://images.pokemontcg.io/sv2/173_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-173",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 1.06,
+          "high": 5,
+          "market": 1.16,
+          "directLow": 1.45
+        },
+        "reverseHolofoil": {
+          "low": 0.35,
+          "mid": 1.02,
+          "high": 79,
+          "market": 1.38,
+          "directLow": 2.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-173",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.54,
+        "lowPrice": 0.02,
+        "trendPrice": 0.63,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.61,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.74,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.54,
+        "avg7": 0.59,
+        "avg30": 0.53,
+        "reverseHoloAvg1": 0.6,
+        "reverseHoloAvg7": 0.77,
+        "reverseHoloAvg30": 0.61
+      }
+    }
+  },
+  {
+    "id": "sv2-174",
+    "name": "Calamitous Snowy Mountain",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Whenever any player attaches an Energy card from their hand to 1 of their Basic non-Water Pokémon, put 2 damage counters on that Pokémon.",
+      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "174",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/174.png",
+      "large": "https://images.pokemontcg.io/sv2/174_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-174",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.12,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-174",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.08,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.12,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "sv2-175",
+    "name": "Calamitous Wasteland",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "The Retreat Cost of each Basic non-Fighting Pokémon in play (both yours and your opponent's) is Colorless more.",
+      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "175",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/175.png",
+      "large": "https://images.pokemontcg.io/sv2/175_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-175",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.15,
+          "high": 5.05,
+          "market": 0.13,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-175",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.11,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.13,
+        "avg7": 0.07,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.08,
+        "reverseHoloAvg7": 0.08,
+        "reverseHoloAvg30": 0.1
+      }
+    }
+  },
+  {
+    "id": "sv2-176",
+    "name": "Choice Belt",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Pokémon V (before applying Weakness and Resistance).",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "176",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/176.png",
+      "large": "https://images.pokemontcg.io/sv2/176_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-176",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.99,
+          "market": 0.1,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-176",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.08,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.07,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.07,
+        "reverseHoloAvg30": 0.07
+      }
+    }
+  },
+  {
+    "id": "sv2-177",
+    "name": "Clavell",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Basic Pokémon with 120 HP or less, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "177",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/177.png",
+      "large": "https://images.pokemontcg.io/sv2/177_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-177",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.15,
+          "high": 4.99,
+          "market": 0.11,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 30.06,
+          "market": 0.06,
+          "directLow": 0.02
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-177",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.11,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.13,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.35,
+        "reverseHoloAvg7": 0.09,
+        "reverseHoloAvg30": 0.11
+      }
+    }
+  },
+  {
+    "id": "sv2-178",
+    "name": "Delivery Drone",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip 2 coins. If both of them are heads, search your deck for a card and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "178",
+    "artist": "inose yukie",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/178.png",
+      "large": "https://images.pokemontcg.io/sv2/178_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-178",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.99,
+          "market": 0.08,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-178",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.07,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.06,
+        "reverseHoloAvg30": 0.07
+      }
+    }
+  },
+  {
+    "id": "sv2-179",
+    "name": "Dendra",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put a card from your hand on the bottom of your deck. If you do, draw cards until you have 5 cards in your hand. (If you have no other cards in your hand, you can't use this card.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "179",
+    "artist": "yuu",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/179.png",
+      "large": "https://images.pokemontcg.io/sv2/179_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-179",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.99,
+          "market": 0.13,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.04,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-179",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.07,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.07,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.09,
+        "reverseHoloAvg30": 0.08
+      }
+    }
+  },
+  {
+    "id": "sv2-180",
+    "name": "Falkner",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If you have a Stadium in play, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "180",
+    "artist": "Ryuta Fuse",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/180.png",
+      "large": "https://images.pokemontcg.io/sv2/180_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-180",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 19.95,
+          "market": 0.06,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.99,
+          "market": 0.09,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-180",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.07,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.03,
+        "reverseHoloAvg7": 0.08,
+        "reverseHoloAvg30": 0.07
+      }
+    }
+  },
+  {
+    "id": "sv2-181",
+    "name": "Fighting Au Lait",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you have more Prize cards remaining than your opponent.Heal 60 damage from 1 of your Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "181",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/181.png",
+      "large": "https://images.pokemontcg.io/sv2/181_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-181",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.99,
+          "market": 0.08,
+          "directLow": 0.07
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.04,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-181",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.09,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.09,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.06,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.04,
+        "reverseHoloAvg7": 0.07,
+        "reverseHoloAvg30": 0.08
+      }
+    }
+  },
+  {
+    "id": "sv2-182",
+    "name": "Giacomo",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard a Special Energy from each of your opponent's Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "182",
+    "artist": "Akira Komayama",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/182.png",
+      "large": "https://images.pokemontcg.io/sv2/182_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-182",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 5,
+          "market": 0.05,
+          "directLow": 0.01
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 5.99,
+          "market": 0.07,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-182",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.07,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.1,
+        "reverseHoloAvg30": 0.08
+      }
+    }
+  },
+  {
+    "id": "sv2-183",
+    "name": "Great Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "183",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/183.png",
+      "large": "https://images.pokemontcg.io/sv2/183_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-183",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 4.99,
+          "market": 0.13,
+          "directLow": 0.12
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": 0.06
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-183",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.22,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.05,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.24,
+        "reverseHoloAvg7": 0.19,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "sv2-184",
+    "name": "Grusha",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 5 cards in your hand. If none of your Pokémon have any Energy attached, draw cards until you have 7 cards in your hand instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "184",
+    "artist": "GIDORA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/184.png",
+      "large": "https://images.pokemontcg.io/sv2/184_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-184",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.99,
+          "market": 0.09,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-184",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.08,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.07,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.03,
+        "reverseHoloAvg7": 0.07,
+        "reverseHoloAvg30": 0.08
+      }
+    }
+  },
+  {
+    "id": "sv2-185",
+    "name": "Iono",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "185",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/185.png",
+      "large": "https://images.pokemontcg.io/sv2/185_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-185",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.4,
+          "high": 4.99,
+          "market": 0.36,
+          "directLow": 0.35
+        },
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 1.25,
+          "high": 13.98,
+          "market": 1.23,
+          "directLow": 1.5
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-185",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.23,
+        "lowPrice": 0.02,
+        "trendPrice": 0.2,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.32,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.29,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.19,
+        "avg30": 0.22,
+        "reverseHoloAvg1": 0.17,
+        "reverseHoloAvg7": 0.3,
+        "reverseHoloAvg30": 0.3
+      }
+    }
+  },
+  {
+    "id": "sv2-186",
+    "name": "Practice Studio",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "The attacks of Stage 1 Pokémon (both yours and your opponent's) do 10 more damage to the opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "186",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/186.png",
+      "large": "https://images.pokemontcg.io/sv2/186_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-186",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.14,
+          "high": 5.08,
+          "market": 0.08,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-186",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.09,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.13,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.08,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.14,
+        "reverseHoloAvg7": 0.13,
+        "reverseHoloAvg30": 0.09
+      }
+    }
+  },
+  {
+    "id": "sv2-187",
+    "name": "Saguaro",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose up to 2 of your Pokémon and heal 50 damage from each of them.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "187",
+    "artist": "nagimiso",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/187.png",
+      "large": "https://images.pokemontcg.io/sv2/187_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-187",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-187",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.1,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.13,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.07,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.08,
+        "reverseHoloAvg30": 0.1
+      }
+    }
+  },
+  {
+    "id": "sv2-188",
+    "name": "Super Rod",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "188",
+    "artist": "Toyste Beach",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/188.png",
+      "large": "https://images.pokemontcg.io/sv2/188_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-188",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.42,
+          "high": 4.95,
+          "market": 0.29,
+          "directLow": 0.47
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.93,
+          "high": 80,
+          "market": 0.72,
+          "directLow": 0.72
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-188",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.25,
+        "lowPrice": 0.02,
+        "trendPrice": 0.23,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.37,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.38,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.22,
+        "avg7": 0.22,
+        "avg30": 0.24,
+        "reverseHoloAvg1": 0.33,
+        "reverseHoloAvg7": 0.39,
+        "reverseHoloAvg30": 0.37
+      }
+    }
+  },
+  {
+    "id": "sv2-189",
+    "name": "Superior Energy Retrieval",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you discard 2 other cards from your hand.Put up to 4 Basic Energy cards from your discard pile into your hand. (You can't choose a card you discarded with the effect of this card.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "189",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/189.png",
+      "large": "https://images.pokemontcg.io/sv2/189_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-189",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.72,
+          "high": 4.95,
+          "market": 0.59,
+          "directLow": 0.79
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.51,
+          "high": 3.99,
+          "market": 0.52,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-189",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.49,
+        "lowPrice": 0.02,
+        "trendPrice": 0.56,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.67,
+        "reverseHoloLow": 0.04,
+        "reverseHoloTrend": 0.5,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.39,
+        "avg7": 0.52,
+        "avg30": 0.48,
+        "reverseHoloAvg1": 0.48,
+        "reverseHoloAvg7": 0.55,
+        "reverseHoloAvg30": 0.66
+      }
+    }
+  },
+  {
+    "id": "sv2-248",
+    "name": "Boss's Orders (Ghetsis)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "248",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/248.png",
+      "large": "https://images.pokemontcg.io/sv2/248_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-248",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 7,
+          "mid": 8.75,
+          "high": 25,
+          "market": 8.73,
+          "directLow": 12.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-248",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.65,
+        "lowPrice": 4.5,
+        "trendPrice": 8.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.8,
+        "avg1": 7.53,
+        "avg7": 7.98,
+        "avg30": 7.67,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-249",
+    "name": "Clavell",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Basic Pokémon with 120 HP or less, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "249",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/249.png",
+      "large": "https://images.pokemontcg.io/sv2/249_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-249",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.25,
+          "mid": 1.19,
+          "high": 9.99,
+          "market": 0.96,
+          "directLow": 0.96
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-249",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.23,
+        "lowPrice": 0.5,
+        "trendPrice": 1.44,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.5,
+        "avg1": 1.04,
+        "avg7": 1.41,
+        "avg30": 1.25,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-250",
+    "name": "Dendra",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put a card from your hand on the bottom of your deck. If you do, draw cards until you have 5 cards in your hand. (If you have no other cards in your hand, you can't use this card.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "250",
+    "artist": "yuu",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/250.png",
+      "large": "https://images.pokemontcg.io/sv2/250_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-250",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.98,
+          "mid": 2,
+          "high": 12,
+          "market": 1.5,
+          "directLow": 1.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-250",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.15,
+        "lowPrice": 0.89,
+        "trendPrice": 2.34,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1,
+        "avg1": 2,
+        "avg7": 2.19,
+        "avg30": 2.15,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-251",
+    "name": "Falkner",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If you have a Stadium in play, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "251",
+    "artist": "Ryuta Fuse",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/251.png",
+      "large": "https://images.pokemontcg.io/sv2/251_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-251",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.5,
+          "mid": 1.4,
+          "high": 20,
+          "market": 1.04,
+          "directLow": 1.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-251",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.57,
+        "lowPrice": 0.9,
+        "trendPrice": 1.56,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.9,
+        "avg1": 1.22,
+        "avg7": 1.65,
+        "avg30": 1.55,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-252",
+    "name": "Giacomo",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard a Special Energy from each of your opponent's Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "252",
+    "artist": "kantaro",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/252.png",
+      "large": "https://images.pokemontcg.io/sv2/252_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-252",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.7,
+          "mid": 1.45,
+          "high": 19.95,
+          "market": 1.34,
+          "directLow": 1.8
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-252",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.42,
+        "lowPrice": 0.5,
+        "trendPrice": 1.68,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.5,
+        "avg1": 1.32,
+        "avg7": 1.36,
+        "avg30": 1.4,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-253",
+    "name": "Grusha",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 5 cards in your hand. If none of your Pokémon have any Energy attached, draw cards until you have 7 cards in your hand instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "253",
+    "artist": "GIDORA",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/253.png",
+      "large": "https://images.pokemontcg.io/sv2/253_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-253",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.39,
+          "mid": 2.88,
+          "high": 14,
+          "market": 2.38,
+          "directLow": 4.82
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-253",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.43,
+        "lowPrice": 1.19,
+        "trendPrice": 2.48,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.19,
+        "avg1": 2.61,
+        "avg7": 2.6,
+        "avg30": 2.46,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-254",
+    "name": "Iono",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "254",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/254.png",
+      "large": "https://images.pokemontcg.io/sv2/254_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-254",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 16.9,
+          "mid": 20.39,
+          "high": 100,
+          "market": 18.34,
+          "directLow": 22.55
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-254",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 10.37,
+        "lowPrice": 7,
+        "trendPrice": 9.01,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 7,
+        "avg1": 10.09,
+        "avg7": 9.36,
+        "avg30": 10.5,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-255",
+    "name": "Saguaro",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose up to 2 of your Pokémon and heal 50 damage from each of them.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "255",
+    "artist": "nagimiso",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/255.png",
+      "large": "https://images.pokemontcg.io/sv2/255_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-255",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.35,
+          "mid": 1.2,
+          "high": 80,
+          "market": 0.95,
+          "directLow": 1.68
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-255",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.18,
+        "lowPrice": 0.63,
+        "trendPrice": 1.39,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.63,
+        "avg1": 1.17,
+        "avg7": 1.27,
+        "avg30": 1.21,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-265",
+    "name": "Boss's Orders (Ghetsis)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "265",
+    "artist": "hncl",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/265.png",
+      "large": "https://images.pokemontcg.io/sv2/265_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-265",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 14,
+          "mid": 16.42,
+          "high": 42.69,
+          "market": 15.58,
+          "directLow": 16.23
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-265",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 12.71,
+        "lowPrice": 6.96,
+        "trendPrice": 12.93,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 9,
+        "avg1": 11.35,
+        "avg7": 12.69,
+        "avg30": 12.66,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-266",
+    "name": "Dendra",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put a card from your hand on the bottom of your deck. If you do, draw cards until you have 5 cards in your hand. (If you have no other cards in your hand, you can't use this card.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "266",
+    "artist": "GIDORA",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/266.png",
+      "large": "https://images.pokemontcg.io/sv2/266_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-266",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 6.68,
+          "mid": 10,
+          "high": 93,
+          "market": 8.38,
+          "directLow": 7.94
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-266",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.94,
+        "lowPrice": 4.49,
+        "trendPrice": 7.49,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.49,
+        "avg1": 8.02,
+        "avg7": 7.56,
+        "avg30": 8.02,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-267",
+    "name": "Giacomo",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard a Special Energy from each of your opponent's Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "267",
+    "artist": "KIYOTAKA OSHIYAMA",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/267.png",
+      "large": "https://images.pokemontcg.io/sv2/267_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-267",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.7,
+          "mid": 4.35,
+          "high": 34,
+          "market": 3.41,
+          "directLow": 3.73
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-267",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.24,
+        "lowPrice": 1,
+        "trendPrice": 4.31,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.9,
+        "avg1": 5.6,
+        "avg7": 4.62,
+        "avg30": 4.24,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-268",
+    "name": "Grusha",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 5 cards in your hand. If none of your Pokémon have any Energy attached, draw cards until you have 7 cards in your hand instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "268",
+    "artist": "DOM",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/268.png",
+      "large": "https://images.pokemontcg.io/sv2/268_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-268",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 10,
+          "mid": 14.98,
+          "high": 90,
+          "market": 12.1,
+          "directLow": 14.95
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-268",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 11.9,
+        "lowPrice": 6.84,
+        "trendPrice": 11.49,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 8,
+        "avg1": 12.67,
+        "avg7": 11.62,
+        "avg30": 11.79,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-269",
+    "name": "Iono",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "269",
+    "artist": "kirisAki",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/269.png",
+      "large": "https://images.pokemontcg.io/sv2/269_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-269",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 58.05,
+          "mid": 67.99,
+          "high": 259.99,
+          "market": 64.87,
+          "directLow": 64.96
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-269",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 37.57,
+        "lowPrice": 18,
+        "trendPrice": 20.26,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 24.95,
+        "avg1": 36,
+        "avg7": 34.29,
+        "avg30": 39.41,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-270",
+    "name": "Saguaro",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose up to 2 of your Pokémon and heal 50 damage from each of them.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "270",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/270.png",
+      "large": "https://images.pokemontcg.io/sv2/270_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-270",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.5,
+          "mid": 7.6,
+          "high": 39,
+          "market": 7.09,
+          "directLow": 8.96
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-270",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.45,
+        "lowPrice": 3.5,
+        "trendPrice": 6.7,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.5,
+        "avg1": 7.5,
+        "avg7": 6.27,
+        "avg30": 6.51,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-276",
+    "name": "Super Rod",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "276",
+    "artist": "Toyste Beach",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/276.png",
+      "large": "https://images.pokemontcg.io/sv2/276_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-276",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 6.95,
+          "mid": 9.99,
+          "high": 38.95,
+          "market": 9.03,
+          "directLow": 11.8
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-276",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.24,
+        "lowPrice": 2.5,
+        "trendPrice": 7.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.5,
+        "avg1": 6.7,
+        "avg7": 6.73,
+        "avg30": 7.18,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv2-277",
+    "name": "Superior Energy Retrieval",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you discard 2 other cards from your hand.Put up to 4 Basic Energy cards from your discard pile into your hand. (You can't choose a card you discarded with the effect of this card.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "277",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/277.png",
+      "large": "https://images.pokemontcg.io/sv2/277_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-277",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.8,
+          "mid": 7.02,
+          "high": 29.99,
+          "market": 5.62,
+          "directLow": 5.65
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv2-277",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.05,
+        "lowPrice": 3.5,
+        "trendPrice": 5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.5,
+        "avg1": 4.5,
+        "avg7": 5.28,
+        "avg30": 5.04,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

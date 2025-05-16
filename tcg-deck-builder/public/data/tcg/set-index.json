@@ -1,0 +1,463 @@
+{
+  "sv9": {
+    "name": "Journey Together",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2025/03/28",
+    "cardCount": 190,
+    "path": "sets/sv9/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "sv8pt5": {
+    "name": "Prismatic Evolutions",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2025/01/17",
+    "cardCount": 180,
+    "path": "sets/sv8pt5/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "sv8": {
+    "name": "Surging Sparks",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2024/11/08",
+    "cardCount": 252,
+    "path": "sets/sv8/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "sv7": {
+    "name": "Stellar Crown",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2024/09/13",
+    "cardCount": 175,
+    "path": "sets/sv7/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "sv6pt5": {
+    "name": "Shrouded Fable",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2024/08/02",
+    "cardCount": 99,
+    "path": "sets/sv6pt5/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "sv6": {
+    "name": "Twilight Masquerade",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2024/05/24",
+    "cardCount": 226,
+    "path": "sets/sv6/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "sv5": {
+    "name": "Temporal Forces",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2024/03/22",
+    "cardCount": 218,
+    "path": "sets/sv5/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "sv4pt5": {
+    "name": "Paldean Fates",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2024/01/26",
+    "cardCount": 245,
+    "path": "sets/sv4pt5/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "sv4": {
+    "name": "Paradox Rift",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2023/11/03",
+    "cardCount": 266,
+    "path": "sets/sv4/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "sv3pt5": {
+    "name": "151",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2023/09/22",
+    "cardCount": 207,
+    "path": "sets/sv3pt5/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "sv3": {
+    "name": "Obsidian Flames",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2023/08/11",
+    "cardCount": 230,
+    "path": "sets/sv3/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "sv2": {
+    "name": "Paldea Evolved",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2023/06/09",
+    "cardCount": 279,
+    "path": "sets/sv2/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "sve": {
+    "name": "Scarlet & Violet Energies",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2023/03/31",
+    "cardCount": 16,
+    "path": "sets/sve/",
+    "supertypes": [
+      "Energy"
+    ]
+  },
+  "sv1": {
+    "name": "Scarlet & Violet",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2023/03/31",
+    "cardCount": 258,
+    "path": "sets/sv1/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swsh12pt5gg": {
+    "name": "Crown Zenith Galarian Gallery",
+    "series": "Sword & Shield",
+    "releaseDate": "2023/01/20",
+    "cardCount": 70,
+    "path": "sets/swsh12pt5gg/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "swsh12pt5": {
+    "name": "Crown Zenith",
+    "series": "Sword & Shield",
+    "releaseDate": "2023/01/20",
+    "cardCount": 160,
+    "path": "sets/swsh12pt5/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "svp": {
+    "name": "Scarlet & Violet Black Star Promos",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2023/01/01",
+    "cardCount": 165,
+    "path": "sets/svp/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "swsh12tg": {
+    "name": "Silver Tempest Trainer Gallery",
+    "series": "Sword & Shield",
+    "releaseDate": "2022/11/11",
+    "cardCount": 30,
+    "path": "sets/swsh12tg/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "swsh12": {
+    "name": "Silver Tempest",
+    "series": "Sword & Shield",
+    "releaseDate": "2022/11/11",
+    "cardCount": 215,
+    "path": "sets/swsh12/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swsh11tg": {
+    "name": "Lost Origin Trainer Gallery",
+    "series": "Sword & Shield",
+    "releaseDate": "2022/09/09",
+    "cardCount": 30,
+    "path": "sets/swsh11tg/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "swsh11": {
+    "name": "Lost Origin",
+    "series": "Sword & Shield",
+    "releaseDate": "2022/09/09",
+    "cardCount": 217,
+    "path": "sets/swsh11/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "pgo": {
+    "name": "Pokémon GO",
+    "series": "Sword & Shield",
+    "releaseDate": "2022/07/01",
+    "cardCount": 88,
+    "path": "sets/pgo/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "swsh10tg": {
+    "name": "Astral Radiance Trainer Gallery",
+    "series": "Sword & Shield",
+    "releaseDate": "2022/05/27",
+    "cardCount": 30,
+    "path": "sets/swsh10tg/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "swsh10": {
+    "name": "Astral Radiance",
+    "series": "Sword & Shield",
+    "releaseDate": "2022/05/27",
+    "cardCount": 216,
+    "path": "sets/swsh10/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swsh9tg": {
+    "name": "Brilliant Stars Trainer Gallery",
+    "series": "Sword & Shield",
+    "releaseDate": "2022/02/25",
+    "cardCount": 30,
+    "path": "sets/swsh9tg/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "swsh9": {
+    "name": "Brilliant Stars",
+    "series": "Sword & Shield",
+    "releaseDate": "2022/02/25",
+    "cardCount": 186,
+    "path": "sets/swsh9/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swsh8": {
+    "name": "Fusion Strike",
+    "series": "Sword & Shield",
+    "releaseDate": "2021/11/12",
+    "cardCount": 284,
+    "path": "sets/swsh8/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "cel25": {
+    "name": "Celebrations",
+    "series": "Sword & Shield",
+    "releaseDate": "2021/10/08",
+    "cardCount": 25,
+    "path": "sets/cel25/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "cel25c": {
+    "name": "Celebrations: Classic Collection",
+    "series": "Sword & Shield",
+    "releaseDate": "2021/10/08",
+    "cardCount": 25,
+    "path": "sets/cel25c/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "swsh7": {
+    "name": "Evolving Skies",
+    "series": "Sword & Shield",
+    "releaseDate": "2021/08/27",
+    "cardCount": 237,
+    "path": "sets/swsh7/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swsh6": {
+    "name": "Chilling Reign",
+    "series": "Sword & Shield",
+    "releaseDate": "2021/06/18",
+    "cardCount": 233,
+    "path": "sets/swsh6/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swsh5": {
+    "name": "Battle Styles",
+    "series": "Sword & Shield",
+    "releaseDate": "2021/03/19",
+    "cardCount": 183,
+    "path": "sets/swsh5/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swsh45sv": {
+    "name": "Shining Fates Shiny Vault",
+    "series": "Sword & Shield",
+    "releaseDate": "2021/02/19",
+    "cardCount": 122,
+    "path": "sets/swsh45sv/",
+    "supertypes": [
+      "Pokémon"
+    ]
+  },
+  "swsh45": {
+    "name": "Shining Fates",
+    "series": "Sword & Shield",
+    "releaseDate": "2021/02/19",
+    "cardCount": 73,
+    "path": "sets/swsh45/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "swsh4": {
+    "name": "Vivid Voltage",
+    "series": "Sword & Shield",
+    "releaseDate": "2020/11/13",
+    "cardCount": 203,
+    "path": "sets/swsh4/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swsh35": {
+    "name": "Champion's Path",
+    "series": "Sword & Shield",
+    "releaseDate": "2020/09/25",
+    "cardCount": 80,
+    "path": "sets/swsh35/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  },
+  "swsh3": {
+    "name": "Darkness Ablaze",
+    "series": "Sword & Shield",
+    "releaseDate": "2020/08/14",
+    "cardCount": 201,
+    "path": "sets/swsh3/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swsh2": {
+    "name": "Rebel Clash",
+    "series": "Sword & Shield",
+    "releaseDate": "2020/05/01",
+    "cardCount": 209,
+    "path": "sets/swsh2/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swsh1": {
+    "name": "Sword & Shield",
+    "series": "Sword & Shield",
+    "releaseDate": "2020/02/07",
+    "cardCount": 216,
+    "path": "sets/swsh1/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer",
+      "Energy"
+    ]
+  },
+  "swshp": {
+    "name": "SWSH Black Star Promos",
+    "series": "Sword & Shield",
+    "releaseDate": "2019/11/15",
+    "cardCount": 304,
+    "path": "sets/swshp/",
+    "supertypes": [
+      "Pokémon",
+      "Trainer"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "description": "TCG Card Database Index (SWSH & SV sets only)",
+  "lastUpdated": "2025-05-16T16:29:34.109Z",
+  "totalSets": 40,
+  "series": [
+    "Sword & Shield",
+    "Scarlet & Violet"
+  ],
+  "indexes": {
+    "sets": "set-index.json",
+    "supertypes": "supertype-index.json",
+    "types": "type-index.json",
+    "rarities": "rarity-index.json"
+  }
+}

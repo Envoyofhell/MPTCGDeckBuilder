@@ -1,0 +1,19 @@
+{
+  "id": "swsh11",
+  "name": "Lost Origin",
+  "series": "Sword & Shield",
+  "printedTotal": 196,
+  "total": 217,
+  "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "LOR",
+  "releaseDate": "2022/09/09",
+  "updatedAt": "2022/09/09 13:45:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+    "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+  }
+}

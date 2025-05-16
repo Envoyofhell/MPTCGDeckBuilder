@@ -1,0 +1,3182 @@
+[
+  {
+    "id": "swsh11-152",
+    "name": "Arc Phone",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top card of your deck. You may switch that card with 1 of your face-down Prize cards. (The cards stay face down.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "152",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/152.png",
+      "large": "https://images.pokemontcg.io/swsh11/152_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.02
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.09,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "swsh11-153",
+    "name": "Arezu",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Evolution Pokémon that don't have a Rule Box, reveal them, and put them into your hand. Then, shuffle your deck. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "153",
+    "artist": "kirisAki",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/153.png",
+      "large": "https://images.pokemontcg.io/swsh11/153_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.39,
+          "high": 4.95,
+          "market": 0.39,
+          "directLow": 0.35
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.24,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.23,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.08,
+        "reverseHoloAvg7": 0.19,
+        "reverseHoloAvg30": 0.25
+      }
+    }
+  },
+  {
+    "id": "swsh11-154",
+    "name": "Box of Disaster",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon V this card is attached to has full HP and is Knocked Out by damage from an attack from your opponent's Pokémon, put 8 damage counters on the Attacking Pokémon.",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "154",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/154.png",
+      "large": "https://images.pokemontcg.io/swsh11/154_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.04,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.12,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.09,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.14
+      }
+    }
+  },
+  {
+    "id": "swsh11-155",
+    "name": "Colress's Experiment",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 5 cards of your deck and put 3 of them into your hand. Put the other cards in the Lost Zone.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "155",
+    "artist": "Naoki Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/155.png",
+      "large": "https://images.pokemontcg.io/swsh11/155_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.99,
+          "market": 0.08,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.25,
+          "high": 9.95,
+          "market": 0.22,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.16,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.08,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.12,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "swsh11-156",
+    "name": "Damage Pump",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Move up to 2 damage counters from 1 of your Pokémon to your other Pokémon in any way you like.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "156",
+    "artist": "sadaji",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/156.png",
+      "large": "https://images.pokemontcg.io/swsh11/156_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 15,
+          "market": 0.19,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.07,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.21,
+        "reverseHoloAvg30": 0.14
+      }
+    }
+  },
+  {
+    "id": "swsh11-157",
+    "name": "Fantina",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if you have 10 or more cards in the Lost Zone. During your opponent's next turn, all of your Pokémon take 120 less damage from attacks from your opponent's Pokémon V (after applying Weakness and Resistance). (This includes Pokémon that come into play during that turn.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "157",
+    "artist": "Ryuta Fuse",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/157.png",
+      "large": "https://images.pokemontcg.io/swsh11/157_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.08,
+          "mid": 0.23,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": 0.14
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.01
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.02,
+        "lowPrice": 0.02,
+        "trendPrice": 0.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.21,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.23,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.22,
+        "reverseHoloAvg30": 0.21
+      }
+    }
+  },
+  {
+    "id": "swsh11-158",
+    "name": "Iscan",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If your Active Pokémon has \"Hisuian\" in its name, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "158",
+    "artist": "Akira Komayama",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/158.png",
+      "large": "https://images.pokemontcg.io/swsh11/158_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.04,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.13,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.13,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.04,
+        "reverseHoloAvg7": 0.11,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh11-159",
+    "name": "Lady",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "159",
+    "artist": "saino misaki",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/159.png",
+      "large": "https://images.pokemontcg.io/swsh11/159_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": 0.19
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.28,
+          "high": 4.95,
+          "market": 0.29,
+          "directLow": 0.28
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.22,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.02,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.13,
+        "avg7": 0.06,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.18,
+        "reverseHoloAvg7": 0.26,
+        "reverseHoloAvg30": 0.33
+      }
+    }
+  },
+  {
+    "id": "swsh11-160",
+    "name": "Lake Acuity",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "All Pokémon that have any Water or Fighting Energy attached (both yours and your opponent's) take 20 less damage from attacks from the opponent's Pokémon (after applying Weakness and Resistance)."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "160",
+    "artist": "Oswaldo KATO",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/160.png",
+      "large": "https://images.pokemontcg.io/swsh11/160_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.23,
+          "high": 4.95,
+          "market": 0.21,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 30.11,
+          "market": 0.12,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.08,
+        "reverseHoloAvg7": 0.28,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh11-161",
+    "name": "Lost City",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Whenever a Pokémon (either yours or your opponent's) is Knocked Out, put that Pokémon in the Lost Zone instead of the discard pile. (Discard all attached cards.)"
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "161",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/161.png",
+      "large": "https://images.pokemontcg.io/swsh11/161_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.14,
+          "mid": 0.51,
+          "high": 4.95,
+          "market": 0.52,
+          "directLow": 0.45
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.14,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.38,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.42,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.08,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.43,
+        "reverseHoloAvg7": 0.33,
+        "reverseHoloAvg30": 0.36
+      }
+    }
+  },
+  {
+    "id": "swsh11-162",
+    "name": "Lost Vacuum",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you put another card from your hand in the Lost Zone. Choose a Pokémon Tool attached to any Pokémon, or any Stadium in play, and put it in the Lost Zone.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "162",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/162.png",
+      "large": "https://images.pokemontcg.io/swsh11/162_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-162",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 30.07,
+          "market": 0.11,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 30.26,
+          "market": 0.23,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-162",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.23,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.17,
+        "reverseHoloAvg7": 0.21,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "swsh11-163",
+    "name": "Mirage Gate",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you have 7 or more cards in the Lost Zone. Search your deck for up to 2 basic Energy cards of different types and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "163",
+    "artist": "sadaji",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/163.png",
+      "large": "https://images.pokemontcg.io/swsh11/163_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-163",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 30.1,
+          "market": 0.1,
+          "directLow": 0.02
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.46,
+          "high": 6.95,
+          "market": 0.39,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-163",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.63,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.63,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.06,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.62
+      }
+    }
+  },
+  {
+    "id": "swsh11-164",
+    "name": "Miss Fortune Sisters",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 5 cards of your opponent's deck and discard any number of Item cards you find there. Your opponent shuffles the other cards back into their deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "164",
+    "artist": "Souchirou Gunjima",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/164.png",
+      "large": "https://images.pokemontcg.io/swsh11/164_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-164",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 30.11,
+          "market": 0.06,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.23,
+          "high": 4.95,
+          "market": 0.22,
+          "directLow": 0.14
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-164",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.07,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh11-165",
+    "name": "Panic Mask",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Prevent all damage done to the Pokémon this card is attached to by attacks from your opponent's Pokémon that have 40 HP or less remaining.",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "165",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/165.png",
+      "large": "https://images.pokemontcg.io/swsh11/165_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-165",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.3,
+          "high": 4.95,
+          "market": 0.26,
+          "directLow": 0.29
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": 0.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-165",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.24,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.23,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.23,
+        "reverseHoloAvg30": 0.26
+      }
+    }
+  },
+  {
+    "id": "swsh11-166",
+    "name": "Riley",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Reveal the top 5 cards of your deck and have your opponent choose 2 of them. Discard the chosen cards and put the remaining cards into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "166",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/166.png",
+      "large": "https://images.pokemontcg.io/swsh11/166_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-166",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": 0.32
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-166",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.31,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.09,
+        "reverseHoloAvg30": 0.24
+      }
+    }
+  },
+  {
+    "id": "swsh11-167",
+    "name": "Thorton",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose a Basic Pokémon in your discard pile and switch it with 1 of your Basic Pokémon in play. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "167",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/167.png",
+      "large": "https://images.pokemontcg.io/swsh11/167_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-167",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.46,
+          "high": 4.95,
+          "market": 0.42,
+          "directLow": 0.46
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": 0.08
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-167",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.32,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.32,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.09,
+        "reverseHoloAvg7": 0.32,
+        "reverseHoloAvg30": 0.31
+      }
+    }
+  },
+  {
+    "id": "swsh11-168",
+    "name": "Tool Box",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal any number of Pokémon Tool cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "168",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/168.png",
+      "large": "https://images.pokemontcg.io/swsh11/168_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-168",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 25,
+          "market": 0.12,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-168",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.13,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.03,
+        "reverseHoloAvg7": 0.11,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh11-169",
+    "name": "Volo",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard 1 of your Benched Pokémon V and all attached cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "169",
+    "artist": "kirisAki",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/169.png",
+      "large": "https://images.pokemontcg.io/swsh11/169_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-169",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 100,
+          "market": 0.13,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.2,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-169",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.21,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.24,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.2,
+        "avg7": 0.1,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 0.12,
+        "reverseHoloAvg7": 0.2,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "swsh11-170",
+    "name": "Windup Arm",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Pokémon this card is attached to can attack even if it's Asleep or Paralyzed.",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "170",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/170.png",
+      "large": "https://images.pokemontcg.io/swsh11/170_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-170",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 10,
+          "market": 0.05,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": 0.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-170",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.1,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.12,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "swsh11-189",
+    "name": "Arezu",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Evolution Pokémon that don't have a Rule Box, reveal them, and put them into your hand. Then, shuffle your deck. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "189",
+    "artist": "You Iribi",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/189.png",
+      "large": "https://images.pokemontcg.io/swsh11/189_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-189",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.7,
+          "mid": 5.24,
+          "high": 39,
+          "market": 4.48,
+          "directLow": 4.88
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-189",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.5,
+        "lowPrice": 1.99,
+        "trendPrice": 3.95,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.15,
+        "avg1": 5.17,
+        "avg7": 3.82,
+        "avg30": 3.61,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-190",
+    "name": "Colress's Experiment",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 5 cards of your deck and put 3 of them into your hand. Put the other cards in the Lost Zone.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "190",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/190.png",
+      "large": "https://images.pokemontcg.io/swsh11/190_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-190",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1,
+          "mid": 1.99,
+          "high": 25,
+          "market": 1.48,
+          "directLow": 1.48
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-190",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.72,
+        "lowPrice": 0.5,
+        "trendPrice": 2.53,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.5,
+        "avg1": 1.81,
+        "avg7": 2.39,
+        "avg30": 2.63,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-191",
+    "name": "Fantina",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if you have 10 or more cards in the Lost Zone. During your opponent's next turn, all of your Pokémon take 120 less damage from attacks from your opponent's Pokémon V (after applying Weakness and Resistance). (This includes Pokémon that come into play during that turn.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "191",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/191.png",
+      "large": "https://images.pokemontcg.io/swsh11/191_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-191",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.24,
+          "mid": 2.61,
+          "high": 20,
+          "market": 2.37,
+          "directLow": 4
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-191",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.8,
+        "lowPrice": 1.4,
+        "trendPrice": 3.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.4,
+        "avg1": 3.35,
+        "avg7": 2.92,
+        "avg30": 2.79,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-192",
+    "name": "Iscan",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If your Active Pokémon has \"Hisuian\" in its name, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "192",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/192.png",
+      "large": "https://images.pokemontcg.io/swsh11/192_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-192",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.75,
+          "mid": 1.25,
+          "high": 89,
+          "market": 1.09,
+          "directLow": 1.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-192",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.61,
+        "lowPrice": 0.5,
+        "trendPrice": 1.52,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.5,
+        "avg1": 2.41,
+        "avg7": 1.84,
+        "avg30": 1.62,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-193",
+    "name": "Lady",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "193",
+    "artist": "saino misaki",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/193.png",
+      "large": "https://images.pokemontcg.io/swsh11/193_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-193",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.25,
+          "mid": 4.25,
+          "high": 50,
+          "market": 4,
+          "directLow": 5.79
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-193",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.52,
+        "lowPrice": 1.3,
+        "trendPrice": 3.67,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.3,
+        "avg1": 3.73,
+        "avg7": 3.28,
+        "avg30": 3.61,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-194",
+    "name": "Miss Fortune Sisters",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 5 cards of your opponent's deck and discard any number of Item cards you find there. Your opponent shuffles the other cards back into their deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "194",
+    "artist": "Souchirou Gunjima",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/194.png",
+      "large": "https://images.pokemontcg.io/swsh11/194_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-194",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.1,
+          "mid": 3.9,
+          "high": 37,
+          "market": 3.37,
+          "directLow": 3.77
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-194",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.65,
+        "lowPrice": 0.98,
+        "trendPrice": 3.55,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.48,
+        "avg1": 3,
+        "avg7": 3.44,
+        "avg30": 3.56,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-195",
+    "name": "Thorton",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose a Basic Pokémon in your discard pile and switch it with 1 of your Basic Pokémon in play. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "195",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/195.png",
+      "large": "https://images.pokemontcg.io/swsh11/195_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-195",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.94,
+          "mid": 2.48,
+          "high": 45,
+          "market": 1.46,
+          "directLow": 1.9
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-195",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.89,
+        "lowPrice": 1.4,
+        "trendPrice": 3.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.4,
+        "avg1": 2.57,
+        "avg7": 2.89,
+        "avg30": 2.99,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-196",
+    "name": "Volo",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard 1 of your Benched Pokémon V and all attached cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "196",
+    "artist": "kirisAki",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/196.png",
+      "large": "https://images.pokemontcg.io/swsh11/196_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-196",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.59,
+          "mid": 2.59,
+          "high": 19.99,
+          "market": 2.25,
+          "directLow": 2.69
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-196",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.92,
+        "lowPrice": 1.25,
+        "trendPrice": 2.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.25,
+        "avg1": 1.3,
+        "avg7": 2,
+        "avg30": 2.77,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-204",
+    "name": "Arezu",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Evolution Pokémon that don't have a Rule Box, reveal them, and put them into your hand. Then, shuffle your deck. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "204",
+    "artist": "You Iribi",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/204.png",
+      "large": "https://images.pokemontcg.io/swsh11/204_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-204",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.73,
+          "mid": 5,
+          "high": 20,
+          "market": 4.46,
+          "directLow": 5.42
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-204",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.85,
+        "lowPrice": 3,
+        "trendPrice": 5.19,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3,
+        "avg1": 4.08,
+        "avg7": 4.4,
+        "avg30": 4.63,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-205",
+    "name": "Colress's Experiment",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 5 cards of your deck and put 3 of them into your hand. Put the other cards in the Lost Zone.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "205",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/205.png",
+      "large": "https://images.pokemontcg.io/swsh11/205_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-205",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.06,
+          "mid": 3.98,
+          "high": 17.97,
+          "market": 3.61,
+          "directLow": 4.69
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-205",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.77,
+        "lowPrice": 1.9,
+        "trendPrice": 4.82,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.29,
+        "avg1": 5.45,
+        "avg7": 4.77,
+        "avg30": 4.71,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-206",
+    "name": "Fantina",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if you have 10 or more cards in the Lost Zone. During your opponent's next turn, all of your Pokémon take 120 less damage from attacks from your opponent's Pokémon V (after applying Weakness and Resistance). (This includes Pokémon that come into play during that turn.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "206",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/206.png",
+      "large": "https://images.pokemontcg.io/swsh11/206_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-206",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.9,
+          "mid": 4.24,
+          "high": 49.99,
+          "market": 3.69,
+          "directLow": 4.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-206",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.23,
+        "lowPrice": 1.89,
+        "trendPrice": 4.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.89,
+        "avg1": 4.12,
+        "avg7": 3.96,
+        "avg30": 4.12,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-207",
+    "name": "Iscan",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If your Active Pokémon has \"Hisuian\" in its name, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "207",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/207.png",
+      "large": "https://images.pokemontcg.io/swsh11/207_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-207",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.5,
+          "mid": 4,
+          "high": 19.99,
+          "market": 3.22,
+          "directLow": 4.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-207",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.98,
+        "lowPrice": 2,
+        "trendPrice": 3.81,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2,
+        "avg1": 3.53,
+        "avg7": 4.14,
+        "avg30": 3.96,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-208",
+    "name": "Lady",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "208",
+    "artist": "saino misaki",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/208.png",
+      "large": "https://images.pokemontcg.io/swsh11/208_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-208",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3,
+          "mid": 4.99,
+          "high": 29.99,
+          "market": 4.48,
+          "directLow": 5.58
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-208",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.68,
+        "lowPrice": 3.5,
+        "trendPrice": 7.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.5,
+        "avg1": 3.7,
+        "avg7": 6.41,
+        "avg30": 6.31,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-209",
+    "name": "Miss Fortune Sisters",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 5 cards of your opponent's deck and discard any number of Item cards you find there. Your opponent shuffles the other cards back into their deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "209",
+    "artist": "Souchirou Gunjima",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/209.png",
+      "large": "https://images.pokemontcg.io/swsh11/209_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-209",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.75,
+          "mid": 4.25,
+          "high": 21.77,
+          "market": 3.49,
+          "directLow": 4.27
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-209",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.68,
+        "lowPrice": 2,
+        "trendPrice": 4.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.5,
+        "avg1": 3.93,
+        "avg7": 4.38,
+        "avg30": 4.96,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-210",
+    "name": "Thorton",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose a Basic Pokémon in your discard pile and switch it with 1 of your Basic Pokémon in play. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "210",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/210.png",
+      "large": "https://images.pokemontcg.io/swsh11/210_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-210",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.2,
+          "mid": 3.99,
+          "high": 14.95,
+          "market": 3.08,
+          "directLow": 3.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-210",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.51,
+        "lowPrice": 2.2,
+        "trendPrice": 2.83,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.5,
+        "avg1": 2.9,
+        "avg7": 3.36,
+        "avg30": 3.82,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-211",
+    "name": "Volo",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard 1 of your Benched Pokémon V and all attached cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "211",
+    "artist": "kirisAki",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/211.png",
+      "large": "https://images.pokemontcg.io/swsh11/211_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-211",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.9,
+          "mid": 4.05,
+          "high": 89,
+          "market": 3.84,
+          "directLow": 5.75
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-211",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.11,
+        "lowPrice": 2,
+        "trendPrice": 5.3,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2,
+        "avg1": 3,
+        "avg7": 5.18,
+        "avg30": 4.76,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-214",
+    "name": "Box of Disaster",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon V this card is attached to has full HP and is Knocked Out by damage from an attack from your opponent's Pokémon, put 8 damage counters on the Attacking Pokémon.",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "214",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/214.png",
+      "large": "https://images.pokemontcg.io/swsh11/214_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-214",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.84,
+          "mid": 2.27,
+          "high": 20,
+          "market": 1.73,
+          "directLow": 2.5
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-214",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.84,
+        "lowPrice": 1,
+        "trendPrice": 2.83,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.5,
+        "avg1": 3.22,
+        "avg7": 2.79,
+        "avg30": 2.78,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-215",
+    "name": "Collapsed Stadium",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Each player can't have more than 4 Benched Pokémon. If a player has 5 or more Benched Pokémon, they discard Benched Pokémon until they have 4 Pokémon on the Bench. The player who played this card discards first. If more than one effect changes the number of Benched Pokémon allowed, use the smaller number."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "215",
+    "artist": "Oswaldo KATO",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/215.png",
+      "large": "https://images.pokemontcg.io/swsh11/215_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-215",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.89,
+          "mid": 3.35,
+          "high": 19.99,
+          "market": 2.49,
+          "directLow": 2.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-215",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.11,
+        "lowPrice": 2.49,
+        "trendPrice": 4.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.99,
+        "avg1": 3.58,
+        "avg7": 3.96,
+        "avg30": 4.02,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-216",
+    "name": "Dark Patch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Attach a basic Darkness Energy card from your discard pile to 1 of your Benched Darkness Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "216",
+    "artist": "Ryo Ueda",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/216.png",
+      "large": "https://images.pokemontcg.io/swsh11/216_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-216",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.5,
+          "mid": 3.5,
+          "high": 33.16,
+          "market": 2.61,
+          "directLow": 2.37
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-216",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.53,
+        "lowPrice": 1.45,
+        "trendPrice": 4.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.89,
+        "avg1": 4.09,
+        "avg7": 3.66,
+        "avg30": 3.55,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh11-217",
+    "name": "Lost Vacuum",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you put another card from your hand in the Lost Zone. Choose a Pokémon Tool attached to any Pokémon, or any Stadium in play, and put it in the Lost Zone.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "217",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/217.png",
+      "large": "https://images.pokemontcg.io/swsh11/217_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-217",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1,
+          "mid": 2.76,
+          "high": 29.99,
+          "market": 1.76,
+          "directLow": 2.31
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh11-217",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.2,
+        "lowPrice": 1.5,
+        "trendPrice": 3.85,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.5,
+        "avg1": 6,
+        "avg7": 3.18,
+        "avg30": 3.18,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

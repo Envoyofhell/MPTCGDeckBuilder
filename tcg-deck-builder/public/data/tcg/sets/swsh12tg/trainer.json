@@ -1,0 +1,469 @@
+[
+  {
+    "id": "swsh12tg-TG23",
+    "name": "Friends in Galar",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12tg",
+      "name": "Silver Tempest Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SIT",
+      "releaseDate": "2022/11/11",
+      "updatedAt": "2022/11/11 11:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12tg/logo.png"
+      }
+    },
+    "number": "TG23",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG23.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG23_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12tg-TG23",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 6,
+          "mid": 8.7,
+          "high": 42,
+          "market": 8.32,
+          "directLow": 8.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12tg-TG23",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.37,
+        "lowPrice": 3.4,
+        "trendPrice": 6.52,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.98,
+        "avg1": 6.32,
+        "avg7": 6.39,
+        "avg30": 7.17,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-TG24",
+    "name": "Gordie",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal any number of Energy cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12tg",
+      "name": "Silver Tempest Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SIT",
+      "releaseDate": "2022/11/11",
+      "updatedAt": "2022/11/11 11:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12tg/logo.png"
+      }
+    },
+    "number": "TG24",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG24.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG24_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12tg-TG24",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.99,
+          "mid": 1.79,
+          "high": 14.99,
+          "market": 1.61,
+          "directLow": 2.46
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12tg-TG24",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.93,
+        "lowPrice": 0.99,
+        "trendPrice": 2.14,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.99,
+        "avg1": 1.8,
+        "avg7": 2.1,
+        "avg30": 1.96,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-TG25",
+    "name": "Judge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand into their deck and draws 4 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12tg",
+      "name": "Silver Tempest Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SIT",
+      "releaseDate": "2022/11/11",
+      "updatedAt": "2022/11/11 11:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12tg/logo.png"
+      }
+    },
+    "number": "TG25",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG25.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG25_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12tg-TG25",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.25,
+          "mid": 3.45,
+          "high": 25.99,
+          "market": 3.05,
+          "directLow": 4.19
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12tg-TG25",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.43,
+        "lowPrice": 1.79,
+        "trendPrice": 3.01,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.79,
+        "avg1": 3.11,
+        "avg7": 3.23,
+        "avg30": 3.38,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-TG26",
+    "name": "Professor Burnet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 cards and discard them. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12tg",
+      "name": "Silver Tempest Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SIT",
+      "releaseDate": "2022/11/11",
+      "updatedAt": "2022/11/11 11:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12tg/logo.png"
+      }
+    },
+    "number": "TG26",
+    "artist": "kirisAki",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG26.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG26_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12tg-TG26",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 3.83,
+          "high": 89,
+          "market": 3.4,
+          "directLow": 3.39
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12tg-TG26",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.73,
+        "lowPrice": 1.85,
+        "trendPrice": 2.88,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.4,
+        "avg1": 2,
+        "avg7": 2.97,
+        "avg30": 3.63,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-TG27",
+    "name": "Raihan",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if any of your Pokémon were Knocked Out during your opponent's last turn. Attach a basic Energy card from your discard pile to 1 of your Pokémon. If you do, search your deck for a card and put it into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12tg",
+      "name": "Silver Tempest Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SIT",
+      "releaseDate": "2022/11/11",
+      "updatedAt": "2022/11/11 11:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12tg/logo.png"
+      }
+    },
+    "number": "TG27",
+    "artist": "take",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG27.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG27_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12tg-TG27",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.62,
+          "mid": 3.1,
+          "high": 89,
+          "market": 3.24,
+          "directLow": 4.93
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12tg-TG27",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.62,
+        "lowPrice": 0.5,
+        "trendPrice": 2.55,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.25,
+        "avg1": 3.1,
+        "avg7": 2.64,
+        "avg30": 2.64,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-TG28",
+    "name": "Sordward & Shielbert",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose a Trainer card from your discard pile. Then, ask your opponent if you may put it into your hand. If yes, put that card into your hand. If no, draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12tg",
+      "name": "Silver Tempest Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SIT",
+      "releaseDate": "2022/11/11",
+      "updatedAt": "2022/11/11 11:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12tg/logo.png"
+      }
+    },
+    "number": "TG28",
+    "artist": "nagimiso",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG28.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG28_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12tg-TG28",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.89,
+          "mid": 1.72,
+          "high": 20,
+          "market": 1.67,
+          "directLow": 2.8
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12tg-TG28",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.89,
+        "lowPrice": 0.89,
+        "trendPrice": 2.19,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.89,
+        "avg1": 4.49,
+        "avg7": 2.01,
+        "avg30": 1.93,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

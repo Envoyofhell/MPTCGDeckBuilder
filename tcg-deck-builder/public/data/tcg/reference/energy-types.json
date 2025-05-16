@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Colorless",
+    "symbol": "colorless.png",
+    "color": "#A8A878"
+  },
+  {
+    "name": "Darkness",
+    "symbol": "darkness.png",
+    "color": "#705848"
+  },
+  {
+    "name": "Dragon",
+    "symbol": "dragon.png",
+    "color": "#7038F8"
+  },
+  {
+    "name": "Fairy",
+    "symbol": "fairy.png",
+    "color": "#EE99AC"
+  },
+  {
+    "name": "Fighting",
+    "symbol": "fighting.png",
+    "color": "#C03028"
+  },
+  {
+    "name": "Fire",
+    "symbol": "fire.png",
+    "color": "#F08030"
+  },
+  {
+    "name": "Grass",
+    "symbol": "grass.png",
+    "color": "#78C850"
+  },
+  {
+    "name": "Lightning",
+    "symbol": "lightning.png",
+    "color": "#F8D030"
+  },
+  {
+    "name": "Metal",
+    "symbol": "metal.png",
+    "color": "#B8B8D0"
+  },
+  {
+    "name": "Psychic",
+    "symbol": "psychic.png",
+    "color": "#F85888"
+  },
+  {
+    "name": "Water",
+    "symbol": "water.png",
+    "color": "#6890F0"
+  }
+]

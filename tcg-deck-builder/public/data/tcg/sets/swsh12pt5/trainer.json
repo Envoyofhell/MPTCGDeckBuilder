@@ -1,0 +1,2431 @@
+[
+  {
+    "id": "swsh12pt5-123",
+    "name": "Bea",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard the top 5 cards of your deck, and attach any Energy cards you discarded in this way to your Benched Fighting Pokémon in any way you like.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "123",
+    "artist": "Atsushi Furusawa",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/123.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/123_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-123",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.31,
+          "high": 5.95,
+          "market": 0.28,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.07,
+          "mid": 0.25,
+          "high": 100,
+          "market": 0.23,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-123",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.31,
+        "lowPrice": 0.02,
+        "trendPrice": 0.3,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.66,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.66,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.29,
+        "avg7": 0.32,
+        "avg30": 0.31,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.65,
+        "reverseHoloAvg30": 0.62
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-124",
+    "name": "Bede",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Attach a basic Energy card from your hand to 1 of your Benched Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "124",
+    "artist": "You Iribi",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/124.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/124_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-124",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.28,
+          "high": 4.95,
+          "market": 0.28,
+          "directLow": 0.26
+        },
+        "holofoil": {
+          "low": 0.03,
+          "mid": 0.25,
+          "high": 100,
+          "market": 0.23,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-124",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.28,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.66,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.72,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.2,
+        "avg30": 0.27,
+        "reverseHoloAvg1": 0.77,
+        "reverseHoloAvg7": 0.72,
+        "reverseHoloAvg30": 0.59
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-125",
+    "name": "Crushing Hammer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, discard an Energy from 1 of your opponent's Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "125",
+    "artist": "sadaji",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/125.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/125_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-125",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 5,
+          "market": 0.07,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.08,
+          "mid": 0.25,
+          "high": 2.99,
+          "market": 0.18,
+          "directLow": 0.2
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-125",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.29,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.24,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.24,
+        "reverseHoloAvg7": 0.31,
+        "reverseHoloAvg30": 0.29
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-126",
+    "name": "Digging Duo",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Flip a coin. If heads, look at the bottom 8 cards of your deck and put 1 of them into your hand. If tails, look at the bottom 3 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "126",
+    "artist": "Yuu Nishida",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/126.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/126_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-126",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 5,
+          "market": 0.03,
+          "directLow": 0.01
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.22,
+          "high": 5,
+          "market": 0.18,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-126",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.24,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.22,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.04,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.26,
+        "reverseHoloAvg30": 0.25
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-127",
+    "name": "Energy Retrieval",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put up to 2 basic Energy cards from your discard pile into your hand.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "127",
+    "artist": "Ryo Ueda",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/127.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/127_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-127",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.29,
+          "high": 9.99,
+          "market": 0.29,
+          "directLow": 0.3
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.14,
+          "high": 5,
+          "market": 0.12,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-127",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.29,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.3,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.14,
+        "avg7": 0.12,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.35,
+        "reverseHoloAvg7": 0.28,
+        "reverseHoloAvg30": 0.3
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-128",
+    "name": "Energy Search",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a basic Energy card, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "128",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/128.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/128_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-128",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.09,
+          "directLow": 0.06
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 1.45,
+          "market": 0.24,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-128",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.28,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.29,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.07,
+        "avg7": 0.06,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.27,
+        "reverseHoloAvg7": 0.27,
+        "reverseHoloAvg30": 0.28
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-129",
+    "name": "Energy Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "129",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/129.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/129_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 1.53,
+          "market": 0.09,
+          "directLow": 0.06
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.27,
+          "high": 9.99,
+          "market": 0.27,
+          "directLow": 0.27
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.31,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.36,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.23,
+        "reverseHoloAvg7": 0.34,
+        "reverseHoloAvg30": 0.3
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-130",
+    "name": "Friends in Hisui",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "130",
+    "artist": "kirisAki",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/130.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/130_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 9.99,
+          "market": 0.2,
+          "directLow": 0.19
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.45,
+          "market": 0.08,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.22,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.32,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.37,
+        "reverseHoloAvg30": 0.25
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-131",
+    "name": "Friends in Sinnoh",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "131",
+    "artist": "Ryuta Fuse",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/131.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/131_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 5,
+          "market": 0.07,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.25,
+          "high": 9.99,
+          "market": 0.21,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.32,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.3,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.27,
+        "reverseHoloAvg30": 0.29
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-132",
+    "name": "Great Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "132",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/132.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/132_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 30.09,
+          "market": 0.06,
+          "directLow": 0.06
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 2.95,
+          "market": 0.21,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.34,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.25,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.28,
+        "reverseHoloAvg30": 0.34
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-133",
+    "name": "Hop",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "133",
+    "artist": "Taira Akitsu",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/133.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/133_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.26,
+          "high": 5,
+          "market": 0.25,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.05,
+          "mid": 0.23,
+          "high": 100,
+          "market": 0.17,
+          "directLow": 0.17
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.35,
+        "lowPrice": 0.02,
+        "trendPrice": 0.37,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.44,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.45,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.7,
+        "avg7": 0.38,
+        "avg30": 0.33,
+        "reverseHoloAvg1": 0.22,
+        "reverseHoloAvg7": 0.5,
+        "reverseHoloAvg30": 0.41
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-134",
+    "name": "Leon",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "During this turn, your Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "134",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/134.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/134_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 100,
+          "market": 0.19,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.32,
+          "high": 2.95,
+          "market": 0.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.34,
+        "lowPrice": 0.02,
+        "trendPrice": 0.27,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.52,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.55,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.12,
+        "avg7": 0.25,
+        "avg30": 0.34,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.8,
+        "reverseHoloAvg30": 0.49
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-135",
+    "name": "Lost Vacuum",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you put another card from your hand in the Lost Zone. Choose a Pokémon Tool attached to any Pokémon, or any Stadium in play, and put it in the Lost Zone.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "135",
+    "artist": "Amelicart",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/135.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/135_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1.49,
+          "market": 0.19,
+          "directLow": 0.15
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 30.09,
+          "market": 0.05,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.3,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.32,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.65,
+        "reverseHoloAvg7": 0.3,
+        "reverseHoloAvg30": 0.34
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-136",
+    "name": "Nessa",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put up to 4 in any combination of Water Pokémon and Water Energy cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "136",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/136.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/136_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.39,
+          "high": 5.95,
+          "market": 0.38,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.14,
+          "mid": 0.28,
+          "high": 100,
+          "market": 0.22,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.3,
+        "lowPrice": 0.02,
+        "trendPrice": 0.29,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.47,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.38,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.12,
+        "avg7": 0.32,
+        "avg30": 0.29,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.33,
+        "reverseHoloAvg30": 0.46
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-137",
+    "name": "Poké Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "137",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/137.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/137_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.24,
+          "high": 1.5,
+          "market": 0.19,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.5,
+          "market": 0.05,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.22,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.25,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.12,
+        "reverseHoloAvg7": 0.23,
+        "reverseHoloAvg30": 0.21
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-138",
+    "name": "Pokémon Catcher",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "138",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/138.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/138_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.45,
+          "market": 0.05,
+          "directLow": 0.06
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1,
+          "market": 0.21,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.24,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.29,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.4,
+        "reverseHoloAvg7": 0.31,
+        "reverseHoloAvg30": 0.29
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-139",
+    "name": "Potion",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 30 damage from 1 of your Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "139",
+    "artist": "Ryo Ueda",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/139.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/139_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.45,
+          "market": 0.07,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.22,
+          "high": 1,
+          "market": 0.19,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.13,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-140",
+    "name": "Raihan",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if any of your Pokémon were Knocked Out during your opponent's last turn. Attach a basic Energy card from your discard pile to 1 of your Pokémon. If you do, search your deck for a card and put it into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "140",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/140.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/140_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.14,
+          "mid": 0.34,
+          "high": 100,
+          "market": 0.32,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.35,
+          "high": 2.99,
+          "market": 0.41,
+          "directLow": 0.33
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.31,
+        "lowPrice": 0.02,
+        "trendPrice": 0.32,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.48,
+        "reverseHoloLow": 0.08,
+        "reverseHoloTrend": 0.38,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.25,
+        "avg7": 0.32,
+        "avg30": 0.3,
+        "reverseHoloAvg1": 0.08,
+        "reverseHoloAvg7": 0.59,
+        "reverseHoloAvg30": 0.48
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-141",
+    "name": "Rare Candy",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "141",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/141.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/141_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.12,
+          "mid": 0.31,
+          "high": 2.95,
+          "market": 0.3,
+          "directLow": 0.3
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 5.05,
+          "market": 0.1,
+          "directLow": 0.12
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.38,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.46,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.07,
+        "avg7": 0.07,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.4,
+        "reverseHoloAvg7": 0.55,
+        "reverseHoloAvg30": 0.35
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-142",
+    "name": "Rescue Carrier",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put up to 2 Pokémon, each with 90 HP or less, from your discard pile into your hand.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "142",
+    "artist": "Amelicart",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/142.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/142_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 5,
+          "market": 0.19,
+          "directLow": 0.14
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 5,
+          "market": 0.04,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.31,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.3,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.06,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.31,
+        "reverseHoloAvg7": 0.37,
+        "reverseHoloAvg30": 0.3
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-143",
+    "name": "Sky Seal Stone",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Pokémon V this card is attached to can use the VSTAR Power on this card.",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "abilities": [
+      {
+        "name": "Star Order",
+        "text": "During your turn, you may use this Ability. During this turn, if your opponent's Active Pokémon VSTAR or Active Pokémon VMAX is Knocked Out by damage from an attack from your Basic Pokémon V, take 1 more Prize card. (You can't use more than 1 VSTAR Power in a game.)",
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "143",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/143.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/143_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 100,
+          "market": 0.23,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.35,
+        "lowPrice": 0.02,
+        "trendPrice": 0.26,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.71,
+        "reverseHoloLow": 1,
+        "reverseHoloTrend": 2.51,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.48,
+        "avg7": 0.17,
+        "avg30": 0.32,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 1.8,
+        "reverseHoloAvg30": 2
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-144",
+    "name": "Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "144",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/144.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/144_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 5,
+          "market": 0.25,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 2,
+          "market": 0.08,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.3,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.21,
+        "reverseHoloAvg30": 0.28
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-145",
+    "name": "Trekking Shoes",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top card of your deck. You may put that card into your hand. If you don't, discard that card and draw a card.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "145",
+    "artist": "Amelicart",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/145.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/145_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.11,
+          "mid": 0.28,
+          "high": 30.24,
+          "market": 0.25,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 30.08,
+          "market": 0.05,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.31,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.29,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.34,
+        "reverseHoloAvg30": 0.33
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-146",
+    "name": "Ultra Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "146",
+    "artist": "Amelicart",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/146.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/146_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.47,
+          "high": 1.99,
+          "market": 0.46,
+          "directLow": 0.97
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 30.14,
+          "market": 0.11,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.36,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.42,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.1,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.35,
+        "reverseHoloAvg30": 0.34
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-147",
+    "name": "Elesa's Sparkle",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Fusion Strike",
+      "Supporter"
+    ],
+    "rules": [
+      "Choose up to 2 of your Fusion Strike Pokémon. For each of those Pokémon, search your deck for a Fusion Strike Energy card and attach it to that Pokémon. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "147",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/147.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/147_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 13.43,
+          "mid": 16.51,
+          "high": 49.99,
+          "market": 15.78,
+          "directLow": 16.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 20.51,
+        "lowPrice": 10,
+        "trendPrice": 19.95,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 10,
+        "avg1": 17.34,
+        "avg7": 20.16,
+        "avg30": 20.45,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-148",
+    "name": "Friends in Hisui",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "148",
+    "artist": "Kinu Nishimura",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/148.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/148_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.5,
+          "mid": 5.34,
+          "high": 89,
+          "market": 4.85,
+          "directLow": 5.75
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.79,
+        "lowPrice": 4.47,
+        "trendPrice": 5.97,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.47,
+        "avg1": 5.11,
+        "avg7": 5.69,
+        "avg30": 5.81,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-149",
+    "name": "Friends in Sinnoh",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "149",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/149.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/149_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5,
+          "mid": 6.93,
+          "high": 36,
+          "market": 6.31,
+          "directLow": 6.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.2,
+        "lowPrice": 4,
+        "trendPrice": 8.25,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 6.99,
+        "avg1": 8.15,
+        "avg7": 8.18,
+        "avg30": 8.17,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-150",
+    "name": "Professor's Research",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "150",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "flavorText": "Professor Rowan",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/150.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/150_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.19,
+          "mid": 2.52,
+          "high": 12.99,
+          "market": 2.18,
+          "directLow": 3.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.92,
+        "lowPrice": 2.69,
+        "trendPrice": 3.52,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.69,
+        "avg1": 4.1,
+        "avg7": 3.86,
+        "avg30": 3.92,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh12pt5-151",
+    "name": "Volo",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard 1 of your Benched Pokémon V and all attached cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "series": "Sword & Shield",
+      "printedTotal": 159,
+      "total": 160,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRZ",
+      "releaseDate": "2023/01/20",
+      "updatedAt": "2023/01/19 15:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "number": "151",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/151.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/151_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-151",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.51,
+          "mid": 1.76,
+          "high": 12,
+          "market": 1.66,
+          "directLow": 2.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-151",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.55,
+        "lowPrice": 1.45,
+        "trendPrice": 2.5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.45,
+        "avg1": 1.69,
+        "avg7": 2.37,
+        "avg30": 2.6,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

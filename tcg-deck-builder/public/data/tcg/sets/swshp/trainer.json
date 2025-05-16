@@ -1,0 +1,935 @@
+[
+  {
+    "id": "swshp-SWSH120",
+    "name": "Marnie",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH120",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH120.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH120_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH120",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.25,
+          "mid": 2,
+          "high": 15,
+          "market": 1.79,
+          "directLow": 2.5
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH120",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.75,
+        "lowPrice": 0.18,
+        "trendPrice": 0.6,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.18,
+        "avg1": 0.49,
+        "avg7": 0.62,
+        "avg30": 0.73,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH121",
+    "name": "Marnie",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH121",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH121.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH121_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH121",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 24.99,
+          "mid": 29.99,
+          "high": 49.99,
+          "market": 28.18,
+          "directLow": 35.62
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH121",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 12.67,
+        "lowPrice": 6.5,
+        "trendPrice": 12.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 6.5,
+        "avg1": 12.36,
+        "avg7": 12.62,
+        "avg30": 13.64,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH146",
+    "name": "Poké Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH146",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH146.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH146_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 8.86,
+          "mid": 11.13,
+          "high": 9999,
+          "market": 10.2,
+          "directLow": 8.86
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 13.64,
+        "lowPrice": 9.99,
+        "trendPrice": 18.3,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 10,
+        "avg1": 45,
+        "avg7": 16.94,
+        "avg30": 13.86,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH152",
+    "name": "Professor's Research",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH152",
+    "artist": "Yuu Nishida",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH152.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH152_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.69,
+          "mid": 4.75,
+          "high": 26,
+          "market": 4.03,
+          "directLow": 4
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.5,
+        "lowPrice": 1.3,
+        "trendPrice": 2.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.3,
+        "avg1": 2.31,
+        "avg7": 2.57,
+        "avg30": 2.59,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH167",
+    "name": "Professor Burnet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 cards and discard them. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH167",
+    "artist": "Ryuta Fuse",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH167.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH167_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH167",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.21,
+          "high": 19.99,
+          "market": 0.19,
+          "directLow": 0.2
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH167",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.22,
+        "lowPrice": 0.02,
+        "trendPrice": 0.24,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.23,
+        "avg7": 0.25,
+        "avg30": 0.2,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH178",
+    "name": "Professor's Research",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH178",
+    "artist": "Yusuke Kozaki",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH178.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH178_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH178",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.07,
+          "mid": 0.38,
+          "high": 5,
+          "market": 0.32,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH178",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.88,
+        "lowPrice": 0.1,
+        "trendPrice": 0.91,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.1,
+        "avg1": 0.68,
+        "avg7": 0.6,
+        "avg30": 0.87,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH226",
+    "name": "Spark",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If you drew any cards in this way, flip a coin. If heads, attach a Lightning Energy card from your discard pile to 1 of your Benched Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH226",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH226.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH226_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH226",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1,
+          "mid": 1.79,
+          "high": 29.99,
+          "market": 1.55,
+          "directLow": 1.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH226",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.61,
+        "lowPrice": 0.5,
+        "trendPrice": 1.58,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.8,
+        "avg1": 2.31,
+        "avg7": 1.47,
+        "avg30": 1.61,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH227",
+    "name": "Blanche",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If you drew any cards in this way, flip a coin. If heads, attach a Water Energy card from your discard pile to 1 of your Benched Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH227",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH227.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH227_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH227",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.95,
+          "mid": 2,
+          "high": 9999,
+          "market": 1.7,
+          "directLow": 2.95
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH227",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2,
+        "lowPrice": 0.7,
+        "trendPrice": 1.89,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.9,
+        "avg1": 2.59,
+        "avg7": 1.95,
+        "avg30": 2.04,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH228",
+    "name": "Candela",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If you drew any cards in this way, flip a coin. If heads, attach a Fire Energy card from your discard pile to 1 of your Benched Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH228",
+    "artist": "Ryuta Fuse",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH228.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH228_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH228",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.85,
+          "mid": 1.65,
+          "high": 15,
+          "market": 1.33,
+          "directLow": 1.51
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH228",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.73,
+        "lowPrice": 0.5,
+        "trendPrice": 1.58,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.5,
+        "avg1": 2.55,
+        "avg7": 1.79,
+        "avg30": 1.77,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH251",
+    "name": "Boss's Orders",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH251",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH251.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH251_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH251",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.99,
+          "mid": 6.57,
+          "high": 19.99,
+          "market": 6.63,
+          "directLow": 6.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH251",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.55,
+        "lowPrice": 4.4,
+        "trendPrice": 5.53,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.4,
+        "avg1": 5.21,
+        "avg7": 5.36,
+        "avg30": 5.53,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH296",
+    "name": "Champions Festival",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH296",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH296.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH296_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH296",
+      "updatedAt": "2025/04/27",
+      "prices": {
+        "normal": {
+          "low": 474.95,
+          "mid": 474.95,
+          "high": 474.95,
+          "market": null,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH296",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 400,
+        "lowPrice": 368.99,
+        "trendPrice": 391.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 368.99,
+        "avg1": 400,
+        "avg7": 502.5,
+        "avg30": 502.5,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swshp-SWSH302",
+    "name": "Klara",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1 or both: • Put up to 2 Pokémon from your discard pile into your hand. • Put up to 2 basic Energy cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "series": "Sword & Shield",
+      "printedTotal": 307,
+      "total": 304,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SW",
+      "releaseDate": "2019/11/15",
+      "updatedAt": "2022/07/23 20:15:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+        "logo": "https://images.pokemontcg.io/swshp/logo.png"
+      }
+    },
+    "number": "SWSH302",
+    "artist": "Yuu Nishida",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH302.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH302_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH302",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 3.5,
+          "high": 21,
+          "market": 2.87,
+          "directLow": 2.84
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH302",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.39,
+        "lowPrice": 1.15,
+        "trendPrice": 2.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.15,
+        "avg1": 2,
+        "avg7": 2.34,
+        "avg30": 2.37,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

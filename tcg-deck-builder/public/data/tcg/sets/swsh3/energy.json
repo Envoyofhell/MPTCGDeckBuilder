@@ -1,0 +1,323 @@
+[
+  {
+    "id": "swsh3-174",
+    "name": "Heat Fire Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "As long as this card is attached to a Pokémon, it provides Fire Energy.",
+      "The Fire Pokémon this card is attached to gets +20 HP."
+    ],
+    "set": {
+      "id": "swsh3",
+      "name": "Darkness Ablaze",
+      "series": "Sword & Shield",
+      "printedTotal": 189,
+      "total": 201,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DAA",
+      "releaseDate": "2020/08/14",
+      "updatedAt": "2020/10/25 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh3/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh3/logo.png"
+      }
+    },
+    "number": "174",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/174.png",
+      "large": "https://images.pokemontcg.io/swsh3/174_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh3-174",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.21,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.12,
+          "mid": 0.5,
+          "high": 4.95,
+          "market": 0.52,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh3-174",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.19,
+        "lowPrice": 0.02,
+        "trendPrice": 0.14,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.95,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.7,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.13,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.66,
+        "reverseHoloAvg30": 0.69
+      }
+    }
+  },
+  {
+    "id": "swsh3-175",
+    "name": "Hiding Darkness Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "As long as this card is attached to a Pokémon, it provides Darkness Energy.",
+      "The Darkness Pokémon this card is attached to has no Retreat Cost."
+    ],
+    "set": {
+      "id": "swsh3",
+      "name": "Darkness Ablaze",
+      "series": "Sword & Shield",
+      "printedTotal": 189,
+      "total": 201,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DAA",
+      "releaseDate": "2020/08/14",
+      "updatedAt": "2020/10/25 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh3/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh3/logo.png"
+      }
+    },
+    "number": "175",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/175.png",
+      "large": "https://images.pokemontcg.io/swsh3/175_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh3-175",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.28,
+          "directLow": 0.29
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.74,
+          "high": 6.95,
+          "market": 0.73,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh3-175",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.26,
+        "lowPrice": 0.02,
+        "trendPrice": 0.24,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.6,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 1.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.2,
+        "avg7": 0.24,
+        "avg30": 0.27,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 1.34,
+        "reverseHoloAvg30": 0.88
+      }
+    }
+  },
+  {
+    "id": "swsh3-176",
+    "name": "Powerful Colorless Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "As long as this card is attached to a Pokémon, it provides Colorless Energy.",
+      "The attacks of the Colorless Pokémon this card is attached to do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+    ],
+    "set": {
+      "id": "swsh3",
+      "name": "Darkness Ablaze",
+      "series": "Sword & Shield",
+      "printedTotal": 189,
+      "total": 201,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DAA",
+      "releaseDate": "2020/08/14",
+      "updatedAt": "2020/10/25 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh3/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh3/logo.png"
+      }
+    },
+    "number": "176",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/176.png",
+      "large": "https://images.pokemontcg.io/swsh3/176_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh3-176",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.14,
+          "mid": 0.39,
+          "high": 6.95,
+          "market": 0.38,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.08,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": 0.18
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh3-176",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.34,
+        "lowPrice": 0.02,
+        "trendPrice": 0.23,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.67,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.4,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.32,
+        "avg30": 0.32,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.95
+      }
+    }
+  },
+  {
+    "id": "swsh3-201",
+    "name": "Capture Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "As long as this card is attached to a Pokémon, it provides Colorless Energy.",
+      "When you attach this card from your hand to a Pokémon, search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+    ],
+    "set": {
+      "id": "swsh3",
+      "name": "Darkness Ablaze",
+      "series": "Sword & Shield",
+      "printedTotal": 189,
+      "total": 201,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DAA",
+      "releaseDate": "2020/08/14",
+      "updatedAt": "2020/10/25 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh3/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh3/logo.png"
+      }
+    },
+    "number": "201",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/201.png",
+      "large": "https://images.pokemontcg.io/swsh3/201_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh3-201",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 3.19,
+          "high": 39,
+          "market": 2.78,
+          "directLow": 3.81
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh3-201",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.16,
+        "lowPrice": 2.22,
+        "trendPrice": 5.69,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 12.26,
+        "lowPriceExPlus": 2.22,
+        "avg1": 7.95,
+        "avg7": 5.88,
+        "avg30": 5.2,
+        "reverseHoloAvg1": 19.99,
+        "reverseHoloAvg7": 12.74,
+        "reverseHoloAvg30": 13.16
+      }
+    }
+  }
+]

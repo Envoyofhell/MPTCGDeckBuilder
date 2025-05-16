@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useContext } from "react";
 import Card from 'react-bootstrap/Card';
-import CardContainer from "../CardContainer";
 import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -24,10 +23,32 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 import { useDoubleClick } from "../../context/DoubleClickContext";
 import CardJSONValidator from "../../utils/CardJsonValidator";
+// Make sure these imports are correct - use the exact same import pattern as in other files
+import CardContainer from "../CardContainer";
+// If CustomCardCreator isn't available or has import issues, comment it out temporarily
+// import CustomCardCreator from "../modals/CustomCardCreator";
 import EnhancedTCGController from "../../utils/TCGapi/EnhancedTCGController";
-import CustomCardCreator from "../modals/CustomCardCreator";
 
 const validator = new CardJSONValidator();
+
+// Helper function to get energy type color (MOVED UP BEFORE IT'S USED)
+const getEnergyColor = (type) => {
+    const colors = {
+        'Colorless': '#A8A878',
+        'Darkness': '#705848',
+        'Dragon': '#7038F8',
+        'Fairy': '#EE99AC',
+        'Fighting': '#C03028',
+        'Fire': '#F08030',
+        'Grass': '#78C850',
+        'Lightning': '#F8D030',
+        'Metal': '#B8B8D0',
+        'Psychic': '#F85888',
+        'Water': '#6890F0'
+    };
+    
+    return colors[type] || '#68A090';
+};
 
 function EnhancedCardSearchPanel() {
     // State for search
@@ -95,7 +116,7 @@ function EnhancedCardSearchPanel() {
             setAvailableFilters(prev => ({
                 ...prev,
                 types: energyTypes,
-                sets: sets.map(set => ({ id: set.id, name: set.name, series: set.series }))
+                sets: sets?.map(set => ({ id: set.id, name: set.name, series: set.series })) || []
             }));
         } catch (error) {
             console.error('Error initializing filters:', error);
@@ -126,8 +147,12 @@ function EnhancedCardSearchPanel() {
     // Load custom cards
     const loadCustomCards = () => {
         // Load custom cards from EnhancedTCGController
-        EnhancedTCGController.loadCustomCards();
-        setCustomCards(EnhancedTCGController.getCustomCards());
+        try {
+            EnhancedTCGController.loadCustomCards();
+            setCustomCards(EnhancedTCGController.getCustomCards());
+        } catch (error) {
+            console.error('Error loading custom cards:', error);
+        }
     };
     
     // Load search history from localStorage
@@ -190,10 +215,10 @@ function EnhancedCardSearchPanel() {
             // Perform search
             const results = await EnhancedTCGController.advancedSearch(params, currentPage, resultsPerPage);
             
-            setSearchResults(results.data || []);
+            setSearchResults(results?.data || []);
             
             // Update pagination info
-            if (results.pagination) {
+            if (results?.pagination) {
                 setTotalResults(results.pagination.totalCount || 0);
                 setTotalPages(Math.ceil((results.pagination.totalCount || 0) / resultsPerPage));
             }
@@ -353,6 +378,73 @@ function EnhancedCardSearchPanel() {
         setTimeout(() => {
             handleSearch();
         }, 100);
+    };
+    
+    // Format date for display
+    const formatDate = (timestamp) => {
+        const date = new Date(timestamp);
+        return date.toLocaleDateString() + ' ' + date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+    };
+    
+    // Pagination controls - Define this as a proper component 
+    const PaginationControls = function PaginationControls() {
+        return (
+            <div className="d-flex justify-content-between align-items-center my-3">
+                <div>
+                    {totalResults > 0 && (
+                        <span>
+                            Showing {((currentPage - 1) * resultsPerPage) + 1}-
+                            {Math.min(currentPage * resultsPerPage, totalResults)} of {totalResults} results
+                        </span>
+                    )}
+                </div>
+                <div className="d-flex">
+                    <Button 
+                        variant="outline-secondary" 
+                        onClick={() => handlePageChange(currentPage - 1)}
+                        disabled={currentPage === 1 || isLoading}
+                        className="me-2"
+                    >
+                        Previous
+                    </Button>
+                    <Form.Select 
+                        value={currentPage}
+                        onChange={(e) => handlePageChange(Number(e.target.value))}
+                        disabled={isLoading}
+                        style={{ width: '80px' }}
+                        className="me-2"
+                    >
+                        {Array.from({ length: totalPages }, (_, i) => (
+                            <option key={i + 1} value={i + 1}>
+                                {i + 1}
+                            </option>
+                        ))}
+                    </Form.Select>
+                    <Button 
+                        variant="outline-secondary"
+                        onClick={() => handlePageChange(currentPage + 1)}
+                        disabled={currentPage === totalPages || isLoading}
+                        className="me-2"
+                    >
+                        Next
+                    </Button>
+                    <Form.Select
+                        value={resultsPerPage}
+                        onChange={(e) => {
+                            setResultsPerPage(Number(e.target.value));
+                            setCurrentPage(1); // Reset to first page when changing results per page
+                        }}
+                        disabled={isLoading}
+                        style={{ width: '80px' }}
+                    >
+                        <option value={12}>12</option>
+                        <option value={24}>24</option>
+                        <option value={48}>48</option>
+                        <option value={96}>96</option>
+                    </Form.Select>
+                </div>
+            </div>
+        );
     };
     
     // Search Bar
@@ -573,90 +665,6 @@ function EnhancedCardSearchPanel() {
         </Form>
     );
     
-    // Pagination controls
-    const PaginationControls = () => (
-        <div className="d-flex justify-content-between align-items-center my-3">
-            <div>
-                {totalResults > 0 && (
-                    <span>
-                        Showing {((currentPage - 1) * resultsPerPage) + 1}-
-                        {Math.min(currentPage * resultsPerPage, totalResults)} of {totalResults} results
-                    </span>
-                )}
-            </div>
-            <div className="d-flex">
-                <Button 
-                    variant="outline-secondary" 
-                    onClick={() => handlePageChange(currentPage - 1)}
-                    disabled={currentPage === 1 || isLoading}
-                    className="me-2"
-                >
-                    Previous
-                </Button>
-                <Form.Select 
-                    value={currentPage}
-                    onChange={(e) => handlePageChange(Number(e.target.value))}
-                    disabled={isLoading}
-                    style={{ width: '80px' }}
-                    className="me-2"
-                >
-                    {Array.from({ length: totalPages }, (_, i) => (
-                        <option key={i + 1} value={i + 1}>
-                            {i + 1}
-                        </option>
-                    ))}
-                </Form.Select>
-                <Button 
-                    variant="outline-secondary"
-                    onClick={() => handlePageChange(currentPage + 1)}
-                    disabled={currentPage === totalPages || isLoading}
-                    className="me-2"
-                >
-                    Next
-                </Button>
-                <Form.Select
-                    value={resultsPerPage}
-                    onChange={(e) => {
-                        setResultsPerPage(Number(e.target.value));
-                        setCurrentPage(1); // Reset to first page when changing results per page
-                    }}
-                    disabled={isLoading}
-                    style={{ width: '80px' }}
-                >
-                    <option value={12}>12</option>
-                    <option value={24}>24</option>
-                    <option value={48}>48</option>
-                    <option value={96}>96</option>
-                </Form.Select>
-            </div>
-        </div>
-    );
-    
-    // Helper function to get energy type color
-    const getEnergyColor = (type) => {
-        const colors = {
-            'Colorless': '#A8A878',
-            'Darkness': '#705848',
-            'Dragon': '#7038F8',
-            'Fairy': '#EE99AC',
-            'Fighting': '#C03028',
-            'Fire': '#F08030',
-            'Grass': '#78C850',
-            'Lightning': '#F8D030',
-            'Metal': '#B8B8D0',
-            'Psychic': '#F85888',
-            'Water': '#6890F0'
-        };
-        
-        return colors[type] || '#68A090';
-    };
-    
-    // Format date for display
-    const formatDate = (timestamp) => {
-        const date = new Date(timestamp);
-        return date.toLocaleDateString() + ' ' + date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
-    };
-    
     return (
         <div className={styles.searchPanel}>
             <Card>
@@ -753,12 +761,12 @@ function EnhancedCardSearchPanel() {
                             </div>
                         )}
                         
-                        {/* Custom Card Creator Modal */}
+                        {/* Comment out the custom card creator temporarily
                         <CustomCardCreator 
                             show={showCustomCardModal} 
                             handleClose={() => setShowCustomCardModal(false)} 
                             onCardCreated={handleCustomCardCreated}
-                        />
+                        /> */}
                     </Card.Body>
                 )}
                 

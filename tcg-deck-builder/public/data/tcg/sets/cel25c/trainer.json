@@ -1,0 +1,150 @@
+[
+  {
+    "id": "cel25c-15_A2",
+    "name": "Here Comes Team Rocket!",
+    "supertype": "Trainer",
+    "rules": [
+      "Each player plays with his or her Prize cards face up for the rest of the game."
+    ],
+    "set": {
+      "id": "cel25c",
+      "name": "Celebrations: Classic Collection",
+      "series": "Sword & Shield",
+      "printedTotal": 25,
+      "total": 25,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "CEL",
+      "releaseDate": "2021/10/08",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/cel25c/symbol.png",
+        "logo": "https://images.pokemontcg.io/cel25c/logo.png"
+      }
+    },
+    "number": "15",
+    "artist": "Ken Sugimori",
+    "rarity": "Classic Collection",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25c/15_B.png",
+      "large": "https://images.pokemontcg.io/cel25c/15_B_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-15_A2",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.2,
+          "mid": 0.71,
+          "high": 999.99,
+          "market": 0.59,
+          "directLow": 0.66
+        }
+      }
+    }
+  },
+  {
+    "id": "cel25c-73_A",
+    "name": "Imposter Professor Oak",
+    "supertype": "Trainer",
+    "rules": [
+      "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards."
+    ],
+    "set": {
+      "id": "cel25c",
+      "name": "Celebrations: Classic Collection",
+      "series": "Sword & Shield",
+      "printedTotal": 25,
+      "total": 25,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "CEL",
+      "releaseDate": "2021/10/08",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/cel25c/symbol.png",
+        "logo": "https://images.pokemontcg.io/cel25c/logo.png"
+      }
+    },
+    "number": "73",
+    "artist": "Ken Sugimori",
+    "rarity": "Classic Collection",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25c/73_A.png",
+      "large": "https://images.pokemontcg.io/cel25c/73_A_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-73_A",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.03,
+          "mid": 0.3,
+          "high": 999.99,
+          "market": 0.28,
+          "directLow": 0.22
+        }
+      }
+    }
+  },
+  {
+    "id": "cel25c-86_A",
+    "name": "Rocket's Admin.",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Each player shuffles his or her hand into his or her deck. Then, each player counts his or her Prize cards left and draws up to that many cards. (You draw your cards first.)"
+    ],
+    "set": {
+      "id": "cel25c",
+      "name": "Celebrations: Classic Collection",
+      "series": "Sword & Shield",
+      "printedTotal": 25,
+      "total": 25,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "CEL",
+      "releaseDate": "2021/10/08",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/cel25c/symbol.png",
+        "logo": "https://images.pokemontcg.io/cel25c/logo.png"
+      }
+    },
+    "number": "86",
+    "artist": "Ken Sugimori",
+    "rarity": "Classic Collection",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25c/86_A.png",
+      "large": "https://images.pokemontcg.io/cel25c/86_A_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-86_A",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.05,
+          "mid": 0.4,
+          "high": 999.99,
+          "market": 0.34,
+          "directLow": 0.27
+        }
+      }
+    }
+  }
+]

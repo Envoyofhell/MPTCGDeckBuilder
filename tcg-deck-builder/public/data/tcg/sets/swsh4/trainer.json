@@ -1,0 +1,2634 @@
+[
+  {
+    "id": "swsh4-146",
+    "name": "Allister",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards. If you drew any cards in this way, discard up to 3 cards from your hand. (You must discard at least 1 card.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "146",
+    "artist": "take",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/146.png",
+      "large": "https://images.pokemontcg.io/swsh4/146_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.21,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": 0.14
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.25,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.22,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.06,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.59,
+        "reverseHoloAvg7": 0.35,
+        "reverseHoloAvg30": 0.28
+      }
+    }
+  },
+  {
+    "id": "swsh4-147",
+    "name": "Bea",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard the top 5 cards of your deck, and attach any Energy cards you discarded in this way to your Benched Fighting Pokémon in any way you like.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "147",
+    "artist": "take",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/147.png",
+      "large": "https://images.pokemontcg.io/swsh4/147_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.23,
+          "high": 5,
+          "market": 0.23,
+          "directLow": 0.13
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 9,
+          "market": 0.06,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.11,
+        "avg7": 0.07,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.13,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh4-148",
+    "name": "Beauty",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "If you go first, you may play this card during your first turn.",
+      "Draw 2 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "148",
+    "artist": "kirisAki",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/148.png",
+      "large": "https://images.pokemontcg.io/swsh4/148_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 5,
+          "market": 0.13,
+          "directLow": 0.12
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "swsh4-149",
+    "name": "Cara Liss",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 Rare Fossil cards and put them onto your Bench. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "149",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/149.png",
+      "large": "https://images.pokemontcg.io/swsh4/149_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.09,
+          "directLow": 0.09
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.06,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "swsh4-150",
+    "name": "Circhester Bath",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "All Basic Pokémon (both yours and your opponent's) take 20 less damage from attacks from the opponent's Pokémon (after applying Weakness and Resistance).",
+      "This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "150",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/150.png",
+      "large": "https://images.pokemontcg.io/swsh4/150_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.21,
+          "high": 2,
+          "market": 0.14,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.5,
+          "market": 0.06,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.16,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "swsh4-151",
+    "name": "Drone Rotom",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Your opponent reveals their hand. If they do, look at the top card of your opponent's deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "151",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/151.png",
+      "large": "https://images.pokemontcg.io/swsh4/151_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-151",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.16,
+          "directLow": 0.11
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.45,
+          "market": 0.07,
+          "directLow": 0.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-151",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.07,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.17,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "swsh4-152",
+    "name": "Hero's Medal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The Pokémon VMAX this card is attached to gets -100 HP, and if it is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 fewer Prize card. You can't attach this card to a Pokémon VMAX that has 100 HP or less remaining.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "152",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/152.png",
+      "large": "https://images.pokemontcg.io/swsh4/152_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.21,
+          "high": 2,
+          "market": 0.1,
+          "directLow": 0.1
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.5,
+          "market": 0.05,
+          "directLow": 0.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.13,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.06,
+        "reverseHoloAvg7": 0.13,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "swsh4-153",
+    "name": "League Staff",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If Wyndon Stadium is in play, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "153",
+    "artist": "Emi Ando",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/153.png",
+      "large": "https://images.pokemontcg.io/swsh4/153_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.04,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.11,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.12,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh4-154",
+    "name": "Leon",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "During this turn, your Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "154",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/154.png",
+      "large": "https://images.pokemontcg.io/swsh4/154_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.28,
+          "high": 5,
+          "market": 0.22,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.02,
+          "mid": 0.25,
+          "high": 999.99,
+          "market": 0.23,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.35,
+        "lowPrice": 0.02,
+        "trendPrice": 0.47,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.63,
+        "reverseHoloLow": 0.08,
+        "reverseHoloTrend": 0.61,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.5,
+        "avg7": 0.55,
+        "avg30": 0.38,
+        "reverseHoloAvg1": 2,
+        "reverseHoloAvg7": 0.84,
+        "reverseHoloAvg30": 0.7
+      }
+    }
+  },
+  {
+    "id": "swsh4-155",
+    "name": "Memory Capsule",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The Pokémon this card is attached to can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "155",
+    "artist": "sadaji",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/155.png",
+      "large": "https://images.pokemontcg.io/swsh4/155_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.21,
+          "high": 999.99,
+          "market": 0.16,
+          "directLow": 0.14
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 1.5,
+          "market": 0.07,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.2,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh4-156",
+    "name": "Moomoo Cheese",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 30 damage from up to 2 of your Pokémon that have Energy attached.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "156",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/156.png",
+      "large": "https://images.pokemontcg.io/swsh4/156_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 999.99,
+          "market": 0.14,
+          "directLow": 0.14
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 6,
+          "market": 0.05,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.11,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh4-157",
+    "name": "Nessa",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put up to 4 in any combination of Water Pokémon and Water Energy cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "157",
+    "artist": "take",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/157.png",
+      "large": "https://images.pokemontcg.io/swsh4/157_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 89,
+          "market": 0.13,
+          "directLow": 0.13
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.34,
+          "high": 999.99,
+          "market": 1.18,
+          "directLow": 0.47
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.26,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.33,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.6,
+        "reverseHoloAvg7": 0.33,
+        "reverseHoloAvg30": 0.27
+      }
+    }
+  },
+  {
+    "id": "swsh4-158",
+    "name": "Opal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Flip 2 coins. Search your deck for a number of cards up to the number of heads, put them into your hand, and shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "158",
+    "artist": "take",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/158.png",
+      "large": "https://images.pokemontcg.io/swsh4/158_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 5,
+          "market": 0.15,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.5,
+          "market": 0.05,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.11,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.06,
+        "reverseHoloAvg7": 0.12,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "swsh4-159",
+    "name": "Rocky Helmet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if it is Knocked Out), put 2 damage counters on the Attacking Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "159",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/159.png",
+      "large": "https://images.pokemontcg.io/swsh4/159_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 20,
+          "market": 0.08,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 5,
+          "market": 0.18,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.12,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "swsh4-160",
+    "name": "Telescopic Sight",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Benched Pokémon V and Benched Pokémon-GX.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "160",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/160.png",
+      "large": "https://images.pokemontcg.io/swsh4/160_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.04,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.21,
+          "high": 999.99,
+          "market": 0.13,
+          "directLow": 0.14
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.19,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh4-161",
+    "name": "Wyndon Stadium",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Whenever either player plays a Pokémon VMAX from their hand to evolve a Pokémon V during their turn, heal 100 damage from that Pokémon.",
+      "This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "161",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/161.png",
+      "large": "https://images.pokemontcg.io/swsh4/161_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.06,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.47,
+          "market": 0.12,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "swsh4-179",
+    "name": "Allister",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards. If you drew any cards in this way, discard up to 3 cards from your hand. (You must discard at least 1 card.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "179",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/179.png",
+      "large": "https://images.pokemontcg.io/swsh4/179_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-179",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.11,
+          "mid": 5.11,
+          "high": 89,
+          "market": 5.26,
+          "directLow": 6.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-179",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.77,
+        "lowPrice": 3,
+        "trendPrice": 7.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 16.78,
+        "lowPriceExPlus": 3,
+        "avg1": 7.27,
+        "avg7": 6.69,
+        "avg30": 5.59,
+        "reverseHoloAvg1": 26.99,
+        "reverseHoloAvg7": 16.92,
+        "reverseHoloAvg30": 15.83
+      }
+    }
+  },
+  {
+    "id": "swsh4-180",
+    "name": "Bea",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard the top 5 cards of your deck, and attach any Energy cards you discarded in this way to your Benched Fighting Pokémon in any way you like.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "180",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/180.png",
+      "large": "https://images.pokemontcg.io/swsh4/180_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-180",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.5,
+          "mid": 7.69,
+          "high": 55,
+          "market": 7.67,
+          "directLow": 9.95
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-180",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.86,
+        "lowPrice": 3.5,
+        "trendPrice": 9.42,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 21,
+        "lowPriceExPlus": 7.5,
+        "avg1": 14.9,
+        "avg7": 9.23,
+        "avg30": 9.03,
+        "reverseHoloAvg1": 21.5,
+        "reverseHoloAvg7": 20.89,
+        "reverseHoloAvg30": 23.59
+      }
+    }
+  },
+  {
+    "id": "swsh4-181",
+    "name": "Beauty",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "If you go first, you may play this card during your first turn.",
+      "Draw 2 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "181",
+    "artist": "kirisAki",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/181.png",
+      "large": "https://images.pokemontcg.io/swsh4/181_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-181",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 3.15,
+          "high": 39.95,
+          "market": 2.91,
+          "directLow": 3.59
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-181",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.73,
+        "lowPrice": 2.5,
+        "trendPrice": 4.9,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 16,
+        "lowPriceExPlus": 3.99,
+        "avg1": 4.5,
+        "avg7": 4.62,
+        "avg30": 4.88,
+        "reverseHoloAvg1": 16.25,
+        "reverseHoloAvg7": 15.4,
+        "reverseHoloAvg30": 16.08
+      }
+    }
+  },
+  {
+    "id": "swsh4-182",
+    "name": "Leon",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "During this turn, your Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "182",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/182.png",
+      "large": "https://images.pokemontcg.io/swsh4/182_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-182",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5,
+          "mid": 7.23,
+          "high": 45,
+          "market": 7.18,
+          "directLow": 6.98
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-182",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.9,
+        "lowPrice": 4.46,
+        "trendPrice": 9.26,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 22.3,
+        "lowPriceExPlus": 6.5,
+        "avg1": 8,
+        "avg7": 8.91,
+        "avg30": 8.38,
+        "reverseHoloAvg1": 18,
+        "reverseHoloAvg7": 22.58,
+        "reverseHoloAvg30": 22.59
+      }
+    }
+  },
+  {
+    "id": "swsh4-183",
+    "name": "Nessa",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put up to 4 in any combination of Water Pokémon and Water Energy cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "183",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/183.png",
+      "large": "https://images.pokemontcg.io/swsh4/183_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-183",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 11.99,
+          "mid": 13.99,
+          "high": 74,
+          "market": 12.46,
+          "directLow": 17.36
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-183",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 11.35,
+        "lowPrice": 8.99,
+        "trendPrice": 11.9,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 21.6,
+        "lowPriceExPlus": 8.99,
+        "avg1": 21.75,
+        "avg7": 11.1,
+        "avg30": 11.09,
+        "reverseHoloAvg1": 17.04,
+        "reverseHoloAvg7": 20.07,
+        "reverseHoloAvg30": 23.02
+      }
+    }
+  },
+  {
+    "id": "swsh4-184",
+    "name": "Opal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Flip 2 coins. Search your deck for a number of cards up to the number of heads, put them into your hand, and shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "184",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/184.png",
+      "large": "https://images.pokemontcg.io/swsh4/184_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-184",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.99,
+          "mid": 1.73,
+          "high": 19.99,
+          "market": 1.49,
+          "directLow": 2.24
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-184",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.95,
+        "lowPrice": 1.75,
+        "trendPrice": 2.77,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 10.53,
+        "lowPriceExPlus": 1.75,
+        "avg1": 1.88,
+        "avg7": 2.42,
+        "avg30": 3.08,
+        "reverseHoloAvg1": 8.33,
+        "reverseHoloAvg7": 10.48,
+        "reverseHoloAvg30": 12.26
+      }
+    }
+  },
+  {
+    "id": "swsh4-185",
+    "name": "Pokémon Center Lady",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Heal 60 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "185",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/185.png",
+      "large": "https://images.pokemontcg.io/swsh4/185_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-185",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 10.45,
+          "mid": 16.3,
+          "high": 40,
+          "market": 15.38,
+          "directLow": 17.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-185",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 17.65,
+        "lowPrice": 9,
+        "trendPrice": 14.69,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 21.6,
+        "lowPriceExPlus": 13,
+        "avg1": 13.98,
+        "avg7": 14.99,
+        "avg30": 17.04,
+        "reverseHoloAvg1": 25,
+        "reverseHoloAvg7": 23.31,
+        "reverseHoloAvg30": 23.92
+      }
+    }
+  },
+  {
+    "id": "swsh4-192",
+    "name": "Allister",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards. If you drew any cards in this way, discard up to 3 cards from your hand. (You must discard at least 1 card.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "192",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/192.png",
+      "large": "https://images.pokemontcg.io/swsh4/192_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-192",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.98,
+          "mid": 5.18,
+          "high": 16.95,
+          "market": 5.18,
+          "directLow": 6.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-192",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.07,
+        "lowPrice": 2.7,
+        "trendPrice": 6.84,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 33.11,
+        "lowPriceExPlus": 6.29,
+        "avg1": 6.5,
+        "avg7": 6.7,
+        "avg30": 7.34,
+        "reverseHoloAvg1": 24.95,
+        "reverseHoloAvg7": 36.8,
+        "reverseHoloAvg30": 27.55
+      }
+    }
+  },
+  {
+    "id": "swsh4-193",
+    "name": "Bea",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard the top 5 cards of your deck, and attach any Energy cards you discarded in this way to your Benched Fighting Pokémon in any way you like.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "193",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/193.png",
+      "large": "https://images.pokemontcg.io/swsh4/193_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-193",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.8,
+          "mid": 7.19,
+          "high": 100,
+          "market": 7,
+          "directLow": 9.74
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-193",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.4,
+        "lowPrice": 4.5,
+        "trendPrice": 7.94,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 36.17,
+        "lowPriceExPlus": 5,
+        "avg1": 9.95,
+        "avg7": 7.84,
+        "avg30": 8.97,
+        "reverseHoloAvg1": 31.4,
+        "reverseHoloAvg7": 35.2,
+        "reverseHoloAvg30": 35.48
+      }
+    }
+  },
+  {
+    "id": "swsh4-194",
+    "name": "Beauty",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "If you go first, you may play this card during your first turn.",
+      "Draw 2 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "194",
+    "artist": "kirisAki",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/194.png",
+      "large": "https://images.pokemontcg.io/swsh4/194_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-194",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.99,
+          "mid": 4.96,
+          "high": 45,
+          "market": 4.45,
+          "directLow": 4.36
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-194",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.99,
+        "lowPrice": 4,
+        "trendPrice": 6.26,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 28.43,
+        "lowPriceExPlus": 4.2,
+        "avg1": 4.98,
+        "avg7": 6.14,
+        "avg30": 6.02,
+        "reverseHoloAvg1": 31,
+        "reverseHoloAvg7": 25.93,
+        "reverseHoloAvg30": 26.86
+      }
+    }
+  },
+  {
+    "id": "swsh4-195",
+    "name": "Leon",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "During this turn, your Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "195",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/195.png",
+      "large": "https://images.pokemontcg.io/swsh4/195_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-195",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4,
+          "mid": 5.95,
+          "high": 39.95,
+          "market": 5.62,
+          "directLow": 5.95
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-195",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 9.47,
+        "lowPrice": 4.9,
+        "trendPrice": 10.72,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 21.27,
+        "lowPriceExPlus": 4.9,
+        "avg1": 19.9,
+        "avg7": 10.25,
+        "avg30": 8.15,
+        "reverseHoloAvg1": 16.5,
+        "reverseHoloAvg7": 20.41,
+        "reverseHoloAvg30": 27.88
+      }
+    }
+  },
+  {
+    "id": "swsh4-196",
+    "name": "Nessa",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put up to 4 in any combination of Water Pokémon and Water Energy cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "196",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/196.png",
+      "large": "https://images.pokemontcg.io/swsh4/196_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-196",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 7.83,
+          "mid": 10.8,
+          "high": 98.95,
+          "market": 10.64,
+          "directLow": 12.06
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-196",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 9.23,
+        "lowPrice": 5,
+        "trendPrice": 11.42,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 30.28,
+        "lowPriceExPlus": 6,
+        "avg1": 25,
+        "avg7": 10.54,
+        "avg30": 10.57,
+        "reverseHoloAvg1": 30,
+        "reverseHoloAvg7": 31.2,
+        "reverseHoloAvg30": 37
+      }
+    }
+  },
+  {
+    "id": "swsh4-197",
+    "name": "Opal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Flip 2 coins. Search your deck for a number of cards up to the number of heads, put them into your hand, and shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "197",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/197.png",
+      "large": "https://images.pokemontcg.io/swsh4/197_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-197",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.99,
+          "mid": 4.51,
+          "high": 89,
+          "market": 3.94,
+          "directLow": 3.91
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-197",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.87,
+        "lowPrice": 3.5,
+        "trendPrice": 5.45,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 32.6,
+        "lowPriceExPlus": 3.7,
+        "avg1": 4.09,
+        "avg7": 5.57,
+        "avg30": 5.17,
+        "reverseHoloAvg1": 20,
+        "reverseHoloAvg7": 26.24,
+        "reverseHoloAvg30": 23.02
+      }
+    }
+  },
+  {
+    "id": "swsh4-200",
+    "name": "Cape of Toughness",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The Basic Pokémon this card is attached to gets +50 HP, except Pokémon-GX.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "200",
+    "artist": "inose yukie",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/200.png",
+      "large": "https://images.pokemontcg.io/swsh4/200_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-200",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.41,
+          "mid": 2.5,
+          "high": 39.95,
+          "market": 2.18,
+          "directLow": 2.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-200",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.61,
+        "lowPrice": 2.9,
+        "trendPrice": 3.69,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 13.81,
+        "lowPriceExPlus": 2.9,
+        "avg1": 3.1,
+        "avg7": 3.55,
+        "avg30": 3.7,
+        "reverseHoloAvg1": 10.95,
+        "reverseHoloAvg7": 13.37,
+        "reverseHoloAvg30": 14.94
+      }
+    }
+  },
+  {
+    "id": "swsh4-201",
+    "name": "Hero's Medal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The Pokémon VMAX this card is attached to gets -100 HP, and if it is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 fewer Prize card. You can't attach this card to a Pokémon VMAX that has 100 HP or less remaining.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "201",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/201.png",
+      "large": "https://images.pokemontcg.io/swsh4/201_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-201",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.4,
+          "mid": 2.64,
+          "high": 20,
+          "market": 2.49,
+          "directLow": 1.94
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-201",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.81,
+        "lowPrice": 2.99,
+        "trendPrice": 3.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 9.36,
+        "lowPriceExPlus": 3,
+        "avg1": 3.5,
+        "avg7": 3.4,
+        "avg30": 4.29,
+        "reverseHoloAvg1": 14.5,
+        "reverseHoloAvg7": 12.56,
+        "reverseHoloAvg30": 12.7
+      }
+    }
+  },
+  {
+    "id": "swsh4-202",
+    "name": "Memory Capsule",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The Pokémon this card is attached to can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "202",
+    "artist": "sadaji",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/202.png",
+      "large": "https://images.pokemontcg.io/swsh4/202_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-202",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.49,
+          "mid": 2.64,
+          "high": 89,
+          "market": 2.4,
+          "directLow": 3.43
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-202",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.15,
+        "lowPrice": 2.5,
+        "trendPrice": 3.61,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 14.17,
+        "lowPriceExPlus": 2.75,
+        "avg1": 3.1,
+        "avg7": 3.65,
+        "avg30": 4.32,
+        "reverseHoloAvg1": 15,
+        "reverseHoloAvg7": 17.04,
+        "reverseHoloAvg30": 16.15
+      }
+    }
+  },
+  {
+    "id": "swsh4-203",
+    "name": "Telescopic Sight",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Benched Pokémon V and Benched Pokémon-GX.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "series": "Sword & Shield",
+      "printedTotal": 185,
+      "total": 203,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "VIV",
+      "releaseDate": "2020/11/13",
+      "updatedAt": "2020/11/13 16:20:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+      }
+    },
+    "number": "203",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/203.png",
+      "large": "https://images.pokemontcg.io/swsh4/203_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-203",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.42,
+          "mid": 2.49,
+          "high": 20,
+          "market": 2.03,
+          "directLow": 2.74
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh4-203",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.73,
+        "lowPrice": 1.9,
+        "trendPrice": 3.81,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 12.88,
+        "lowPriceExPlus": 2.9,
+        "avg1": 2.99,
+        "avg7": 3.67,
+        "avg30": 3.5,
+        "reverseHoloAvg1": 12.5,
+        "reverseHoloAvg7": 13.06,
+        "reverseHoloAvg30": 14.77
+      }
+    }
+  }
+]

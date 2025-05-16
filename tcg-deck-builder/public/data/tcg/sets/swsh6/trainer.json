@@ -1,0 +1,4854 @@
+[
+  {
+    "id": "swsh6-129",
+    "name": "Agatha",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Move up to 3 damage counters from your Active Pokémon to your opponent's Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "129",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/129.png",
+      "large": "https://images.pokemontcg.io/swsh6/129_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": 0.11
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.11,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.14
+      }
+    }
+  },
+  {
+    "id": "swsh6-130",
+    "name": "Avery",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards. If you drew any cards in this way, your opponent discards Pokémon from their Bench until they have 3.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "130",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/130.png",
+      "large": "https://images.pokemontcg.io/swsh6/130_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.22,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.24,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.21,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.06,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.14,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.25
+      }
+    }
+  },
+  {
+    "id": "swsh6-131",
+    "name": "Brawly",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Basic Rapid Strike Pokémon and put them onto your Bench. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "131",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/131.png",
+      "large": "https://images.pokemontcg.io/swsh6/131_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 2,
+          "market": 0.13,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.05,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.07,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.35,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh6-132",
+    "name": "Caitlin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put any number of cards from your hand on the bottom of your deck in any order. Then, draw that many cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "132",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/132.png",
+      "large": "https://images.pokemontcg.io/swsh6/132_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 1.5,
+          "market": 0.08,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.18,
+          "directLow": 0.14
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.16,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "swsh6-133",
+    "name": "Crushing Gloves",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Metal Pokémon (before applying Weakness and Resistance).",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "133",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/133.png",
+      "large": "https://images.pokemontcg.io/swsh6/133_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.17,
+          "high": 2,
+          "market": 0.13,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.05,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.11,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.08,
+        "reverseHoloAvg7": 0.11,
+        "reverseHoloAvg30": 0.12
+      }
+    }
+  },
+  {
+    "id": "swsh6-134",
+    "name": "Doctor",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If your opponent's Active Pokémon is a Pokémon VMAX, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "134",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/134.png",
+      "large": "https://images.pokemontcg.io/swsh6/134_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.17,
+          "high": 5,
+          "market": 0.13,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.05,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.06,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.05,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.08,
+        "reverseHoloAvg30": 0.1
+      }
+    }
+  },
+  {
+    "id": "swsh6-135",
+    "name": "Dyna Tree Hill",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Pokémon (both yours and your opponent's) can't be healed.",
+      "This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "135",
+    "artist": "Oswaldo KATO",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/135.png",
+      "large": "https://images.pokemontcg.io/swsh6/135_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.05,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.14,
+          "directLow": 0.06
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.12,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.07,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh6-136",
+    "name": "Echoing Horn",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Put a Basic Pokémon from your opponent's discard pile onto their Bench.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "136",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/136.png",
+      "large": "https://images.pokemontcg.io/swsh6/136_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.06,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.21,
+          "high": 89,
+          "market": 0.18,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.11,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.07,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.27,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.12
+      }
+    }
+  },
+  {
+    "id": "swsh6-137",
+    "name": "Expedition Uniform",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the bottom 3 cards of your deck and put them on top of your deck in any order.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "137",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/137.png",
+      "large": "https://images.pokemontcg.io/swsh6/137_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.04,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.11,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.12,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.1,
+        "reverseHoloAvg30": 0.11
+      }
+    }
+  },
+  {
+    "id": "swsh6-138",
+    "name": "Fire-Resistant Gloves",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Fire Pokémon (before applying Weakness and Resistance).",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "138",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/138.png",
+      "large": "https://images.pokemontcg.io/swsh6/138_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.05,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.19,
+          "high": 5,
+          "market": 0.14,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.12
+      }
+    }
+  },
+  {
+    "id": "swsh6-139",
+    "name": "Flannery",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "Discard a Special Energy from 1 of your opponent's Pokémon, and discard a Stadium in play.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "139",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/139.png",
+      "large": "https://images.pokemontcg.io/swsh6/139_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 89,
+          "market": 0.11,
+          "directLow": 0.1
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.06,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.17,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "swsh6-140",
+    "name": "Fog Crystal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a Psychic Energy card or a Basic Psychic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "140",
+    "artist": "sadaji",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/140.png",
+      "large": "https://images.pokemontcg.io/swsh6/140_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.26,
+          "high": 3.99,
+          "market": 0.26,
+          "directLow": 0.15
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.1,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.26,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.07,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.45,
+        "reverseHoloAvg7": 0.24,
+        "reverseHoloAvg30": 0.21
+      }
+    }
+  },
+  {
+    "id": "swsh6-141",
+    "name": "Galarian Chestplate",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "If the Pokémon this card is attached to has \"Galarian\" in its name, it takes 30 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance).",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "141",
+    "artist": "inose yukie",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/141.png",
+      "large": "https://images.pokemontcg.io/swsh6/141_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.05,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.17,
+          "high": 3.24,
+          "market": 0.11,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.1,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.19,
+        "reverseHoloAvg7": 0.09,
+        "reverseHoloAvg30": 0.11
+      }
+    }
+  },
+  {
+    "id": "swsh6-142",
+    "name": "Honey",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw a card for each of your opponent's Benched Pokémon V.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "142",
+    "artist": "Ryuta Fuse",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/142.png",
+      "large": "https://images.pokemontcg.io/swsh6/142_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.04,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.12,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.09,
+        "reverseHoloAvg30": 0.12
+      }
+    }
+  },
+  {
+    "id": "swsh6-143",
+    "name": "Justified Gloves",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Darkness Pokémon (before applying Weakness and Resistance).",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "143",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/143.png",
+      "large": "https://images.pokemontcg.io/swsh6/143_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.1,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.45,
+          "market": 0.06,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.12,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.13,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.11,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh6-144",
+    "name": "Karen's Conviction",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "During this turn, your Single Strike Pokémon's attacks do 20 more damage to your opponent's Active Pokémon for each Prize card your opponent has taken (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "144",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/144.png",
+      "large": "https://images.pokemontcg.io/swsh6/144_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.15,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.07,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.11,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.03,
+        "reverseHoloAvg7": 0.12,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh6-145",
+    "name": "Klara",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1 or both:\n• Put up to 2 Pokémon from your discard pile into your hand.\n• Put up to 2 basic Energy cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "145",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/145.png",
+      "large": "https://images.pokemontcg.io/swsh6/145_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.26,
+          "high": 20,
+          "market": 0.26,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 89,
+          "market": 0.13,
+          "directLow": 0.13
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.13,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.17,
+        "avg7": 0.1,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.24,
+        "reverseHoloAvg7": 0.13,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh6-146",
+    "name": "Melony",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Attach a Water Energy card from your discard pile to 1 of your Pokémon V. If you do, draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "146",
+    "artist": "take",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/146.png",
+      "large": "https://images.pokemontcg.io/swsh6/146_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.22,
+          "high": 2.95,
+          "market": 0.2,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.1,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.17,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh6-147",
+    "name": "Old Cemetery",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Whenever any player attaches an Energy card from their hand to 1 of their non-Psychic Pokémon, put 2 damage counters on that Pokémon.",
+      "This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "147",
+    "artist": "Oswaldo KATO",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/147.png",
+      "large": "https://images.pokemontcg.io/swsh6/147_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.25,
+          "high": 2,
+          "market": 0.22,
+          "directLow": 0.2
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.09,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.2,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.05,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.04,
+        "reverseHoloAvg7": 0.2,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "swsh6-148",
+    "name": "Path to the Peak",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Pokémon with a Rule Box in play (both yours and your opponent's) have no Abilities. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)",
+      "This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "148",
+    "artist": "Oswaldo KATO",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/148.png",
+      "large": "https://images.pokemontcg.io/swsh6/148_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.28,
+          "high": 89,
+          "market": 0.27,
+          "directLow": 0.25
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 89,
+          "market": 0.11,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.24,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.23,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.08,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.26,
+        "reverseHoloAvg7": 0.28,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh6-149",
+    "name": "Peonia",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put up to 3 Prize cards into your hand. Then, for each Prize card you put into your hand in this way, put a card from your hand face down as a Prize card.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "149",
+    "artist": "kirisAki",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/149.png",
+      "large": "https://images.pokemontcg.io/swsh6/149_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.09,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.22,
+          "high": 2,
+          "market": 0.19,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.12,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.04,
+        "reverseHoloAvg7": 0.11,
+        "reverseHoloAvg30": 0.12
+      }
+    }
+  },
+  {
+    "id": "swsh6-150",
+    "name": "Peony",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "150",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/150.png",
+      "large": "https://images.pokemontcg.io/swsh6/150_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.14,
+          "high": 2,
+          "market": 0.07,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.13,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.12,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.19,
+        "reverseHoloAvg7": 0.11,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "swsh6-151",
+    "name": "Rapid Strike Scroll of the Skies",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The Rapid Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "attacks": [
+      {
+        "name": "Gravdrop",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "151",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/151.png",
+      "large": "https://images.pokemontcg.io/swsh6/151_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-151",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 2,
+          "market": 0.15,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.05,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-151",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.1,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.04,
+        "reverseHoloAvg7": 0.1,
+        "reverseHoloAvg30": 0.1
+      }
+    }
+  },
+  {
+    "id": "swsh6-152",
+    "name": "Rugged Helmet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if it is Knocked Out), put an Energy attached to the Attacking Pokémon into your opponent's hand.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "152",
+    "artist": "sadaji",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/152.png",
+      "large": "https://images.pokemontcg.io/swsh6/152_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 5.11,
+          "market": 0.13,
+          "directLow": 0.13
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.07,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.23,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.06,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.1,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "swsh6-153",
+    "name": "Siebold",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Choose up to 2 of your Rapid Strike Pokémon and heal 60 damage from each of them.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "153",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/153.png",
+      "large": "https://images.pokemontcg.io/swsh6/153_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.03,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.12,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.08,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.09,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.12
+      }
+    }
+  },
+  {
+    "id": "swsh6-154",
+    "name": "Single Strike Scroll of Piercing",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Single Strike"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The Single Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "attacks": [
+      {
+        "name": "Bullet Breakthrough",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "154",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/154.png",
+      "large": "https://images.pokemontcg.io/swsh6/154_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.04,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 2,
+          "market": 0.09,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.04,
+        "reverseHoloTrend": 0.09,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.04,
+        "reverseHoloAvg7": 0.09,
+        "reverseHoloAvg30": 0.12
+      }
+    }
+  },
+  {
+    "id": "swsh6-155",
+    "name": "Weeding Gloves",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Grass Pokémon (before applying Weakness and Resistance).",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "155",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/155.png",
+      "large": "https://images.pokemontcg.io/swsh6/155_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.45,
+          "market": 0.04,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.11,
+          "directLow": 0.06
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.1,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.11,
+        "reverseHoloAvg7": 0.09,
+        "reverseHoloAvg30": 0.11
+      }
+    }
+  },
+  {
+    "id": "swsh6-156",
+    "name": "Welcoming Lantern",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Single Strike"
+    ],
+    "rules": [
+      "Put a Single Strike Supporter card from your discard pile into your hand.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "156",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/156.png",
+      "large": "https://images.pokemontcg.io/swsh6/156_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.18,
+          "high": 2,
+          "market": 0.08,
+          "directLow": 0.06
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.5,
+          "market": 0.07,
+          "directLow": 0.02
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.08,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.11,
+        "reverseHoloAvg7": 0.09,
+        "reverseHoloAvg30": 0.1
+      }
+    }
+  },
+  {
+    "id": "swsh6-186",
+    "name": "Agatha",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Move up to 3 damage counters from your Active Pokémon to your opponent's Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "186",
+    "artist": "NC Empire",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/186.png",
+      "large": "https://images.pokemontcg.io/swsh6/186_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-186",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 4.54,
+          "high": 89,
+          "market": 4.13,
+          "directLow": 4.13
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-186",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.88,
+        "lowPrice": 2,
+        "trendPrice": 5.62,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.5,
+        "avg1": 4,
+        "avg7": 5.09,
+        "avg30": 5.82,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-187",
+    "name": "Avery",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards. If you drew any cards in this way, your opponent discards Pokémon from their Bench until they have 3.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "187",
+    "artist": "kirisAki",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/187.png",
+      "large": "https://images.pokemontcg.io/swsh6/187_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-187",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.87,
+          "mid": 2.98,
+          "high": 200,
+          "market": 2.6,
+          "directLow": 2.68
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-187",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.89,
+        "lowPrice": 2,
+        "trendPrice": 3.54,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.79,
+        "avg1": 2.37,
+        "avg7": 3.33,
+        "avg30": 3.78,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-188",
+    "name": "Brawly",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Basic Rapid Strike Pokémon and put them onto your Bench. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "188",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/188.png",
+      "large": "https://images.pokemontcg.io/swsh6/188_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-188",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.18,
+          "mid": 2.24,
+          "high": 100,
+          "market": 1.9,
+          "directLow": 1.78
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-188",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.67,
+        "lowPrice": 1.25,
+        "trendPrice": 2.51,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.7,
+        "avg1": 2,
+        "avg7": 2.58,
+        "avg30": 2.49,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-189",
+    "name": "Caitlin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put any number of cards from your hand on the bottom of your deck in any order. Then, draw that many cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "189",
+    "artist": "En Morikura",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/189.png",
+      "large": "https://images.pokemontcg.io/swsh6/189_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-189",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 17.87,
+          "mid": 23.99,
+          "high": 40,
+          "market": 23.41,
+          "directLow": 29.48
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-189",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 22.68,
+        "lowPrice": 14.35,
+        "trendPrice": 23.78,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 17.99,
+        "avg1": 24.99,
+        "avg7": 23.95,
+        "avg30": 22.83,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-190",
+    "name": "Doctor",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If your opponent's Active Pokémon is a Pokémon VMAX, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "190",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/190.png",
+      "large": "https://images.pokemontcg.io/swsh6/190_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-190",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.8,
+          "mid": 9.56,
+          "high": 49,
+          "market": 9.51,
+          "directLow": 16.96
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-190",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.43,
+        "lowPrice": 4.95,
+        "trendPrice": 5.95,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.95,
+        "avg1": 6.5,
+        "avg7": 6.38,
+        "avg30": 6.8,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-191",
+    "name": "Flannery",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "Discard a Special Energy from 1 of your opponent's Pokémon, and discard a Stadium in play.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "191",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/191.png",
+      "large": "https://images.pokemontcg.io/swsh6/191_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-191",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 14,
+          "mid": 17.82,
+          "high": 54.99,
+          "market": 16.42,
+          "directLow": 16.11
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-191",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 13.66,
+        "lowPrice": 11.8,
+        "trendPrice": 13.83,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 11.99,
+        "avg1": 13.99,
+        "avg7": 13.89,
+        "avg30": 14.53,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-192",
+    "name": "Honey",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw a card for each of your opponent's Benched Pokémon V.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "192",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/192.png",
+      "large": "https://images.pokemontcg.io/swsh6/192_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-192",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.49,
+          "mid": 7,
+          "high": 1000,
+          "market": 6.43,
+          "directLow": 8.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-192",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.74,
+        "lowPrice": 4.9,
+        "trendPrice": 6.36,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 5.5,
+        "avg1": 5.82,
+        "avg7": 6.52,
+        "avg30": 6.75,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-193",
+    "name": "Karen's Conviction",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "During this turn, your Single Strike Pokémon's attacks do 20 more damage to your opponent's Active Pokémon for each Prize card your opponent has taken (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "193",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/193.png",
+      "large": "https://images.pokemontcg.io/swsh6/193_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-193",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 10,
+          "mid": 14.51,
+          "high": 49.95,
+          "market": 13.07,
+          "directLow": 13.5
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-193",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 11.96,
+        "lowPrice": 5,
+        "trendPrice": 11.26,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 8.19,
+        "avg1": 14.49,
+        "avg7": 11.23,
+        "avg30": 11.91,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-194",
+    "name": "Klara",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1 or both:\n• Put up to 2 Pokémon from your discard pile into your hand.\n• Put up to 2 basic Energy cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "194",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/194.png",
+      "large": "https://images.pokemontcg.io/swsh6/194_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-194",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 15,
+          "mid": 19.99,
+          "high": 49.95,
+          "market": 15.9,
+          "directLow": 17.42
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-194",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 15.22,
+        "lowPrice": 7.5,
+        "trendPrice": 13.89,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 13.5,
+        "avg1": 16.99,
+        "avg7": 14.69,
+        "avg30": 15.56,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-195",
+    "name": "Melony",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Attach a Water Energy card from your discard pile to 1 of your Pokémon V. If you do, draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "195",
+    "artist": "Taira Akitsu",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/195.png",
+      "large": "https://images.pokemontcg.io/swsh6/195_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-195",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.71,
+          "mid": 5.89,
+          "high": 1000,
+          "market": 5.16,
+          "directLow": 6.17
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-195",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.73,
+        "lowPrice": 3,
+        "trendPrice": 4.67,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3,
+        "avg1": 3.5,
+        "avg7": 4.74,
+        "avg30": 4.67,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-196",
+    "name": "Peonia",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put up to 3 Prize cards into your hand. Then, for each Prize card you put into your hand in this way, put a card from your hand face down as a Prize card.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "196",
+    "artist": "kirisAki",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/196.png",
+      "large": "https://images.pokemontcg.io/swsh6/196_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-196",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 8,
+          "mid": 10.47,
+          "high": 90,
+          "market": 9.45,
+          "directLow": 9.88
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-196",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 11.3,
+        "lowPrice": 5.6,
+        "trendPrice": 10.72,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 9.5,
+        "avg1": 12.5,
+        "avg7": 11.09,
+        "avg30": 12.12,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-197",
+    "name": "Peony",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "197",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/197.png",
+      "large": "https://images.pokemontcg.io/swsh6/197_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-197",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.75,
+          "mid": 3.71,
+          "high": 24,
+          "market": 3.34,
+          "directLow": 3.7
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-197",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.19,
+        "lowPrice": 0.5,
+        "trendPrice": 5.76,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3,
+        "avg1": 5,
+        "avg7": 5.93,
+        "avg30": 5.39,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-198",
+    "name": "Siebold",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Choose up to 2 of your Rapid Strike Pokémon and heal 60 damage from each of them.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "198",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/198.png",
+      "large": "https://images.pokemontcg.io/swsh6/198_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-198",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 3.07,
+          "high": 200,
+          "market": 3.03,
+          "directLow": 2.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-198",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.28,
+        "lowPrice": 0.99,
+        "trendPrice": 4.01,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.95,
+        "avg1": 4.75,
+        "avg7": 4.42,
+        "avg30": 4.46,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-210",
+    "name": "Agatha",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Move up to 3 damage counters from your Active Pokémon to your opponent's Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "210",
+    "artist": "NC Empire",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/210.png",
+      "large": "https://images.pokemontcg.io/swsh6/210_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-210",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4,
+          "mid": 5.05,
+          "high": 18.99,
+          "market": 4.61,
+          "directLow": 4.62
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-210",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.12,
+        "lowPrice": 4,
+        "trendPrice": 5.27,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4,
+        "avg1": 3.87,
+        "avg7": 5.84,
+        "avg30": 5.49,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-211",
+    "name": "Avery",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards. If you drew any cards in this way, your opponent discards Pokémon from their Bench until they have 3.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "211",
+    "artist": "kirisAki",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/211.png",
+      "large": "https://images.pokemontcg.io/swsh6/211_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-211",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.95,
+          "mid": 6.68,
+          "high": 75,
+          "market": 6.25,
+          "directLow": 6.43
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-211",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.63,
+        "lowPrice": 5.29,
+        "trendPrice": 7.23,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 5.29,
+        "avg1": 7,
+        "avg7": 7.56,
+        "avg30": 7.76,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-212",
+    "name": "Brawly",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Basic Rapid Strike Pokémon and put them onto your Bench. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "212",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/212.png",
+      "large": "https://images.pokemontcg.io/swsh6/212_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-212",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.82,
+          "mid": 5.35,
+          "high": 29.99,
+          "market": 4.74,
+          "directLow": 6.74
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-212",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.99,
+        "lowPrice": 3.99,
+        "trendPrice": 6.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.99,
+        "avg1": 4.49,
+        "avg7": 6.19,
+        "avg30": 7.1,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-213",
+    "name": "Caitlin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put any number of cards from your hand on the bottom of your deck in any order. Then, draw that many cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "213",
+    "artist": "En Morikura",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/213.png",
+      "large": "https://images.pokemontcg.io/swsh6/213_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-213",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 7,
+          "mid": 8.87,
+          "high": 1000,
+          "market": 8.82,
+          "directLow": 15.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-213",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.4,
+        "lowPrice": 4.9,
+        "trendPrice": 8.54,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 6.5,
+        "avg1": 9.12,
+        "avg7": 8.54,
+        "avg30": 9.51,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-214",
+    "name": "Doctor",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If your opponent's Active Pokémon is a Pokémon VMAX, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "214",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/214.png",
+      "large": "https://images.pokemontcg.io/swsh6/214_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-214",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.32,
+          "mid": 6.8,
+          "high": 2000,
+          "market": 6.13,
+          "directLow": 7.57
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-214",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.18,
+        "lowPrice": 5.2,
+        "trendPrice": 6.84,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 5.2,
+        "avg1": 3,
+        "avg7": 7.91,
+        "avg30": 6.44,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-215",
+    "name": "Flannery",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "Discard a Special Energy from 1 of your opponent's Pokémon, and discard a Stadium in play.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "215",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/215.png",
+      "large": "https://images.pokemontcg.io/swsh6/215_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-215",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.45,
+          "mid": 5.99,
+          "high": 39.99,
+          "market": 5.44,
+          "directLow": 5.98
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-215",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.16,
+        "lowPrice": 2.8,
+        "trendPrice": 5.45,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.8,
+        "avg1": 6,
+        "avg7": 5.17,
+        "avg30": 5.73,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-216",
+    "name": "Karen's Conviction",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "During this turn, your Single Strike Pokémon's attacks do 20 more damage to your opponent's Active Pokémon for each Prize card your opponent has taken (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "216",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/216.png",
+      "large": "https://images.pokemontcg.io/swsh6/216_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-216",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.25,
+          "mid": 6.11,
+          "high": 49.99,
+          "market": 4.92,
+          "directLow": 6.15
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-216",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.24,
+        "lowPrice": 4.5,
+        "trendPrice": 6.33,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.5,
+        "avg1": 12.45,
+        "avg7": 6.44,
+        "avg30": 6.07,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-217",
+    "name": "Klara",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1 or both:\n• Put up to 2 Pokémon from your discard pile into your hand.\n• Put up to 2 basic Energy cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "217",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/217.png",
+      "large": "https://images.pokemontcg.io/swsh6/217_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-217",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.7,
+          "mid": 7.01,
+          "high": 1000,
+          "market": 6.72,
+          "directLow": 7.94
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-217",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.06,
+        "lowPrice": 4,
+        "trendPrice": 5.84,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.99,
+        "avg1": 6.47,
+        "avg7": 6.34,
+        "avg30": 7.19,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-218",
+    "name": "Melony",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Attach a Water Energy card from your discard pile to 1 of your Pokémon V. If you do, draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "218",
+    "artist": "Taira Akitsu",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/218.png",
+      "large": "https://images.pokemontcg.io/swsh6/218_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-218",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 7,
+          "mid": 9.61,
+          "high": 1000,
+          "market": 9.39,
+          "directLow": 9.57
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-218",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.77,
+        "lowPrice": 4,
+        "trendPrice": 9.34,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 6.98,
+        "avg1": 8,
+        "avg7": 8.73,
+        "avg30": 8.41,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-219",
+    "name": "Peonia",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put up to 3 Prize cards into your hand. Then, for each Prize card you put into your hand in this way, put a card from your hand face down as a Prize card.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "219",
+    "artist": "kirisAki",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/219.png",
+      "large": "https://images.pokemontcg.io/swsh6/219_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-219",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.23,
+          "mid": 7.22,
+          "high": 34.95,
+          "market": 6.84,
+          "directLow": 7.06
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-219",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.91,
+        "lowPrice": 4.99,
+        "trendPrice": 9.42,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 5.88,
+        "avg1": 7.5,
+        "avg7": 8.73,
+        "avg30": 8.17,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-220",
+    "name": "Peony",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "220",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/220.png",
+      "large": "https://images.pokemontcg.io/swsh6/220_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-220",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.6,
+          "mid": 5.13,
+          "high": 10.38,
+          "market": 4.51,
+          "directLow": 5.73
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-220",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.01,
+        "lowPrice": 3.5,
+        "trendPrice": 5.69,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.5,
+        "avg1": 5.49,
+        "avg7": 5.74,
+        "avg30": 6.59,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-221",
+    "name": "Siebold",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Choose up to 2 of your Rapid Strike Pokémon and heal 60 damage from each of them.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "221",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/221.png",
+      "large": "https://images.pokemontcg.io/swsh6/221_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-221",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.49,
+          "mid": 5,
+          "high": 11,
+          "market": 4.43,
+          "directLow": 6.97
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-221",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.08,
+        "lowPrice": 3.5,
+        "trendPrice": 5.59,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.5,
+        "avg1": 11,
+        "avg7": 6.66,
+        "avg30": 5.66,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-225",
+    "name": "Echoing Horn",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Put a Basic Pokémon from your opponent's discard pile onto their Bench.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "225",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/225.png",
+      "large": "https://images.pokemontcg.io/swsh6/225_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-225",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.9,
+          "mid": 3.07,
+          "high": 26,
+          "market": 2.48,
+          "directLow": 2.97
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-225",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.62,
+        "lowPrice": 3,
+        "trendPrice": 5.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.4,
+        "avg1": 4.87,
+        "avg7": 5.71,
+        "avg30": 4.97,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-226",
+    "name": "Fan of Waves",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Put a Special Energy attached to 1 of your opponent's Pokémon on the bottom of their deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "226",
+    "artist": "sadaji",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/226.png",
+      "large": "https://images.pokemontcg.io/swsh6/226_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-226",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.99,
+          "mid": 2.99,
+          "high": 26,
+          "market": 2.45,
+          "directLow": 3.6
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-226",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.21,
+        "lowPrice": 3.49,
+        "trendPrice": 5.55,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.49,
+        "avg1": 8,
+        "avg7": 5.02,
+        "avg30": 4.8,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-227",
+    "name": "Fog Crystal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a Psychic Energy card or a Basic Psychic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "227",
+    "artist": "sadaji",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/227.png",
+      "large": "https://images.pokemontcg.io/swsh6/227_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-227",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 4.1,
+          "high": 27.5,
+          "market": 3.65,
+          "directLow": 4.79
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-227",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.11,
+        "lowPrice": 4,
+        "trendPrice": 4.91,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4,
+        "avg1": 4,
+        "avg7": 5.22,
+        "avg30": 6.14,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-228",
+    "name": "Rugged Helmet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if it is Knocked Out), put an Energy attached to the Attacking Pokémon into your opponent's hand.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "228",
+    "artist": "sadaji",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/228.png",
+      "large": "https://images.pokemontcg.io/swsh6/228_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-228",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 3.17,
+          "high": 89,
+          "market": 3.17,
+          "directLow": 3.3
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-228",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.44,
+        "lowPrice": 2.99,
+        "trendPrice": 4.48,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4,
+        "avg1": 6.75,
+        "avg7": 4.88,
+        "avg30": 4.84,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-229",
+    "name": "Urn of Vitality",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Single Strike"
+    ],
+    "rules": [
+      "Shuffle up to 2 Single Strike Energy cards from your discard pile into your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "229",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/229.png",
+      "large": "https://images.pokemontcg.io/swsh6/229_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-229",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 2.95,
+          "high": 20,
+          "market": 2.29,
+          "directLow": 2.48
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-229",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.87,
+        "lowPrice": 3.2,
+        "trendPrice": 5.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.2,
+        "avg1": 4.1,
+        "avg7": 4.41,
+        "avg30": 4.47,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-230",
+    "name": "Welcoming Lantern",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Single Strike"
+    ],
+    "rules": [
+      "Put a Single Strike Supporter card from your discard pile into your hand.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "230",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/230.png",
+      "large": "https://images.pokemontcg.io/swsh6/230_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-230",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.25,
+          "mid": 2.94,
+          "high": 45.3,
+          "market": 2.32,
+          "directLow": 3.36
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-230",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.24,
+        "lowPrice": 1.98,
+        "trendPrice": 4.62,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.99,
+        "avg1": 4.5,
+        "avg7": 3.87,
+        "avg30": 4.7,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

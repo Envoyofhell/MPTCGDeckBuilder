@@ -1,0 +1,1741 @@
+[
+  {
+    "id": "sv3pt5-152",
+    "name": "Antique Dome Fossil",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "hp": "60",
+    "rules": [
+      "Play this card as if it were a 60-HP Basic Colorless Pokémon. This card can't be affected by any Special Conditions and can't retreat.  At any time during your turn, you may discard this card from play.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "abilities": [
+      {
+        "name": "Domed Armor",
+        "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "152",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/152.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/152_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.89,
+          "high": 7.95,
+          "market": 0.71,
+          "directLow": 0.87
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.15,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 1.2,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.96,
+        "reverseHoloAvg7": 1.11,
+        "reverseHoloAvg30": 1.15
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-153",
+    "name": "Antique Helix Fossil",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "hp": "60",
+    "rules": [
+      "Play this card as if it were a 60-HP Basic Colorless Pokémon. This card can't be affected by any Special Conditions and can't retreat.  At any time during your turn, you may discard this card from play.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "abilities": [
+      {
+        "name": "Helical Swell",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand.",
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "153",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/153.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/153_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.49,
+          "mid": 1.76,
+          "high": 10.98,
+          "market": 1.61,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.47,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.61,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.07,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 1.43,
+        "reverseHoloAvg7": 1.51,
+        "reverseHoloAvg30": 1.49
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-154",
+    "name": "Antique Old Amber",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "hp": "60",
+    "rules": [
+      "Play this card as if it were a 60-HP Basic Colorless Pokémon. This card can't be affected by any Special Conditions and can't retreat.  At any time during your turn, you may discard this card from play.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "abilities": [
+      {
+        "name": "Amber Protection",
+        "text": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "154",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/154.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/154_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.83,
+          "high": 7.95,
+          "market": 0.73,
+          "directLow": 0.98
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.26,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 1.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 1.08,
+        "reverseHoloAvg30": 1.26
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-155",
+    "name": "Big Air Balloon",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Stage 2 Pokémon this card is attached to has no Retreat Cost.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "155",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/155.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/155_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 1.5,
+          "high": 5000.32,
+          "market": 1.48,
+          "directLow": 1.45
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.1,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 1.33,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.09,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 1.23,
+        "reverseHoloAvg7": 1.08,
+        "reverseHoloAvg30": 1.1
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-156",
+    "name": "Bill's Transfer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 8 cards of your deck. You may reveal any number of Pokémon you find there and put them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "156",
+    "artist": "GIDORA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/156.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/156_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.61,
+          "high": 4.98,
+          "market": 0.51,
+          "directLow": 0.46
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 30.1,
+          "market": 0.1,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.03,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 1.03,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.05,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.89,
+        "reverseHoloAvg7": 1.09,
+        "reverseHoloAvg30": 1.01
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-157",
+    "name": "Cycling Road",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, that player may discard a Basic Energy card from their hand in order to draw a card.",
+      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "157",
+    "artist": "Oswaldo KATO",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/157.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/157_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.43,
+          "mid": 0.68,
+          "high": 4.98,
+          "market": 0.6,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 3.99,
+          "market": 0.08,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.24,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.37,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.08,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 1.05,
+        "reverseHoloAvg7": 1.28,
+        "reverseHoloAvg30": 1.23
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-158",
+    "name": "Daisy's Help",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. Look at your face-down Prize cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "158",
+    "artist": "Tomomi Kaneko",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/158.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/158_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.24,
+          "mid": 0.62,
+          "high": 4.95,
+          "market": 0.5,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.06,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.04,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 1.08,
+        "reverseHoloAvg7": 1.01,
+        "reverseHoloAvg30": 1.06
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-159",
+    "name": "Energy Sticker",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, attach a Basic Energy card from your discard pile to 1 of your Benched Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "159",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/159.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/159_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.75,
+          "mid": 2,
+          "high": 9.99,
+          "market": 1.94,
+          "directLow": 2.55
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 3.99,
+          "market": 0.15,
+          "directLow": 0.15
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.14,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.74,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 1.91,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.11,
+        "avg7": 0.16,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 1.09,
+        "reverseHoloAvg7": 1.79,
+        "reverseHoloAvg30": 1.74
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-160",
+    "name": "Erika's Invitation",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent reveals their hand, and you put a Basic Pokémon you find there onto your opponent's Bench. If you put a Pokémon onto their Bench in this way, switch in that Pokémon to the Active Spot.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "160",
+    "artist": "saino misaki",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/160.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/160_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 30.08,
+          "market": 0.08,
+          "directLow": 0.07
+        },
+        "reverseHolofoil": {
+          "low": 0.13,
+          "mid": 1.25,
+          "high": 99,
+          "market": 1.3,
+          "directLow": 0.76
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.1,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.06,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.86,
+        "reverseHoloAvg7": 1.04,
+        "reverseHoloAvg30": 1.06
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-161",
+    "name": "Giovanni's Charisma",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put an Energy attached to your opponent's Active Pokémon into their hand. If you do, attach an Energy card from your hand to your Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "161",
+    "artist": "hncl",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/161.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/161_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 30,
+          "market": 0.14,
+          "directLow": 0.12
+        },
+        "reverseHolofoil": {
+          "low": 0.5,
+          "mid": 1.68,
+          "high": 31.33,
+          "market": 1.5,
+          "directLow": 1.62
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.22,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.16,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.09,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 1.38,
+        "reverseHoloAvg7": 1.27,
+        "reverseHoloAvg30": 1.21
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-162",
+    "name": "Grabber",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Your opponent reveals their hand, and you put a Pokémon you find there on the bottom of their deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "162",
+    "artist": "inose yukie",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/162.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/162_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-162",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.12,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.3,
+          "mid": 1.11,
+          "high": 7.95,
+          "market": 0.96,
+          "directLow": 1.41
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-162",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.18,
+        "lowPrice": 0.02,
+        "trendPrice": 0.24,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.48,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 1.71,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.14,
+        "avg7": 0.18,
+        "avg30": 0.18,
+        "reverseHoloAvg1": 1.31,
+        "reverseHoloAvg7": 1.55,
+        "reverseHoloAvg30": 1.44
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-163",
+    "name": "Leftovers",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 20 damage from it.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "163",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/163.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/163_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-163",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 5,
+          "market": 0.09,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.6,
+          "high": 4.98,
+          "market": 0.41,
+          "directLow": 0.4
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-163",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.29,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 1.24,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.05,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 1.06,
+        "reverseHoloAvg7": 1.17,
+        "reverseHoloAvg30": 1.28
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-164",
+    "name": "Protective Goggles",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Basic Pokémon this card is attached to has no Weakness.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "164",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/164.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/164_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-164",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.16,
+          "high": 3.99,
+          "market": 0.11,
+          "directLow": 0.11
+        },
+        "reverseHolofoil": {
+          "low": 0.49,
+          "mid": 0.76,
+          "high": 4.99,
+          "market": 0.75,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-164",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.33,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.43,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.1,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 1.07,
+        "reverseHoloAvg7": 1.27,
+        "reverseHoloAvg30": 1.32
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-165",
+    "name": "Rigid Band",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Stage 1 Pokémon this card is attached to takes 30 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance).",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "165",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/165.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/165_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-165",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 3.99,
+          "market": 0.11,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.75,
+          "mid": 1.85,
+          "high": 7.95,
+          "market": 1.55,
+          "directLow": 1.96
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-165",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.23,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.39,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.1,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.95,
+        "reverseHoloAvg7": 1.29,
+        "reverseHoloAvg30": 1.25
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-194",
+    "name": "Bill's Transfer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 8 cards of your deck. You may reveal any number of Pokémon you find there and put them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "194",
+    "artist": "GIDORA",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/194.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/194_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-194",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.99,
+          "mid": 3.7,
+          "high": 44.5,
+          "market": 2.93,
+          "directLow": 2.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-194",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.4,
+        "lowPrice": 3.25,
+        "trendPrice": 6.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.5,
+        "avg1": 6.95,
+        "avg7": 6.32,
+        "avg30": 6.44,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-195",
+    "name": "Daisy's Help",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. Look at your face-down Prize cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "195",
+    "artist": "Fumie Kittaka",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/195.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/195_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-195",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.5,
+          "mid": 4.12,
+          "high": 42,
+          "market": 3.47,
+          "directLow": 3.52
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-195",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.65,
+        "lowPrice": 3.5,
+        "trendPrice": 6.87,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.5,
+        "avg1": 6.42,
+        "avg7": 6.42,
+        "avg30": 6.64,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-196",
+    "name": "Erika's Invitation",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent reveals their hand, and you put a Basic Pokémon you find there onto your opponent's Bench. If you put a Pokémon onto their Bench in this way, switch in that Pokémon to the Active Spot.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "196",
+    "artist": "saino misaki",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/196.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/196_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-196",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.48,
+          "mid": 7.52,
+          "high": 100,
+          "market": 6.25,
+          "directLow": 6.33
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-196",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 11.89,
+        "lowPrice": 7.5,
+        "trendPrice": 10.68,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 7.5,
+        "avg1": 11.24,
+        "avg7": 10.86,
+        "avg30": 11.93,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-197",
+    "name": "Giovanni's Charisma",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put an Energy attached to your opponent's Active Pokémon into their hand. If you do, attach an Energy card from your hand to your Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "197",
+    "artist": "hncl",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/197.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/197_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-197",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3,
+          "mid": 5.21,
+          "high": 60,
+          "market": 5.07,
+          "directLow": 7.48
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-197",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 10.46,
+        "lowPrice": 5,
+        "trendPrice": 10.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 8,
+        "avg1": 9.6,
+        "avg7": 10.17,
+        "avg30": 10.48,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-203",
+    "name": "Erika's Invitation",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent reveals their hand, and you put a Basic Pokémon you find there onto your opponent's Bench. If you put a Pokémon onto their Bench in this way, switch in that Pokémon to the Active Spot.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "203",
+    "artist": "Cona Nitanda",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/203.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/203_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-203",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 11,
+          "mid": 16.52,
+          "high": 200,
+          "market": 15.03,
+          "directLow": 15.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-203",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 22.01,
+        "lowPrice": 10.99,
+        "trendPrice": 20.45,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 18,
+        "avg1": 20.41,
+        "avg7": 20.83,
+        "avg30": 21.97,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-204",
+    "name": "Giovanni's Charisma",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put an Energy attached to your opponent's Active Pokémon into their hand. If you do, attach an Energy card from your hand to your Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "204",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/204.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/204_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-204",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 10,
+          "mid": 17.18,
+          "high": 199.99,
+          "market": 14.16,
+          "directLow": 16.28
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-204",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 26.31,
+        "lowPrice": 20,
+        "trendPrice": 25.82,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 22,
+        "avg1": 24.28,
+        "avg7": 25.2,
+        "avg30": 26.49,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-206",
+    "name": "Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "206",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/206.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/206_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-206",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.01,
+          "mid": 3.31,
+          "high": 15,
+          "market": 2.26,
+          "directLow": 2.37
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-206",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.12,
+        "lowPrice": 2,
+        "trendPrice": 4.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2,
+        "avg1": 3.98,
+        "avg7": 3.99,
+        "avg30": 4.13,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,2761 @@
+[
+  {
+    "id": "swsh5-121",
+    "name": "Bruno",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw 4 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 7 cards instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "121",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/121.png",
+      "large": "https://images.pokemontcg.io/swsh5/121_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-121",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.23,
+          "high": 3.98,
+          "market": 0.19,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 2,
+          "market": 0.05,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-121",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.16,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh5-122",
+    "name": "Camping Gear",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a card and put it into your hand. Then, shuffle your deck. Your turn ends.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "122",
+    "artist": "sadaji",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/122.png",
+      "large": "https://images.pokemontcg.io/swsh5/122_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-122",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.13,
+          "directLow": 0.13
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.5,
+          "market": 0.08,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-122",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.17,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.1,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.19,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh5-123",
+    "name": "Cheryl",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Heal all damage from each of your Evolution Pokémon. If you do, discard all Energy from the Pokémon that were healed in this way.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "123",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/123.png",
+      "large": "https://images.pokemontcg.io/swsh5/123_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-123",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 5,
+          "market": 0.07,
+          "directLow": 0.06
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-123",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.17,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.07,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.23
+      }
+    }
+  },
+  {
+    "id": "swsh5-124",
+    "name": "Energy Recycler",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Shuffle up to 5 basic Energy cards from your discard pile into your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "124",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/124.png",
+      "large": "https://images.pokemontcg.io/swsh5/124_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-124",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.35,
+          "high": 29.99,
+          "market": 0.31,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.22,
+          "high": 2,
+          "market": 0.21,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-124",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.38,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.45,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.3,
+        "avg7": 0.12,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.43,
+        "reverseHoloAvg30": 0.39
+      }
+    }
+  },
+  {
+    "id": "swsh5-125",
+    "name": "Escape Rope",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Each player switches their Active Pokémon with 1 of their Benched Pokémon. Your opponent switches first. (If a player does not have a Benched Pokémon, they don't switch Pokémon.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "125",
+    "artist": "sadaji",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/125.png",
+      "large": "https://images.pokemontcg.io/swsh5/125_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-125",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 1.53,
+          "market": 0.14,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.4,
+          "high": 9.99,
+          "market": 0.38,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-125",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.16,
+        "lowPrice": 0.02,
+        "trendPrice": 0.19,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.17,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.26,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.13,
+        "avg30": 0.15,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.46
+      }
+    }
+  },
+  {
+    "id": "swsh5-126",
+    "name": "Exp. Share",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "When your Active Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may move a Basic Energy from that Pokémon to the Pokémon this card is attached to.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "126",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/126.png",
+      "large": "https://images.pokemontcg.io/swsh5/126_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-126",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.22,
+          "high": 2,
+          "market": 0.16,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.14,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-126",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.33,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.23,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.09,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.23,
+        "reverseHoloAvg30": 0.28
+      }
+    }
+  },
+  {
+    "id": "swsh5-127",
+    "name": "Fan of Waves",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Put a Special Energy attached to 1 of your opponent's Pokémon on the bottom of their deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "127",
+    "artist": "sadaji",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/127.png",
+      "large": "https://images.pokemontcg.io/swsh5/127_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-127",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.22,
+          "high": 3.69,
+          "market": 0.16,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.08,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-127",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.27,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.08,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "swsh5-128",
+    "name": "Korrina's Focus",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Draw cards until you have 6 cards in your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "128",
+    "artist": "kirisAki",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/128.png",
+      "large": "https://images.pokemontcg.io/swsh5/128_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-128",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.25,
+          "high": 2,
+          "market": 0.2,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.14,
+          "high": 2,
+          "market": 0.08,
+          "directLow": 0.08
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-128",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.26,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.2,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.07,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.04,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh5-129",
+    "name": "Level Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a Pokémon with 90 HP or less, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "129",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/129.png",
+      "large": "https://images.pokemontcg.io/swsh5/129_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.14,
+          "mid": 0.5,
+          "high": 9.99,
+          "market": 0.5,
+          "directLow": 0.37
+        },
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.5,
+          "market": 0.17,
+          "directLow": 0.17
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.22,
+        "lowPrice": 0.02,
+        "trendPrice": 0.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.75,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.76,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.17,
+        "avg7": 0.18,
+        "avg30": 0.19,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.79,
+        "reverseHoloAvg30": 0.64
+      }
+    }
+  },
+  {
+    "id": "swsh5-130",
+    "name": "Phoebe",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "During this turn, damage from your Pokémon VMAX's attacks isn't affected by any effects on your opponent's Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "130",
+    "artist": "GAME FREAK inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/130.png",
+      "large": "https://images.pokemontcg.io/swsh5/130_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 1.31,
+          "market": 0.09,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.23,
+          "high": 2,
+          "market": 0.21,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "swsh5-131",
+    "name": "Rapid Strike Scroll of Swirls",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The Rapid Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "attacks": [
+      {
+        "name": "Matchless Maelstrom",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "131",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/131.png",
+      "large": "https://images.pokemontcg.io/swsh5/131_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 1.45,
+          "market": 0.05,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.1,
+          "directLow": 0.13
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.23,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.22,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "swsh5-132",
+    "name": "Rapid Strike Style Mustard",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "You can play this card only when it is the last card in your hand.",
+      "Put a Rapid Strike Pokémon from your discard pile onto your Bench. If you do, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "132",
+    "artist": "Naoki Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/132.png",
+      "large": "https://images.pokemontcg.io/swsh5/132_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.12,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.45,
+          "market": 0.06,
+          "directLow": 0.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh5-133",
+    "name": "Single Strike Scroll of Scorn",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Single Strike"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The Single Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "attacks": [
+      {
+        "name": "Furious Anger",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+      }
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "133",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/133.png",
+      "large": "https://images.pokemontcg.io/swsh5/133_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.13,
+          "directLow": 0.1
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 1.45,
+          "market": 0.06,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.16,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.06,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh5-134",
+    "name": "Single Strike Style Mustard",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "You can play this card only when it is the last card in your hand.",
+      "Search your deck for a Single Strike Pokémon and put it onto your Bench. Then, shuffle your deck. If you searched your deck in this way, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "134",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/134.png",
+      "large": "https://images.pokemontcg.io/swsh5/134_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 5.19,
+          "market": 0.06,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.11,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.13,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "swsh5-135",
+    "name": "Sordward & Shielbert",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose a Trainer card from your discard pile. Then, ask your opponent if you may put it into your hand. If yes, put that card into your hand. If no, draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "135",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/135.png",
+      "large": "https://images.pokemontcg.io/swsh5/135_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.45,
+          "market": 0.05,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.16,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.17,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "swsh5-136",
+    "name": "Tool Jammer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "As long as the Pokémon this card is attached to is in the Active Spot, Pokémon Tools attached to your opponent's Active Pokémon have no effect, except for Tool Jammer.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "136",
+    "artist": "inose yukie",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/136.png",
+      "large": "https://images.pokemontcg.io/swsh5/136_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.14,
+          "high": 5,
+          "market": 0.07,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.23,
+          "high": 3,
+          "market": 0.17,
+          "directLow": 0.17
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.27,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.23,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.27,
+        "reverseHoloAvg30": 0.22
+      }
+    }
+  },
+  {
+    "id": "swsh5-137",
+    "name": "Tower of Darkness",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium",
+      "Single Strike"
+    ],
+    "rules": [
+      "Once during each player's turn, that player may draw 2 cards. In order to use this effect, that player must discard a Single Strike card from their hand.",
+      "This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "137",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/137.png",
+      "large": "https://images.pokemontcg.io/swsh5/137_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.16,
+          "directLow": 0.15
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.07,
+          "directLow": 0.06
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.28,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.13,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh5-138",
+    "name": "Tower of Waters",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "The Retreat Cost of each Rapid Strike Pokémon in play (both yours and your opponent's) is ColorlessColorless less.",
+      "This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "138",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/138.png",
+      "large": "https://images.pokemontcg.io/swsh5/138_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2,
+          "market": 0.08,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.08,
+          "mid": 0.25,
+          "high": 41,
+          "market": 0.22,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.23,
+        "reverseHoloLow": 0.04,
+        "reverseHoloTrend": 0.21,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.23,
+        "reverseHoloAvg30": 0.21
+      }
+    }
+  },
+  {
+    "id": "swsh5-139",
+    "name": "Urn of Vitality",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Single Strike"
+    ],
+    "rules": [
+      "Shuffle up to 2 Single Strike Energy cards from your discard pile into your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "139",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/139.png",
+      "large": "https://images.pokemontcg.io/swsh5/139_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.25,
+          "high": 2,
+          "market": 0.17,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 89,
+          "market": 0.06,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.21
+      }
+    }
+  },
+  {
+    "id": "swsh5-158",
+    "name": "Bruno",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw 4 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 7 cards instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "158",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/158.png",
+      "large": "https://images.pokemontcg.io/swsh5/158_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.5,
+          "mid": 2.4,
+          "high": 12,
+          "market": 1.97,
+          "directLow": 2.59
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.92,
+        "lowPrice": 2,
+        "trendPrice": 3.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 12.65,
+        "lowPriceExPlus": 2.49,
+        "avg1": 2.99,
+        "avg7": 2.64,
+        "avg30": 2.93,
+        "reverseHoloAvg1": 11.99,
+        "reverseHoloAvg7": 13.21,
+        "reverseHoloAvg30": 13.96
+      }
+    }
+  },
+  {
+    "id": "swsh5-159",
+    "name": "Cheryl",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Heal all damage from each of your Evolution Pokémon. If you do, discard all Energy from the Pokémon that were healed in this way.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "159",
+    "artist": "Yuu Nishida",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/159.png",
+      "large": "https://images.pokemontcg.io/swsh5/159_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 9,
+          "mid": 11.62,
+          "high": 1000,
+          "market": 10.73,
+          "directLow": 9.7
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 9.96,
+        "lowPrice": 2.95,
+        "trendPrice": 9.89,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 24.55,
+        "lowPriceExPlus": 7,
+        "avg1": 9.23,
+        "avg7": 9.24,
+        "avg30": 10.17,
+        "reverseHoloAvg1": 24.32,
+        "reverseHoloAvg7": 26.13,
+        "reverseHoloAvg30": 25.9
+      }
+    }
+  },
+  {
+    "id": "swsh5-160",
+    "name": "Korrina's Focus",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "Draw cards until you have 6 cards in your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "160",
+    "artist": "Taira Akitsu",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/160.png",
+      "large": "https://images.pokemontcg.io/swsh5/160_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.25,
+          "mid": 5,
+          "high": 31.5,
+          "market": 4.41,
+          "directLow": 4.73
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.94,
+        "lowPrice": 2.5,
+        "trendPrice": 5.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 18.48,
+        "lowPriceExPlus": 3,
+        "avg1": 3,
+        "avg7": 5.23,
+        "avg30": 4.81,
+        "reverseHoloAvg1": 15,
+        "reverseHoloAvg7": 23.45,
+        "reverseHoloAvg30": 23.08
+      }
+    }
+  },
+  {
+    "id": "swsh5-161",
+    "name": "Phoebe",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "During this turn, damage from your Pokémon VMAX's attacks isn't affected by any effects on your opponent's Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "161",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/161.png",
+      "large": "https://images.pokemontcg.io/swsh5/161_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 15.5,
+          "mid": 19.16,
+          "high": 89.99,
+          "market": 17.42,
+          "directLow": 19.98
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 15.3,
+        "lowPrice": 7.49,
+        "trendPrice": 15.01,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 34.57,
+        "lowPriceExPlus": 11,
+        "avg1": 19,
+        "avg7": 14.61,
+        "avg30": 15.16,
+        "reverseHoloAvg1": 32.62,
+        "reverseHoloAvg7": 33.62,
+        "reverseHoloAvg30": 32.54
+      }
+    }
+  },
+  {
+    "id": "swsh5-162",
+    "name": "Rapid Strike Style Mustard",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "You can play this card only when it is the last card in your hand.",
+      "Put a Rapid Strike Pokémon from your discard pile onto your Bench. If you do, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "162",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/162.png",
+      "large": "https://images.pokemontcg.io/swsh5/162_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-162",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.98,
+          "mid": 1.58,
+          "high": 89,
+          "market": 1.36,
+          "directLow": 1.74
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-162",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.43,
+        "lowPrice": 1.5,
+        "trendPrice": 2.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 14.02,
+        "lowPriceExPlus": 1.5,
+        "avg1": 1.5,
+        "avg7": 2.67,
+        "avg30": 2.45,
+        "reverseHoloAvg1": 14,
+        "reverseHoloAvg7": 16.05,
+        "reverseHoloAvg30": 15.09
+      }
+    }
+  },
+  {
+    "id": "swsh5-163",
+    "name": "Single Strike Style Mustard",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "You can play this card only when it is the last card in your hand.",
+      "Search your deck for a Single Strike Pokémon and put it onto your Bench. Then, shuffle your deck. If you searched your deck in this way, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "163",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/163.png",
+      "large": "https://images.pokemontcg.io/swsh5/163_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-163",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.89,
+          "mid": 1.7,
+          "high": 99.99,
+          "market": 1.43,
+          "directLow": 1.94
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-163",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.65,
+        "lowPrice": 0.99,
+        "trendPrice": 2.58,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 11.78,
+        "lowPriceExPlus": 0.99,
+        "avg1": 2.5,
+        "avg7": 2.3,
+        "avg30": 2.57,
+        "reverseHoloAvg1": 13.59,
+        "reverseHoloAvg7": 12.04,
+        "reverseHoloAvg30": 12.94
+      }
+    }
+  },
+  {
+    "id": "swsh5-172",
+    "name": "Bruno",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw 4 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 7 cards instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "172",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/172.png",
+      "large": "https://images.pokemontcg.io/swsh5/172_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.25,
+          "mid": 5.99,
+          "high": 20,
+          "market": 5.58,
+          "directLow": 6.91
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.45,
+        "lowPrice": 4,
+        "trendPrice": 6.5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 18.42,
+        "lowPriceExPlus": 4,
+        "avg1": 3.99,
+        "avg7": 6.98,
+        "avg30": 6.38,
+        "reverseHoloAvg1": 29.95,
+        "reverseHoloAvg7": 22.44,
+        "reverseHoloAvg30": 24.22
+      }
+    }
+  },
+  {
+    "id": "swsh5-173",
+    "name": "Cheryl",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Heal all damage from each of your Evolution Pokémon. If you do, discard all Energy from the Pokémon that were healed in this way.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "173",
+    "artist": "Yuu Nishida",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/173.png",
+      "large": "https://images.pokemontcg.io/swsh5/173_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-173",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.65,
+          "mid": 7.87,
+          "high": 89,
+          "market": 6.93,
+          "directLow": 7.2
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-173",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.62,
+        "lowPrice": 5.99,
+        "trendPrice": 7.98,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 23.14,
+        "lowPriceExPlus": 7,
+        "avg1": 7.75,
+        "avg7": 8.61,
+        "avg30": 9.22,
+        "reverseHoloAvg1": 28.2,
+        "reverseHoloAvg7": 31.87,
+        "reverseHoloAvg30": 31.87
+      }
+    }
+  },
+  {
+    "id": "swsh5-174",
+    "name": "Korrina's Focus",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "Draw cards until you have 6 cards in your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "174",
+    "artist": "Taira Akitsu",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/174.png",
+      "large": "https://images.pokemontcg.io/swsh5/174_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-174",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.89,
+          "mid": 6.32,
+          "high": 1000,
+          "market": 5.72,
+          "directLow": 5.95
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-174",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.14,
+        "lowPrice": 2.5,
+        "trendPrice": 6.33,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 23.27,
+        "lowPriceExPlus": 3.9,
+        "avg1": 5,
+        "avg7": 5.95,
+        "avg30": 7.2,
+        "reverseHoloAvg1": 23.5,
+        "reverseHoloAvg7": 27.6,
+        "reverseHoloAvg30": 27.6
+      }
+    }
+  },
+  {
+    "id": "swsh5-175",
+    "name": "Phoebe",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "During this turn, damage from your Pokémon VMAX's attacks isn't affected by any effects on your opponent's Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "175",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/175.png",
+      "large": "https://images.pokemontcg.io/swsh5/175_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-175",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.96,
+          "mid": 8.15,
+          "high": 2000,
+          "market": 7.73,
+          "directLow": 9.44
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-175",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.71,
+        "lowPrice": 4.89,
+        "trendPrice": 9.53,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 22.19,
+        "lowPriceExPlus": 4.89,
+        "avg1": 11.04,
+        "avg7": 10.19,
+        "avg30": 8.47,
+        "reverseHoloAvg1": 23,
+        "reverseHoloAvg7": 26.05,
+        "reverseHoloAvg30": 26.05
+      }
+    }
+  },
+  {
+    "id": "swsh5-176",
+    "name": "Rapid Strike Style Mustard",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "You can play this card only when it is the last card in your hand.",
+      "Put a Rapid Strike Pokémon from your discard pile onto your Bench. If you do, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "176",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/176.png",
+      "large": "https://images.pokemontcg.io/swsh5/176_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-176",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.65,
+          "mid": 5,
+          "high": 29.95,
+          "market": 4.59,
+          "directLow": 4.51
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-176",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.59,
+        "lowPrice": 3.6,
+        "trendPrice": 5.42,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 16.35,
+        "lowPriceExPlus": 3.6,
+        "avg1": 6.42,
+        "avg7": 5.61,
+        "avg30": 5.53,
+        "reverseHoloAvg1": 17,
+        "reverseHoloAvg7": 21.67,
+        "reverseHoloAvg30": 21.67
+      }
+    }
+  },
+  {
+    "id": "swsh5-177",
+    "name": "Single Strike Style Mustard",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Single Strike"
+    ],
+    "rules": [
+      "You can play this card only when it is the last card in your hand.",
+      "Search your deck for a Single Strike Pokémon and put it onto your Bench. Then, shuffle your deck. If you searched your deck in this way, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "177",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/177.png",
+      "large": "https://images.pokemontcg.io/swsh5/177_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-177",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.8,
+          "mid": 5.28,
+          "high": 89,
+          "market": 4.77,
+          "directLow": 5.95
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-177",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.47,
+        "lowPrice": 3.9,
+        "trendPrice": 5.52,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 19.28,
+        "lowPriceExPlus": 3.9,
+        "avg1": 6.48,
+        "avg7": 6.08,
+        "avg30": 5.82,
+        "reverseHoloAvg1": 25,
+        "reverseHoloAvg7": 22.42,
+        "reverseHoloAvg30": 22.42
+      }
+    }
+  },
+  {
+    "id": "swsh5-180",
+    "name": "Exp. Share",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "When your Active Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may move a Basic Energy from that Pokémon to the Pokémon this card is attached to.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "180",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/180.png",
+      "large": "https://images.pokemontcg.io/swsh5/180_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-180",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 7.95,
+          "mid": 13.79,
+          "high": 29.95,
+          "market": 11.92,
+          "directLow": 16.88
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-180",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.39,
+        "lowPrice": 4.99,
+        "trendPrice": 7.72,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 13.83,
+        "lowPriceExPlus": 5,
+        "avg1": 7.9,
+        "avg7": 7.5,
+        "avg30": 7.41,
+        "reverseHoloAvg1": 16,
+        "reverseHoloAvg7": 15.47,
+        "reverseHoloAvg30": 16.88
+      }
+    }
+  },
+  {
+    "id": "swsh5-181",
+    "name": "Level Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a Pokémon with 90 HP or less, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "series": "Sword & Shield",
+      "printedTotal": 163,
+      "total": 183,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BST",
+      "releaseDate": "2021/03/19",
+      "updatedAt": "2021/03/19 15:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+      }
+    },
+    "number": "181",
+    "artist": "Ryo Ueda",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/181.png",
+      "large": "https://images.pokemontcg.io/swsh5/181_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh5-181",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.98,
+          "mid": 8.02,
+          "high": 89,
+          "market": 7.64,
+          "directLow": 10.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh5-181",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 9.2,
+        "lowPrice": 4,
+        "trendPrice": 10.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 22.54,
+        "lowPriceExPlus": 6.99,
+        "avg1": 11.73,
+        "avg7": 10.76,
+        "avg30": 9.37,
+        "reverseHoloAvg1": 27.9,
+        "reverseHoloAvg7": 22.55,
+        "reverseHoloAvg30": 25.6
+      }
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "swsh2",
+  "name": "Rebel Clash",
+  "series": "Sword & Shield",
+  "printedTotal": 192,
+  "total": 209,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "RCL",
+  "releaseDate": "2020/05/01",
+  "updatedAt": "2020/09/25 10:09:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/swsh2/symbol.png",
+    "logo": "https://images.pokemontcg.io/swsh2/logo.png"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "swsh10",
+  "name": "Astral Radiance",
+  "series": "Sword & Shield",
+  "printedTotal": 189,
+  "total": 216,
+  "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "ASR",
+  "releaseDate": "2022/05/27",
+  "updatedAt": "2022/05/27 09:45:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/swsh10/symbol.png",
+    "logo": "https://images.pokemontcg.io/swsh10/logo.png"
+  }
+}

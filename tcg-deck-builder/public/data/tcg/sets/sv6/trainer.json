@@ -1,0 +1,3119 @@
+[
+  {
+    "id": "sv6-142",
+    "name": "Accompanying Flute",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Reveal the top 5 cards of your opponent's deck. You may choose any number of Basic Pokémon you find there and put those Pokémon onto their Bench. Your opponent shuffles the other cards back into their deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "142",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/142.png",
+      "large": "https://images.pokemontcg.io/sv6/142_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.23,
+          "directLow": 0.22
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 100,
+          "market": 0.07,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.2,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "sv6-143",
+    "name": "Bug Catching Set",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal up to 2 in any combination of Grass Pokémon and Basic Grass Energy cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "143",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/143.png",
+      "large": "https://images.pokemontcg.io/sv6/143_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 100,
+          "market": 0.11,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.72,
+          "high": 100,
+          "market": 0.54,
+          "directLow": 0.7
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.17,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.06,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.35,
+        "reverseHoloAvg7": 0.24,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "sv6-144",
+    "name": "Caretaker",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If you drew any cards in this way and if Community Center is in play, shuffle this Caretaker into your deck instead of discarding it.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "144",
+    "artist": "Akira Komayama",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/144.png",
+      "large": "https://images.pokemontcg.io/sv6/144_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 5,
+          "market": 0.06,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.08
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.08,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.09,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.04,
+        "reverseHoloAvg7": 0.07,
+        "reverseHoloAvg30": 0.08
+      }
+    }
+  },
+  {
+    "id": "sv6-145",
+    "name": "Carmine",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "If you go first, you may use this card during your first turn.    Discard your hand and draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "145",
+    "artist": "kantaro",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/145.png",
+      "large": "https://images.pokemontcg.io/sv6/145_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.5,
+          "high": 100,
+          "market": 0.42,
+          "directLow": 0.5
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.16,
+          "high": 3.99,
+          "market": 0.09,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.28,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.18,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.23,
+        "reverseHoloAvg7": 0.27,
+        "reverseHoloAvg30": 0.28
+      }
+    }
+  },
+  {
+    "id": "sv6-146",
+    "name": "Community Center",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, if they played a Supporter card from their hand this turn, they may heal 10 damage from each of their Pokémon.",
+      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.",
+      "You may play only 1 Stadium card during your turn. Put it into the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "146",
+    "artist": "MARINA Chikazawa",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/146.png",
+      "large": "https://images.pokemontcg.io/sv6/146_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": 0.19
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 100,
+          "market": 0.06,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.09,
+        "reverseHoloAvg7": 0.12,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "sv6-147",
+    "name": "Cook",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Heal 70 damage from your Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "147",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/147.png",
+      "large": "https://images.pokemontcg.io/sv6/147_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 100,
+          "market": 0.08,
+          "directLow": 0.07
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.23,
+          "high": 4.95,
+          "market": 0.22,
+          "directLow": 0.33
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.17,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.11,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "sv6-148",
+    "name": "Enhanced Hammer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard a Special Energy from 1 of your opponent's Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "148",
+    "artist": "Eske Yoshinob",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/148.png",
+      "large": "https://images.pokemontcg.io/sv6/148_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 30.09,
+          "market": 0.07,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.25,
+          "high": 100,
+          "market": 0.2,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.11,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "sv6-149",
+    "name": "Festival Grounds",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Each Pokémon that has any Energy attached (both yours and your opponent's) recovers from all Special Conditions and can't be affected by any Special Conditions.",
+      "You may play only 1 Stadium card during your turn. Put it into the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "149",
+    "artist": "MARINA Chikazawa",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/149.png",
+      "large": "https://images.pokemontcg.io/sv6/149_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.45,
+          "high": 4.95,
+          "market": 0.35,
+          "directLow": 0.42
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 100,
+          "market": 0.11,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.24,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.36,
+        "reverseHoloAvg7": 0.29,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "sv6-150",
+    "name": "Handheld Fan",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), move an Energy from the Attacking Pokémon to 1 of your opponent's Benched Pokémon.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "150",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/150.png",
+      "large": "https://images.pokemontcg.io/sv6/150_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 100,
+          "market": 0.09,
+          "directLow": 0.07
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.26,
+          "high": 4.95,
+          "market": 0.25,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.31,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 0.27,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "sv6-151",
+    "name": "Hassel",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.    Look at the top 8 cards of your deck and put up to 3 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "151",
+    "artist": "GOSSAN",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/151.png",
+      "large": "https://images.pokemontcg.io/sv6/151_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-151",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 100,
+          "market": 0.17,
+          "directLow": 0.18
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 100,
+          "market": 0.06,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-151",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.21,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.17,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "sv6-152",
+    "name": "Hyper Aroma",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "You can't have more than 1 ACE SPEC card in your deck.",
+      "Search your deck for up to 3 Stage 1 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "152",
+    "artist": "Toyste Beach",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/152.png",
+      "large": "https://images.pokemontcg.io/sv6/152_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.25,
+          "mid": 0.89,
+          "high": 60,
+          "market": 0.86,
+          "directLow": 0.9
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.77,
+        "lowPrice": 0.1,
+        "trendPrice": 0.68,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.1,
+        "avg1": 0.72,
+        "avg7": 0.69,
+        "avg30": 0.74,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-153",
+    "name": "Jamming Tower",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Pokémon Tools attached to each Pokémon (both yours and your opponent's) have no effect.",
+      "You may play only 1 Stadium card during your turn. Put it into the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "153",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/153.png",
+      "large": "https://images.pokemontcg.io/sv6/153_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.24,
+          "high": 3.99,
+          "market": 0.19,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 1.55,
+          "high": 10.49,
+          "market": 2.08,
+          "directLow": 3.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.14,
+        "lowPrice": 0.02,
+        "trendPrice": 0.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.33,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.4,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.11,
+        "avg7": 0.15,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.23,
+        "reverseHoloAvg7": 0.36,
+        "reverseHoloAvg30": 0.32
+      }
+    }
+  },
+  {
+    "id": "sv6-154",
+    "name": "Kieran",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1:    • Switch your Active Pokémon with 1 of your Benched Pokémon.  • During this turn, attacks used by your Pokémon do 30 more damage to your opponent's Active Pokémon ex and Active Pokémon V (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "154",
+    "artist": "GIDORA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/154.png",
+      "large": "https://images.pokemontcg.io/sv6/154_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.14,
+          "high": 100,
+          "market": 0.11,
+          "directLow": 0.07
+        },
+        "reverseHolofoil": {
+          "low": 0.08,
+          "mid": 0.3,
+          "high": 4.95,
+          "market": 0.21,
+          "directLow": 0.26
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.07,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "sv6-155",
+    "name": "Lana's Aid",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put up to 3 in any combination of Pokémon that don't have a Rule Box and Basic Energy cards from your discard pile into your hand. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "155",
+    "artist": "Atsushi Furusawa",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/155.png",
+      "large": "https://images.pokemontcg.io/sv6/155_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.14,
+          "mid": 0.68,
+          "high": 4.95,
+          "market": 0.77,
+          "directLow": 0.77
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 100,
+          "market": 0.14,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.26,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.24,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.08,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.34,
+        "reverseHoloAvg7": 0.25,
+        "reverseHoloAvg30": 0.26
+      }
+    }
+  },
+  {
+    "id": "sv6-156",
+    "name": "Love Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a Pokémon with the same name as 1 of your opponent's Pokémon in play, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "156",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/156.png",
+      "large": "https://images.pokemontcg.io/sv6/156_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 100,
+          "market": 0.09,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 100,
+          "market": 0.2,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.24,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.24,
+        "reverseHoloAvg7": 0.24,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "sv6-157",
+    "name": "Lucian",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player flips a coin. If heads, that player draws 6 cards. If tails, they draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "157",
+    "artist": "hncl",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/157.png",
+      "large": "https://images.pokemontcg.io/sv6/157_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.04,
+          "directLow": 0.02
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": 0.17
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.12,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "sv6-158",
+    "name": "Lucky Helmet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), draw 2 cards.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "158",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/158.png",
+      "large": "https://images.pokemontcg.io/sv6/158_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.21,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": 0.3
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 100,
+          "market": 0.11,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.17,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.14,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "sv6-159",
+    "name": "Ogre's Mask",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose a Pokémon ex in your discard pile that has \"Ogerpon\" in its name, and switch it with 1 of your Pokémon ex in play that has \"Ogerpon\" in its name. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "159",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/159.png",
+      "large": "https://images.pokemontcg.io/sv6/159_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 100,
+          "market": 0.03,
+          "directLow": 0.02
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 100,
+          "market": 0.19,
+          "directLow": 0.17
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.17,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "sv6-160",
+    "name": "Perrin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Reveal up to 2 Pokémon in your hand and put them into your deck. If you do, search your deck for up to that many Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "160",
+    "artist": "Naoki Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/160.png",
+      "large": "https://images.pokemontcg.io/sv6/160_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.22,
+          "high": 4.95,
+          "market": 0.21,
+          "directLow": 0.16
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 100,
+          "market": 0.07,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "sv6-161",
+    "name": "Raifort",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 5 cards of your deck and discard any number of them. Put the other cards back in any order.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "161",
+    "artist": "hncl",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/161.png",
+      "large": "https://images.pokemontcg.io/sv6/161_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": 0.19
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 100,
+          "market": 0.07,
+          "directLow": 0.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "sv6-162",
+    "name": "Scoop Up Cyclone",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "You can't have more than 1 ACE SPEC card in your deck.",
+      "Put 1 of your Pokémon and all attached cards into your hand.",
+      "You may play any number of Item cards during your turn.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "162",
+    "artist": "Toyste Beach",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/162.png",
+      "large": "https://images.pokemontcg.io/sv6/162_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-162",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.25,
+          "mid": 0.89,
+          "high": 30.65,
+          "market": 0.64,
+          "directLow": 0.31
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-162",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.66,
+        "lowPrice": 0.02,
+        "trendPrice": 0.73,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.52,
+        "avg7": 0.63,
+        "avg30": 0.64,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-163",
+    "name": "Secret Box",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "You can't have more than 1 ACE SPEC card in your deck.",
+      "You can use this card only if you discard 3 other cards from your hand.    Search your deck for an Item card, a Pokémon Tool card, a Supporter card, and a Stadium card, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "163",
+    "artist": "Toyste Beach",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/163.png",
+      "large": "https://images.pokemontcg.io/sv6/163_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-163",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3,
+          "mid": 6,
+          "high": 19.98,
+          "market": 6.93,
+          "directLow": 10.42
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-163",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.88,
+        "lowPrice": 3,
+        "trendPrice": 5.82,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3,
+        "avg1": 5.69,
+        "avg7": 5.48,
+        "avg30": 4.3,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-164",
+    "name": "Survival Brace",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "You can't have more than 1 ACE SPEC card in your deck.",
+      "If the Pokémon this card is attached to has full HP and would be Knocked Out by damage from an attack from your opponent's Pokémon, it is not Knocked Out, and its remaining HP becomes 10. Then, discard this card.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "164",
+    "artist": "inose yukie",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/164.png",
+      "large": "https://images.pokemontcg.io/sv6/164_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-164",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.05,
+          "mid": 0.52,
+          "high": 9.99,
+          "market": 0.43,
+          "directLow": 0.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-164",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.55,
+        "lowPrice": 0.05,
+        "trendPrice": 0.54,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.55,
+        "avg7": 0.52,
+        "avg30": 0.55,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-165",
+    "name": "Unfair Stamp",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "You can't have more than 1 ACE SPEC card in your deck.",
+      "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.    Each player shuffles their hand into their deck. Then, you draw 5 cards, and your opponent draws 2 cards.",
+      "You may play any number of Item cards during your turn.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "165",
+    "artist": "Toyste Beach",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/165.png",
+      "large": "https://images.pokemontcg.io/sv6/165_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-165",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.33,
+          "mid": 4.93,
+          "high": 24.75,
+          "market": 3.29,
+          "directLow": 5.59
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-165",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.01,
+        "lowPrice": 2.8,
+        "trendPrice": 3.99,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.8,
+        "avg1": 4.01,
+        "avg7": 4.01,
+        "avg30": 4.03,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-203",
+    "name": "Caretaker",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If you drew any cards in this way and if Community Center is in play, shuffle this Caretaker into your deck instead of discarding it.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "203",
+    "artist": "Akira Komayama",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/203.png",
+      "large": "https://images.pokemontcg.io/sv6/203_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-203",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.5,
+          "mid": 1.12,
+          "high": 10,
+          "market": 1.11,
+          "directLow": 1.32
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-203",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.29,
+        "lowPrice": 0.4,
+        "trendPrice": 1.45,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.4,
+        "avg1": 1.21,
+        "avg7": 1.42,
+        "avg30": 1.29,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-204",
+    "name": "Carmine",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "If you go first, you may use this card during your first turn.    Discard your hand and draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "204",
+    "artist": "kantaro",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/204.png",
+      "large": "https://images.pokemontcg.io/sv6/204_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-204",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5,
+          "mid": 7.31,
+          "high": 57,
+          "market": 7.39,
+          "directLow": 11.94
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-204",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.84,
+        "lowPrice": 1.98,
+        "trendPrice": 4.56,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.98,
+        "avg1": 4.1,
+        "avg7": 5.21,
+        "avg30": 4.88,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-205",
+    "name": "Hassel",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.    Look at the top 8 cards of your deck and put up to 3 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "205",
+    "artist": "GOSSAN",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/205.png",
+      "large": "https://images.pokemontcg.io/sv6/205_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-205",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.7,
+          "mid": 1.4,
+          "high": 19.99,
+          "market": 1.31,
+          "directLow": 1.62
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-205",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.3,
+        "lowPrice": 0.5,
+        "trendPrice": 1.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.75,
+        "avg1": 1.23,
+        "avg7": 1.22,
+        "avg30": 1.3,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-206",
+    "name": "Kieran",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1:    • Switch your Active Pokémon with 1 of your Benched Pokémon.  • During this turn, attacks used by your Pokémon do 30 more damage to your opponent's Active Pokémon ex and Active Pokémon V (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "206",
+    "artist": "GIDORA",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/206.png",
+      "large": "https://images.pokemontcg.io/sv6/206_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-206",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 3.47,
+          "high": 20,
+          "market": 3.17,
+          "directLow": 4.94
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-206",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.57,
+        "lowPrice": 1,
+        "trendPrice": 2.79,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.4,
+        "avg1": 2.4,
+        "avg7": 2.66,
+        "avg30": 2.62,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-207",
+    "name": "Lana's Aid",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put up to 3 in any combination of Pokémon that don't have a Rule Box and Basic Energy cards from your discard pile into your hand. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "207",
+    "artist": "Atsushi Furusawa",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/207.png",
+      "large": "https://images.pokemontcg.io/sv6/207_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-207",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3,
+          "mid": 4.88,
+          "high": 24,
+          "market": 3.96,
+          "directLow": 4.74
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-207",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.39,
+        "lowPrice": 1.99,
+        "trendPrice": 3.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.99,
+        "avg1": 2.9,
+        "avg7": 3.32,
+        "avg30": 3.31,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-208",
+    "name": "Lucian",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player flips a coin. If heads, that player draws 6 cards. If tails, they draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "208",
+    "artist": "hncl",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/208.png",
+      "large": "https://images.pokemontcg.io/sv6/208_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-208",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.45,
+          "mid": 1.29,
+          "high": 19.99,
+          "market": 0.98,
+          "directLow": 0.96
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-208",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.36,
+        "lowPrice": 0.74,
+        "trendPrice": 1.23,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.74,
+        "avg1": 1.3,
+        "avg7": 1.37,
+        "avg30": 1.33,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-209",
+    "name": "Perrin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Reveal up to 2 Pokémon in your hand and put them into your deck. If you do, search your deck for up to that many Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "209",
+    "artist": "Naoki Saito",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/209.png",
+      "large": "https://images.pokemontcg.io/sv6/209_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-209",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.9,
+          "mid": 5.5,
+          "high": 32,
+          "market": 5.29,
+          "directLow": 9.95
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-209",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.45,
+        "lowPrice": 1.48,
+        "trendPrice": 3.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.48,
+        "avg1": 2.9,
+        "avg7": 3.17,
+        "avg30": 3.39,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-217",
+    "name": "Carmine",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "If you go first, you may use this card during your first turn.    Discard your hand and draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "217",
+    "artist": "En Morikura",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/217.png",
+      "large": "https://images.pokemontcg.io/sv6/217_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-217",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 70,
+          "mid": 80.43,
+          "high": 185,
+          "market": 75.06,
+          "directLow": 84.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-217",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 50.48,
+        "lowPrice": 37,
+        "trendPrice": 54.36,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 37,
+        "avg1": 53.33,
+        "avg7": 55.7,
+        "avg30": 49.75,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-218",
+    "name": "Kieran",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1:    • Switch your Active Pokémon with 1 of your Benched Pokémon.  • During this turn, attacks used by your Pokémon do 30 more damage to your opponent's Active Pokémon ex and Active Pokémon V (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "218",
+    "artist": "Teeziro",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/218.png",
+      "large": "https://images.pokemontcg.io/sv6/218_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-218",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 22,
+          "mid": 27.16,
+          "high": 75,
+          "market": 24.37,
+          "directLow": 24.61
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-218",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 26.9,
+        "lowPrice": 19.5,
+        "trendPrice": 25.19,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 19.5,
+        "avg1": 23,
+        "avg7": 25.79,
+        "avg30": 26.75,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-219",
+    "name": "Lana's Aid",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put up to 3 in any combination of Pokémon that don't have a Rule Box and Basic Energy cards from your discard pile into your hand. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "219",
+    "artist": "Toshinao Aoki",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/219.png",
+      "large": "https://images.pokemontcg.io/sv6/219_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-219",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 20,
+          "mid": 25.84,
+          "high": 69.95,
+          "market": 23.42,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-219",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 20.94,
+        "lowPrice": 18,
+        "trendPrice": 20.96,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 18.5,
+        "avg1": 22.47,
+        "avg7": 20.99,
+        "avg30": 20.92,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-220",
+    "name": "Perrin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Reveal up to 2 Pokémon in your hand and put them into your deck. If you do, search your deck for up to that many Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "220",
+    "artist": "GIDORA",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/220.png",
+      "large": "https://images.pokemontcg.io/sv6/220_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-220",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 85.9,
+          "mid": 105.98,
+          "high": 249.95,
+          "market": 95.39,
+          "directLow": 108.94
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-220",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 57.08,
+        "lowPrice": 45,
+        "trendPrice": 53.58,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 45,
+        "avg1": 50.98,
+        "avg7": 56.22,
+        "avg30": 55.65,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-223",
+    "name": "Buddy-Buddy Poffin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "223",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/223.png",
+      "large": "https://images.pokemontcg.io/sv6/223_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-223",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 19,
+          "mid": 24.99,
+          "high": 79.99,
+          "market": 22.36,
+          "directLow": 25.98
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-223",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 17.37,
+        "lowPrice": 16,
+        "trendPrice": 19.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 16.89,
+        "avg1": 19.13,
+        "avg7": 18.62,
+        "avg30": 17.78,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-224",
+    "name": "Enhanced Hammer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard a Special Energy from 1 of your opponent's Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "224",
+    "artist": "Eske Yoshinob",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/224.png",
+      "large": "https://images.pokemontcg.io/sv6/224_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-224",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.87,
+          "mid": 5.61,
+          "high": 18,
+          "market": 5.56,
+          "directLow": 5.74
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-224",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.84,
+        "lowPrice": 4.5,
+        "trendPrice": 5.95,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.5,
+        "avg1": 5.07,
+        "avg7": 5.46,
+        "avg30": 5.86,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv6-225",
+    "name": "Rescue Board",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Retreat Cost of the Pokémon this card is attached to is Colorless less. If that Pokémon's remaining HP is 30 or less, it has no Retreat Cost.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "series": "Scarlet & Violet",
+      "printedTotal": 167,
+      "total": 226,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TWM",
+      "releaseDate": "2024/05/24",
+      "updatedAt": "2024/05/23 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "number": "225",
+    "artist": "Toyste Beach",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/225.png",
+      "large": "https://images.pokemontcg.io/sv6/225_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6-225",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 7.5,
+          "mid": 10.41,
+          "high": 24.99,
+          "market": 10.82,
+          "directLow": 16.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv6-225",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.87,
+        "lowPrice": 5,
+        "trendPrice": 7.72,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 5,
+        "avg1": 7.67,
+        "avg7": 7.25,
+        "avg30": 7.75,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

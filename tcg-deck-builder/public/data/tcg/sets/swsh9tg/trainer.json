@@ -1,0 +1,396 @@
+[
+  {
+    "id": "swsh9tg-TG24",
+    "name": "Acerola's Premonition",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent reveals their hand, and you draw a card for each Trainer card you find there.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9tg",
+      "name": "Brilliant Stars Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9tg/logo.png"
+      }
+    },
+    "number": "TG24",
+    "artist": "yuu",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9tg/TG24.png",
+      "large": "https://images.pokemontcg.io/swsh9tg/TG24_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG24",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.99,
+          "mid": 7.58,
+          "high": 37,
+          "market": 7.52,
+          "directLow": 9.48
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9tg-TG24",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.73,
+        "lowPrice": 3,
+        "trendPrice": 5.66,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.2,
+        "avg1": 5.98,
+        "avg7": 5.77,
+        "avg30": 5.7,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9tg-TG25",
+    "name": "Café Master",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose up to 3 of your Benched Pokémon. For each of those Pokémon, search your deck for a different type of basic Energy card and attach it to that Pokémon. Then, shuffle your deck. Your turn ends.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9tg",
+      "name": "Brilliant Stars Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9tg/logo.png"
+      }
+    },
+    "number": "TG25",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9tg/TG25.png",
+      "large": "https://images.pokemontcg.io/swsh9tg/TG25_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG25",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.75,
+          "mid": 1.75,
+          "high": 999.99,
+          "market": 1.75,
+          "directLow": 2.45
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9tg-TG25",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.07,
+        "lowPrice": 0.95,
+        "trendPrice": 1.86,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.95,
+        "avg1": 1.82,
+        "avg7": 1.81,
+        "avg30": 2.05,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9tg-TG26",
+    "name": "Gloria",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Basic Pokémon that don't have a Rule Box and put them onto your Bench. Then, shuffle your deck. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9tg",
+      "name": "Brilliant Stars Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9tg/logo.png"
+      }
+    },
+    "number": "TG26",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9tg/TG26.png",
+      "large": "https://images.pokemontcg.io/swsh9tg/TG26_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG26",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.5,
+          "mid": 6.19,
+          "high": 89,
+          "market": 5.54,
+          "directLow": 6.74
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9tg-TG26",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.37,
+        "lowPrice": 2.1,
+        "trendPrice": 4.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.2,
+        "avg1": 3.4,
+        "avg7": 4.45,
+        "avg30": 4.33,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9tg-TG27",
+    "name": "Rapid Strike Style Mustard",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Rapid Strike",
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only when it is the last card in your hand.",
+      "Put a Rapid Strike Pokémon from your discard pile onto your Bench. If you do, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9tg",
+      "name": "Brilliant Stars Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9tg/logo.png"
+      }
+    },
+    "number": "TG27",
+    "artist": "KIYOTAKA OSHIYAMA",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9tg/TG27.png",
+      "large": "https://images.pokemontcg.io/swsh9tg/TG27_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG27",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.66,
+          "mid": 1.82,
+          "high": 999.99,
+          "market": 1.54,
+          "directLow": 2.44
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9tg-TG27",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.56,
+        "lowPrice": 0.5,
+        "trendPrice": 1.23,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.7,
+        "avg1": 1,
+        "avg7": 1.29,
+        "avg30": 1.49,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9tg-TG28",
+    "name": "Single Strike Style Mustard",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Single Strike",
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only when it is the last card in your hand.",
+      "Search your deck for a Single Strike Pokémon and put it onto your Bench. Then, shuffle your deck. If you searched your deck in this way, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9tg",
+      "name": "Brilliant Stars Trainer Gallery",
+      "series": "Sword & Shield",
+      "printedTotal": 30,
+      "total": 30,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9tg/logo.png"
+      }
+    },
+    "number": "TG28",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9tg/TG28.png",
+      "large": "https://images.pokemontcg.io/swsh9tg/TG28_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG28",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.64,
+          "mid": 1.5,
+          "high": 999.99,
+          "market": 1.44,
+          "directLow": 2
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9tg-TG28",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.63,
+        "lowPrice": 0.5,
+        "trendPrice": 1.49,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.78,
+        "avg1": 2.05,
+        "avg7": 2.02,
+        "avg30": 1.6,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

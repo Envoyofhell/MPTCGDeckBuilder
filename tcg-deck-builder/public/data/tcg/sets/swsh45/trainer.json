@@ -1,0 +1,1210 @@
+[
+  {
+    "id": "swsh45-57",
+    "name": "Ball Guy",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 different Item cards that have the word \"Ball\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "57",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/57.png",
+      "large": "https://images.pokemontcg.io/swsh45/57_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-57",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 25,
+          "market": 0.08,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.24,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-57",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.17,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.07,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.24,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "swsh45-58",
+    "name": "Boss's Orders",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "58",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/58.png",
+      "large": "https://images.pokemontcg.io/swsh45/58_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-58",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.83,
+          "high": 5.95,
+          "market": 0.91,
+          "directLow": 1.1
+        },
+        "normal": {
+          "low": 0.1,
+          "mid": 0.4,
+          "high": 4.95,
+          "market": 0.42,
+          "directLow": 0.46
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-58",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.21,
+        "lowPrice": 0.02,
+        "trendPrice": 0.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.5,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.53,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.23,
+        "avg7": 0.22,
+        "avg30": 0.21,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.77,
+        "reverseHoloAvg30": 0.46
+      }
+    }
+  },
+  {
+    "id": "swsh45-59",
+    "name": "Gym Trainer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "59",
+    "artist": "Ryuta Fuse",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/59.png",
+      "large": "https://images.pokemontcg.io/swsh45/59_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-59",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.03,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 2.03,
+          "market": 0.16,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-59",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.04,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh45-60",
+    "name": "Professor's Research",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "60",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/60.png",
+      "large": "https://images.pokemontcg.io/swsh45/60_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-60",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.29,
+          "high": 4.25,
+          "market": 0.29,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 3.01,
+          "market": 0.13,
+          "directLow": 0.12
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-60",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.16,
+        "lowPrice": 0.02,
+        "trendPrice": 0.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.12,
+        "avg30": 0.15,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh45-61",
+    "name": "Rusted Shield",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The Zamazenta V this card is attached to gets +70 HP.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "61",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/61.png",
+      "large": "https://images.pokemontcg.io/swsh45/61_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-61",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.12,
+          "directLow": 0.11
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.05,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-61",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.17,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh45-62",
+    "name": "Rusted Sword",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The attacks of the Zacian V this card is attached to do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "62",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/62.png",
+      "large": "https://images.pokemontcg.io/swsh45/62_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-62",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 1.5,
+          "market": 0.06,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.17,
+          "high": 2,
+          "market": 0.15,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-62",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.14
+      }
+    }
+  },
+  {
+    "id": "swsh45-63",
+    "name": "Team Yell Towel",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 50 damage from both Active Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "63",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/63.png",
+      "large": "https://images.pokemontcg.io/swsh45/63_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-63",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 2,
+          "market": 0.05,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.18,
+          "high": 2,
+          "market": 0.12,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-63",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.17,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh45-65",
+    "name": "Ball Guy",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 different Item cards that have the word \"Ball\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "65",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/65.png",
+      "large": "https://images.pokemontcg.io/swsh45/65_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-65",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.81,
+          "mid": 3.31,
+          "high": 19.99,
+          "market": 3.15,
+          "directLow": 3.97
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-65",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.27,
+        "lowPrice": 1,
+        "trendPrice": 2.4,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 8.51,
+        "lowPriceExPlus": 1,
+        "avg1": 2.14,
+        "avg7": 2.34,
+        "avg30": 2.25,
+        "reverseHoloAvg1": 9.98,
+        "reverseHoloAvg7": 9.13,
+        "reverseHoloAvg30": 9.26
+      }
+    }
+  },
+  {
+    "id": "swsh45-66",
+    "name": "Bird Keeper",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "66",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/66.png",
+      "large": "https://images.pokemontcg.io/swsh45/66_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-66",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.13,
+          "mid": 2,
+          "high": 24.99,
+          "market": 1.99,
+          "directLow": 1.45
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-66",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.29,
+        "lowPrice": 1,
+        "trendPrice": 2.44,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 8.48,
+        "lowPriceExPlus": 1,
+        "avg1": 2.38,
+        "avg7": 2.38,
+        "avg30": 2.28,
+        "reverseHoloAvg1": 8.49,
+        "reverseHoloAvg7": 8.75,
+        "reverseHoloAvg30": 9.63
+      }
+    }
+  },
+  {
+    "id": "swsh45-67",
+    "name": "Cara Liss",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 Rare Fossil cards and put them onto your Bench. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "67",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/67.png",
+      "large": "https://images.pokemontcg.io/swsh45/67_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-67",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.69,
+          "mid": 1.45,
+          "high": 19.99,
+          "market": 1.03,
+          "directLow": 1.21
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-67",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.01,
+        "lowPrice": 1,
+        "trendPrice": 2.4,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 7.27,
+        "lowPriceExPlus": 1,
+        "avg1": 1.93,
+        "avg7": 2.07,
+        "avg30": 1.97,
+        "reverseHoloAvg1": 7.63,
+        "reverseHoloAvg7": 7.85,
+        "reverseHoloAvg30": 8.85
+      }
+    }
+  },
+  {
+    "id": "swsh45-68",
+    "name": "Gym Trainer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "68",
+    "artist": "nagimiso",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/68.png",
+      "large": "https://images.pokemontcg.io/swsh45/68_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-68",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.73,
+          "mid": 1.26,
+          "high": 89,
+          "market": 1.07,
+          "directLow": 1.23
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-68",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.45,
+        "lowPrice": 0.98,
+        "trendPrice": 1.29,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 5.9,
+        "lowPriceExPlus": 0.98,
+        "avg1": 1.48,
+        "avg7": 1.33,
+        "avg30": 1.45,
+        "reverseHoloAvg1": 5.75,
+        "reverseHoloAvg7": 6.37,
+        "reverseHoloAvg30": 7.57
+      }
+    }
+  },
+  {
+    "id": "swsh45-69",
+    "name": "Piers",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "69",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/69.png",
+      "large": "https://images.pokemontcg.io/swsh45/69_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-69",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1,
+          "mid": 2.12,
+          "high": 100,
+          "market": 2.08,
+          "directLow": 2.87
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-69",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.28,
+        "lowPrice": 1,
+        "trendPrice": 2.45,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 9.29,
+        "lowPriceExPlus": 1,
+        "avg1": 2.25,
+        "avg7": 2.36,
+        "avg30": 2.27,
+        "reverseHoloAvg1": 9.12,
+        "reverseHoloAvg7": 9.54,
+        "reverseHoloAvg30": 10.48
+      }
+    }
+  },
+  {
+    "id": "swsh45-70",
+    "name": "Poké Kid",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "70",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/70.png",
+      "large": "https://images.pokemontcg.io/swsh45/70_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-70",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3,
+          "mid": 5.88,
+          "high": 100,
+          "market": 5.11,
+          "directLow": 6.97
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-70",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.27,
+        "lowPrice": 2.48,
+        "trendPrice": 4.86,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 13.78,
+        "lowPriceExPlus": 3,
+        "avg1": 5.63,
+        "avg7": 4.9,
+        "avg30": 5.21,
+        "reverseHoloAvg1": 16.33,
+        "reverseHoloAvg7": 14.71,
+        "reverseHoloAvg30": 17.38
+      }
+    }
+  },
+  {
+    "id": "swsh45-71",
+    "name": "Rose",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Attach up to 2 basic Energy cards from your discard pile to 1 of your Pokémon VMAX. If you attached any Energy cards in this way, discard your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "71",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/71.png",
+      "large": "https://images.pokemontcg.io/swsh45/71_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-71",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.7,
+          "mid": 1.26,
+          "high": 89,
+          "market": 1.24,
+          "directLow": 1.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-71",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.54,
+        "lowPrice": 0.8,
+        "trendPrice": 1.56,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 8.41,
+        "lowPriceExPlus": 0.8,
+        "avg1": 1.8,
+        "avg7": 1.39,
+        "avg30": 1.54,
+        "reverseHoloAvg1": 7.86,
+        "reverseHoloAvg7": 8.95,
+        "reverseHoloAvg30": 9.89
+      }
+    }
+  },
+  {
+    "id": "swsh45-72",
+    "name": "Skyla",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a Trainer card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "72",
+    "artist": "kirisAki",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/72.png",
+      "large": "https://images.pokemontcg.io/swsh45/72_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-72",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 11,
+          "mid": 13.99,
+          "high": 79.99,
+          "market": 12.42,
+          "directLow": 12.87
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-72",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 13.54,
+        "lowPrice": 6.5,
+        "trendPrice": 10.2,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 27.35,
+        "lowPriceExPlus": 6.5,
+        "avg1": 11.25,
+        "avg7": 12.74,
+        "avg30": 13.55,
+        "reverseHoloAvg1": 32.88,
+        "reverseHoloAvg7": 29.55,
+        "reverseHoloAvg30": 29.73
+      }
+    }
+  }
+]

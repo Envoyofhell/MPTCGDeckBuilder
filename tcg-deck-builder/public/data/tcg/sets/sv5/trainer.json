@@ -1,0 +1,2546 @@
+[
+  {
+    "id": "sv5-140",
+    "name": "Ancient Booster Energy Capsule",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Ancient"
+    ],
+    "rules": [
+      "The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and can't be affected by any Special Conditions.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "140",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/140.png",
+      "large": "https://images.pokemontcg.io/sv5/140_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 30.24,
+          "market": 0.24,
+          "directLow": 0.32
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 15,
+          "market": 0.09,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.29,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.27,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.07,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.46,
+        "reverseHoloAvg7": 0.27,
+        "reverseHoloAvg30": 0.28
+      }
+    }
+  },
+  {
+    "id": "sv5-141",
+    "name": "Awakening Drum",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Ancient",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "Draw a card for each of your Ancient Pokémon in play.",
+      "You may play any number of Item cards during your turn.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "141",
+    "artist": "Toyste Beach",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/141.png",
+      "large": "https://images.pokemontcg.io/sv5/141_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.1,
+          "mid": 0.63,
+          "high": 55,
+          "market": 0.46,
+          "directLow": 0.53
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.56,
+        "lowPrice": 0.14,
+        "trendPrice": 0.63,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.14,
+        "avg1": 0.56,
+        "avg7": 0.59,
+        "avg30": 0.58,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-142",
+    "name": "Bianca's Devotion",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Heal all damage from 1 of your Pokémon that has 30 HP or less remaining.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "142",
+    "artist": "En Morikura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/142.png",
+      "large": "https://images.pokemontcg.io/sv5/142_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.21,
+          "high": 4.95,
+          "market": 0.21,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.02,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.17,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "sv5-143",
+    "name": "Boxed Order",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for up to 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck. Your turn ends.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "143",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/143.png",
+      "large": "https://images.pokemontcg.io/sv5/143_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.21,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": 0.25
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.06,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.09,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "sv5-144",
+    "name": "Buddy-Buddy Poffin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "144",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/144.png",
+      "large": "https://images.pokemontcg.io/sv5/144_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.58,
+          "high": 6.99,
+          "market": 0.34,
+          "directLow": 0.49
+        },
+        "reverseHolofoil": {
+          "low": 0.6,
+          "mid": 2.29,
+          "high": 13.99,
+          "market": 2.27,
+          "directLow": 1.8
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.36,
+        "lowPrice": 0.02,
+        "trendPrice": 0.38,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.62,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.61,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.41,
+        "avg7": 0.34,
+        "avg30": 0.36,
+        "reverseHoloAvg1": 0.26,
+        "reverseHoloAvg7": 0.55,
+        "reverseHoloAvg30": 0.59
+      }
+    }
+  },
+  {
+    "id": "sv5-145",
+    "name": "Ciphermaniac's Codebreaking",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Future"
+    ],
+    "rules": [
+      "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "145",
+    "artist": "Taira Akitsu",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/145.png",
+      "large": "https://images.pokemontcg.io/sv5/145_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.3,
+          "high": 4.95,
+          "market": 0.26,
+          "directLow": 0.26
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 30.1,
+          "market": 0.13,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.37,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.3,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.06,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.17,
+        "reverseHoloAvg7": 0.24,
+        "reverseHoloAvg30": 0.33
+      }
+    }
+  },
+  {
+    "id": "sv5-146",
+    "name": "Eri",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent reveals their hand, and you discard up to 2 Item cards you find there.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "146",
+    "artist": "GOSSAN",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/146.png",
+      "large": "https://images.pokemontcg.io/sv5/146_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.22,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.05,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.21,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "sv5-147",
+    "name": "Explorer's Guidance",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Ancient"
+    ],
+    "rules": [
+      "Look at the top 6 cards of your deck and put 2 of them into your hand. Discard the other cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "147",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/147.png",
+      "large": "https://images.pokemontcg.io/sv5/147_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 30.11,
+          "market": 0.06,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.28,
+          "high": 4.95,
+          "market": 0.24,
+          "directLow": 0.28
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.27,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.32,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.07,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.64,
+        "reverseHoloAvg7": 0.33,
+        "reverseHoloAvg30": 0.29
+      }
+    }
+  },
+  {
+    "id": "sv5-148",
+    "name": "Full Metal Lab",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Metal Pokémon (both yours and your opponent's) take 30 less damage from attacks from the opponent's Pokémon (after applying Weakness and Resistance).",
+      "You may play only 1 Stadium card during your turn. Put it into the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "148",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/148.png",
+      "large": "https://images.pokemontcg.io/sv5/148_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.24,
+          "high": 4.95,
+          "market": 0.25,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.17,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.16,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "sv5-149",
+    "name": "Future Booster Energy Capsule",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Future"
+    ],
+    "rules": [
+      "The Future Pokémon this card is attached to has no Retreat Cost, and the attacks it uses do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "149",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/149.png",
+      "large": "https://images.pokemontcg.io/sv5/149_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.08,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.24,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 30.12,
+          "market": 0.07,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.22,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.13,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.11,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.2,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "sv5-150",
+    "name": "Hand Trimmer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Each player discards cards from their hand until they have 5 cards in their hand. Your opponent discards first. (If a player has 5 or fewer cards in their hand, they do not discard.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "150",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/150.png",
+      "large": "https://images.pokemontcg.io/sv5/150_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": 0.15
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.21
+      }
+    }
+  },
+  {
+    "id": "sv5-151",
+    "name": "Heavy Baton",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon this card is attached to has a Retreat Cost of exactly 4, is in the Active Spot, and is Knocked Out by damage from an attack from your opponent's Pokémon, move up to 3 Basic Energy cards from that Pokémon to your Benched Pokémon in any way you like.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "151",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/151.png",
+      "large": "https://images.pokemontcg.io/sv5/151_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-151",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.24,
+          "directLow": 0.33
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 5.24,
+          "market": 0.07,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-151",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.26,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.09,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.28,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "sv5-152",
+    "name": "Hero's Cape",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "The Pokémon this card is attached to gets +100 HP.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "152",
+    "artist": "Toyste Beach",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/152.png",
+      "large": "https://images.pokemontcg.io/sv5/152_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.25,
+          "mid": 4.8,
+          "high": 30,
+          "market": 3.47,
+          "directLow": 4.79
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-152",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.5,
+        "lowPrice": 1.99,
+        "trendPrice": 3.53,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.99,
+        "avg1": 3.13,
+        "avg7": 3.66,
+        "avg30": 3.54,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-153",
+    "name": "Master Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "153",
+    "artist": "Studio Bora Inc.",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/153.png",
+      "large": "https://images.pokemontcg.io/sv5/153_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.25,
+          "mid": 1.85,
+          "high": 35,
+          "market": 1.31,
+          "directLow": 1.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-153",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.22,
+        "lowPrice": 0.45,
+        "trendPrice": 1.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.45,
+        "avg1": 1.2,
+        "avg7": 1.31,
+        "avg30": 1.21,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-154",
+    "name": "Maximum Belt",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "Attacks used by the Pokémon this card is attached to do 50 more damage to your opponent's Active Pokémon ex (before applying Weakness and Resistance).",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "154",
+    "artist": "inose yukie",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/154.png",
+      "large": "https://images.pokemontcg.io/sv5/154_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.3,
+          "mid": 1.62,
+          "high": 30,
+          "market": 1.02,
+          "directLow": 0.85
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-154",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.14,
+        "lowPrice": 0.3,
+        "trendPrice": 1.22,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.3,
+        "avg1": 0.87,
+        "avg7": 1.04,
+        "avg30": 1.12,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-155",
+    "name": "Morty's Conviction",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if you discard another card from your hand.  Draw a card for each of your opponent's Benched Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "155",
+    "artist": "GIDORA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/155.png",
+      "large": "https://images.pokemontcg.io/sv5/155_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.1,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.26,
+          "high": 5.95,
+          "market": 0.25,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-155",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.29,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.37,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.08,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.23,
+        "reverseHoloAvg7": 0.34,
+        "reverseHoloAvg30": 0.31
+      }
+    }
+  },
+  {
+    "id": "sv5-156",
+    "name": "Perilous Jungle",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "During Pokémon Checkup, put 2 more damage counters on each Poisoned non-Darkness Pokémon (both yours and your opponent's).",
+      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.",
+      "You may play only 1 Stadium card during your turn. Put it into the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "156",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/156.png",
+      "large": "https://images.pokemontcg.io/sv5/156_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.12,
+          "mid": 0.35,
+          "high": 4.95,
+          "market": 0.34,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.02,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.14,
+          "directLow": 0.12
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-156",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.33,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.27,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.16,
+        "avg7": 0.13,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.22,
+        "reverseHoloAvg7": 0.32,
+        "reverseHoloAvg30": 0.34
+      }
+    }
+  },
+  {
+    "id": "sv5-157",
+    "name": "Prime Catcher",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "You may play any number of Item cards during your turn.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "157",
+    "artist": "Toyste Beach",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/157.png",
+      "large": "https://images.pokemontcg.io/sv5/157_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1,
+          "mid": 3.16,
+          "high": 36.96,
+          "market": 2.67,
+          "directLow": 2.73
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.91,
+        "lowPrice": 0.8,
+        "trendPrice": 2,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.9,
+        "avg1": 1.23,
+        "avg7": 1.87,
+        "avg30": 1.9,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-158",
+    "name": "Reboot Pod",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Future",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "Attach a Basic Energy card from your discard pile to each of your Future Pokémon.",
+      "You may play any number of Item cards during your turn.",
+      "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "158",
+    "artist": "inose yukie",
+    "rarity": "ACE SPEC Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/158.png",
+      "large": "https://images.pokemontcg.io/sv5/158_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.15,
+          "mid": 0.63,
+          "high": 30.57,
+          "market": 0.58,
+          "directLow": 0.68
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.47,
+        "lowPrice": 0.15,
+        "trendPrice": 0.68,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.15,
+        "avg1": 0.54,
+        "avg7": 0.65,
+        "avg30": 0.51,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-159",
+    "name": "Rescue Board",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Retreat Cost of the Pokémon this card is attached to is Colorless less. If that Pokémon's remaining HP is 30 or less, it has no Retreat Cost.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "159",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/159.png",
+      "large": "https://images.pokemontcg.io/sv5/159_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.34,
+          "high": 30.32,
+          "market": 0.31,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 30.18,
+          "market": 0.11,
+          "directLow": 0.15
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.34,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.24,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.13,
+        "avg7": 0.09,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.22,
+        "reverseHoloAvg30": 0.31
+      }
+    }
+  },
+  {
+    "id": "sv5-160",
+    "name": "Salvatore",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a card that has no Abilities and evolves from 1 of your Pokémon, and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can use this card on a Pokémon you put down when you were setting up to play or on a Pokémon that was put into play this turn.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "160",
+    "artist": "Ryuta Fuse",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/160.png",
+      "large": "https://images.pokemontcg.io/sv5/160_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": 0.17
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.17,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.07,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.19,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "sv5-197",
+    "name": "Bianca's Devotion",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Heal all damage from 1 of your Pokémon that has 30 HP or less remaining.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "197",
+    "artist": "En Morikura",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/197.png",
+      "large": "https://images.pokemontcg.io/sv5/197_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-197",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.25,
+          "mid": 2.84,
+          "high": 20,
+          "market": 2.15,
+          "directLow": 3.08
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-197",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.85,
+        "lowPrice": 1.3,
+        "trendPrice": 3.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.3,
+        "avg1": 3.04,
+        "avg7": 3.05,
+        "avg30": 2.9,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-198",
+    "name": "Ciphermaniac's Codebreaking",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Future"
+    ],
+    "rules": [
+      "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "198",
+    "artist": "Taira Akitsu",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/198.png",
+      "large": "https://images.pokemontcg.io/sv5/198_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-198",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.25,
+          "mid": 6.12,
+          "high": 49.96,
+          "market": 5.73,
+          "directLow": 7.26
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-198",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.52,
+        "lowPrice": 2.2,
+        "trendPrice": 4.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.2,
+        "avg1": 4.27,
+        "avg7": 4.5,
+        "avg30": 4.55,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-199",
+    "name": "Eri",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent reveals their hand, and you discard up to 2 Item cards you find there.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "199",
+    "artist": "GOSSAN",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/199.png",
+      "large": "https://images.pokemontcg.io/sv5/199_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-199",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.5,
+          "mid": 3,
+          "high": 31.5,
+          "market": 2.47,
+          "directLow": 3.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-199",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.56,
+        "lowPrice": 1.3,
+        "trendPrice": 2.41,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.3,
+        "avg1": 2.1,
+        "avg7": 2.38,
+        "avg30": 2.57,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-200",
+    "name": "Explorer's Guidance",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Ancient"
+    ],
+    "rules": [
+      "Look at the top 6 cards of your deck and put 2 of them into your hand. Discard the other cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "200",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/200.png",
+      "large": "https://images.pokemontcg.io/sv5/200_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-200",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.75,
+          "mid": 2,
+          "high": 19.93,
+          "market": 1.81,
+          "directLow": 1.86
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-200",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.6,
+        "lowPrice": 1.8,
+        "trendPrice": 2.35,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.8,
+        "avg1": 2.27,
+        "avg7": 2.31,
+        "avg30": 2.56,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-201",
+    "name": "Morty's Conviction",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if you discard another card from your hand.  Draw a card for each of your opponent's Benched Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "201",
+    "artist": "GIDORA",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/201.png",
+      "large": "https://images.pokemontcg.io/sv5/201_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-201",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.5,
+          "mid": 4,
+          "high": 15,
+          "market": 3.1,
+          "directLow": 4.98
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-201",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.31,
+        "lowPrice": 1.99,
+        "trendPrice": 3.52,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.99,
+        "avg1": 2.84,
+        "avg7": 3.06,
+        "avg30": 3.42,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-202",
+    "name": "Salvatore",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a card that has no Abilities and evolves from 1 of your Pokémon, and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can use this card on a Pokémon you put down when you were setting up to play or on a Pokémon that was put into play this turn.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "202",
+    "artist": "Ryuta Fuse",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/202.png",
+      "large": "https://images.pokemontcg.io/sv5/202_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-202",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.5,
+          "mid": 1.45,
+          "high": 8.9,
+          "market": 1.3,
+          "directLow": 1.72
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-202",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.6,
+        "lowPrice": 0.8,
+        "trendPrice": 1.63,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.8,
+        "avg1": 1.47,
+        "avg7": 1.57,
+        "avg30": 1.64,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-209",
+    "name": "Bianca's Devotion",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Heal all damage from 1 of your Pokémon that has 30 HP or less remaining.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "209",
+    "artist": "Cona Nitanda",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/209.png",
+      "large": "https://images.pokemontcg.io/sv5/209_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-209",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 19.72,
+          "mid": 27.51,
+          "high": 100,
+          "market": 25.07,
+          "directLow": 25.72
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-209",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 21.43,
+        "lowPrice": 18.75,
+        "trendPrice": 22.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 18.75,
+        "avg1": 23.06,
+        "avg7": 20.85,
+        "avg30": 21.23,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-210",
+    "name": "Eri",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent reveals their hand, and you discard up to 2 Item cards you find there.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "210",
+    "artist": "DOM",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/210.png",
+      "large": "https://images.pokemontcg.io/sv5/210_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-210",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 14.25,
+          "mid": 17.99,
+          "high": 65,
+          "market": 15.68,
+          "directLow": 16.91
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-210",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 15.19,
+        "lowPrice": 9.99,
+        "trendPrice": 15.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 9.99,
+        "avg1": 13.17,
+        "avg7": 14.68,
+        "avg30": 15.14,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-211",
+    "name": "Morty's Conviction",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if you discard another card from your hand.  Draw a card for each of your opponent's Benched Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "211",
+    "artist": "Megumi Mizutani",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/211.png",
+      "large": "https://images.pokemontcg.io/sv5/211_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-211",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 45,
+          "mid": 51.72,
+          "high": 140,
+          "market": 49.1,
+          "directLow": 48.74
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-211",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 40.47,
+        "lowPrice": 18.9,
+        "trendPrice": 37.92,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 34.94,
+        "avg1": 30,
+        "avg7": 37.73,
+        "avg30": 40.11,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sv5-212",
+    "name": "Salvatore",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a card that has no Abilities and evolves from 1 of your Pokémon, and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can use this card on a Pokémon you put down when you were setting up to play or on a Pokémon that was put into play this turn.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "series": "Scarlet & Violet",
+      "printedTotal": 162,
+      "total": 218,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "TEF",
+      "releaseDate": "2024/03/22",
+      "updatedAt": "2024/03/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv5/logo.png"
+      }
+    },
+    "number": "212",
+    "artist": "Tetsu Kayama",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/212.png",
+      "large": "https://images.pokemontcg.io/sv5/212_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv5-212",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 8.99,
+          "mid": 11.57,
+          "high": 70,
+          "market": 10.64,
+          "directLow": 11.93
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv5-212",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 12.04,
+        "lowPrice": 10.3,
+        "trendPrice": 11.5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 10.45,
+        "avg1": 12.78,
+        "avg7": 13.08,
+        "avg30": 12.29,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

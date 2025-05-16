@@ -1,0 +1,76 @@
+[
+  {
+    "id": "sv3pt5-207",
+    "name": "Basic Psychic Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "set": {
+      "id": "sv3pt5",
+      "name": "151",
+      "series": "Scarlet & Violet",
+      "printedTotal": 165,
+      "total": 207,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/09/22",
+      "updatedAt": "2023/09/22 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "number": "207",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/207.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/207_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-207",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.95,
+          "mid": 5.29,
+          "high": 19.99,
+          "market": 5.2,
+          "directLow": 5.2
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-207",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.29,
+        "lowPrice": 2.49,
+        "trendPrice": 5.24,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.5,
+        "avg1": 4.23,
+        "avg7": 5.07,
+        "avg30": 5.37,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

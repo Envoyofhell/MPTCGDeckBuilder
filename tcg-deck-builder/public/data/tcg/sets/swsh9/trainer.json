@@ -1,0 +1,2815 @@
+[
+  {
+    "id": "swsh9-129",
+    "name": "Acerola's Premonition",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent reveals their hand, and you draw a card for each Trainer card you find there.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "129",
+    "artist": "Shiburingaru",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/129.png",
+      "large": "https://images.pokemontcg.io/swsh9/129_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": 0.14
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.1,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.16,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "swsh9-130",
+    "name": "Barry",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "130",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/130.png",
+      "large": "https://images.pokemontcg.io/swsh9/130_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": 0.08
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.17,
+        "reverseHoloAvg7": 0.11,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "swsh9-131",
+    "name": "Blunder Policy",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon this card is attached to uses an attack, if you flip any coins for the damage or effect of that attack, and if any of them are tails, draw 3 cards at the end of your turn.",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "131",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/131.png",
+      "large": "https://images.pokemontcg.io/swsh9/131_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.16
+      }
+    }
+  },
+  {
+    "id": "swsh9-132",
+    "name": "Boss's Orders",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "132",
+    "artist": "GIDORA",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/132.png",
+      "large": "https://images.pokemontcg.io/swsh9/132_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.25,
+          "mid": 0.55,
+          "high": 50.46,
+          "market": 0.49,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.35,
+          "mid": 0.75,
+          "high": 4.99,
+          "market": 0.71,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0,
+        "lowPrice": 3.99,
+        "trendPrice": 0,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 5.75,
+        "reverseHoloLow": 3.99,
+        "reverseHoloTrend": 7.09,
+        "lowPriceExPlus": 3.99,
+        "avg1": 0,
+        "avg7": 0,
+        "avg30": 0,
+        "reverseHoloAvg1": 4.5,
+        "reverseHoloAvg7": 7.19,
+        "reverseHoloAvg30": 10.15
+      }
+    }
+  },
+  {
+    "id": "swsh9-133",
+    "name": "Café Master",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose up to 3 of your Benched Pokémon. For each of those Pokémon, search your deck for a different type of basic Energy card and attach it to that Pokémon. Then, shuffle your deck. Your turn ends.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "133",
+    "artist": "Hasegawa Saki",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/133.png",
+      "large": "https://images.pokemontcg.io/swsh9/133_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.16,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.09,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.08,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh9-134",
+    "name": "Cheren's Care",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put 1 of your Colorless Pokémon that has any damage counters on it and all attached cards into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "134",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/134.png",
+      "large": "https://images.pokemontcg.io/swsh9/134_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.23,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": 0.11
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": 0.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.13,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.09,
+        "reverseHoloAvg30": 0.12
+      }
+    }
+  },
+  {
+    "id": "swsh9-135",
+    "name": "Choice Belt",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Pokémon V (before applying Weakness and Resistance).",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "135",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/135.png",
+      "large": "https://images.pokemontcg.io/swsh9/135_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 5,
+          "market": 0.04,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 5.95,
+          "market": 0.13,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.09,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh9-136",
+    "name": "Cleansing Gloves",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Psychic Pokémon (before applying Weakness and Resistance).",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "136",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/136.png",
+      "large": "https://images.pokemontcg.io/swsh9/136_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.04,
+          "directLow": 0.01
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.16,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.12,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.12,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh9-137",
+    "name": "Collapsed Stadium",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Each player can't have more than 4 Benched Pokémon. If a player has 5 or more Benched Pokémon, they discard Benched Pokémon until they have 4 Pokémon on the Bench. The player who played this card discards first. If more than one effect changes the number of Benched Pokémon allowed, use the smaller number."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "137",
+    "artist": "Oswaldo KATO",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/137.png",
+      "large": "https://images.pokemontcg.io/swsh9/137_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.21,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.23,
+        "reverseHoloAvg7": 0.21,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh9-138",
+    "name": "Cynthia's Ambition",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 5 cards in your hand. If any of your Pokémon were Knocked Out during your opponent's last turn, draw cards until you have 8 cards in your hand instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "138",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/138.png",
+      "large": "https://images.pokemontcg.io/swsh9/138_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 5.95,
+          "market": 0.16,
+          "directLow": 0.1
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.17,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.03,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.27,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh9-139",
+    "name": "Fresh Water Set",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 20 damage from each of your Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "139",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/139.png",
+      "large": "https://images.pokemontcg.io/swsh9/139_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.13,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh9-140",
+    "name": "Friends in Galar",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "140",
+    "artist": "Yuu Nishida",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/140.png",
+      "large": "https://images.pokemontcg.io/swsh9/140_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.02
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 4.95,
+          "market": 0.14,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "swsh9-141",
+    "name": "Gloria",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Basic Pokémon that don't have a Rule Box and put them onto your Bench. Then, shuffle your deck. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "141",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/141.png",
+      "large": "https://images.pokemontcg.io/swsh9/141_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.25,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.12,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.08,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.02,
+        "reverseHoloAvg7": 0.09,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh9-142",
+    "name": "Hunting Gloves",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Dragon Pokémon (before applying Weakness and Resistance).",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "142",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/142.png",
+      "large": "https://images.pokemontcg.io/swsh9/142_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.03,
+          "directLow": 0.02
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.14,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "reverseHoloAvg1": 0.11,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.14
+      }
+    }
+  },
+  {
+    "id": "swsh9-143",
+    "name": "Kindler",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if you discard a Fire Energy card from your hand. Look at the top 7 cards of your deck and put up to 2 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "143",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/143.png",
+      "large": "https://images.pokemontcg.io/swsh9/143_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": 0.1
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.04,
+          "directLow": 0.02
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.13
+      }
+    }
+  },
+  {
+    "id": "swsh9-144",
+    "name": "Magma Basin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, that player may attach a Fire Energy card from their discard pile to 1 of their Benched Fire Pokémon. If a player attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "144",
+    "artist": "ORBITALLINK Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/144.png",
+      "large": "https://images.pokemontcg.io/swsh9/144_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.23,
+          "high": 89,
+          "market": 0.17,
+          "directLow": 0.1
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 12,
+          "market": 0.07,
+          "directLow": 0.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.16,
+        "avg7": 0.07,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.11,
+        "reverseHoloAvg30": 0.14
+      }
+    }
+  },
+  {
+    "id": "swsh9-145",
+    "name": "Marnie's Pride",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "145",
+    "artist": "saino misaki",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/145.png",
+      "large": "https://images.pokemontcg.io/swsh9/145_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 990,
+          "market": 0.13,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.28,
+          "high": 4.95,
+          "market": 0.31,
+          "directLow": 0.31
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.12,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.13,
+        "avg7": 0.05,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.06,
+        "reverseHoloAvg7": 0.12,
+        "reverseHoloAvg30": 0.12
+      }
+    }
+  },
+  {
+    "id": "swsh9-146",
+    "name": "Pot Helmet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon this card is attached to doesn't have a Rule Box, it takes 30 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "146",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/146.png",
+      "large": "https://images.pokemontcg.io/swsh9/146_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.19,
+          "high": 5,
+          "market": 0.14,
+          "directLow": 0.14
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.03,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.12,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "swsh9-147",
+    "name": "Professor's Research",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "147",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/147.png",
+      "large": "https://images.pokemontcg.io/swsh9/147_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.24,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 89,
+          "market": 0.19,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.13,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.17,
+        "avg7": 0.11,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-148",
+    "name": "Roseanne's Backup",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1 or more:\n• Shuffle a Pokémon from your discard pile into your deck.\n• Shuffle a Pokémon Tool card from your discard pile into your deck.\n• Shuffle a Stadium card from your discard pile into your deck.\n• Shuffle an Energy card from your discard pile into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "148",
+    "artist": "Nagomi Nijo",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/148.png",
+      "large": "https://images.pokemontcg.io/swsh9/148_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": 0.19
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.1,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.19,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.13,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "swsh9-149",
+    "name": "Team Yell's Cheer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle up to 3 in any combination of Pokémon and Supporter cards, except for Team Yell's Cheer, from your discard pile into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "149",
+    "artist": "GOSSAN",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/149.png",
+      "large": "https://images.pokemontcg.io/swsh9/149_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.21,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": 0.13
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.12,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.07,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.07,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.12,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "swsh9-150",
+    "name": "Ultra Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "150",
+    "artist": "sadaji",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/150.png",
+      "large": "https://images.pokemontcg.io/swsh9/150_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.34,
+          "high": 5,
+          "market": 0.36,
+          "directLow": 0.29
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.32,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.25,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.14,
+        "avg7": 0.11,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.44,
+        "reverseHoloAvg30": 0.35
+      }
+    }
+  },
+  {
+    "id": "swsh9-167",
+    "name": "Barry",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "167",
+    "artist": "Yuu Nishida",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/167.png",
+      "large": "https://images.pokemontcg.io/swsh9/167_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-167",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.69,
+          "mid": 1.62,
+          "high": 11,
+          "market": 1.45,
+          "directLow": 2.3
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-167",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.78,
+        "lowPrice": 0.33,
+        "trendPrice": 1.72,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1,
+        "avg1": 1.94,
+        "avg7": 1.86,
+        "avg30": 1.79,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-168",
+    "name": "Cheren's Care",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put 1 of your Colorless Pokémon that has any damage counters on it and all attached cards into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "168",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/168.png",
+      "large": "https://images.pokemontcg.io/swsh9/168_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-168",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.99,
+          "mid": 1.75,
+          "high": 15,
+          "market": 1.31,
+          "directLow": 1.9
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-168",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.86,
+        "lowPrice": 0.7,
+        "trendPrice": 1.55,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.7,
+        "avg1": 2.23,
+        "avg7": 2.02,
+        "avg30": 1.87,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-169",
+    "name": "Cynthia's Ambition",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 5 cards in your hand. If any of your Pokémon were Knocked Out during your opponent's last turn, draw cards until you have 8 cards in your hand instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "169",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/169.png",
+      "large": "https://images.pokemontcg.io/swsh9/169_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-169",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 9.25,
+          "mid": 11.58,
+          "high": 99.95,
+          "market": 9.65,
+          "directLow": 9.71
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-169",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.3,
+        "lowPrice": 2.98,
+        "trendPrice": 6.19,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 4.19,
+        "avg1": 5.31,
+        "avg7": 6.06,
+        "avg30": 6.33,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-170",
+    "name": "Kindler",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if you discard a Fire Energy card from your hand. Look at the top 7 cards of your deck and put up to 2 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "170",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/170.png",
+      "large": "https://images.pokemontcg.io/swsh9/170_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-170",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.5,
+          "mid": 1.31,
+          "high": 89,
+          "market": 1.31,
+          "directLow": 1.59
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-170",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.48,
+        "lowPrice": 0.45,
+        "trendPrice": 1.41,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.45,
+        "avg1": 1.37,
+        "avg7": 1.24,
+        "avg30": 1.44,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-171",
+    "name": "Marnie's Pride",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "171",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/171.png",
+      "large": "https://images.pokemontcg.io/swsh9/171_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-171",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 10.46,
+          "mid": 14.99,
+          "high": 99.95,
+          "market": 13.37,
+          "directLow": 14.86
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-171",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.79,
+        "lowPrice": 3,
+        "trendPrice": 6.55,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3,
+        "avg1": 4.6,
+        "avg7": 6.4,
+        "avg30": 6.75,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-172",
+    "name": "Roseanne's Backup",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1 or more:\n• Shuffle a Pokémon from your discard pile into your deck.\n• Shuffle a Pokémon Tool card from your discard pile into your deck.\n• Shuffle a Stadium card from your discard pile into your deck.\n• Shuffle an Energy card from your discard pile into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "172",
+    "artist": "kirisAki",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/172.png",
+      "large": "https://images.pokemontcg.io/swsh9/172_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.31,
+          "mid": 3.79,
+          "high": 27,
+          "market": 3.38,
+          "directLow": 3.47
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.94,
+        "lowPrice": 1,
+        "trendPrice": 2.56,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2,
+        "avg1": 3.28,
+        "avg7": 2.78,
+        "avg30": 2.9,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-177",
+    "name": "Cheren's Care",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put 1 of your Colorless Pokémon that has any damage counters on it and all attached cards into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "177",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/177.png",
+      "large": "https://images.pokemontcg.io/swsh9/177_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-177",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 4,
+          "high": 15,
+          "market": 3.8,
+          "directLow": 6.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-177",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.82,
+        "lowPrice": 1,
+        "trendPrice": 2.23,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.9,
+        "avg1": 1.85,
+        "avg7": 2.14,
+        "avg30": 2.73,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-178",
+    "name": "Cynthia's Ambition",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 5 cards in your hand. If any of your Pokémon were Knocked Out during your opponent's last turn, draw cards until you have 8 cards in your hand instead.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "178",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/178.png",
+      "large": "https://images.pokemontcg.io/swsh9/178_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-178",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.5,
+          "mid": 5.66,
+          "high": 99.95,
+          "market": 5.26,
+          "directLow": 5.24
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-178",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.97,
+        "lowPrice": 2,
+        "trendPrice": 4.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.5,
+        "avg1": 4.67,
+        "avg7": 3.71,
+        "avg30": 3.91,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-179",
+    "name": "Kindler",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can use this card only if you discard a Fire Energy card from your hand. Look at the top 7 cards of your deck and put up to 2 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "179",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/179.png",
+      "large": "https://images.pokemontcg.io/swsh9/179_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-179",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2,
+          "mid": 3.2,
+          "high": 19.95,
+          "market": 2.66,
+          "directLow": 3.36
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-179",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.47,
+        "lowPrice": 1.49,
+        "trendPrice": 2.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.49,
+        "avg1": 1.7,
+        "avg7": 2.16,
+        "avg30": 2.38,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-180",
+    "name": "Roseanne's Backup",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1 or more:\n• Shuffle a Pokémon from your discard pile into your deck.\n• Shuffle a Pokémon Tool card from your discard pile into your deck.\n• Shuffle a Stadium card from your discard pile into your deck.\n• Shuffle an Energy card from your discard pile into your deck.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "180",
+    "artist": "kirisAki",
+    "rarity": "Rare Rainbow",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/180.png",
+      "large": "https://images.pokemontcg.io/swsh9/180_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-180",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.75,
+          "mid": 4.26,
+          "high": 20,
+          "market": 3.97,
+          "directLow": 4.75
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-180",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.65,
+        "lowPrice": 1.5,
+        "trendPrice": 2.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1.65,
+        "avg1": 2,
+        "avg7": 2.33,
+        "avg30": 2.62,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-185",
+    "name": "Magma Basin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, that player may attach a Fire Energy card from their discard pile to 1 of their Benched Fire Pokémon. If a player attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "185",
+    "artist": "ORBITALLINK Inc.",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/185.png",
+      "large": "https://images.pokemontcg.io/swsh9/185_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-185",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.25,
+          "mid": 3.85,
+          "high": 15.98,
+          "market": 3.36,
+          "directLow": 3.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-185",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.17,
+        "lowPrice": 0.99,
+        "trendPrice": 3.65,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.99,
+        "avg1": 5.2,
+        "avg7": 4.07,
+        "avg30": 4.12,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh9-186",
+    "name": "Ultra Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "series": "Sword & Shield",
+      "printedTotal": 172,
+      "total": 186,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BRS",
+      "releaseDate": "2022/02/25",
+      "updatedAt": "2022/02/23 09:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+      }
+    },
+    "number": "186",
+    "artist": "sadaji",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/186.png",
+      "large": "https://images.pokemontcg.io/swsh9/186_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-186",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 25.99,
+          "mid": 32.22,
+          "high": 59.95,
+          "market": 30.21,
+          "directLow": 34.8
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh9-186",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 21.25,
+        "lowPrice": 15.99,
+        "trendPrice": 19.35,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 17,
+        "avg1": 15.25,
+        "avg7": 20.18,
+        "avg30": 21.08,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "swsh6-157",
+    "name": "Impact Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special",
+      "Single Strike"
+    ],
+    "rules": [
+      "This card can only be attached to a Single Strike Pokémon. If this card is attached to anything other than a Single Strike Pokémon, discard this card.",
+      "As long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 Energy at a time. The Pokémon this card is attached to can't be Poisoned, and if it is already Poisoned, it recovers from that Special Condition."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "157",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/157.png",
+      "large": "https://images.pokemontcg.io/swsh6/157_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 2,
+          "market": 0.17,
+          "directLow": 0.11
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 2,
+          "market": 0.07,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-157",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.11,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.11,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.06,
+        "avg30": 0.04,
+        "reverseHoloAvg1": 0.04,
+        "reverseHoloAvg7": 0.14,
+        "reverseHoloAvg30": 0.12
+      }
+    }
+  },
+  {
+    "id": "swsh6-158",
+    "name": "Lucky Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "As long as this card is attached to a Pokémon, it provides Colorless Energy.",
+      "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if it is Knocked Out), draw a card."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "158",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/158.png",
+      "large": "https://images.pokemontcg.io/swsh6/158_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2.09,
+          "market": 0.09,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.25,
+          "high": 2,
+          "market": 0.24,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.21,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.04,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.07,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh6-159",
+    "name": "Spiral Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special",
+      "Rapid Strike"
+    ],
+    "rules": [
+      "This card can only be attached to a Rapid Strike Pokémon. If this card is attached to anything other than a Rapid Strike Pokémon, discard this card.",
+      "As long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 Energy at a time. The Pokémon this card is attached to can't be Paralyzed, and if it is already Paralyzed, it recovers from that Special Condition."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "159",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/159.png",
+      "large": "https://images.pokemontcg.io/swsh6/159_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 2,
+          "market": 0.05,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 2.37,
+          "market": 0.16,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.04,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.13,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.24,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "swsh6-231",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "231",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/231.png",
+      "large": "https://images.pokemontcg.io/swsh6/231_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-231",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 10.22,
+          "mid": 14.97,
+          "high": 44.95,
+          "market": 11.75,
+          "directLow": 11
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-231",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 9.83,
+        "lowPrice": 8,
+        "trendPrice": 9.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 8,
+        "avg1": 9.9,
+        "avg7": 9.3,
+        "avg30": 10.17,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-232",
+    "name": "Psychic Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "232",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/232.png",
+      "large": "https://images.pokemontcg.io/swsh6/232_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-232",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 9.99,
+          "mid": 15.53,
+          "high": 100,
+          "market": 13.93,
+          "directLow": 13.92
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-232",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 9.2,
+        "lowPrice": 5.99,
+        "trendPrice": 9.37,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 8,
+        "avg1": 9.89,
+        "avg7": 9.04,
+        "avg30": 10.34,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "swsh6-233",
+    "name": "Fighting Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "233",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/233.png",
+      "large": "https://images.pokemontcg.io/swsh6/233_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-233",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5,
+          "mid": 7.61,
+          "high": 16.12,
+          "market": 7.38,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/swsh6-233",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.46,
+        "lowPrice": 4.98,
+        "trendPrice": 6.93,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 5.98,
+        "avg1": 11.49,
+        "avg7": 8.09,
+        "avg30": 7.2,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]
