@@ -198,10 +198,17 @@ function EnhancedCardSearchPanel() {
 
     const loadCustomCards = () => {
         try {
+            console.log("Loading custom cards...");
+            // Load cards from the controller
             EnhancedTCGController.loadCustomCards();
-            setCustomCards(EnhancedTCGController.getCustomCards());
+            const cards = EnhancedTCGController.getCustomCards();
+            console.log("Loaded custom cards:", cards);
+            
+            // Update state with loaded cards
+            setCustomCards(cards || []);
         } catch (error) {
             console.error('Error loading custom cards:', error);
+            setCustomCards([]);
         }
     };
 
@@ -498,16 +505,31 @@ function EnhancedCardSearchPanel() {
         return favoriteCards.some(fav => fav.id === cardId);
     };
 
-    const handleCustomCardCreated = () => {
+    const handleCustomCardCreated = (card) => {
+        console.log("Custom card created:", card);
+        
+        // Load all custom cards to ensure we have the latest
         loadCustomCards();
+        
+        // Close the modal
         setShowCustomCardModal(false);
     };
+    
 
     const handleDeleteCustomCard = (id) => {
+        console.log("Deleting custom card with ID:", id);
         const confirmed = window.confirm('Are you sure you want to delete this custom card?');
+        
         if (confirmed) {
-            EnhancedTCGController.deleteCustomCard(id);
-            loadCustomCards();
+            // Delete the card
+            const success = EnhancedTCGController.deleteCustomCard(id);
+            
+            if (success) {
+                // Reload the custom cards
+                loadCustomCards();
+            } else {
+                alert('Failed to delete custom card. Please try again.');
+            }
         }
     };
 
@@ -1016,36 +1038,37 @@ function EnhancedCardSearchPanel() {
                     </Card.Body>
                 )}
 
-                {tabKey === 'custom' && (
-                    <Card.Body>
-                        <div className="d-flex justify-content-end mb-3">
-                            <Button
-                                variant="primary"
-                                onClick={() => setShowCustomCardModal(true)}
-                            >
-                                <FontAwesomeIcon icon={faPlus} className="me-2" />
-                                Create Custom Card
-                            </Button>
-                        </div>
-                        {customCards.length > 0 ? (
-                            <CardContainer
-                                cards={customCards}
-                                handleDoubleClick={handleDoubleClickData}
-                                containerType={"Custom"}
-                                handleDeleteCard={handleDeleteCustomCard}
-                                isCustomContainer={true}
-                                isCardFavorite={isCardFavorite}
-                                handleToggleFavorite={handleToggleFavorite}
-                            />
-                        ) : (
-                            <div className="text-center my-5">
-                                <p className="lead">You haven't created any custom cards yet.</p>
-                                <p>Click the "Create Custom Card" button to get started.</p>
-                            </div>
-                        )}
-                        {/* CustomCardCreator component would go here */}
-                    </Card.Body>
-                )}
+{tabKey === 'custom' && (
+    <Card.Body>
+        <div className="d-flex justify-content-end mb-3">
+            <Button
+                variant="primary"
+                onClick={() => setShowCustomCardModal(true)}
+            >
+                <FontAwesomeIcon icon={faPlus} className="me-2" />
+                Create Custom Card
+            </Button>
+        </div>
+        
+        {/* Render the custom cards container */}
+        <CardContainer
+            cards={customCards}
+            handleDoubleClick={handleDoubleClickData}
+            containerType="Custom"
+            handleDeleteCard={handleDeleteCustomCard}
+            isCustomContainer={true}
+            favoriteCards={favoriteCards}
+            handleToggleFavorite={handleToggleFavorite}
+        />
+        
+        {/* The modal for creating custom cards */}
+        <CustomCardCreator 
+            show={showCustomCardModal} 
+            handleClose={() => setShowCustomCardModal(false)} 
+            onCardCreated={handleCustomCardCreated}
+        />
+    </Card.Body>
+)}
 
                 {tabKey === 'history' && (
                     <Card.Body>

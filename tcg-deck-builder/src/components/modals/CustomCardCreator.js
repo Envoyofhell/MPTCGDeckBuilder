@@ -306,8 +306,16 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
             return;
         }
         
+        // Add debugging to see if EnhancedTCGController is properly loaded
+        console.log("EnhancedTCGController:", EnhancedTCGController);
+        console.log("Methods available:", Object.getOwnPropertyNames(EnhancedTCGController));
+        
         // Create custom card
         try {
+            if (typeof EnhancedTCGController.addCustomCard !== 'function') {
+                throw new Error('addCustomCard method is not available on EnhancedTCGController');
+            }
+            
             const newCard = EnhancedTCGController.addCustomCard(cardData);
             
             // Callback with the new card
@@ -319,6 +327,7 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
             resetForm();
             handleClose();
         } catch (error) {
+            console.error("Error creating custom card:", error);
             alert(`Error creating custom card: ${error.message}`);
         }
     };

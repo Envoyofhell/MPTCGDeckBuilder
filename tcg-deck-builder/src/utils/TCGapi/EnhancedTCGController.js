@@ -1,17 +1,17 @@
 // src/utils/TCGapi/EnhancedTCGController.js
-// Modified to fix search functionality issues
+// Modified to fix search functionality issues, consolidate custom card methods, and add initialize method
 
 /**
  * Enhanced TCG API Controller with improved caching, error handling, and retry logic
- * @version 1.1.0
+ * @version 1.1.1
  */
 
 // Cache manager for API requests
 const API_CACHE = {
-    cardCache: {},           // By card ID/name
-    setCache: null,          // All sets
-    searchResultsCache: {},  // By search query
-    customCardsCache: [],    // User-created cards
+    cardCache: {},          // By card ID/name
+    setCache: null,           // All sets
+    searchResultsCache: {},   // By search query
+    customCardsCache: [],     // User-created cards
 };
 
 // Configuration
@@ -66,20 +66,18 @@ async function fetchWithTimeout(url, options = {}, resourceName = 'resource', re
         clearTimeout(timeoutId);
         
         if (error.name === "AbortError") {
-            console.error(`Fetch timed out for ${url}`);
+            console.error(`Workspace timed out for ${url}`);
             throw new Error(`Request for ${resourceName} timed out after ${REQUEST_TIMEOUT / 1000} seconds`);
         }
         
-        // If we have retries left and it's not a client error (4xx)
         if (retries > 0 && (!error.response || error.response.status >= 500)) {
             console.log(`Retrying fetch for ${resourceName} (${retries} attempts left)`);
-            // Exponential backoff
             const delay = (MAX_RETRIES - retries + 1) * 1000;
             await new Promise(resolve => setTimeout(resolve, delay));
             return fetchWithTimeout(url, options, resourceName, retries - 1);
         }
         
-        console.error(`Fetch failed for ${url}:`, error);
+        console.error(`Workspace failed for ${url}:`, error);
         throw error;
     }
 }
@@ -115,6 +113,17 @@ function generateCacheKey(params) {
  * Enhanced controller for TCG API with caching and error handling
  */
 class EnhancedTCGController {
+
+    /**
+     * Initializes the controller, e.g., by loading custom cards.
+     */
+    static initialize() {
+        console.log("EnhancedTCGController initializing...");
+        this.loadCustomCards();
+        // You can add other initialization logic here if needed
+        console.log("EnhancedTCGController initialized.");
+    }
+
     /**
      * Check if API key is configured
      * @returns {boolean} True if API key is set
@@ -130,80 +139,53 @@ class EnhancedTCGController {
      * @returns {Promise<Array>} Card data
      */
     static async query(params, useCache = true) {
-        // Form cache key from params
         const cacheKey = generateCacheKey(params);
         
-        // Check cache first if enabled
         if (useCache && API_CACHE.searchResultsCache[cacheKey]) {
             console.log(`Using cached results for query: ${cacheKey}`);
             return API_CACHE.searchResultsCache[cacheKey];
         }
         
-        // Build query string from parameters
         const queryParts = [];
         
-        // Handle name parameter specially based on format
         if (params.name) {
-            // Name is already formatted with wildcards if needed (e.g., "*charizard*")
             queryParts.push(`name:${params.name}`);
         }
-        
-        // Handle types array
         if (params.types && params.types.length > 0) {
-            // Join multiple types with OR
             const typeQueries = params.types.map(type => `types:"${type}"`);
             queryParts.push(`(${typeQueries.join(" OR ")})`);
         }
-        
-        // Handle subtypes array
         if (params.subtypes && params.subtypes.length > 0) {
-            // Join multiple subtypes with OR
             const subtypeQueries = params.subtypes.map(subtype => `subtypes:"${subtype}"`);
             queryParts.push(`(${subtypeQueries.join(" OR ")})`);
         }
-        
-        // Handle supertypes array
         if (params.supertypes && params.supertypes.length > 0) {
-            // Join multiple supertypes with OR
             const supertypeQueries = params.supertypes.map(supertype => `supertype:"${supertype}"`);
             queryParts.push(`(${supertypeQueries.join(" OR ")})`);
         }
-        
-        // Handle rarities array
         if (params.rarities && params.rarities.length > 0) {
-            // Join multiple rarities with OR
             const rarityQueries = params.rarities.map(rarity => `rarity:"${rarity}"`);
             queryParts.push(`(${rarityQueries.join(" OR ")})`);
         }
-        
-        // Handle sets array
         if (params.sets && params.sets.length > 0) {
-            // Join multiple sets with OR
             const setQueries = params.sets.map(set => `set.id:"${set}"`);
             queryParts.push(`(${setQueries.join(" OR ")})`);
         }
-        
-        // Handle legalities
         if (params.legalities) {
-            // For each format
             Object.entries(params.legalities).forEach(([format, status]) => {
-                if (status) { // Only add if there's a value
+                if (status) {
                     queryParts.push(`legalities.${format}:"${status}"`);
                 }
             });
         }
         
-        // Build the query
         const query = queryParts.join(' ');
-        
-        // If no query parameters, return empty array
         if (!query) {
             return [];
         }
         
-        // Build URL with encoded query
         const url = `${TCGAPI_BASE_URL}/cards?q=${encodeURIComponent(query)}&orderBy=-set.releaseDate,number&pageSize=150`;
-        console.log(`Fetching TCG cards with query: ${query}`);
+        console.log(`Workspaceing TCG cards with query: ${query}`);
         
         try {
             const data = await fetchWithTimeout(
@@ -211,8 +193,6 @@ class EnhancedTCGController {
                 { headers: getHeaders() },
                 `TCG cards with query: ${query}`
             );
-            
-            // Store in cache
             API_CACHE.searchResultsCache[cacheKey] = data?.data || [];
             return data?.data || [];
         } catch (error) {
@@ -227,14 +207,13 @@ class EnhancedTCGController {
      * @returns {Promise<Array>} Sets data
      */
     static async getAllSets(useCache = true) {
-        // Check cache first if enabled
         if (useCache && API_CACHE.setCache) {
             console.log(`Using cached sets`);
             return API_CACHE.setCache;
         }
         
         const url = `${TCGAPI_BASE_URL}/sets?orderBy=-releaseDate`;
-        console.log(`Fetching TCG sets: ${url}`);
+        console.log(`Workspaceing TCG sets: ${url}`);
         
         try {
             const data = await fetchWithTimeout(
@@ -242,8 +221,6 @@ class EnhancedTCGController {
                 { headers: getHeaders() },
                 `TCG sets`
             );
-            
-            // Store in cache
             API_CACHE.setCache = data?.data || [];
             return API_CACHE.setCache;
         } catch (error) {
@@ -251,60 +228,206 @@ class EnhancedTCGController {
             return [];
         }
     }
-    
+
     /**
      * Load custom cards from local storage
      */
     static loadCustomCards() {
         try {
+            console.log("Loading custom cards from local storage");
             const stored = localStorage.getItem('tcg-deck-builder-custom-cards');
             if (stored) {
                 API_CACHE.customCardsCache = JSON.parse(stored);
+                console.log(`Loaded ${API_CACHE.customCardsCache.length} custom cards`);
+            } else {
+                console.log("No custom cards found in local storage");
+                API_CACHE.customCardsCache = [];
             }
         } catch (error) {
             console.error('Failed to load custom cards from local storage:', error);
+            API_CACHE.customCardsCache = [];
         }
     }
-    
-    /**
-     * Get all custom cards
-     * @returns {Array} Custom cards
-     */
-    static getCustomCards() {
-        return [...API_CACHE.customCardsCache];
-    }
-    
-    /**
-     * Delete a custom card by ID
-     * @param {string} id - Card ID to delete
-     * @returns {boolean} Success flag
-     */
-    static deleteCustomCard(id) {
-        const initialLength = API_CACHE.customCardsCache.length;
-        API_CACHE.customCardsCache = API_CACHE.customCardsCache.filter(card => card.id !== id);
-        
-        const success = API_CACHE.customCardsCache.length < initialLength;
-        if (success) {
-            this.saveCustomCards();
-        }
-        
-        return success;
-    }
-    
+
     /**
      * Save custom cards to local storage
      */
     static saveCustomCards() {
         try {
             localStorage.setItem('tcg-deck-builder-custom-cards', JSON.stringify(API_CACHE.customCardsCache));
+            console.log(`Saved ${API_CACHE.customCardsCache.length} custom cards to local storage`);
         } catch (error) {
             console.error('Failed to save custom cards to local storage:', error);
+        }
+    }
+
+    /**
+     * Get all custom cards
+     * @returns {Array} Custom cards
+     */
+    static getCustomCards() {
+        if (!API_CACHE.customCardsCache) {
+            API_CACHE.customCardsCache = [];
+        }
+        return [...API_CACHE.customCardsCache];
+    }
+
+    /**
+     * Add a custom card
+     * @param {object} cardData - Card data to add
+     * @returns {object} Created card
+     */
+    static addCustomCard(cardData) {
+        try {
+            console.log("Adding custom card with data:", cardData);
+            
+            const id = `custom-${Date.now()}-${Math.random().toString(36).substring(2, 9)}`;
+            
+            const card = {
+                id: id,
+                name: cardData.name,
+                supertype: cardData.supertype || 'Pokémon',
+                subtypes: cardData.subtypes || [],
+                hp: cardData.hp || '',
+                types: cardData.types || [],
+                rules: cardData.rules || [],
+                abilities: cardData.abilities || [],
+                attacks: cardData.attacks || [],
+                weaknesses: cardData.weaknesses || [],
+                resistances: cardData.resistances || [],
+                retreatCost: cardData.retreatCost || [],
+                convertedRetreatCost: cardData.retreatCost ? cardData.retreatCost.length : 0,
+                rarity: 'Custom',
+                artist: cardData.artist || 'Custom Artist',
+                nationalPokedexNumbers: [],
+                legalities: {
+                    unlimited: 'Legal',
+                    standard: 'Legal',
+                    expanded: 'Legal'
+                },
+                isCustom: true,
+                image: cardData.imageUrl,
+                images: {
+                    small: cardData.imageUrl,
+                    large: cardData.imageUrl
+                },
+                number: "C" + Math.floor(Math.random() * 1000),
+                set: {
+                    id: "custom",
+                    name: "Custom Cards",
+                    series: "Custom",
+                    printedTotal: 0,
+                    total: 0,
+                    legalities: {
+                        unlimited: "Legal",
+                        standard: "Legal",
+                        expanded: "Legal"
+                    },
+                    releaseDate: new Date().toISOString().split('T')[0],
+                    updatedAt: new Date().toISOString()
+                }
+            };
+            
+            if (!API_CACHE.customCardsCache) {
+                API_CACHE.customCardsCache = [];
+            }
+            
+            API_CACHE.customCardsCache.push(card);
+            this.saveCustomCards();
+            
+            console.log("Created custom card:", card);
+            return card;
+        } catch (error) {
+            console.error("Error creating custom card:", error);
+            throw new Error(`Failed to create custom card: ${error.message}`);
+        }
+    }
+    
+    /**
+     * Update an existing custom card
+     * @param {string} id - ID of the card to update
+     * @param {object} cardData - New card data
+     * @returns {object|null} Updated card or null if not found
+     */
+    static updateCustomCard(id, cardData) {
+        try {
+            console.log(`Updating custom card with ID: ${id}`);
+            
+            if (!API_CACHE.customCardsCache) {
+                API_CACHE.customCardsCache = [];
+                console.warn("Custom cards cache not initialized during update attempt.");
+                return null; 
+            }
+            
+            const cardIndex = API_CACHE.customCardsCache.findIndex(card => card.id === id);
+            if (cardIndex === -1) {
+                console.warn(`Card with ID ${id} not found in custom cards cache for update`);
+                return null;
+            }
+            
+            const existingCard = API_CACHE.customCardsCache[cardIndex];
+            const updatedCard = {
+                ...existingCard,
+                ...cardData,
+                id: existingCard.id, 
+                image: cardData.imageUrl || existingCard.image,
+                images: {
+                    small: cardData.imageUrl || (existingCard.images && existingCard.images.small),
+                    large: cardData.imageUrl || (existingCard.images && existingCard.images.large)
+                },
+                isCustom: true, 
+                set: {
+                    ...(existingCard.set || {}), 
+                    updatedAt: new Date().toISOString()
+                }
+            };
+            
+            API_CACHE.customCardsCache[cardIndex] = updatedCard;
+            this.saveCustomCards();
+            
+            console.log("Updated custom card:", updatedCard);
+            return updatedCard;
+        } catch (error) {
+            console.error("Error updating custom card:", error);
+            return null; 
+        }
+    }
+
+    /**
+     * Delete a custom card by ID
+     * @param {string} id - Card ID to delete
+     * @returns {boolean} Success flag
+     */
+    static deleteCustomCard(id) {
+        try {
+            console.log("Deleting custom card with ID:", id);
+            
+            if (!API_CACHE.customCardsCache) {
+                API_CACHE.customCardsCache = [];
+                console.warn("Custom cards cache not initialized during delete attempt.");
+                return false;
+            }
+            
+            const initialLength = API_CACHE.customCardsCache.length;
+            API_CACHE.customCardsCache = API_CACHE.customCardsCache.filter(card => card.id !== id);
+            
+            const success = API_CACHE.customCardsCache.length < initialLength;
+            if (success) {
+                console.log(`Successfully deleted custom card with ID: ${id}`);
+                this.saveCustomCards();
+            } else {
+                console.warn(`Card with ID ${id} not found in custom cards cache for deletion`);
+            }
+            return success;
+        } catch (error) {
+            console.error("Error deleting custom card:", error);
+            return false;
         }
     }
     
     /**
      * Clear API cache
-     * @param {string} cacheType - Type of cache to clear ('all', 'cards', 'sets', 'search')
+     * @param {string} cacheType - Type of cache to clear ('all', 'cards', 'sets', 'search', 'custom')
      */
     static clearCache(cacheType = 'all') {
         console.log(`Clearing API cache: ${cacheType}`);
@@ -319,36 +442,21 @@ class EnhancedTCGController {
             case 'search':
                 API_CACHE.searchResultsCache = {};
                 break;
+            case 'custom':
+                API_CACHE.customCardsCache = [];
+                // this.saveCustomCards(); // Optionally save the empty array to localStorage
+                console.log("Custom cards cache cleared. Consider if you want to persist this to localStorage.");
+                break;
             case 'all':
             default:
                 API_CACHE.cardCache = {};
                 API_CACHE.setCache = null;
                 API_CACHE.searchResultsCache = {};
+                // Decide if 'all' should also clear custom cards and persist:
+                // API_CACHE.customCardsCache = [];
+                // this.saveCustomCards(); 
                 break;
         }
-    }
-    
-    /**
-     * Initialize the controller
-     */
-    static async initialize() {
-        console.log('Initializing Enhanced TCG API Controller...');
-        
-        // Load custom cards from local storage
-        this.loadCustomCards();
-        
-        // Pre-fetch sets for faster UI
-        if (this.isApiKeyConfigured()) {
-            try {
-                const sets = await this.getAllSets();
-                console.log(`Loaded ${sets.length} sets`);
-            } catch (err) {
-                console.warn('Failed to pre-fetch TCG sets:', err);
-            }
-        }
-        
-        console.log('Enhanced TCG API Controller initialized.');
-        return true;
     }
 }
 
