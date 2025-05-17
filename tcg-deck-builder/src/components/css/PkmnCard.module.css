@@ -1,32 +1,73 @@
+/* PkmnCard.module.css - Enhanced styling for Pokémon cards */
+
 .cardStyle {
-    width: 10vw;
-    height: auto;
-    flex: 1 0 21%;
-    transition: transform 0.1s ease-in-out;
-    position: relative;
+  width: 10vw;
+  height: auto;
+  aspect-ratio: 2.5 / 3.5; /* Standard TCG card aspect ratio */
+  transition: transform 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  position: relative;
+  border-radius: 4.5% / 3.5%;
+  overflow: hidden;
+  background-color: transparent;
+  border: none;
+  margin: 5px;
+  flex: 0 0 auto;
 }
 
 .cardStyle:hover {
-    transform: scale(1.1);
+  transform: scale(1.05);
+  z-index: 10;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
-/* PkmnCard.module.css */
+/* Placeholder styling */
+.placeholder {
+  height: 100%;
+  width: 100%;
+  aspect-ratio: 2.5 / 3.5;
+  background-color: #f0f0f0;
+  border-radius: 4.5% / 3.5%;
+}
+
+/* Modal styling */
 .modalBackdrop {
-  /* background-color: rgba(0, 0, 0, 0.5); */
+  max-width: 80vw;
 }
 
 .modalContent {
-  background-color: transparent; /* Transparent modal content */
-  border: none; /* Remove modal border */
+  background-color: transparent;
+  border: none;
 }
 
 .modalBody {
-  padding: 0; /* Remove padding if desired for a tighter look */
+  padding: 0;
 }
 
 .enlargedImg {
-  display: block; /* Ensure the image fits well */
-  max-width: 100%; /* Limit image width to modal size */
-  height: auto; /* Maintain aspect ratio */
-  margin: 0 auto; /* Center image horizontally */
+  display: block;
+  max-width: 100%;
+  max-height: 85vh;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+  .cardStyle {
+    width: 15vw;
+  }
+}
+
+@media (max-width: 768px) {
+  .cardStyle {
+    width: 20vw;
+  }
+}
+
+@media (max-width: 576px) {
+  .cardStyle {
+    width: 30vw;
+  }
 }
