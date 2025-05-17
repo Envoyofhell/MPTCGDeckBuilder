@@ -1,8 +1,9 @@
 // src/utils/TCGapi/EnhancedTCGController.js
+// Modified to fix search functionality issues
 
 /**
  * Enhanced TCG API Controller with improved caching, error handling, and retry logic
- * @version 1.0.0
+ * @version 1.1.0
  */
 
 // Cache manager for API requests
@@ -18,9 +19,7 @@ const TCGAPI_BASE_URL = "https://api.pokemontcg.io/v2";
 const REQUEST_TIMEOUT = 15000; // 15 seconds
 const MAX_RETRIES = 3;
 
-// Your API key should be stored in environment variables
-// For local development, you might use .env files and process.env
-// For production, use appropriate secure methods for your deployment platform
+// API key is stored in environment variables
 const API_KEY = process.env.REACT_APP_POKEMON_TCG_API_KEY || 'a65acbfc-55e5-4d2c-9278-253872a1bc5a';
 
 /**
@@ -141,42 +140,76 @@ class EnhancedTCGController {
         }
         
         // Build query string from parameters
-        let queryParts = [];
-        for (const [key, value] of Object.entries(params)) {
-            // Skip empty values
-            if (!value) continue;
-            
-            // Handle special case for name with exact match
-            if (key === 'name' && typeof value === 'string') {
-                if (value.includes('*')) {
-                    // Wildcard search
-                    queryParts.push(`name:${value}`);
-                } else {
-                    // Exact match with quotes
-                    queryParts.push(`name:"${value}"`);
-                }
-            } 
-            // Handle array values (like types)
-            else if (Array.isArray(value)) {
-                value.forEach(val => {
-                    queryParts.push(`${key}:"${val}"`);
-                });
-            }
-            // Handle regular key-value pairs
-            else {
-                queryParts.push(`${key}:"${value}"`);
-            }
+        const queryParts = [];
+        
+        // Handle name parameter specially based on format
+        if (params.name) {
+            // Name is already formatted with wildcards if needed (e.g., "*charizard*")
+            queryParts.push(`name:${params.name}`);
         }
         
+        // Handle types array
+        if (params.types && params.types.length > 0) {
+            // Join multiple types with OR
+            const typeQueries = params.types.map(type => `types:"${type}"`);
+            queryParts.push(`(${typeQueries.join(" OR ")})`);
+        }
+        
+        // Handle subtypes array
+        if (params.subtypes && params.subtypes.length > 0) {
+            // Join multiple subtypes with OR
+            const subtypeQueries = params.subtypes.map(subtype => `subtypes:"${subtype}"`);
+            queryParts.push(`(${subtypeQueries.join(" OR ")})`);
+        }
+        
+        // Handle supertypes array
+        if (params.supertypes && params.supertypes.length > 0) {
+            // Join multiple supertypes with OR
+            const supertypeQueries = params.supertypes.map(supertype => `supertype:"${supertype}"`);
+            queryParts.push(`(${supertypeQueries.join(" OR ")})`);
+        }
+        
+        // Handle rarities array
+        if (params.rarities && params.rarities.length > 0) {
+            // Join multiple rarities with OR
+            const rarityQueries = params.rarities.map(rarity => `rarity:"${rarity}"`);
+            queryParts.push(`(${rarityQueries.join(" OR ")})`);
+        }
+        
+        // Handle sets array
+        if (params.sets && params.sets.length > 0) {
+            // Join multiple sets with OR
+            const setQueries = params.sets.map(set => `set.id:"${set}"`);
+            queryParts.push(`(${setQueries.join(" OR ")})`);
+        }
+        
+        // Handle legalities
+        if (params.legalities) {
+            // For each format
+            Object.entries(params.legalities).forEach(([format, status]) => {
+                if (status) { // Only add if there's a value
+                    queryParts.push(`legalities.${format}:"${status}"`);
+                }
+            });
+        }
+        
+        // Build the query
         const query = queryParts.join(' ');
+        
+        // If no query parameters, return empty array
+        if (!query) {
+            return [];
+        }
+        
+        // Build URL with encoded query
         const url = `${TCGAPI_BASE_URL}/cards?q=${encodeURIComponent(query)}&orderBy=-set.releaseDate,number&pageSize=150`;
-        console.log(`Fetching TCG cards: ${url}`);
+        console.log(`Fetching TCG cards with query: ${query}`);
         
         try {
             const data = await fetchWithTimeout(
                 url,
                 { headers: getHeaders() },
-                `TCG cards for ${query}`
+                `TCG cards with query: ${query}`
             );
             
             // Store in cache
@@ -185,67 +218,6 @@ class EnhancedTCGController {
         } catch (error) {
             console.error(`Error fetching TCG cards: ${error.message}`);
             return [];
-        }
-    }
-    
-    /**
-     * Search cards by name with flexible matching options
-     * @param {string} name - Card name to search for
-     * @param {object} options - Additional search options
-     * @returns {Promise<Array>} Card data
-     */
-    static async searchByName(name, options = {}) {
-        if (!name) return [];
-        
-        // Build search parameters
-        const params = { ...options };
-        
-        // Handle name search mode
-        if (options.exactMatch) {
-            params.name = name;
-        } else if (options.startsWith) {
-            params.name = `${name}*`;
-        } else {
-            params.name = `*${name}*`;
-        }
-        
-        return this.query(params);
-    }
-    
-    /**
-     * Fetch a specific card by its ID
-     * @param {string} id - Card ID
-     * @param {boolean} useCache - Whether to use cache
-     * @returns {Promise<object|null>} Card data or null
-     */
-    static async getCardById(id, useCache = true) {
-        if (!id) return null;
-        
-        // Check cache first if enabled
-        if (useCache && API_CACHE.cardCache[id]) {
-            console.log(`Using cached card: ${id}`);
-            return API_CACHE.cardCache[id];
-        }
-        
-        const url = `${TCGAPI_BASE_URL}/cards/${id}`;
-        console.log(`Fetching TCG card: ${url}`);
-        
-        try {
-            const data = await fetchWithTimeout(
-                url,
-                { headers: getHeaders() },
-                `TCG card ${id}`
-            );
-            
-            // Store in cache
-            if (data?.data) {
-                API_CACHE.cardCache[id] = data.data;
-                return data.data;
-            }
-            return null;
-        } catch (error) {
-            console.error(`Error fetching TCG card ${id}: ${error.message}`);
-            return null;
         }
     }
     
@@ -277,151 +249,6 @@ class EnhancedTCGController {
         } catch (error) {
             console.error(`Error fetching TCG sets: ${error.message}`);
             return [];
-        }
-    }
-    
-    /**
-     * Advanced search with multiple filters and pagination
-     * @param {object} filters - Search filters
-     * @param {number} page - Page number
-     * @param {number} pageSize - Results per page
-     * @returns {Promise<object>} Search results with pagination info
-     */
-    static async advancedSearch(filters = {}, page = 1, pageSize = 20) {
-        // Extract specific filters
-        const { name, types, rarity, set, subtypes, supertype, legalities, cardmarket, tcgplayer } = filters;
-        
-        // Build query parameters
-        const params = {};
-        if (name) params.name = name.includes('*') ? name : `*${name}*`;
-        if (types) params.types = types;
-        if (rarity) params.rarity = rarity;
-        if (set) params['set.id'] = set;
-        if (subtypes) params.subtypes = subtypes;
-        if (supertype) params.supertype = supertype;
-        
-        // Handle legalities (format:legality)
-        if (legalities) {
-            Object.entries(legalities).forEach(([format, legality]) => {
-                params[`legalities.${format}`] = legality;
-            });
-        }
-        
-        // Handle pricing filters
-        if (cardmarket && cardmarket.prices) {
-            Object.entries(cardmarket.prices).forEach(([key, value]) => {
-                if (value.min) params[`cardmarket.prices.${key}.gte`] = value.min;
-                if (value.max) params[`cardmarket.prices.${key}.lte`] = value.max;
-            });
-        }
-        
-        if (tcgplayer && tcgplayer.prices) {
-            Object.entries(tcgplayer.prices).forEach(([key, value]) => {
-                if (value.min) params[`tcgplayer.prices.${key}.gte`] = value.min;
-                if (value.max) params[`tcgplayer.prices.${key}.lte`] = value.max;
-            });
-        }
-        
-        // Build query string
-        let queryParts = [];
-        for (const [key, value] of Object.entries(params)) {
-            if (Array.isArray(value)) {
-                value.forEach(val => {
-                    queryParts.push(`${key}:"${val}"`);
-                });
-            } else {
-                queryParts.push(`${key}:"${value}"`);
-            }
-        }
-        
-        const query = queryParts.join(' ');
-        const url = `${TCGAPI_BASE_URL}/cards?q=${encodeURIComponent(query)}&page=${page}&pageSize=${pageSize}&orderBy=-set.releaseDate`;
-        console.log(`Advanced search: ${url}`);
-        
-        try {
-            const data = await fetchWithTimeout(
-                url,
-                { headers: getHeaders() },
-                `TCG advanced search`
-            );
-            
-            return {
-                data: data?.data || [],
-                pagination: data?.pagination || { count: 0, totalCount: 0, page, pageSize }
-            };
-        } catch (error) {
-            console.error(`Error in advanced search: ${error.message}`);
-            return { data: [], pagination: { count: 0, totalCount: 0, page, pageSize } };
-        }
-    }
-    
-    /**
-     * Add a custom card to the deck builder
-     * @param {object} cardData - Custom card data
-     * @returns {object} The created card with ID
-     */
-    static addCustomCard(cardData) {
-        if (!cardData.name || !cardData.supertype) {
-            throw new Error('Custom card must have a name and supertype');
-        }
-        
-        // Generate a unique ID for the custom card
-        const customId = `custom-${Date.now()}-${Math.floor(Math.random() * 1000)}`;
-        
-        const customCard = {
-            id: customId,
-            name: cardData.name,
-            supertype: cardData.supertype,
-            subtypes: cardData.subtypes || [],
-            types: cardData.types || [],
-            hp: cardData.hp || '',
-            rules: cardData.rules || [],
-            abilities: cardData.abilities || [],
-            attacks: cardData.attacks || [],
-            weaknesses: cardData.weaknesses || [],
-            resistances: cardData.resistances || [],
-            retreatCost: cardData.retreatCost || [],
-            convertedRetreatCost: cardData.retreatCost?.length || 0,
-            set: {
-                id: 'custom',
-                name: 'Custom Cards',
-                series: 'Custom',
-                printedTotal: 0,
-                total: 0,
-                releaseDate: new Date().toISOString().split('T')[0]
-            },
-            number: `C${API_CACHE.customCardsCache.length + 1}`,
-            artist: cardData.artist || 'Custom',
-            rarity: cardData.rarity || 'Custom',
-            flavorText: cardData.flavorText || '',
-            nationalPokedexNumbers: cardData.nationalPokedexNumbers || [],
-            legalities: cardData.legalities || {},
-            images: {
-                small: cardData.imageUrl || '',
-                large: cardData.imageUrl || ''
-            },
-            tcgplayer: cardData.tcgplayer || {},
-            cardmarket: cardData.cardmarket || {},
-            isCustom: true
-        };
-        
-        // Add to custom cards cache
-        API_CACHE.customCardsCache.push(customCard);
-        
-        // Store in local storage for persistence
-        this.saveCustomCards();
-        
-        return customCard;
-    }
-    
-    /**
-     * Save custom cards to local storage
-     */
-    static saveCustomCards() {
-        try {
-            localStorage.setItem('tcg-deck-builder-custom-cards', JSON.stringify(API_CACHE.customCardsCache));
-        } catch (error) {
-            console.error('Failed to save custom cards to local storage:', error);
         }
     }
     
@@ -465,26 +292,14 @@ class EnhancedTCGController {
     }
     
     /**
-     * Update a custom card
-     * @param {string} id - Card ID to update
-     * @param {object} updates - Fields to update
-     * @returns {object|null} Updated card or null if not found
+     * Save custom cards to local storage
      */
-    static updateCustomCard(id, updates) {
-        const index = API_CACHE.customCardsCache.findIndex(card => card.id === id);
-        if (index === -1) return null;
-        
-        // Update the card
-        API_CACHE.customCardsCache[index] = {
-            ...API_CACHE.customCardsCache[index],
-            ...updates,
-            // Ensure these fields can't be changed
-            id,
-            isCustom: true
-        };
-        
-        this.saveCustomCards();
-        return API_CACHE.customCardsCache[index];
+    static saveCustomCards() {
+        try {
+            localStorage.setItem('tcg-deck-builder-custom-cards', JSON.stringify(API_CACHE.customCardsCache));
+        } catch (error) {
+            console.error('Failed to save custom cards to local storage:', error);
+        }
     }
     
     /**
@@ -516,7 +331,7 @@ class EnhancedTCGController {
     /**
      * Initialize the controller
      */
-    static initialize() {
+    static async initialize() {
         console.log('Initializing Enhanced TCG API Controller...');
         
         // Load custom cards from local storage
@@ -524,9 +339,12 @@ class EnhancedTCGController {
         
         // Pre-fetch sets for faster UI
         if (this.isApiKeyConfigured()) {
-            this.getAllSets().catch(err => {
+            try {
+                const sets = await this.getAllSets();
+                console.log(`Loaded ${sets.length} sets`);
+            } catch (err) {
                 console.warn('Failed to pre-fetch TCG sets:', err);
-            });
+            }
         }
         
         console.log('Enhanced TCG API Controller initialized.');
