@@ -1,7 +1,10 @@
-import React, { useState, useRef, useContext } from 'react';
-import { Modal, Button, Form, Row, Col, Tabs, Tab, Alert } from 'react-bootstrap';
+// src/components/modals/CustomCardCreator.js
+// Simplified version that uses direct image URLs instead of uploads
+
+import React, { useState, useContext, useEffect } from 'react';
+import { Modal, Button, Form, Row, Col, Tabs, Tab, Alert, Spinner } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faPlus, faSave, faUpload, faImage } from '@fortawesome/free-solid-svg-icons';
+import { faPlus, faSave, faLink, faImage, faExclamationTriangle } from '@fortawesome/free-solid-svg-icons';
 import { AppThemeContext } from '../../context/AppThemeContext';
 import EnhancedTCGController from '../../utils/TCGapi/EnhancedTCGController';
 
@@ -49,10 +52,19 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
     });
     
     const [imagePreview, setImagePreview] = useState(null);
-    const imageInputRef = useRef(null);
-    const [imageUploadError, setImageUploadError] = useState(null);
+    const [imageError, setImageError] = useState(null);
+    
+    const [isSubmitting, setIsSubmitting] = useState(false);
+    const [errorMessage, setErrorMessage] = useState(null);
     
     const energyTypes = ['Colorless', 'Darkness', 'Dragon', 'Fairy', 'Fighting', 'Fire', 'Grass', 'Lightning', 'Metal', 'Psychic', 'Water'];
+    
+    // Reset state when modal is shown
+    useEffect(() => {
+        if (show) {
+            resetForm();
+        }
+    }, [show]);
     
     // Handle form field changes
     const handleChange = (e) => {
@@ -61,45 +73,32 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
             ...cardData,
             [name]: value
         });
+        
+        // If this is an image URL change, update the preview
+        if (name === 'imageUrl' && value) {
+            setImagePreview(value);
+            setImageError(null);
+        }
     };
     
-    // Handle image upload
-    const handleImageUpload = (e) => {
-        const file = e.target.files[0];
-        if (!file) return;
-        
-        setImageUploadError(null);
-        
-        // Validate file type and size
-        const validTypes = ['image/jpeg', 'image/png', 'image/gif', 'image/webp'];
-        if (!validTypes.includes(file.type)) {
-            setImageUploadError('Invalid file type. Please upload a JPEG, PNG, GIF, or WebP image.');
-            return;
+    // Handle image URL validation
+    const validateImageUrl = () => {
+        const url = cardData.imageUrl;
+        if (!url) {
+            setImageError('Please enter an image URL');
+            return false;
         }
         
-        if (file.size > 5 * 1024 * 1024) { // 5MB limit
-            setImageUploadError('File is too large. Maximum size is 5MB.');
-            return;
+        // Basic URL validation
+        try {
+            new URL(url);
+            // Clear any previous errors
+            setImageError(null);
+            return true;
+        } catch (e) {
+            setImageError('Please enter a valid URL (e.g., https://example.com/image.jpg)');
+            return false;
         }
-        
-        // Create preview URL
-        const imageUrl = URL.createObjectURL(file);
-        setImagePreview(imageUrl);
-        
-        // Create a FileReader to convert the image to a data URL
-        const reader = new FileReader();
-        reader.onload = (e) => {
-            setCardData({
-                ...cardData,
-                imageUrl: e.target.result
-            });
-        };
-        reader.readAsDataURL(file);
-    };
-    
-    // Handle image upload button click
-    const handleImageButtonClick = () => {
-        imageInputRef.current.click();
     };
     
     // Add a rule
@@ -292,23 +291,22 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
     };
     
     // Submit form
-    const handleSubmit = (e) => {
+    const handleSubmit = async (e) => {
         e.preventDefault();
+        setErrorMessage(null);
         
         // Validate required fields
         if (!cardData.name) {
-            alert('Card name is required');
+            setErrorMessage('Card name is required');
             return;
         }
         
-        if (!cardData.imageUrl) {
-            alert('Card image is required');
+        // Validate image URL
+        if (!validateImageUrl()) {
             return;
         }
         
-        // Add debugging to see if EnhancedTCGController is properly loaded
-        console.log("EnhancedTCGController:", EnhancedTCGController);
-        console.log("Methods available:", Object.getOwnPropertyNames(EnhancedTCGController));
+        setIsSubmitting(true);
         
         // Create custom card
         try {
@@ -316,7 +314,7 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
                 throw new Error('addCustomCard method is not available on EnhancedTCGController');
             }
             
-            const newCard = EnhancedTCGController.addCustomCard(cardData);
+            const newCard = await EnhancedTCGController.addCustomCard(cardData);
             
             // Callback with the new card
             if (onCardCreated) {
@@ -328,7 +326,13 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
             handleClose();
         } catch (error) {
             console.error("Error creating custom card:", error);
-            alert(`Error creating custom card: ${error.message}`);
+            setErrorMessage(`Error creating custom card: ${error.message}`);
+            
+            if (error.message && error.message.includes('quota')) {
+                setErrorMessage("Storage limit reached. Please delete some existing custom cards to make room for new ones.");
+            }
+        } finally {
+            setIsSubmitting(false);
         }
     };
     
@@ -351,7 +355,8 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
             imageUrl: ''
         });
         setImagePreview(null);
-        setImageUploadError(null);
+        setImageError(null);
+        setErrorMessage(null);
         
         setCurrentRule('');
         setCurrentAttack({
@@ -464,6 +469,13 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
                 <Modal.Title>Create Custom Card</Modal.Title>
             </Modal.Header>
             
+            {errorMessage && (
+                <Alert variant="danger" className="m-3">
+                    <FontAwesomeIcon icon={faExclamationTriangle} className="me-2" />
+                    {errorMessage}
+                </Alert>
+            )}
+            
             <Form onSubmit={handleSubmit}>
                 <Modal.Body>
                     <Tabs defaultActiveKey="basic" className="mb-3">
@@ -564,22 +576,37 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
                                 
                                 <Col md={6}>
                                     <Form.Group className="mb-3">
-                                        <Form.Label>Card Image</Form.Label>
-                                        <div className="d-flex flex-column align-items-center p-3 border rounded">
-                                            <input
-                                                type="file"
-                                                ref={imageInputRef}
-                                                onChange={handleImageUpload}
-                                                accept="image/jpeg,image/png,image/gif,image/webp"
-                                                style={{ display: 'none' }}
+                                        <Form.Label>Card Image URL</Form.Label>
+                                        <div className="mb-2">
+                                            <Form.Control
+                                                type="url"
+                                                name="imageUrl"
+                                                value={cardData.imageUrl}
+                                                onChange={handleChange}
+                                                placeholder="https://example.com/card-image.jpg"
+                                                onBlur={validateImageUrl}
+                                                isInvalid={!!imageError}
                                             />
-                                            
+                                            <Form.Text className="text-muted">
+                                                Enter a direct URL to your card image (JPG, PNG, etc.)
+                                            </Form.Text>
+                                            {imageError && (
+                                                <Form.Control.Feedback type="invalid">
+                                                    {imageError}
+                                                </Form.Control.Feedback>
+                                            )}
+                                        </div>
+                                        
+                                        <div className="d-flex flex-column align-items-center p-3 border rounded">
                                             {imagePreview ? (
                                                 <div className="mb-2 position-relative">
                                                     <img 
                                                         src={imagePreview} 
                                                         alt="Card preview" 
                                                         style={{ maxWidth: '100%', maxHeight: '300px' }} 
+                                                        onError={() => {
+                                                            setImageError('Failed to load image. Please check the URL.');
+                                                        }}
                                                     />
                                                 </div>
                                             ) : (
@@ -588,27 +615,13 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
                                                     style={{ width: '100%', height: '200px' }}
                                                 >
                                                     <FontAwesomeIcon icon={faImage} size="3x" className="mb-2" />
-                                                    <p>No image uploaded</p>
+                                                    <p>No image URL provided</p>
                                                 </div>
                                             )}
                                             
-                                            <Button 
-                                                variant="outline-primary" 
-                                                onClick={handleImageButtonClick}
-                                                className="mt-2"
-                                            >
-                                                <FontAwesomeIcon icon={faUpload} className="me-2" />
-                                                {imagePreview ? 'Change Image' : 'Upload Image'}
-                                            </Button>
-                                            
-                                            {imageUploadError && (
-                                                <Alert variant="danger" className="mt-2 w-100">
-                                                    {imageUploadError}
-                                                </Alert>
-                                            )}
-                                            
                                             <small className="text-muted mt-2">
-                                                Accepted formats: JPEG, PNG, GIF, WebP (max 5MB)
+                                                This image URL will be used when exporting your deck.<br />
+                                                Use a direct, permanent image URL for compatibility with deck importers.
                                             </small>
                                         </div>
                                     </Form.Group>
@@ -1071,12 +1084,32 @@ function CustomCardCreator({ show, handleClose, onCardCreated }) {
                 </Modal.Body>
                 
                 <Modal.Footer>
-                    <Button variant="secondary" onClick={handleModalClose}>
+                    <Button variant="secondary" onClick={handleModalClose} disabled={isSubmitting}>
                         Cancel
                     </Button>
-                    <Button variant="primary" type="submit">
-                        <FontAwesomeIcon icon={faSave} className="me-2" />
-                        Create Card
+                    <Button 
+                        variant="primary" 
+                        type="submit" 
+                        disabled={isSubmitting || !cardData.name || !cardData.imageUrl}
+                    >
+                        {isSubmitting ? (
+                            <>
+                                <Spinner
+                                    as="span"
+                                    animation="border"
+                                    size="sm"
+                                    role="status"
+                                    aria-hidden="true"
+                                    className="me-2"
+                                />
+                                Creating...
+                            </>
+                        ) : (
+                            <>
+                                <FontAwesomeIcon icon={faSave} className="me-2" />
+                                Create Card
+                            </>
+                        )}
                     </Button>
                 </Modal.Footer>
             </Form>

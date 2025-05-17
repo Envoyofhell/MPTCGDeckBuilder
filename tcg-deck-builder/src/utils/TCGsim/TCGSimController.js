@@ -1,47 +1,82 @@
+// src/utils/TCGsim/TCGSimController.js
+// Simplified version that focuses on clean exports
+
 import CardJSONValidator from "../CardJsonValidator";
 
 const validator = new CardJSONValidator();
 
-function formatImageUrl(cardObj){
+// Default placeholder images for different card types
+const DEFAULT_IMAGES = {
+    'Pokémon': 'https://assets.tcgdex.net/en/base/base1/4', // Charizard placeholder
+    'Trainer': 'https://assets.tcgdex.net/en/base/base1/71', // Professor Oak placeholder
+    'Energy': 'https://assets.tcgdex.net/en/base/base1/97'   // Lightning Energy placeholder
+};
+
+/**
+ * Get appropriate image URL for export
+ * @param {object} cardObj - Card object
+ * @returns {string} Export-friendly URL
+ */
+function formatImageUrl(cardObj) {
     let formattedURL;
-    if(validator.isDatabaseCard(cardObj)){
+    
+    // For database cards from the API
+    if (validator.isDatabaseCard(cardObj)) {
         formattedURL = cardObj.images.large;
-    }else if(validator.isFormattedDeckCard(cardObj)){
-        if (cardObj.image.includes("assets")){
-            if(!cardObj.image.includes("tishinator")){
-                formattedURL = "https://tishinator.github.io/PTCGDeckBuilder" + cardObj.image;
-            }else{
-                formattedURL = cardObj.image;
-            }
-        }else{
+    }
+    // For custom cards with direct URLs 
+    else if (validator.isFormattedDeckCard(cardObj)) {
+        if (cardObj.image && !cardObj.image.startsWith('data:')) {
             formattedURL = cardObj.image;
+        } else if (cardObj.imageUrl && !cardObj.imageUrl.startsWith('data:')) {
+            formattedURL = cardObj.imageUrl;
+        } else if (cardObj.image && cardObj.image.includes("assets")) {
+            formattedURL = "https://tishinator.github.io/PTCGDeckBuilder" + cardObj.image;
+        } else {
+            // Use default placeholder based on card type
+            formattedURL = DEFAULT_IMAGES[cardObj.supertype] || DEFAULT_IMAGES['Pokémon'];
         }
-    }     
+    }
+    
+    // Final fallback
+    if (!formattedURL) {
+        formattedURL = DEFAULT_IMAGES[cardObj.supertype] || DEFAULT_IMAGES['Pokémon'];
+    }
+    
     return formattedURL;
 }
 
-function formatCardType(cardObj){
+/**
+ * Get card type for export
+ * @param {object} cardObj - Card object 
+ * @returns {string} Card type
+ */
+function formatCardType(cardObj) {
     return cardObj.supertype;
 }
 
-class TCGSim{
-
-    static export(decklist, filename){
-        // console.log("ATTEMPTING TO EXPORT DECKLIST:")
-        // console.log(decklist);
+class TCGSim {
+    /**
+     * Export decklist to CSV file
+     * @param {object} decklist - Decklist object
+     * @param {string} filename - Filename for export (without extension)
+     */
+    static export(decklist, filename) {
+        console.log("Exporting decklist to CSV:", filename);
+        
         const simHeader = "QTY,Name,Type,URL";
-        let rows = []
+        let rows = [];
+        
         for (let card in decklist) {
-            // console.log("Current Card:", card)
-            for(let cardVariations in decklist[card].cards){
+            for (let cardVariations in decklist[card].cards) {
                 let currentCard = decklist[card].cards[cardVariations];
-                // console.log("Card Variation:", currentCard)
-                let quanity = currentCard.count;
+                let quantity = currentCard.count;
                 let name = card;
                 let type = formatCardType(currentCard.data);
                 let url = formatImageUrl(currentCard.data);
-                if(name !== '' && type !== '' && url !== ''){
-                    rows.push(`${quanity},${name},${type},${url}`)
+                
+                if (name !== '' && type !== '' && url !== '') {
+                    rows.push(`${quantity},${name},${type},${url}`);
                 }
             }
         }
@@ -59,17 +94,31 @@ class TCGSim{
         URL.revokeObjectURL(blobUrl);
     }
 
-    static importDeck(csvData){
-        console.log("IMPORTING...");
+    /**
+     * Import decklist from CSV
+     * @param {string} csvData - CSV data string
+     * @returns {object} Decklist object
+     */
+    static importDeck(csvData) {
+        console.log("Importing deck from CSV...");
 
         const rows = csvData.split('\n');
         const data = rows.map(row => row.split(','));
         let newDecklist = [];
         let seenCardUrl = [];
-        for(let [index, row] of data.entries()){
-            if(index === 0){
+        
+        for (let [index, row] of data.entries()) {
+            // Skip header row
+            if (index === 0) {
                 continue;
             }
+            
+            // Skip blank rows
+            if (row.length < 4) {
+                continue;
+            }
+            
+            // Create card object with clean data
             let card = {
                 count: row[0],
                 name: row[1],
@@ -77,37 +126,33 @@ class TCGSim{
                 image: row[3]
             };
 
-
+            // Add card to decklist
             if (!newDecklist[card.name]) {
                 newDecklist[card.name] = { cards: [], totalCount: Number(0) };
             }
+            
             if (newDecklist[card.name].totalCount < 4) {
                 let cardFound = false;
                 for (let cardEntry of newDecklist[card.name].cards) {
-                    // if (validator.areCardsEqual(cardEntry.data, card)) {
-                    //     cardEntry.count += 1;
-                    //     cardFound = true;
-                    //     break;
-                    // }
-                    if(seenCardUrl.includes(card.image)){
+                    if (seenCardUrl.includes(card.image)) {
                         cardEntry.count += 1;
                         cardFound = true;
                         break;
                     }
                 }
+                
                 if (!cardFound) {
-                    newDecklist[card.name].cards.push({ data: card, count: Number(card.count) });
-                    // newDecklist[card.name].totalCount = Number(card.count);
-                    seenCardUrl.push(card.image)
+                    newDecklist[card.name].cards.push({ 
+                        data: card, 
+                        count: Number(card.count) 
+                    });
+                    seenCardUrl.push(card.image);
                 }
 
                 newDecklist[card.name].totalCount += Number(card.count);
-                
-                
             } else {
                 console.log(`Maximum of 4 cards reached for ${card.name}`);
             }
-
         }
         
         return newDecklist;
@@ -115,5 +160,3 @@ class TCGSim{
 }
 
 export default TCGSim;
-
-
