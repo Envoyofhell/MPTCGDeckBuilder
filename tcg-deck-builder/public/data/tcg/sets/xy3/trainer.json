@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "xy3-88",
+    "name": "Battle Reporter",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have the same number of cards in your hand as your opponent.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "88",
+    "artist": "Shin Nagasawa",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/88.png",
+      "large": "https://images.pokemontcg.io/xy3/88_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-88",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.21,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.22,
+          "mid": 0.44,
+          "high": 4.95,
+          "market": 0.44,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-88",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.85,
+        "lowPrice": 0.3,
+        "trendPrice": 1.01,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.53,
+        "lowPriceExPlus": 0.3,
+        "avg1": 0.85,
+        "avg7": 0.8,
+        "avg30": 1.27,
+        "reverseHoloAvg1": 0.49,
+        "reverseHoloAvg7": 0.54,
+        "reverseHoloAvg30": 0.49
+      }
+    }
+  },
+  {
+    "id": "xy3-89",
+    "name": "Energy Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "89",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/89.png",
+      "large": "https://images.pokemontcg.io/xy3/89_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-89",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.08,
+          "mid": 0.25,
+          "high": 1.53,
+          "market": 0.26,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.71,
+          "high": 2.09,
+          "market": 0.73,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-89",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.6,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.84,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.08,
+        "avg30": 0.2,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 0.93,
+        "reverseHoloAvg30": 0.76
+      }
+    }
+  },
+  {
+    "id": "xy3-90",
+    "name": "Fighting Stadium",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "The attacks of each Fighting Pokémon in play (both yours and your opponent's) do 20 more damage to the Defending Pokémon-EX (before applying Weakness and Resistance).",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "90",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/90.png",
+      "large": "https://images.pokemontcg.io/xy3/90_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-90",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.07,
+          "mid": 0.25,
+          "high": 1.99,
+          "market": 0.21,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.22,
+          "mid": 0.57,
+          "high": 1.69,
+          "market": 0.61,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-90",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.14,
+        "lowPrice": 0.03,
+        "trendPrice": 0.14,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.25,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.62,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.15,
+        "avg7": 0.14,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.71,
+        "reverseHoloAvg30": 0.68
+      }
+    }
+  },
+  {
+    "id": "xy3-91",
+    "name": "Focus Sash",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If the Fighting Pokémon this card is attached to has full HP and would be Knocked Out by damage from an opponent's attack, that Pokémon is not Knocked Out and its remaining HP becomes 10 instead. Then, discard this card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "91",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/91.png",
+      "large": "https://images.pokemontcg.io/xy3/91_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-91",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.3,
+          "mid": 0.49,
+          "high": 4.24,
+          "market": 0.46,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.71,
+          "mid": 0.9,
+          "high": 4.24,
+          "market": 1.16,
+          "directLow": 1.58
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-91",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.57,
+        "lowPrice": 0.02,
+        "trendPrice": 0.66,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.49,
+        "reverseHoloLow": 0.3,
+        "reverseHoloTrend": 1.99,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.99,
+        "avg7": 0.56,
+        "avg30": 0.51,
+        "reverseHoloAvg1": 2.48,
+        "reverseHoloAvg7": 1.43,
+        "reverseHoloAvg30": 1.76
+      }
+    }
+  },
+  {
+    "id": "xy3-92",
+    "name": "Fossil Researcher",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 in any combination of Amaura or Tyrunt and put them onto your bench. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "92",
+    "artist": "Naoki Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/92.png",
+      "large": "https://images.pokemontcg.io/xy3/92_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-92",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.23,
+          "high": 1.77,
+          "market": 0.18,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.23,
+          "mid": 0.4,
+          "high": 3.55,
+          "market": 0.38,
+          "directLow": 0.39
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-92",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.14,
+        "lowPrice": 0.02,
+        "trendPrice": 0.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.38,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.53,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.14,
+        "avg30": 0.15,
+        "reverseHoloAvg1": 0.38,
+        "reverseHoloAvg7": 0.64,
+        "reverseHoloAvg30": 0.69
+      }
+    }
+  },
+  {
+    "id": "xy3-93",
+    "name": "Full Heal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Remove all Special Conditions from your Active Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "93",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/93.png",
+      "large": "https://images.pokemontcg.io/xy3/93_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-93",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.22,
+          "high": 1.37,
+          "market": 0.22,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.18,
+          "mid": 0.36,
+          "high": 2.09,
+          "market": 0.32,
+          "directLow": 0.32
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-93",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.17,
+        "reverseHoloTrend": 0.54,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.14,
+        "avg7": 0.12,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.57,
+        "reverseHoloAvg30": 0.47
+      }
+    }
+  },
+  {
+    "id": "xy3-94",
+    "name": "Jaw Fossil",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the bottom 7 cards of your deck. You may reveal a Tyrunt you find there and put it onto your Bench. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "94",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/94.png",
+      "large": "https://images.pokemontcg.io/xy3/94_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-94",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1.76,
+          "market": 0.23,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.28,
+          "mid": 0.59,
+          "high": 3.63,
+          "market": 0.68,
+          "directLow": 0.86
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-94",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.14,
+        "lowPrice": 0.02,
+        "trendPrice": 0.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.19,
+        "reverseHoloTrend": 0.65,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.16,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.49,
+        "reverseHoloAvg7": 0.68,
+        "reverseHoloAvg30": 0.61
+      }
+    }
+  },
+  {
+    "id": "xy3-95",
+    "name": "Korrina",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a Fighting Pokémon and an Item card, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "95",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/95.png",
+      "large": "https://images.pokemontcg.io/xy3/95_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-95",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.49,
+          "mid": 1.65,
+          "high": 5.74,
+          "market": 1.74,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 1,
+          "mid": 2.24,
+          "high": 5.24,
+          "market": 3.02,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-95",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.42,
+        "lowPrice": 0.02,
+        "trendPrice": 1.3,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 3.46,
+        "reverseHoloLow": 0.45,
+        "reverseHoloTrend": 3.04,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.99,
+        "avg7": 0.85,
+        "avg30": 1.3,
+        "reverseHoloAvg1": 3.49,
+        "reverseHoloAvg7": 3.38,
+        "reverseHoloAvg30": 2.87
+      }
+    }
+  },
+  {
+    "id": "xy3-96",
+    "name": "Maintenance",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Shuffle 2 cards from your hand into your deck. (If you can't shuffle 2 cards into your deck, you can't play this card.) Then, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "96",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/96.png",
+      "large": "https://images.pokemontcg.io/xy3/96_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-96",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 1.99,
+          "market": 0.16,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.38,
+          "high": 1.61,
+          "market": 0.35,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-96",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.13,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.64,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.14,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.65,
+        "reverseHoloAvg30": 0.46
+      }
+    }
+  },
+  {
+    "id": "xy3-97",
+    "name": "Mountain Ring",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Prevent all damage done to Benched Pokémon by attacks (both yours and your opponent's).",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "97",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/97.png",
+      "large": "https://images.pokemontcg.io/xy3/97_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-97",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1.55,
+          "market": 0.25,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.24,
+          "mid": 0.49,
+          "high": 1.71,
+          "market": 0.62,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-97",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.14,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.5,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.59,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.15,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.57,
+        "reverseHoloAvg30": 0.75
+      }
+    }
+  },
+  {
+    "id": "xy3-98",
+    "name": "Sail Fossil",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the bottom 7 cards of your deck. You may reveal an Amaura you find there and put it onto your Bench. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "98",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/98.png",
+      "large": "https://images.pokemontcg.io/xy3/98_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-98",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 2.23,
+          "market": 0.21,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.42,
+          "high": 4.58,
+          "market": 0.42,
+          "directLow": 0.38
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-98",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.13,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 0.93,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.12,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.8,
+        "reverseHoloAvg7": 0.68,
+        "reverseHoloAvg30": 0.74
+      }
+    }
+  },
+  {
+    "id": "xy3-99",
+    "name": "Sparkling Robe",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Pokémon this card is attached to can't be affected by any Special Conditions. (Remove any Special Conditions affecting that Pokémon.)",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "99",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/99.png",
+      "large": "https://images.pokemontcg.io/xy3/99_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-99",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.08,
+          "mid": 0.25,
+          "high": 2.99,
+          "market": 0.35,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.65,
+          "high": 1.83,
+          "market": 0.69,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-99",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.98,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.07,
+        "avg30": 0.18,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.81,
+        "reverseHoloAvg30": 0.68
+      }
+    }
+  },
+  {
+    "id": "xy3-100",
+    "name": "Super Scoop Up",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, put 1 of your Pokémon and all cards attached to it into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "100",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/100.png",
+      "large": "https://images.pokemontcg.io/xy3/100_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-100",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1.38,
+          "market": 0.2,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.5,
+          "high": 5,
+          "market": 0.74,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-100",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.24,
+        "lowPrice": 0.02,
+        "trendPrice": 0.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 0.66,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.35,
+        "avg7": 0.24,
+        "avg30": 0.21,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.5
+      }
+    }
+  },
+  {
+    "id": "xy3-101",
+    "name": "Tool Retriever",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose up to 2 Pokémon Tool cards attached to your Pokémon and put them into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "101",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/101.png",
+      "large": "https://images.pokemontcg.io/xy3/101_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-101",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.09,
+          "mid": 0.25,
+          "high": 1.55,
+          "market": 0.18,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.5,
+          "high": 1.65,
+          "market": 0.64,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-101",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.14,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.56,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.16,
+        "avg30": 0.2,
+        "reverseHoloAvg1": 0.6,
+        "reverseHoloAvg7": 0.47,
+        "reverseHoloAvg30": 0.51
+      }
+    }
+  },
+  {
+    "id": "xy3-102",
+    "name": "Training Center",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Each Stage 1 and Stage 2 Pokémon in play (both yours and your opponent's) gets +30 HP.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "102",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/102.png",
+      "large": "https://images.pokemontcg.io/xy3/102_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-102",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.07,
+          "mid": 0.25,
+          "high": 1.99,
+          "market": 0.23,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.17,
+          "mid": 0.47,
+          "high": 1.63,
+          "market": 0.55,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-102",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.14,
+        "lowPrice": 0.04,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.45,
+        "reverseHoloLow": 0.39,
+        "reverseHoloTrend": 0.68,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.12,
+        "avg7": 0.17,
+        "avg30": 0.21,
+        "reverseHoloAvg1": 0.45,
+        "reverseHoloAvg7": 0.65,
+        "reverseHoloAvg30": 0.59
+      }
+    }
+  },
+  {
+    "id": "xy3-109",
+    "name": "Battle Reporter",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have the same number of cards in your hand as your opponent.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "109",
+    "artist": "Shin Nagasawa",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/109.png",
+      "large": "https://images.pokemontcg.io/xy3/109_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-109",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 6,
+          "mid": 11.75,
+          "high": 30,
+          "market": 10.83,
+          "directLow": 13.44
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-109",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.64,
+        "lowPrice": 5,
+        "trendPrice": 8.27,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 7.99,
+        "reverseHoloTrend": 9.21,
+        "lowPriceExPlus": 7.99,
+        "avg1": 10.25,
+        "avg7": 8.64,
+        "avg30": 10.08,
+        "reverseHoloAvg1": 10.95,
+        "reverseHoloAvg7": 8.1,
+        "reverseHoloAvg30": 7.33
+      }
+    }
+  },
+  {
+    "id": "xy3-110",
+    "name": "Fossil Researcher",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 in any combination of Amaura or Tyrunt and put them onto your bench. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "110",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/110.png",
+      "large": "https://images.pokemontcg.io/xy3/110_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-110",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 7,
+          "mid": 10,
+          "high": 16.99,
+          "market": 13.33,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-110",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 9.49,
+        "lowPrice": 4.99,
+        "trendPrice": 18.72,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 5,
+        "reverseHoloTrend": 21.99,
+        "lowPriceExPlus": 10,
+        "avg1": 60,
+        "avg7": 16.56,
+        "avg30": 18.53,
+        "reverseHoloAvg1": 25,
+        "reverseHoloAvg7": 9.57,
+        "reverseHoloAvg30": 7.21
+      }
+    }
+  },
+  {
+    "id": "xy3-111",
+    "name": "Korrina",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a Fighting Pokémon and an Item card, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "series": "XY",
+      "printedTotal": 111,
+      "total": 114,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FFI",
+      "releaseDate": "2014/08/13",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy3/logo.png"
+      }
+    },
+    "number": "111",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy3/111.png",
+      "large": "https://images.pokemontcg.io/xy3/111_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy3-111",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 18,
+          "mid": 31.67,
+          "high": 70,
+          "market": 30.89,
+          "directLow": 18.83
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy3-111",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 26.24,
+        "lowPrice": 5.89,
+        "trendPrice": 21.33,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 18.79,
+        "lowPriceExPlus": 22,
+        "avg1": 29.99,
+        "avg7": 29.05,
+        "avg30": 22.35,
+        "reverseHoloAvg1": 19.99,
+        "reverseHoloAvg7": 18.88,
+        "reverseHoloAvg30": 13.75
+      }
+    }
+  }
+]

@@ -21,7 +21,7 @@ const MAX_RETRIES = 3;
 // Your API key should be stored in environment variables
 // For local development, you might use .env files and process.env
 // For production, use appropriate secure methods for your deployment platform
-const API_KEY = process.env.REACT_APP_POKEMON_TCG_API_KEY || '';
+const API_KEY = process.env.REACT_APP_POKEMON_TCG_API_KEY || 'a65acbfc-55e5-4d2c-9278-253872a1bc5a';
 
 /**
  * Generic fetch wrapper with timeout, retries and error handling

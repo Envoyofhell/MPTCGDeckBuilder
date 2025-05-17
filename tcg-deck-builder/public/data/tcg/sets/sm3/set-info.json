@@ -1,0 +1,18 @@
+{
+  "id": "sm3",
+  "name": "Burning Shadows",
+  "series": "Sun & Moon",
+  "printedTotal": 147,
+  "total": 177,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "BUS",
+  "releaseDate": "2017/08/05",
+  "updatedAt": "2022/10/11 21:39:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/sm3/symbol.png",
+    "logo": "https://images.pokemontcg.io/sm3/logo.png"
+  }
+}

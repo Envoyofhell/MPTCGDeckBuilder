@@ -1,0 +1,2104 @@
+[
+  {
+    "id": "sm6-102",
+    "name": "Beast Ring",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining.",
+      "Search your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "102",
+    "artist": "Toyste Beach",
+    "rarity": "Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/102.png",
+      "large": "https://images.pokemontcg.io/sm6/102_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-102",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.4,
+          "mid": 0.65,
+          "high": 100,
+          "market": 0.63,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.45,
+          "mid": 0.82,
+          "high": 5,
+          "market": 0.72,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-102",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.98,
+        "lowPrice": 0.4,
+        "trendPrice": 0.75,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.4,
+        "avg1": 0.98,
+        "avg7": 0.54,
+        "avg30": 0.54,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sm6-102a",
+    "name": "Beast Ring",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining.",
+      "Search your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "102a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/102a.png",
+      "large": "https://images.pokemontcg.io/sm6/102a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-102a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.56,
+        "lowPrice": 0.25,
+        "trendPrice": 2.73,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.8,
+        "lowPriceExPlus": 0.25,
+        "avg1": 14.99,
+        "avg7": 2.38,
+        "avg30": 1.39,
+        "reverseHoloAvg1": 0.49,
+        "reverseHoloAvg7": 1.86,
+        "reverseHoloAvg30": 0.92
+      }
+    }
+  },
+  {
+    "id": "sm6-103",
+    "name": "Bonnie",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if there is any Stadium card in play.",
+      "Discard that Stadium card. During this turn, your Zygarde-GX can use its GX attack even if you have used your GX attack.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "103",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/103.png",
+      "large": "https://images.pokemontcg.io/sm6/103_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-103",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.23,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.14,
+          "mid": 0.35,
+          "high": 4.95,
+          "market": 0.37,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-103",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.3,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 0.37,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.35,
+        "reverseHoloAvg7": 0.33,
+        "reverseHoloAvg30": 0.37
+      }
+    }
+  },
+  {
+    "id": "sm6-104",
+    "name": "Crasher Wake",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard 2 Water Energy cards from your hand. If you do, search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "104",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/104.png",
+      "large": "https://images.pokemontcg.io/sm6/104_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-104",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.52,
+          "high": 4.09,
+          "market": 0.52,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.09,
+          "mid": 0.25,
+          "high": 3.99,
+          "market": 0.22,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-104",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.16,
+        "lowPrice": 0.02,
+        "trendPrice": 0.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.69,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.43,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.4,
+        "avg7": 0.2,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.39,
+        "reverseHoloAvg30": 0.45
+      }
+    }
+  },
+  {
+    "id": "sm6-105",
+    "name": "Diantha",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if 1 of your Fairy Pokémon was Knocked Out during your opponent's last turn.",
+      "Put 2 cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "105",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/105.png",
+      "large": "https://images.pokemontcg.io/sm6/105_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-105",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.5,
+          "mid": 1,
+          "high": 3.23,
+          "market": 0.92,
+          "directLow": 0.99
+        },
+        "holofoil": {
+          "low": 0.45,
+          "mid": 0.89,
+          "high": 3.78,
+          "market": 0.89,
+          "directLow": 1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-105",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8,
+        "lowPrice": 1.49,
+        "trendPrice": 4.5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 4.02,
+        "lowPriceExPlus": 2,
+        "avg1": 8,
+        "avg7": 3.87,
+        "avg30": 3.71,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 2.54,
+        "reverseHoloAvg30": 2.2
+      }
+    }
+  },
+  {
+    "id": "sm6-106",
+    "name": "Eneporter",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Move a Special Energy from 1 of your opponent's Pokémon to another of their Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "106",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/106.png",
+      "large": "https://images.pokemontcg.io/sm6/106_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-106",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.23,
+          "high": 1.53,
+          "market": 0.11,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.4,
+          "high": 1.55,
+          "market": 0.32,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-106",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.25,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.39,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.4,
+        "avg7": 0.11,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.43,
+        "reverseHoloAvg30": 0.51
+      }
+    }
+  },
+  {
+    "id": "sm6-107",
+    "name": "Fossil Excavation Map",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose 1:\n• Search your deck for an Unidentified Fossil card, reveal it, and put it into your hand. Then, shuffle your deck.\n• Put an Unidentified Fossil card from your discard pile into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "107",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/107.png",
+      "large": "https://images.pokemontcg.io/sm6/107_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-107",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.38,
+          "mid": 0.75,
+          "high": 1.13,
+          "market": 0.78,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.1,
+          "mid": 0.31,
+          "high": 1.44,
+          "market": 0.34,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-107",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.13,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.49,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.39,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.07,
+        "avg7": 0.13,
+        "avg30": 0.18,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.37,
+        "reverseHoloAvg30": 0.43
+      }
+    }
+  },
+  {
+    "id": "sm6-108",
+    "name": "Judge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand into their deck and draws 4 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "108",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/108.png",
+      "large": "https://images.pokemontcg.io/sm6/108_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-108",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.08,
+          "mid": 0.35,
+          "high": 30.3,
+          "market": 0.35,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.5,
+          "mid": 1.18,
+          "high": 5,
+          "market": 1.28,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-108",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0,
+        "lowPrice": 0.15,
+        "trendPrice": 0.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.15,
+        "avg1": 0.28,
+        "avg7": 0.27,
+        "avg30": 0.27,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sm6-109",
+    "name": "Lady",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "109",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/109.png",
+      "large": "https://images.pokemontcg.io/sm6/109_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-109",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.5,
+          "mid": 1,
+          "high": 2.99,
+          "market": 0.95,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.1,
+          "mid": 0.32,
+          "high": 2.99,
+          "market": 0.27,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-109",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.5,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.92,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.29,
+        "avg7": 0.2,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 0.9,
+        "reverseHoloAvg7": 0.82,
+        "reverseHoloAvg30": 0.84
+      }
+    }
+  },
+  {
+    "id": "sm6-110",
+    "name": "Lysandre ◇",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Prism Star"
+    ],
+    "rules": [
+      "For each of your Fire Pokémon in play, put a card from your opponent's discard pile in the Lost Zone.",
+      "You may play only 1 Supporter card during your turn (before your attack).",
+      "◇ (Prism Star) Rule: You can't have more than 1 ◇ card with the same name in your deck. If a ◇ card would go to the discard pile, put it in the Lost Zone instead."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "110",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Prism Star",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/110.png",
+      "large": "https://images.pokemontcg.io/sm6/110_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-110",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.49,
+          "mid": 0.78,
+          "high": 5,
+          "market": 0.72,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-110",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.6,
+        "lowPrice": 0.1,
+        "trendPrice": 1.33,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.17,
+        "reverseHoloLow": 2,
+        "reverseHoloTrend": 1.66,
+        "lowPriceExPlus": 0.27,
+        "avg1": 0.72,
+        "avg7": 1.21,
+        "avg30": 1.34,
+        "reverseHoloAvg1": 1.5,
+        "reverseHoloAvg7": 1.53,
+        "reverseHoloAvg30": 1.27
+      }
+    }
+  },
+  {
+    "id": "sm6-111",
+    "name": "Lysandre Labs",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Pokémon Tool cards in play (both yours and your opponent's) have no effect.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "111",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/111.png",
+      "large": "https://images.pokemontcg.io/sm6/111_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-111",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1.5,
+          "market": 0.19,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.45,
+          "high": 1.99,
+          "market": 0.37,
+          "directLow": 0.3
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-111",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.69,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.51,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.4,
+        "avg7": 0.15,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.56
+      }
+    }
+  },
+  {
+    "id": "sm6-112",
+    "name": "Metal Frying Pan",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Metal Pokémon this card is attached to takes 30 less damage from your opponent's attacks (after applying Weakness and Resistance) and has no Weakness.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "112",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/112.png",
+      "large": "https://images.pokemontcg.io/sm6/112_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-112",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.4,
+          "high": 2.5,
+          "market": 0.38,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.39,
+          "mid": 0.75,
+          "high": 7.57,
+          "market": 0.73,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-112",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.22,
+        "lowPrice": 0.04,
+        "trendPrice": 0.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.28,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.34,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.14,
+        "avg7": 0.2,
+        "avg30": 0.21,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.32,
+        "reverseHoloAvg30": 0.46
+      }
+    }
+  },
+  {
+    "id": "sm6-112a",
+    "name": "Metal Frying Pan",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Metal Pokémon this card is attached to takes 30 less damage from your opponent's attacks (after applying Weakness and Resistance) and has no Weakness.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "112a",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/112a.png",
+      "large": "https://images.pokemontcg.io/sm6/112a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-112a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.19,
+        "lowPrice": 0.04,
+        "trendPrice": 0.4,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.22,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.32,
+        "avg7": 0.35,
+        "avg30": 0.3,
+        "reverseHoloAvg1": 0.29,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "sm6-113",
+    "name": "Mysterious Treasure",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard a card from your hand. If you do, search your deck for a Psychic or Dragon Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "113",
+    "artist": "Eske Yoshinob",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/113.png",
+      "large": "https://images.pokemontcg.io/sm6/113_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-113",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 1.89,
+          "mid": 2.3,
+          "high": 4.49,
+          "market": 2.3,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.99,
+          "mid": 1.8,
+          "high": 4.99,
+          "market": 1.83,
+          "directLow": 2.24
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-113",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.49,
+        "lowPrice": 0.2,
+        "trendPrice": 4.33,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.99,
+        "lowPriceExPlus": 0.75,
+        "avg1": 1.5,
+        "avg7": 4.98,
+        "avg30": 2.76,
+        "reverseHoloAvg1": 0.95,
+        "reverseHoloAvg7": 0.76,
+        "reverseHoloAvg30": 1.08
+      }
+    }
+  },
+  {
+    "id": "sm6-113a",
+    "name": "Mysterious Treasure",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard a card from your hand. If you do, search your deck for a Psychic or Dragon Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "113a",
+    "artist": "Eske Yoshinob",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/113a.png",
+      "large": "https://images.pokemontcg.io/sm6/113a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-113a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.58,
+        "lowPrice": 0.1,
+        "trendPrice": 0.46,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.23,
+        "lowPriceExPlus": 0.1,
+        "avg1": 0.32,
+        "avg7": 0.44,
+        "avg30": 0.54,
+        "reverseHoloAvg1": 0.35,
+        "reverseHoloAvg7": 0.26,
+        "reverseHoloAvg30": 0.28
+      }
+    }
+  },
+  {
+    "id": "sm6-114",
+    "name": "Ultra Recon Squad",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard up to 2 Ultra Beast cards from your hand. Draw 3 cards for each card you discarded in this way.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "114",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/114.png",
+      "large": "https://images.pokemontcg.io/sm6/114_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-114",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.23,
+          "high": 15,
+          "market": 0.12,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.12,
+          "mid": 0.37,
+          "high": 1.61,
+          "market": 0.37,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-114",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.39,
+        "reverseHoloLow": 0.09,
+        "reverseHoloTrend": 0.33,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.3,
+        "avg7": 0.09,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.34,
+        "reverseHoloAvg7": 0.41,
+        "reverseHoloAvg30": 0.34
+      }
+    }
+  },
+  {
+    "id": "sm6-115",
+    "name": "Ultra Space",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, that player may search their deck for an Ultra Beast card, reveal it, put it into their hand, and shuffle their deck.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "115",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/115.png",
+      "large": "https://images.pokemontcg.io/sm6/115_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-115",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.23,
+          "mid": 0.45,
+          "high": 5,
+          "market": 0.35,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 1.58,
+          "market": 0.19,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-115",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0,
+        "lowPrice": 2,
+        "trendPrice": 0,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2,
+        "avg1": 0,
+        "avg7": 0,
+        "avg30": 0,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sm6-116",
+    "name": "Unidentified Fossil",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "hp": "60",
+    "rules": [
+      "Play this card as if it were a 60-HP Colorless Basic Pokémon. At any time during your turn (before your attack), you may discard this card from play.",
+      "This card can't retreat.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "116",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/116.png",
+      "large": "https://images.pokemontcg.io/sm6/116_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-116",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.12,
+          "mid": 0.4,
+          "high": 6.22,
+          "market": 0.49,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 9.08,
+          "market": 0.15,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-116",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.31,
+        "reverseHoloLow": 0.19,
+        "reverseHoloTrend": 0.42,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.13,
+        "avg7": 0.11,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.36,
+        "reverseHoloAvg30": 0.38
+      }
+    }
+  },
+  {
+    "id": "sm6-128",
+    "name": "Bonnie",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if there is any Stadium card in play.",
+      "Discard that Stadium card. During this turn, your Zygarde-GX can use its GX attack even if you have used your GX attack.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "128",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/128.png",
+      "large": "https://images.pokemontcg.io/sm6/128_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-128",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 14.05,
+          "mid": 16.88,
+          "high": 28.57,
+          "market": 16.47,
+          "directLow": 15.78
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-128",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.16,
+        "lowPrice": 5,
+        "trendPrice": 13.44,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 9.83,
+        "lowPriceExPlus": 9.48,
+        "avg1": 15,
+        "avg7": 11.52,
+        "avg30": 13.07,
+        "reverseHoloAvg1": 8.9,
+        "reverseHoloAvg7": 9.48,
+        "reverseHoloAvg30": 7.26
+      }
+    }
+  },
+  {
+    "id": "sm6-129",
+    "name": "Crasher Wake",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard 2 Water Energy cards from your hand. If you do, search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "129",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/129.png",
+      "large": "https://images.pokemontcg.io/sm6/129_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 8.84,
+          "mid": 13.72,
+          "high": 26.69,
+          "market": 8.68,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.22,
+        "lowPrice": 2.32,
+        "trendPrice": 7.82,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 6.46,
+        "lowPriceExPlus": 5.5,
+        "avg1": 10,
+        "avg7": 6.69,
+        "avg30": 6.36,
+        "reverseHoloAvg1": 7.9,
+        "reverseHoloAvg7": 6.45,
+        "reverseHoloAvg30": 6.07
+      }
+    }
+  },
+  {
+    "id": "sm6-130",
+    "name": "Diantha",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if 1 of your Fairy Pokémon was Knocked Out during your opponent's last turn.",
+      "Put 2 cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "130",
+    "artist": "nagimiso",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/130.png",
+      "large": "https://images.pokemontcg.io/sm6/130_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 35.69,
+          "mid": 40.95,
+          "high": 165.99,
+          "market": 37.09,
+          "directLow": 42.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 21.2,
+        "lowPrice": 7,
+        "trendPrice": 17.93,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 14.89,
+        "lowPriceExPlus": 14.99,
+        "avg1": 6,
+        "avg7": 19.32,
+        "avg30": 21.21,
+        "reverseHoloAvg1": 15,
+        "reverseHoloAvg7": 15.07,
+        "reverseHoloAvg30": 10.02
+      }
+    }
+  },
+  {
+    "id": "sm6-131",
+    "name": "Ultra Recon Squad",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard up to 2 Ultra Beast cards from your hand. Draw 3 cards for each card you discarded in this way.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "131",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/131.png",
+      "large": "https://images.pokemontcg.io/sm6/131_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 13.6,
+          "mid": 15.04,
+          "high": 179,
+          "market": 13.95,
+          "directLow": 29.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 13.15,
+        "lowPrice": 2.88,
+        "trendPrice": 13.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 6.02,
+        "lowPriceExPlus": 6,
+        "avg1": 7,
+        "avg7": 12.64,
+        "avg30": 11.25,
+        "reverseHoloAvg1": 5,
+        "reverseHoloAvg7": 6.03,
+        "reverseHoloAvg30": 5.93
+      }
+    }
+  },
+  {
+    "id": "sm6-141",
+    "name": "Beast Ring",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining.",
+      "Search your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "141",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/141.png",
+      "large": "https://images.pokemontcg.io/sm6/141_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 9.09,
+          "mid": 11.13,
+          "high": 130,
+          "market": 10.34,
+          "directLow": 13.11
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 8.5,
+        "lowPrice": 3.49,
+        "trendPrice": 8.45,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 8.87,
+        "lowPriceExPlus": 6.49,
+        "avg1": 7.99,
+        "avg7": 8.3,
+        "avg30": 8.34,
+        "reverseHoloAvg1": 12,
+        "reverseHoloAvg7": 9.76,
+        "reverseHoloAvg30": 6.98
+      }
+    }
+  },
+  {
+    "id": "sm6-142",
+    "name": "Eneporter",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Move a Special Energy from 1 of your opponent's Pokémon to another of their Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "142",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/142.png",
+      "large": "https://images.pokemontcg.io/sm6/142_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.7,
+          "mid": 5.78,
+          "high": 21.76,
+          "market": 5.52,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.31,
+        "lowPrice": 5.9,
+        "trendPrice": 8.97,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 8.35,
+        "lowPriceExPlus": 6,
+        "avg1": 9.98,
+        "avg7": 8.78,
+        "avg30": 9.57,
+        "reverseHoloAvg1": 10,
+        "reverseHoloAvg7": 8.07,
+        "reverseHoloAvg30": 7.55
+      }
+    }
+  },
+  {
+    "id": "sm6-143",
+    "name": "Energy Recycler",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Shuffle 5 basic Energy cards from your discard pile into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "143",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/143.png",
+      "large": "https://images.pokemontcg.io/sm6/143_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 33.59,
+          "mid": 42.14,
+          "high": 150,
+          "market": 40.43,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 17.99,
+        "lowPrice": 9.95,
+        "trendPrice": 22.76,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 16.77,
+        "lowPriceExPlus": 22.5,
+        "avg1": 35,
+        "avg7": 27.25,
+        "avg30": 29.25,
+        "reverseHoloAvg1": 19.9,
+        "reverseHoloAvg7": 17.53,
+        "reverseHoloAvg30": 12.29
+      }
+    }
+  },
+  {
+    "id": "sm6-144",
+    "name": "Metal Frying Pan",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Metal Pokémon this card is attached to takes 30 less damage from your opponent's attacks (after applying Weakness and Resistance) and has no Weakness.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "144",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/144.png",
+      "large": "https://images.pokemontcg.io/sm6/144_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 7.99,
+          "mid": 9,
+          "high": 21.76,
+          "market": 8.11,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.41,
+        "lowPrice": 4.99,
+        "trendPrice": 8.2,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 10.82,
+        "lowPriceExPlus": 6.45,
+        "avg1": 6.41,
+        "avg7": 7.41,
+        "avg30": 8.99,
+        "reverseHoloAvg1": 9.9,
+        "reverseHoloAvg7": 12.32,
+        "reverseHoloAvg30": 9.35
+      }
+    }
+  },
+  {
+    "id": "sm6-145",
+    "name": "Mysterious Treasure",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard a card from your hand. If you do, search your deck for a Psychic or Dragon Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "series": "Sun & Moon",
+      "printedTotal": 131,
+      "total": 150,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLI",
+      "releaseDate": "2018/05/04",
+      "updatedAt": "2019/02/19 23:25:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm6/logo.png"
+      }
+    },
+    "number": "145",
+    "artist": "Eske Yoshinob",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/145.png",
+      "large": "https://images.pokemontcg.io/sm6/145_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm6-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 13.02,
+          "mid": 23.1,
+          "high": 79.99,
+          "market": 21.08,
+          "directLow": 27.98
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm6-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 17.04,
+        "lowPrice": 6.9,
+        "trendPrice": 13.76,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 12.28,
+        "lowPriceExPlus": 7,
+        "avg1": 19.95,
+        "avg7": 16.24,
+        "avg30": 15.63,
+        "reverseHoloAvg1": 14,
+        "reverseHoloAvg7": 12.99,
+        "reverseHoloAvg30": 11.53
+      }
+    }
+  }
+]

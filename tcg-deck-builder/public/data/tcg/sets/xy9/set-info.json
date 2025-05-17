@@ -1,0 +1,18 @@
+{
+  "id": "xy9",
+  "name": "BREAKpoint",
+  "series": "XY",
+  "printedTotal": 122,
+  "total": 126,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "BKP",
+  "releaseDate": "2016/02/03",
+  "updatedAt": "2020/08/14 09:35:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/xy9/symbol.png",
+    "logo": "https://images.pokemontcg.io/xy9/logo.png"
+  }
+}

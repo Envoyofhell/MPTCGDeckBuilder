@@ -1,0 +1,18 @@
+{
+  "id": "sm12",
+  "name": "Cosmic Eclipse",
+  "series": "Sun & Moon",
+  "printedTotal": 236,
+  "total": 272,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "CEC",
+  "releaseDate": "2019/11/01",
+  "updatedAt": "2021/09/01 05:37:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+    "logo": "https://images.pokemontcg.io/sm12/logo.png"
+  }
+}

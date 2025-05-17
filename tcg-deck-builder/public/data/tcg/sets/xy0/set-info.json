@@ -1,0 +1,18 @@
+{
+  "id": "xy0",
+  "name": "Kalos Starter Set",
+  "series": "XY",
+  "printedTotal": 39,
+  "total": 39,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "KSS",
+  "releaseDate": "2013/11/08",
+  "updatedAt": "2018/03/04 10:35:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/xy0/symbol.png",
+    "logo": "https://images.pokemontcg.io/xy0/logo.png"
+  }
+}

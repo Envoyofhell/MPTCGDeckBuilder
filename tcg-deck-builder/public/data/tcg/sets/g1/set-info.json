@@ -1,0 +1,18 @@
+{
+  "id": "g1",
+  "name": "Generations",
+  "series": "XY",
+  "printedTotal": 83,
+  "total": 117,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "GEN",
+  "releaseDate": "2016/02/22",
+  "updatedAt": "2020/08/14 09:35:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+    "logo": "https://images.pokemontcg.io/g1/logo.png"
+  }
+}

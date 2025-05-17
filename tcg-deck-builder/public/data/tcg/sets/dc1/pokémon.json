@@ -1,0 +1,2616 @@
+[
+  {
+    "id": "dc1-1",
+    "name": "Team Magma's Numel",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Camerupt"
+    ],
+    "attacks": [
+      {
+        "name": "Ember",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Discard an Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "1",
+    "artist": "Akira Komayama",
+    "rarity": "Common",
+    "flavorText": "No matter how heavy the cargo, we can transport it to our destination with ease, thanks to Numel.",
+    "nationalPokedexNumbers": [
+      322
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/1.png",
+      "large": "https://images.pokemontcg.io/dc1/1_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-1",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.35,
+          "mid": 0.8,
+          "high": 2,
+          "market": 0.8,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 1.88,
+          "mid": 2.99,
+          "high": 89,
+          "market": 3.05,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-1",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.66,
+        "lowPrice": 1,
+        "trendPrice": 4.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 10.17,
+        "reverseHoloLow": 9.8,
+        "reverseHoloTrend": 10.73,
+        "lowPriceExPlus": 1,
+        "avg1": 1,
+        "avg7": 2.47,
+        "avg30": 4.37,
+        "reverseHoloAvg1": 8,
+        "reverseHoloAvg7": 9.64,
+        "reverseHoloAvg30": 5.84
+      }
+    }
+  },
+  {
+    "id": "dc1-2",
+    "name": "Team Magma's Camerupt",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Team Magma's Numel",
+    "abilities": [
+      {
+        "name": "Burning Draft",
+        "text": "Once during your turn (before your attack), you may attach a Fighting or Fire Energy card from your discard pile to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Flame Ball",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "Move a basic Energy from this Pokémon to 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "2",
+    "artist": "Shin Nagasawa",
+    "rarity": "Rare Holo",
+    "flavorText": "Camerupt, with its strength against fire, played a big role in rescuing team members.",
+    "nationalPokedexNumbers": [
+      323
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/2.png",
+      "large": "https://images.pokemontcg.io/dc1/2_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-2",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.5,
+          "mid": 0.96,
+          "high": 3.99,
+          "market": 1.01,
+          "directLow": 0.71
+        },
+        "reverseHolofoil": {
+          "low": 0.74,
+          "mid": 1.23,
+          "high": 2.89,
+          "market": 2.89,
+          "directLow": 1.19
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-2",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.79,
+        "lowPrice": 0.99,
+        "trendPrice": 2.86,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 4.2,
+        "reverseHoloLow": 0.99,
+        "reverseHoloTrend": 5.21,
+        "lowPriceExPlus": 2.5,
+        "avg1": 2.95,
+        "avg7": 2.69,
+        "avg30": 3.41,
+        "reverseHoloAvg1": 2.2,
+        "reverseHoloAvg7": 4.35,
+        "reverseHoloAvg30": 6.06
+      }
+    }
+  },
+  {
+    "id": "dc1-3",
+    "name": "Team Aqua's Spheal",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Sealeo"
+    ],
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "3",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Common",
+    "flavorText": "Spheal's Water Gun can put out any fire. Flames used by opponents have no effect!",
+    "nationalPokedexNumbers": [
+      363
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/3.png",
+      "large": "https://images.pokemontcg.io/dc1/3_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-3",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 1.03,
+          "mid": 1.38,
+          "high": 2.74,
+          "market": 1.22,
+          "directLow": 1.54
+        },
+        "reverseHolofoil": {
+          "low": 2,
+          "mid": 2.36,
+          "high": 9.99,
+          "market": 5.99,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-3",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.58,
+        "lowPrice": 1.5,
+        "trendPrice": 5.71,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 8.74,
+        "reverseHoloLow": 1.5,
+        "reverseHoloTrend": 7.19,
+        "lowPriceExPlus": 2.8,
+        "avg1": 7,
+        "avg7": 5.08,
+        "avg30": 4.53,
+        "reverseHoloAvg1": 2,
+        "reverseHoloAvg7": 8.06,
+        "reverseHoloAvg30": 9.26
+      }
+    }
+  },
+  {
+    "id": "dc1-4",
+    "name": "Team Aqua's Sealeo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Team Aqua's Spheal",
+    "evolvesTo": [
+      "Walrein"
+    ],
+    "attacks": [
+      {
+        "name": "Splatter",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Hail Storm",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "If your opponent's Active Pokémon is a Team Magma Pokémon, this attack does 60 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "4",
+    "artist": "Naoki Saito",
+    "rarity": "Common",
+    "flavorText": "It provides support by making paths of ice. It can win any battle as long as it's on ice.",
+    "nationalPokedexNumbers": [
+      364
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/4.png",
+      "large": "https://images.pokemontcg.io/dc1/4_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-4",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.25,
+          "mid": 0.5,
+          "high": 2,
+          "market": 0.59,
+          "directLow": 0.34
+        },
+        "reverseHolofoil": {
+          "low": 1.88,
+          "mid": 3.32,
+          "high": 6.89,
+          "market": 6.79,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-4",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2,
+        "lowPrice": 0.3,
+        "trendPrice": 1.6,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1,
+        "reverseHoloLow": 3.9,
+        "reverseHoloTrend": 8.34,
+        "lowPriceExPlus": 1,
+        "avg1": 1.5,
+        "avg7": 1.94,
+        "avg30": 1.9,
+        "reverseHoloAvg1": 9,
+        "reverseHoloAvg7": 7.49,
+        "reverseHoloAvg30": 5.72
+      }
+    }
+  },
+  {
+    "id": "dc1-5",
+    "name": "Team Aqua's Walrein",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "140",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Team Aqua's Sealeo",
+    "attacks": [
+      {
+        "name": "Power Blow",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30×",
+        "text": "This attack does 30 damage times the amount of Energy attached to this Pokémon."
+      },
+      {
+        "name": "Dual Blizzard",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "",
+        "text": "Discard 2 Water Energy attached to this Pokémon. This attack does 80 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "5",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Holo",
+    "flavorText": "It's good at attacks that freeze opponents with a powerful cold snap. Then, it pulverizes a frozen foe with its sharp tusks!",
+    "nationalPokedexNumbers": [
+      365
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/5.png",
+      "large": "https://images.pokemontcg.io/dc1/5_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-5",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.66,
+          "mid": 1.67,
+          "high": 89,
+          "market": 1.54,
+          "directLow": 0.66
+        },
+        "reverseHolofoil": {
+          "low": 2.29,
+          "mid": 3.88,
+          "high": 5,
+          "market": 3.95,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-5",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.31,
+        "lowPrice": 1.2,
+        "trendPrice": 3.37,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 5.39,
+        "reverseHoloLow": 1.38,
+        "reverseHoloTrend": 5.07,
+        "lowPriceExPlus": 1.99,
+        "avg1": 4,
+        "avg7": 3.37,
+        "avg30": 3.22,
+        "reverseHoloAvg1": 8.7,
+        "reverseHoloAvg7": 5.24,
+        "reverseHoloAvg30": 5.41
+      }
+    }
+  },
+  {
+    "id": "dc1-6",
+    "name": "Team Aqua's Kyogre-EX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "EX"
+    ],
+    "hp": "190",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Power Saver",
+        "text": "If there are 4 or fewer Team Aqua Pokémon in play, this Pokémon can't attack.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Aqua Impact",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80+",
+        "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "6",
+    "artist": "nagimiso",
+    "rarity": "Rare Ultra",
+    "nationalPokedexNumbers": [
+      382
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/6.png",
+      "large": "https://images.pokemontcg.io/dc1/6_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-6",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 257.47,
+          "mid": 316.24,
+          "high": 999.98,
+          "market": 311.38,
+          "directLow": 261.56
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-6",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 187.13,
+        "lowPrice": 40,
+        "trendPrice": 181.58,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 40.79,
+        "lowPriceExPlus": 150,
+        "avg1": 260,
+        "avg7": 195.54,
+        "avg30": 177.78,
+        "reverseHoloAvg1": 89.95,
+        "reverseHoloAvg7": 39.69,
+        "reverseHoloAvg30": 30.02
+      }
+    }
+  },
+  {
+    "id": "dc1-7",
+    "name": "Team Aqua's Grimer",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [
+      "Muk"
+    ],
+    "attacks": [
+      {
+        "name": "Pound",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Mud-Slap",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "7",
+    "artist": "kawayoo",
+    "rarity": "Common",
+    "flavorText": "Its flexible body, which allows it to squeeze into any cracks, comes in handy when invading enemy hideouts.",
+    "nationalPokedexNumbers": [
+      88
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/7.png",
+      "large": "https://images.pokemontcg.io/dc1/7_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-7",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.93,
+          "mid": 1.7,
+          "high": 89,
+          "market": 1.87,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 3.27,
+          "mid": 4.49,
+          "high": 89,
+          "market": 4.98,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-7",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.32,
+        "lowPrice": 0.95,
+        "trendPrice": 3.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 5.92,
+        "reverseHoloLow": 2,
+        "reverseHoloTrend": 6.63,
+        "lowPriceExPlus": 1,
+        "avg1": 3.99,
+        "avg7": 3.32,
+        "avg30": 3.35,
+        "reverseHoloAvg1": 8.27,
+        "reverseHoloAvg7": 6.92,
+        "reverseHoloAvg30": 5.96
+      }
+    }
+  },
+  {
+    "id": "dc1-8",
+    "name": "Team Aqua's Muk",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Team Aqua's Grimer",
+    "abilities": [
+      {
+        "name": "Sludge Festival",
+        "text": "The Retreat Cost of each Pokémon in play (except for Team Aqua Pokémon) is Colorless more.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Pester",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "8",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare Holo",
+    "flavorText": "It immobilizes its opponents by wrapping them in its huge, poisonous body. It'll smoosh you, too!",
+    "nationalPokedexNumbers": [
+      89
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/8.png",
+      "large": "https://images.pokemontcg.io/dc1/8_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-8",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.68,
+          "mid": 1.43,
+          "high": 4,
+          "market": 1.53,
+          "directLow": 1.18
+        },
+        "reverseHolofoil": {
+          "low": 1.21,
+          "mid": 2.51,
+          "high": 4.12,
+          "market": 3.8,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-8",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.89,
+        "lowPrice": 0.75,
+        "trendPrice": 4.92,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 7.35,
+        "reverseHoloLow": 6.4,
+        "reverseHoloTrend": 7.49,
+        "lowPriceExPlus": 3,
+        "avg1": 1.5,
+        "avg7": 4.33,
+        "avg30": 4.42,
+        "reverseHoloAvg1": 9.84,
+        "reverseHoloAvg7": 5.87,
+        "reverseHoloAvg30": 5.66
+      }
+    }
+  },
+  {
+    "id": "dc1-9",
+    "name": "Team Aqua's Seviper",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Venomous Fang",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+      },
+      {
+        "name": "Venom Tail",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "If your opponent's Active Pokémon is affected by a Special Condition, discard an Energy attached to that Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "9",
+    "artist": "Naoki Saito",
+    "rarity": "Common",
+    "flavorText": "Seviper's tail is a sharp blade. It can even poison you!",
+    "nationalPokedexNumbers": [
+      336
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/9.png",
+      "large": "https://images.pokemontcg.io/dc1/9_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-9",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.25,
+          "mid": 0.5,
+          "high": 2,
+          "market": 0.64,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 2.5,
+          "mid": 3.83,
+          "high": 33.55,
+          "market": 4.51,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-9",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.54,
+        "lowPrice": 0.4,
+        "trendPrice": 1.65,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.35,
+        "reverseHoloLow": 4.05,
+        "reverseHoloTrend": 6.81,
+        "lowPriceExPlus": 0.5,
+        "avg1": 1.99,
+        "avg7": 1.54,
+        "avg30": 1.75,
+        "reverseHoloAvg1": 2.35,
+        "reverseHoloAvg7": 7.89,
+        "reverseHoloAvg30": 4.63
+      }
+    }
+  },
+  {
+    "id": "dc1-10",
+    "name": "Team Magma's Baltoy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [
+      "Claydol"
+    ],
+    "attacks": [
+      {
+        "name": "Telekinesis",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "This attack does 20 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "10",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Common",
+    "flavorText": "They all cry out at once to let us know when they spot an enemy. It really helps out!",
+    "nationalPokedexNumbers": [
+      343
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/10.png",
+      "large": "https://images.pokemontcg.io/dc1/10_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-10",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.2,
+          "mid": 0.47,
+          "high": 2.27,
+          "market": 0.48,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.7,
+          "mid": 1.78,
+          "high": 2.5,
+          "market": 2.18,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-10",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.33,
+        "lowPrice": 0.15,
+        "trendPrice": 1.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.99,
+        "reverseHoloLow": 2.5,
+        "reverseHoloTrend": 6.21,
+        "lowPriceExPlus": 0.5,
+        "avg1": 0.75,
+        "avg7": 1.03,
+        "avg30": 1.16,
+        "reverseHoloAvg1": 4,
+        "reverseHoloAvg7": 3.91,
+        "reverseHoloAvg30": 4.04
+      }
+    }
+  },
+  {
+    "id": "dc1-11",
+    "name": "Team Magma's Claydol",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Team Magma's Baltoy",
+    "abilities": [
+      {
+        "name": "Magma Switch",
+        "text": "Once during your turn (before your attack), you may move a basic Energy from 1 of your Pokémon to 1 of your Team Magma Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Power Beam",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "11",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Rare Holo",
+    "flavorText": "Claydol's beam can seize opponents and keep them from moving. Long-range attacks are its specialty!",
+    "nationalPokedexNumbers": [
+      344
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/11.png",
+      "large": "https://images.pokemontcg.io/dc1/11_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-11",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.55,
+          "mid": 1,
+          "high": 89,
+          "market": 1.43,
+          "directLow": 1.23
+        },
+        "reverseHolofoil": {
+          "low": 1,
+          "mid": 1.84,
+          "high": 3.67,
+          "market": 1.92,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-11",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.95,
+        "lowPrice": 1.5,
+        "trendPrice": 2.36,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 4.75,
+        "reverseHoloLow": 2.5,
+        "reverseHoloTrend": 5.37,
+        "lowPriceExPlus": 1.9,
+        "avg1": 0.75,
+        "avg7": 2.45,
+        "avg30": 2.8,
+        "reverseHoloAvg1": 7,
+        "reverseHoloAvg7": 3.94,
+        "reverseHoloAvg30": 4.83
+      }
+    }
+  },
+  {
+    "id": "dc1-12",
+    "name": "Team Magma's Aron",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [
+      "Lairon"
+    ],
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "12",
+    "artist": "Akira Komayama",
+    "rarity": "Common",
+    "flavorText": "Aron, which even devour metal, can eat and destroy enemy ships in an instant.",
+    "nationalPokedexNumbers": [
+      304
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/12.png",
+      "large": "https://images.pokemontcg.io/dc1/12_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-12",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.57,
+          "mid": 0.99,
+          "high": 2,
+          "market": 1.04,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 3,
+          "mid": 3.99,
+          "high": 4.4,
+          "market": 4.31,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-12",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.99,
+        "lowPrice": 0.95,
+        "trendPrice": 2.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 9.58,
+        "reverseHoloLow": 2,
+        "reverseHoloTrend": 8.21,
+        "lowPriceExPlus": 1,
+        "avg1": 2.99,
+        "avg7": 2.1,
+        "avg30": 1.91,
+        "reverseHoloAvg1": 3,
+        "reverseHoloAvg7": 8.81,
+        "reverseHoloAvg30": 6.96
+      }
+    }
+  },
+  {
+    "id": "dc1-13",
+    "name": "Team Magma's Lairon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Team Magma's Aron",
+    "evolvesTo": [
+      "Aggron"
+    ],
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Take Down",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "This Pokémon does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "13",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Common",
+    "flavorText": "When Lairon uses Take Down, the impact from its solid body is enough to destroy concrete!",
+    "nationalPokedexNumbers": [
+      305
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/13.png",
+      "large": "https://images.pokemontcg.io/dc1/13_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-13",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.24,
+          "mid": 0.52,
+          "high": 2,
+          "market": 0.68,
+          "directLow": 0.4
+        },
+        "reverseHolofoil": {
+          "low": 2,
+          "mid": 2.65,
+          "high": 5.94,
+          "market": 3.62,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-13",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.64,
+        "lowPrice": 0.99,
+        "trendPrice": 1.72,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.4,
+        "reverseHoloLow": 1.5,
+        "reverseHoloTrend": 7.03,
+        "lowPriceExPlus": 0.99,
+        "avg1": 3,
+        "avg7": 1.64,
+        "avg30": 1.75,
+        "reverseHoloAvg1": 2.4,
+        "reverseHoloAvg7": 7.07,
+        "reverseHoloAvg30": 4.59
+      }
+    }
+  },
+  {
+    "id": "dc1-14",
+    "name": "Team Magma's Aggron",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "140",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Team Magma's Lairon",
+    "attacks": [
+      {
+        "name": "Rock Stomp",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40×",
+        "text": "Discard as many Fighting Energy attached to your Pokémon as you like. This attack does 40 damage times the amount of Fighting Energy you discarded."
+      },
+      {
+        "name": "Boulder Storm",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "120",
+        "text": "This attack does 20 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "14",
+    "artist": "TOKIYA",
+    "rarity": "Rare Holo",
+    "flavorText": "Aggron's metal horns can smash through any defenses, no matter how strong!",
+    "nationalPokedexNumbers": [
+      306
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/14.png",
+      "large": "https://images.pokemontcg.io/dc1/14_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-14",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.98,
+          "mid": 1.68,
+          "high": 89,
+          "market": 2.32,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 2.08,
+          "mid": 4.06,
+          "high": 6,
+          "market": 5.69,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-14",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.46,
+        "lowPrice": 1,
+        "trendPrice": 5.98,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 8.09,
+        "reverseHoloLow": 1.2,
+        "reverseHoloTrend": 6.71,
+        "lowPriceExPlus": 4,
+        "avg1": 7,
+        "avg7": 6.47,
+        "avg30": 5.79,
+        "reverseHoloAvg1": 4.78,
+        "reverseHoloAvg7": 8.11,
+        "reverseHoloAvg30": 6.63
+      }
+    }
+  },
+  {
+    "id": "dc1-15",
+    "name": "Team Magma's Groudon-EX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "EX"
+    ],
+    "hp": "190",
+    "types": [
+      "Fighting"
+    ],
+    "rules": [
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Power Saver",
+        "text": "If there are 4 or fewer Team Magma Pokémon in play, this Pokémon can't attack.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Magma Quake",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "15",
+    "artist": "nagimiso",
+    "rarity": "Rare Ultra",
+    "nationalPokedexNumbers": [
+      383
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/15.png",
+      "large": "https://images.pokemontcg.io/dc1/15_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-15",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 218.89,
+          "mid": 328.46,
+          "high": 799.99,
+          "market": 288.25,
+          "directLow": 218.89
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-15",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 246.7,
+        "lowPrice": 39.98,
+        "trendPrice": 258.75,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 62.42,
+        "lowPriceExPlus": 170,
+        "avg1": 99.99,
+        "avg7": 228.36,
+        "avg30": 178.91,
+        "reverseHoloAvg1": 65,
+        "reverseHoloAvg7": 67.06,
+        "reverseHoloAvg30": 32.01
+      }
+    }
+  },
+  {
+    "id": "dc1-16",
+    "name": "Team Aqua's Poochyena",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [
+      "Mightyena"
+    ],
+    "attacks": [
+      {
+        "name": "Roar",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "16",
+    "artist": "Kouki Saitou",
+    "rarity": "Common",
+    "flavorText": "Poochyena can easily detect invading foes with its acute sense of smell. It's an excellent lookout!",
+    "nationalPokedexNumbers": [
+      261
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/16.png",
+      "large": "https://images.pokemontcg.io/dc1/16_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-16",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.29,
+          "mid": 0.68,
+          "high": 3.24,
+          "market": 0.73,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 2.04,
+          "mid": 3.25,
+          "high": 5.24,
+          "market": 3.72,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-16",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.51,
+        "lowPrice": 0.85,
+        "trendPrice": 1.6,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 7.88,
+        "reverseHoloLow": 4,
+        "reverseHoloTrend": 7.33,
+        "lowPriceExPlus": 1,
+        "avg1": 0.85,
+        "avg7": 1.25,
+        "avg30": 1.79,
+        "reverseHoloAvg1": 5,
+        "reverseHoloAvg7": 6.28,
+        "reverseHoloAvg30": 5.94
+      }
+    }
+  },
+  {
+    "id": "dc1-17",
+    "name": "Team Magma's Poochyena",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [
+      "Mightyena"
+    ],
+    "attacks": [
+      {
+        "name": "Infiltrate",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Your opponent reveals his or her hand."
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "17",
+    "artist": "TOKIYA",
+    "rarity": "Common",
+    "flavorText": "Poochyena's nose can identify any scent. It's very useful for reconnaissance.",
+    "nationalPokedexNumbers": [
+      261
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/17.png",
+      "large": "https://images.pokemontcg.io/dc1/17_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-17",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.25,
+          "mid": 0.96,
+          "high": 4.99,
+          "market": 1.06,
+          "directLow": 1.97
+        },
+        "reverseHolofoil": {
+          "low": 1.75,
+          "mid": 2.67,
+          "high": 3.58,
+          "market": 6.13,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-17",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.05,
+        "lowPrice": 0.6,
+        "trendPrice": 3.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 5.98,
+        "reverseHoloLow": 6,
+        "reverseHoloTrend": 8.04,
+        "lowPriceExPlus": 2.9,
+        "avg1": 4.23,
+        "avg7": 2.99,
+        "avg30": 4.08,
+        "reverseHoloAvg1": 9.5,
+        "reverseHoloAvg7": 8.42,
+        "reverseHoloAvg30": 5.83
+      }
+    }
+  },
+  {
+    "id": "dc1-18",
+    "name": "Team Aqua's Mightyena",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Team Aqua's Poochyena",
+    "attacks": [
+      {
+        "name": "Teampact",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "Flip a coin for each Team Aqua Pokémon you have in play. This attack does 30 damage times the number of heads."
+      },
+      {
+        "name": "Crunch",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "18",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Common",
+    "flavorText": "Thanks to Mightyena's outstanding leadership, it's very good at combination attacks that can leave a foe helpless.",
+    "nationalPokedexNumbers": [
+      262
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/18.png",
+      "large": "https://images.pokemontcg.io/dc1/18_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-18",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.37,
+          "mid": 1,
+          "high": 89,
+          "market": 1.25,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 3.4,
+          "mid": 3.79,
+          "high": 5.95,
+          "market": 4.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-18",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.53,
+        "lowPrice": 0.99,
+        "trendPrice": 2.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 8.13,
+        "reverseHoloLow": 1,
+        "reverseHoloTrend": 7.06,
+        "lowPriceExPlus": 1.9,
+        "avg1": 2,
+        "avg7": 1.9,
+        "avg30": 2.71,
+        "reverseHoloAvg1": 10,
+        "reverseHoloAvg7": 8.35,
+        "reverseHoloAvg30": 6.99
+      }
+    }
+  },
+  {
+    "id": "dc1-19",
+    "name": "Team Magma's Mightyena",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Team Magma's Poochyena",
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Hostile Fang",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "If your opponent's Active Pokémon is a Team Aqua Pokémon, this attack does 40 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "19",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Common",
+    "flavorText": "This Pokémon is loyal to its master. It will protect its partner to the end, no matter what.",
+    "nationalPokedexNumbers": [
+      262
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/19.png",
+      "large": "https://images.pokemontcg.io/dc1/19_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-19",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.68,
+          "mid": 0.86,
+          "high": 1.25,
+          "market": 1.02,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 2.7,
+          "mid": 4.18,
+          "high": 12,
+          "market": 6.45,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-19",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.34,
+        "lowPrice": 0.5,
+        "trendPrice": 2.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 7.47,
+        "reverseHoloLow": 6.5,
+        "reverseHoloTrend": 7.57,
+        "lowPriceExPlus": 1.03,
+        "avg1": 2,
+        "avg7": 1.92,
+        "avg30": 2.92,
+        "reverseHoloAvg1": 8.95,
+        "reverseHoloAvg7": 6.12,
+        "reverseHoloAvg30": 6.99
+      }
+    }
+  },
+  {
+    "id": "dc1-20",
+    "name": "Team Aqua's Carvanha",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [
+      "Sharpedo"
+    ],
+    "attacks": [
+      {
+        "name": "Fin Smack",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10×",
+        "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "20",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Common",
+    "flavorText": "You can't keep up with its movements underwater, can you? If you get caught in this whirlpool, there'll be no escape.",
+    "nationalPokedexNumbers": [
+      318
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/20.png",
+      "large": "https://images.pokemontcg.io/dc1/20_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-20",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.28,
+          "mid": 0.5,
+          "high": 1.49,
+          "market": 0.5,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 2.6,
+          "mid": 2.99,
+          "high": 5.94,
+          "market": 3.98,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-20",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.59,
+        "lowPrice": 0.5,
+        "trendPrice": 1.33,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 9.41,
+        "reverseHoloLow": 3,
+        "reverseHoloTrend": 8.61,
+        "lowPriceExPlus": 1,
+        "avg1": 2.45,
+        "avg7": 1.61,
+        "avg30": 1.76,
+        "reverseHoloAvg1": 3.74,
+        "reverseHoloAvg7": 6.2,
+        "reverseHoloAvg30": 5.67
+      }
+    }
+  },
+  {
+    "id": "dc1-21",
+    "name": "Team Aqua's Sharpedo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Team Aqua's Carvanha",
+    "abilities": [
+      {
+        "name": "Aqua Search",
+        "text": "Once during your turn (before your attack), you may search your deck for a Team Aqua Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Sharp Fang",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "21",
+    "artist": "kawayoo",
+    "rarity": "Rare Holo",
+    "flavorText": "It boasts fangs so powerful that they knock opponents out in one shot! Enemies that slip up will be taken down without fail!",
+    "nationalPokedexNumbers": [
+      319
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/21.png",
+      "large": "https://images.pokemontcg.io/dc1/21_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-21",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.24,
+          "mid": 1.99,
+          "high": 89,
+          "market": 2.32,
+          "directLow": 1.3
+        },
+        "reverseHolofoil": {
+          "low": 2.59,
+          "mid": 3.49,
+          "high": 11.5,
+          "market": 5.06,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-21",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.75,
+        "lowPrice": 0.8,
+        "trendPrice": 5.68,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 11.7,
+        "reverseHoloLow": 1.39,
+        "reverseHoloTrend": 9.36,
+        "lowPriceExPlus": 4,
+        "avg1": 3,
+        "avg7": 5.59,
+        "avg30": 4.97,
+        "reverseHoloAvg1": 21.4,
+        "reverseHoloAvg7": 10.26,
+        "reverseHoloAvg30": 7.77
+      }
+    }
+  },
+  {
+    "id": "dc1-22",
+    "name": "Team Magma's Zangoose",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 Basic Team Magma Pokémon and put them onto your Bench. Shuffle your deck afterward."
+      },
+      {
+        "name": "Team Play",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20×",
+        "text": "This attack does 20 damage times the number of Team Magma Pokémon on your Bench."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "series": "XY",
+      "printedTotal": 34,
+      "total": 34,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DCR",
+      "releaseDate": "2015/03/25",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dc1/logo.png"
+      }
+    },
+    "number": "22",
+    "artist": "Shin Nagasawa",
+    "rarity": "Common",
+    "flavorText": "Can you handle the formation attack of the fearless Zangoose?",
+    "nationalPokedexNumbers": [
+      335
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dc1/22.png",
+      "large": "https://images.pokemontcg.io/dc1/22_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dc1-22",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.46,
+          "mid": 0.63,
+          "high": 2,
+          "market": 0.69,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 1.89,
+          "mid": 3,
+          "high": 6.96,
+          "market": 5.59,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/dc1-22",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.93,
+        "lowPrice": 1,
+        "trendPrice": 1.86,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2,
+        "reverseHoloLow": 1.8,
+        "reverseHoloTrend": 12.03,
+        "lowPriceExPlus": 1,
+        "avg1": 3,
+        "avg7": 1.83,
+        "avg30": 2.46,
+        "reverseHoloAvg1": 10,
+        "reverseHoloAvg7": 13.21,
+        "reverseHoloAvg30": 6.51
+      }
+    }
+  }
+]

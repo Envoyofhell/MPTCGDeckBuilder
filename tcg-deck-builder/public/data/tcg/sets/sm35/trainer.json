@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "sm35-58",
+    "name": "Damage Mover",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Move 3 damage counters from 1 of your Pokémon to another of your Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "58",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/58.png",
+      "large": "https://images.pokemontcg.io/sm35/58_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-58",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.04,
+          "mid": 0.22,
+          "high": 1.5,
+          "market": 0.16,
+          "directLow": 0.14
+        },
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.27,
+          "high": 1.52,
+          "market": 0.24,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-58",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.34,
+        "reverseHoloLow": 0.07,
+        "reverseHoloTrend": 0.33,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.1,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.4,
+        "reverseHoloAvg7": 0.31,
+        "reverseHoloAvg30": 0.29
+      }
+    }
+  },
+  {
+    "id": "sm35-59",
+    "name": "Energy Retrieval",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put 2 basic Energy cards from your discard pile into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "59",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/59.png",
+      "large": "https://images.pokemontcg.io/sm35/59_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-59",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 1.53,
+          "market": 0.16,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.35,
+          "high": 1.12,
+          "market": 0.35,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-59",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.53,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.53,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.08,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.91,
+        "reverseHoloAvg7": 0.52,
+        "reverseHoloAvg30": 0.4
+      }
+    }
+  },
+  {
+    "id": "sm35-60",
+    "name": "Great Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "60",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/60.png",
+      "large": "https://images.pokemontcg.io/sm35/60_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-60",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.18,
+          "high": 1.47,
+          "market": 0.16,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.33,
+          "high": 2,
+          "market": 0.32,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-60",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.68,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.36,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.1,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.66,
+        "reverseHoloAvg30": 0.41
+      }
+    }
+  },
+  {
+    "id": "sm35-61",
+    "name": "Hau",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "61",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/61.png",
+      "large": "https://images.pokemontcg.io/sm35/61_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-61",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.19,
+          "high": 1.49,
+          "market": 0.14,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.27,
+          "high": 1.44,
+          "market": 0.23,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-61",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.29,
+        "reverseHoloLow": 0.04,
+        "reverseHoloTrend": 0.24,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.33,
+        "reverseHoloAvg7": 0.26,
+        "reverseHoloAvg30": 0.31
+      }
+    }
+  },
+  {
+    "id": "sm35-62",
+    "name": "Lillie",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 6 cards in your hand. If it's your first turn, draw cards until you have 8 cards in your hand.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "62",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/62.png",
+      "large": "https://images.pokemontcg.io/sm35/62_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-62",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.04,
+          "mid": 0.2,
+          "high": 1.54,
+          "market": 0.16,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.39,
+          "high": 1.99,
+          "market": 0.37,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-62",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.44,
+        "reverseHoloLow": 0.04,
+        "reverseHoloTrend": 0.46,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.19,
+        "reverseHoloAvg7": 0.43,
+        "reverseHoloAvg30": 0.5
+      }
+    }
+  },
+  {
+    "id": "sm35-63",
+    "name": "Pokémon Breeder",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards and heal 20 damage from your Active Pokémon. If you have no cards in your deck, you can't play this card.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "63",
+    "artist": "Kanako Eo",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/63.png",
+      "large": "https://images.pokemontcg.io/sm35/63_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-63",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.21,
+          "high": 1.41,
+          "market": 0.19,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.11,
+          "mid": 0.32,
+          "high": 1.5,
+          "market": 0.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-63",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.19,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.41,
+        "reverseHoloLow": 0.08,
+        "reverseHoloTrend": 0.52,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.12,
+        "avg7": 0.27,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.45,
+        "reverseHoloAvg30": 0.42
+      }
+    }
+  },
+  {
+    "id": "sm35-64",
+    "name": "Pokémon Catcher",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "64",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/64.png",
+      "large": "https://images.pokemontcg.io/sm35/64_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-64",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 1.53,
+          "market": 0.16,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.13,
+          "mid": 0.27,
+          "high": 1.58,
+          "market": 0.25,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-64",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.06,
+        "lowPrice": 0.02,
+        "trendPrice": 0.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.22,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.05,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.26,
+        "reverseHoloAvg30": 0.43
+      }
+    }
+  },
+  {
+    "id": "sm35-65",
+    "name": "Sophocles",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard 2 cards from your hand. If you do, draw 4 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "65",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/65.png",
+      "large": "https://images.pokemontcg.io/sm35/65_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-65",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.17,
+          "high": 1.5,
+          "market": 0.08,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.13,
+          "mid": 0.25,
+          "high": 1.58,
+          "market": 0.2,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-65",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.27,
+        "reverseHoloLow": 0.07,
+        "reverseHoloTrend": 0.26,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.06,
+        "avg30": 0.06,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.29,
+        "reverseHoloAvg30": 0.26
+      }
+    }
+  },
+  {
+    "id": "sm35-66",
+    "name": "Super Scoop Up",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, put 1 of your Pokémon and all cards attached to it into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "66",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/66.png",
+      "large": "https://images.pokemontcg.io/sm35/66_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-66",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.5,
+          "market": 0.11,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.3,
+          "high": 1.61,
+          "market": 0.29,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-66",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.31,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.38,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.06,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.32,
+        "reverseHoloAvg7": 0.34,
+        "reverseHoloAvg30": 0.31
+      }
+    }
+  },
+  {
+    "id": "sm35-67",
+    "name": "Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "67",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/67.png",
+      "large": "https://images.pokemontcg.io/sm35/67_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-67",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 30.2,
+          "market": 0.25,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.48,
+          "high": 1.5,
+          "market": 0.46,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-67",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.33,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.27,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.26,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.3,
+        "reverseHoloAvg30": 0.32
+      }
+    }
+  },
+  {
+    "id": "sm35-68",
+    "name": "Ultra Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "68",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/68.png",
+      "large": "https://images.pokemontcg.io/sm35/68_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-68",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.28,
+          "high": 1.53,
+          "market": 0.34,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.22,
+          "mid": 0.93,
+          "high": 4.25,
+          "market": 0.89,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-68",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.26,
+        "lowPrice": 0.02,
+        "trendPrice": 0.33,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.16,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.67,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.28,
+        "avg7": 0.33,
+        "avg30": 0.31,
+        "reverseHoloAvg1": 1.4,
+        "reverseHoloAvg7": 1.04,
+        "reverseHoloAvg30": 0.79
+      }
+    }
+  },
+  {
+    "id": "sm35-68a",
+    "name": "Ultra Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "68a",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/68a.png",
+      "large": "https://images.pokemontcg.io/sm35/68a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-68a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 10.89,
+        "lowPrice": 6.8,
+        "trendPrice": 12.43,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.64,
+        "lowPriceExPlus": 9,
+        "avg1": 11.95,
+        "avg7": 12.18,
+        "avg30": 11.03,
+        "reverseHoloAvg1": 1.99,
+        "reverseHoloAvg7": 1.71,
+        "reverseHoloAvg30": 1.68
+      }
+    }
+  },
+  {
+    "id": "sm35-73",
+    "name": "Pokémon Breeder",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards and heal 20 damage from your Active Pokémon. If you have no cards in your deck, you can't play this card.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "series": "Sun & Moon",
+      "printedTotal": 73,
+      "total": 81,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SLG",
+      "releaseDate": "2017/10/06",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm35/logo.png"
+      }
+    },
+    "number": "73",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm35/73.png",
+      "large": "https://images.pokemontcg.io/sm35/73_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm35-73",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4,
+          "mid": 7.09,
+          "high": 41,
+          "market": 6.69,
+          "directLow": 6.54
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm35-73",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.48,
+        "lowPrice": 2.2,
+        "trendPrice": 4.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 5.56,
+        "lowPriceExPlus": 3.96,
+        "avg1": 4.2,
+        "avg7": 4.24,
+        "avg30": 4.78,
+        "reverseHoloAvg1": 5,
+        "reverseHoloAvg7": 6.02,
+        "reverseHoloAvg30": 5.78
+      }
+    }
+  }
+]

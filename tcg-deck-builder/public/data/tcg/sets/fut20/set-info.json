@@ -1,0 +1,19 @@
+{
+  "id": "fut20",
+  "name": "Pokémon Futsal Collection",
+  "series": "Other",
+  "printedTotal": 5,
+  "total": 5,
+  "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "FUT20",
+  "releaseDate": "2020/09/11",
+  "updatedAt": "2022/10/10 15:12:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/fut20/symbol.png",
+    "logo": "https://images.pokemontcg.io/fut20/logo.png"
+  }
+}

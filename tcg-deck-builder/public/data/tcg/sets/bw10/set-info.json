@@ -1,0 +1,18 @@
+{
+  "id": "bw10",
+  "name": "Plasma Blast",
+  "series": "Black & White",
+  "printedTotal": 101,
+  "total": 105,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "PLB",
+  "releaseDate": "2013/08/14",
+  "updatedAt": "2018/03/04 10:35:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+    "logo": "https://images.pokemontcg.io/bw10/logo.png"
+  }
+}

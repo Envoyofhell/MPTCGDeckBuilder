@@ -1,0 +1,304 @@
+[
+  {
+    "id": "smp-SM78",
+    "name": "Champions Festival",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, if that player has 6 Pokémon in play, they may heal 10 damage from each of their Pokémon.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "series": "Sun & Moon",
+      "printedTotal": 248,
+      "total": 250,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2020/05/01 16:06:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/smp/symbol.png",
+        "logo": "https://images.pokemontcg.io/smp/logo.png"
+      }
+    },
+    "number": "SM78",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/smp/SM78.png",
+      "large": "https://images.pokemontcg.io/smp/SM78_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM78",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 299.99,
+          "mid": 299.99,
+          "high": 299.99,
+          "market": null,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/smp-SM78",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 70,
+        "lowPrice": 87.49,
+        "trendPrice": 84.36,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 23.51,
+        "lowPriceExPlus": 87.49,
+        "avg1": 70,
+        "avg7": 84.85,
+        "avg30": 103.78,
+        "reverseHoloAvg1": 21.48,
+        "reverseHoloAvg7": 22.2,
+        "reverseHoloAvg30": 22.2
+      }
+    }
+  },
+  {
+    "id": "smp-SM148",
+    "name": "Champions Festival",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, if that player has 6 Pokémon in play, they may heal 10 damage from each of their Pokémon.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "series": "Sun & Moon",
+      "printedTotal": 248,
+      "total": 250,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2020/05/01 16:06:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/smp/symbol.png",
+        "logo": "https://images.pokemontcg.io/smp/logo.png"
+      }
+    },
+    "number": "SM148",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/smp/SM148.png",
+      "large": "https://images.pokemontcg.io/smp/SM148_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 219.96,
+          "mid": 261.8,
+          "high": 350,
+          "market": null,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/smp-SM148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 45,
+        "lowPrice": 39.99,
+        "trendPrice": 26.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 60.52,
+        "lowPriceExPlus": 39.99,
+        "avg1": 45,
+        "avg7": 59.28,
+        "avg30": 94.45,
+        "reverseHoloAvg1": 24.99,
+        "reverseHoloAvg7": 48.97,
+        "reverseHoloAvg30": 37.16
+      }
+    }
+  },
+  {
+    "id": "smp-SM231",
+    "name": "Champions Festival",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, if that player has 6 Pokémon in play, they may heal 10 damage from each of their Pokémon.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "series": "Sun & Moon",
+      "printedTotal": 248,
+      "total": 250,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2020/05/01 16:06:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/smp/symbol.png",
+        "logo": "https://images.pokemontcg.io/smp/logo.png"
+      }
+    },
+    "number": "SM231",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/smp/SM231.png",
+      "large": "https://images.pokemontcg.io/smp/SM231_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM231",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 169.48,
+          "mid": 192.49,
+          "high": 215.49,
+          "market": 192.75,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/smp-SM231",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 60,
+        "lowPrice": 48.95,
+        "trendPrice": 0.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 40.1,
+        "lowPriceExPlus": 48.95,
+        "avg1": 40,
+        "avg7": 82.24,
+        "avg30": 183.05,
+        "reverseHoloAvg1": 99.95,
+        "reverseHoloAvg7": 39.97,
+        "reverseHoloAvg30": 20.23
+      }
+    }
+  },
+  {
+    "id": "smp-SM246",
+    "name": "Sabrina & Brycen",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "TAG TEAM"
+    ],
+    "rules": [
+      "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "When you play this card, you may discard 5 other cards from your hand. If you do, you may also search for up to 3 Pokémon of different types in this way.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "series": "Sun & Moon",
+      "printedTotal": 248,
+      "total": 250,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-SM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2020/05/01 16:06:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/smp/symbol.png",
+        "logo": "https://images.pokemontcg.io/smp/logo.png"
+      }
+    },
+    "number": "SM246",
+    "artist": "Ryuta Fuse",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/smp/SM246.png",
+      "large": "https://images.pokemontcg.io/smp/SM246_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM246",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.29,
+          "high": 4.95,
+          "market": 0.24,
+          "directLow": 0.21
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/smp-SM246",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.44,
+        "lowPrice": 0.12,
+        "trendPrice": 0.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.12,
+        "avg1": 0.27,
+        "avg7": 1.46,
+        "avg30": 0.95,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  }
+]

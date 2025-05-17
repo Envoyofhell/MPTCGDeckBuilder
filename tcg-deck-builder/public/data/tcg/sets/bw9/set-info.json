@@ -1,0 +1,18 @@
+{
+  "id": "bw9",
+  "name": "Plasma Freeze",
+  "series": "Black & White",
+  "printedTotal": 116,
+  "total": 122,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "PLF",
+  "releaseDate": "2013/05/08",
+  "updatedAt": "2018/03/04 10:35:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/bw9/symbol.png",
+    "logo": "https://images.pokemontcg.io/bw9/logo.png"
+  }
+}

@@ -72,7 +72,14 @@ function CardContainer({
     const defaultOnDoubleClick = () => console.log("No function provided for Double click.");
     
     // Double-click handler wrapper
-    const doubleClickHandler = card => handleDoubleClick ? handleDoubleClick(card) : defaultOnDoubleClick();
+    const doubleClickHandler = card => {
+        console.log("Double-clicked card:", card);
+        if (handleDoubleClick) {
+          handleDoubleClick(card);
+        } else {
+          defaultOnDoubleClick();
+        }
+      };
 
     // Function to check if a card is a favorite
     const isFavorite = (cardId) => {

@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "xy6-83",
+    "name": "Gallade Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Gallade-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "83",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/83.png",
+      "large": "https://images.pokemontcg.io/xy6/83_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-83",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 1.5,
+          "market": 0.11,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.37,
+          "high": 5,
+          "market": 0.38,
+          "directLow": 0.36
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-83",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.87,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.09,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.75,
+        "reverseHoloAvg7": 0.77,
+        "reverseHoloAvg30": 0.75
+      }
+    }
+  },
+  {
+    "id": "xy6-84",
+    "name": "Healing Scarf",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Whenever you attach an Energy card from your hand to the Pokémon this card is attached to, heal 20 damage from it.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "84",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/84.png",
+      "large": "https://images.pokemontcg.io/xy6/84_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-84",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.06,
+          "mid": 0.22,
+          "high": 12,
+          "market": 0.22,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.43,
+          "high": 2.09,
+          "market": 0.41,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-84",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.38,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.55,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.06,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.4,
+        "reverseHoloAvg7": 0.35,
+        "reverseHoloAvg30": 0.47
+      }
+    }
+  },
+  {
+    "id": "xy6-85",
+    "name": "Latios Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Latios-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "85",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/85.png",
+      "large": "https://images.pokemontcg.io/xy6/85_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-85",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.16,
+          "high": 1.45,
+          "market": 0.09,
+          "directLow": 0.02
+        },
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.36,
+          "high": 1.51,
+          "market": 0.36,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-85",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.15,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.35,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 1.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.17,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 3,
+        "reverseHoloAvg7": 0.6,
+        "reverseHoloAvg30": 0.94
+      }
+    }
+  },
+  {
+    "id": "xy6-86",
+    "name": "Mega Turbo",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Attach a basic Energy card from your discard pile to 1 of your Mega Evolution Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "86",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/86.png",
+      "large": "https://images.pokemontcg.io/xy6/86_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-86",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.23,
+          "high": 1.79,
+          "market": 0.15,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.35,
+          "high": 5,
+          "market": 0.28,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-86",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.19,
+        "lowPrice": 0.02,
+        "trendPrice": 0.14,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.55,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.82,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.12,
+        "avg7": 0.18,
+        "avg30": 0.18,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.54,
+        "reverseHoloAvg30": 0.81
+      }
+    }
+  },
+  {
+    "id": "xy6-87",
+    "name": "Rayquaza Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Rayquaza-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "87",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/87.png",
+      "large": "https://images.pokemontcg.io/xy6/87_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-87",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.25,
+          "high": 2.26,
+          "market": 0.28,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.7,
+          "high": 3.99,
+          "market": 0.76,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-87",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.18,
+        "lowPrice": 0.02,
+        "trendPrice": 0.19,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.49,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 1.9,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.24,
+        "avg7": 0.19,
+        "avg30": 0.19,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 0.82,
+        "reverseHoloAvg30": 1.57
+      }
+    }
+  },
+  {
+    "id": "xy6-88",
+    "name": "Revive",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put a Basic Pokémon from your discard pile onto your Bench.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "88",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/88.png",
+      "large": "https://images.pokemontcg.io/xy6/88_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-88",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.21,
+          "high": 1.38,
+          "market": 0.21,
+          "directLow": 0.16
+        },
+        "reverseHolofoil": {
+          "low": 0.23,
+          "mid": 0.46,
+          "high": 1.48,
+          "market": 0.43,
+          "directLow": 0.31
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-88",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 1.36,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.35,
+        "reverseHoloAvg7": 1.22,
+        "reverseHoloAvg30": 0.83
+      }
+    }
+  },
+  {
+    "id": "xy6-89",
+    "name": "Sky Field",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Each player can have 8 Pokémon on his or her Bench.",
+      "(When this card leaves play, each player discards Benched Pokémon until he or she has 5 Pokémon on the Bench. The owner of this card discards first.)",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "89",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/89.png",
+      "large": "https://images.pokemontcg.io/xy6/89_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-89",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.27,
+          "mid": 0.65,
+          "high": 89,
+          "market": 0.64,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.94,
+          "mid": 1.7,
+          "high": 4.07,
+          "market": 1.83,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-89",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.33,
+        "lowPrice": 0.1,
+        "trendPrice": 1.61,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.5,
+        "reverseHoloLow": 0.49,
+        "reverseHoloTrend": 3.69,
+        "lowPriceExPlus": 0.2,
+        "avg1": 0.8,
+        "avg7": 1.99,
+        "avg30": 1.52,
+        "reverseHoloAvg1": 3,
+        "reverseHoloAvg7": 3.64,
+        "reverseHoloAvg30": 2.94
+      }
+    }
+  },
+  {
+    "id": "xy6-90",
+    "name": "Steven",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a Supporter card and a basic Energy card, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "90",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/90.png",
+      "large": "https://images.pokemontcg.io/xy6/90_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-90",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.33,
+          "high": 3.23,
+          "market": 0.32,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.18,
+          "mid": 0.5,
+          "high": 1.25,
+          "market": 0.61,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-90",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.05,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 1,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.4,
+        "avg7": 0.13,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 1.5,
+        "reverseHoloAvg7": 1.03,
+        "reverseHoloAvg30": 1.24
+      }
+    }
+  },
+  {
+    "id": "xy6-91",
+    "name": "Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "91",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/91.png",
+      "large": "https://images.pokemontcg.io/xy6/91_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-91",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 2.35,
+          "market": 0.12,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.16,
+          "mid": 0.5,
+          "high": 3.99,
+          "market": 0.64,
+          "directLow": 0.72
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-91",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.75,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 1.35,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.06,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.75,
+        "reverseHoloAvg7": 0.91,
+        "reverseHoloAvg30": 0.76
+      }
+    }
+  },
+  {
+    "id": "xy6-92",
+    "name": "Trainers' Mail",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 4 cards of your deck. You may reveal a Trainer card you find there (except Trainers' Mail) and put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "92",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/92.png",
+      "large": "https://images.pokemontcg.io/xy6/92_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-92",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.92,
+          "mid": 2.29,
+          "high": 89,
+          "market": 2.63,
+          "directLow": 1.42
+        },
+        "reverseHolofoil": {
+          "low": 1.69,
+          "mid": 2.5,
+          "high": 6.74,
+          "market": 2.61,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-92",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.75,
+        "lowPrice": 0.49,
+        "trendPrice": 2.75,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 3.85,
+        "reverseHoloLow": 0.9,
+        "reverseHoloTrend": 3.72,
+        "lowPriceExPlus": 0.9,
+        "avg1": 2.77,
+        "avg7": 2.8,
+        "avg30": 2.86,
+        "reverseHoloAvg1": 5.9,
+        "reverseHoloAvg7": 3.46,
+        "reverseHoloAvg30": 4.82
+      }
+    }
+  },
+  {
+    "id": "xy6-92a",
+    "name": "Trainers' Mail",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 4 cards of your deck. You may reveal a Trainer card you find there (except Trainers' Mail) and put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "92a",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/92a.png",
+      "large": "https://images.pokemontcg.io/xy6/92a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-92a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4,
+        "lowPrice": 2.5,
+        "trendPrice": 3.35,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.54,
+        "lowPriceExPlus": 2.5,
+        "avg1": 4.5,
+        "avg7": 4.23,
+        "avg30": 4.05,
+        "reverseHoloAvg1": 0.98,
+        "reverseHoloAvg7": 1.33,
+        "reverseHoloAvg30": 1.57
+      }
+    }
+  },
+  {
+    "id": "xy6-93",
+    "name": "Ultra Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "93",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/93.png",
+      "large": "https://images.pokemontcg.io/xy6/93_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-93",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1.53,
+          "market": 0.25,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.65,
+          "mid": 1.25,
+          "high": 4.37,
+          "market": 1.3,
+          "directLow": 1.06
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-93",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.33,
+        "lowPrice": 0.03,
+        "trendPrice": 0.35,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.6,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 1.82,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.25,
+        "avg7": 0.32,
+        "avg30": 0.31,
+        "reverseHoloAvg1": 1.2,
+        "reverseHoloAvg7": 2.26,
+        "reverseHoloAvg30": 1.75
+      }
+    }
+  },
+  {
+    "id": "xy6-94",
+    "name": "Wally",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a card that evolves from 1 of your Pokémon (excluding Pokémon-EX) and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward. You can use this card during your first turn or on a Pokémon that was put into play this turn.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "94",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/94.png",
+      "large": "https://images.pokemontcg.io/xy6/94_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-94",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.25,
+          "high": 1.52,
+          "market": 0.19,
+          "directLow": 0.16
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.4,
+          "high": 1.99,
+          "market": 0.39,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-94",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 0.83,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.16,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.95,
+        "reverseHoloAvg7": 0.91,
+        "reverseHoloAvg30": 0.83
+      }
+    }
+  },
+  {
+    "id": "xy6-95",
+    "name": "Wide Lens",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Damage from the attacks of the Pokémon this card is attached to is affected by Weakness and Resistance for your opponent's Benched Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "95",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/95.png",
+      "large": "https://images.pokemontcg.io/xy6/95_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-95",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.5,
+          "market": 0.12,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.35,
+          "high": 1.46,
+          "market": 0.34,
+          "directLow": 0.34
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-95",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.09,
+        "reverseHoloTrend": 0.64,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.12,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.66,
+        "reverseHoloAvg30": 0.55
+      }
+    }
+  },
+  {
+    "id": "xy6-96",
+    "name": "Winona",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Colorless Pokémon and put them into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "96",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/96.png",
+      "large": "https://images.pokemontcg.io/xy6/96_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-96",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.14,
+          "mid": 0.35,
+          "high": 2.99,
+          "market": 0.22,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.42,
+          "high": 4.99,
+          "market": 0.38,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-96",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.41,
+        "lowPrice": 0.02,
+        "trendPrice": 0.5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 1.78,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.55,
+        "avg7": 0.42,
+        "avg30": 0.4,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 1.53,
+        "reverseHoloAvg30": 1.29
+      }
+    }
+  },
+  {
+    "id": "xy6-107",
+    "name": "Wally",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a card that evolves from 1 of your Pokémon (excluding Pokémon-EX) and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward. You can use this card during your first turn or on a Pokémon that was put into play this turn.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "107",
+    "artist": "Emi Ando",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/107.png",
+      "large": "https://images.pokemontcg.io/xy6/107_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-107",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 11.23,
+          "mid": 14.94,
+          "high": 39.99,
+          "market": 13.42,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-107",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 28.85,
+        "lowPrice": 4,
+        "trendPrice": 20.78,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 10.97,
+        "lowPriceExPlus": 9.89,
+        "avg1": 11.5,
+        "avg7": 21.84,
+        "avg30": 15.76,
+        "reverseHoloAvg1": 6,
+        "reverseHoloAvg7": 9.81,
+        "reverseHoloAvg30": 7.63
+      }
+    }
+  },
+  {
+    "id": "xy6-108",
+    "name": "Winona",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Colorless Pokémon and put them into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "108",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/108.png",
+      "large": "https://images.pokemontcg.io/xy6/108_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-108",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 21.5,
+          "mid": 35,
+          "high": 59.83,
+          "market": 37.97,
+          "directLow": 29.74
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-108",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 23.75,
+        "lowPrice": 8.95,
+        "trendPrice": 25.31,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 15.47,
+        "lowPriceExPlus": 14.4,
+        "avg1": 19.99,
+        "avg7": 23.89,
+        "avg30": 26.07,
+        "reverseHoloAvg1": 24.9,
+        "reverseHoloAvg7": 14.26,
+        "reverseHoloAvg30": 9.7
+      }
+    }
+  },
+  {
+    "id": "xy6-109",
+    "name": "Energy Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "109",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/109.png",
+      "large": "https://images.pokemontcg.io/xy6/109_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-109",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 19,
+          "mid": 23.16,
+          "high": 49.99,
+          "market": 23.32,
+          "directLow": 19.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-109",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 18.39,
+        "lowPrice": 5,
+        "trendPrice": 16.31,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 8.63,
+        "lowPriceExPlus": 18,
+        "avg1": 30,
+        "avg7": 16.41,
+        "avg30": 17.53,
+        "reverseHoloAvg1": 15,
+        "reverseHoloAvg7": 8.81,
+        "reverseHoloAvg30": 6.94
+      }
+    }
+  },
+  {
+    "id": "xy6-110",
+    "name": "VS Seeker",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put a Supporter card from your discard pile into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "110",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/110.png",
+      "large": "https://images.pokemontcg.io/xy6/110_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-110",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 14.47,
+          "mid": 23.51,
+          "high": 35.99,
+          "market": 16.47,
+          "directLow": 18.24
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-110",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0,
+        "lowPrice": 8,
+        "trendPrice": 0.5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 20,
+        "avg1": 0.5,
+        "avg7": 0.63,
+        "avg30": 0.63,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 1,
+        "reverseHoloAvg30": 1
+      }
+    }
+  }
+]

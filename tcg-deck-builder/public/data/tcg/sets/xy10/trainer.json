@@ -1,0 +1,2191 @@
+[
+  {
+    "id": "xy10-90",
+    "name": "Alakazam Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Alakazam-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "90",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/90.png",
+      "large": "https://images.pokemontcg.io/xy10/90_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-90",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.16,
+          "mid": 0.39,
+          "high": 5,
+          "market": 0.38,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-90",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.16,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.6,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.72,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.38,
+        "avg7": 0.18,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.59,
+        "reverseHoloAvg30": 0.84
+      }
+    }
+  },
+  {
+    "id": "xy10-91",
+    "name": "Altaria Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Altaria-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "91",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/91.png",
+      "large": "https://images.pokemontcg.io/xy10/91_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-91",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.16,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.4,
+          "high": 4.95,
+          "market": 0.34,
+          "directLow": 0.3
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-91",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.83,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.73,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.12,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.75,
+        "reverseHoloAvg7": 0.77,
+        "reverseHoloAvg30": 0.66
+      }
+    }
+  },
+  {
+    "id": "xy10-92",
+    "name": "Audino Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Audino-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "92",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/92.png",
+      "large": "https://images.pokemontcg.io/xy10/92_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-92",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.12,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.33,
+          "high": 4.95,
+          "market": 0.29,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-92",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0,
+        "lowPrice": 0.75,
+        "trendPrice": 0,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2,
+        "avg1": 0,
+        "avg7": 0,
+        "avg30": 0,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "xy10-93",
+    "name": "Bent Spoon",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Prevent all effects of your opponent's attacks, except damage, done to the Pokémon this card is attached to. (Existing effects are not removed.)",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "93",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/93.png",
+      "large": "https://images.pokemontcg.io/xy10/93_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-93",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.04,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.14,
+          "directLow": 0.14
+        },
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.3,
+          "high": 4.95,
+          "market": 0.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-93",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.31,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.46,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.14,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.19,
+        "reverseHoloAvg7": 0.64,
+        "reverseHoloAvg30": 0.55
+      }
+    }
+  },
+  {
+    "id": "xy10-94",
+    "name": "Chaos Tower",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Choose which way this card faces before you play it. This ↓ player's Pokémon can't be Confused or Poisoned. (If those Pokémon are already Confused or Poisoned, remove those Special Conditions.)",
+      "Choose which way this card faces before you play it. This ↓ player's Pokémon can't be Asleep or Paralyzed. (If those Pokémon are already Asleep or Paralyzed, remove those Special Conditions.)",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "94",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/94.png",
+      "large": "https://images.pokemontcg.io/xy10/94_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-94",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 19.4,
+          "market": 0.21,
+          "directLow": 0.18
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.49,
+          "high": 4.44,
+          "market": 0.48,
+          "directLow": 0.33
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-94",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.58,
+        "lowPrice": 0.06,
+        "trendPrice": 0.64,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.5,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 1.17,
+        "lowPriceExPlus": 0.08,
+        "avg1": 0.3,
+        "avg7": 0.82,
+        "avg30": 0.39,
+        "reverseHoloAvg1": 1.5,
+        "reverseHoloAvg7": 1.49,
+        "reverseHoloAvg30": 1.31
+      }
+    }
+  },
+  {
+    "id": "xy10-95",
+    "name": "Devolution Spray",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Devolve 1 of your evolved Pokémon and put the highest Stage Evolution card on it into your hand. (That Pokémon can't evolve this turn.)",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "95",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/95.png",
+      "large": "https://images.pokemontcg.io/xy10/95_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-95",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.23,
+          "high": 1.57,
+          "market": 0.17,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.33,
+          "high": 1.61,
+          "market": 0.29,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-95",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.16,
+        "lowPrice": 0.02,
+        "trendPrice": 0.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.63,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.39,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.16,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.75,
+        "reverseHoloAvg7": 0.43,
+        "reverseHoloAvg30": 0.44
+      }
+    }
+  },
+  {
+    "id": "xy10-96",
+    "name": "Dome Fossil Kabuto",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the bottom 7 cards of your deck. You may reveal a Kabuto you find there and put it onto your Bench. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "96",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/96.png",
+      "large": "https://images.pokemontcg.io/xy10/96_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-96",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.19,
+          "high": 1.49,
+          "market": 0.11,
+          "directLow": 0.15
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.3,
+          "high": 1.58,
+          "market": 0.3,
+          "directLow": 0.39
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-96",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.16,
+        "lowPrice": 0.02,
+        "trendPrice": 0.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.39,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.5,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.14,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0.49,
+        "reverseHoloAvg7": 0.68,
+        "reverseHoloAvg30": 0.55
+      }
+    }
+  },
+  {
+    "id": "xy10-97",
+    "name": "Energy Pouch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If the Pokémon this card is attached to is Knocked Out by damage from an opponent's attack, put all basic Energy attached to that Pokémon into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "97",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/97.png",
+      "large": "https://images.pokemontcg.io/xy10/97_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-97",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.06,
+          "mid": 0.22,
+          "high": 3.99,
+          "market": 0.19,
+          "directLow": 0.27
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.4,
+          "high": 3.25,
+          "market": 0.38,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-97",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.39,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.42,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.28,
+        "avg7": 0.22,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0.81,
+        "reverseHoloAvg7": 0.34,
+        "reverseHoloAvg30": 0.54
+      }
+    }
+  },
+  {
+    "id": "xy10-98",
+    "name": "Energy Reset",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put as many Energy attached to your Pokémon as you like into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "98",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/98.png",
+      "large": "https://images.pokemontcg.io/xy10/98_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-98",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 1.51,
+          "market": 0.14,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.12,
+          "mid": 0.34,
+          "high": 2,
+          "market": 0.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-98",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.18,
+        "lowPrice": 0.02,
+        "trendPrice": 0.27,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.31,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.45,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.96,
+        "avg7": 0.14,
+        "avg30": 0.19,
+        "reverseHoloAvg1": 0.12,
+        "reverseHoloAvg7": 0.37,
+        "reverseHoloAvg30": 0.46
+      }
+    }
+  },
+  {
+    "id": "xy10-99",
+    "name": "Fairy Drop",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 50 damage from 1 of your Pokémon that has any Fairy Energy attached to it.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "99",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/99.png",
+      "large": "https://images.pokemontcg.io/xy10/99_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-99",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.04,
+          "mid": 0.23,
+          "high": 8.25,
+          "market": 0.2,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.12,
+          "mid": 0.4,
+          "high": 2.13,
+          "market": 0.4,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-99",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.5,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.65,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.28,
+        "avg7": 0.09,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.58
+      }
+    }
+  },
+  {
+    "id": "xy10-100",
+    "name": "Fairy Garden",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Each Pokémon that has any Fairy Energy attached to it (both yours and your opponent's) has no Retreat Cost.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "100",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/100.png",
+      "large": "https://images.pokemontcg.io/xy10/100_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-100",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 2.44,
+          "market": 0.11,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.49,
+          "high": 6.76,
+          "market": 0.45,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-100",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.47,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.09,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.34,
+        "reverseHoloAvg7": 0.42,
+        "reverseHoloAvg30": 0.57
+      }
+    }
+  },
+  {
+    "id": "xy10-101",
+    "name": "Fossil Excavation Kit",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put 2 in any combination of Helix Fossil Omanyte, Dome Fossil Kabuto, or Old Amber Aerodactyl cards from your discard pile into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "101",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/101.png",
+      "large": "https://images.pokemontcg.io/xy10/101_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-101",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.5,
+          "market": 0.13,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.08,
+          "mid": 0.31,
+          "high": 1.53,
+          "market": 0.35,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-101",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.26,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 1.72,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.07,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 6,
+        "reverseHoloAvg7": 1.57,
+        "reverseHoloAvg30": 1.1
+      }
+    }
+  },
+  {
+    "id": "xy10-102",
+    "name": "Helix Fossil Omanyte",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the bottom 7 cards of your deck. You may reveal an Omanyte you find there and put it onto your Bench. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "102",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/102.png",
+      "large": "https://images.pokemontcg.io/xy10/102_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-102",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.17,
+          "high": 17,
+          "market": 0.14,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.33,
+          "high": 2,
+          "market": 0.29,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-102",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.38,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.62,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.08,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.49,
+        "reverseHoloAvg7": 0.55,
+        "reverseHoloAvg30": 0.59
+      }
+    }
+  },
+  {
+    "id": "xy10-103",
+    "name": "Lass's Special",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw a card for each of your opponent's Benched Basic Pokémon.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "103",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/103.png",
+      "large": "https://images.pokemontcg.io/xy10/103_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-103",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.47,
+          "market": 0.12,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.32,
+          "high": 1.61,
+          "market": 0.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-103",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.2,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.43,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.55,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.16,
+        "avg30": 0.15,
+        "reverseHoloAvg1": 0.45,
+        "reverseHoloAvg7": 0.72,
+        "reverseHoloAvg30": 0.47
+      }
+    }
+  },
+  {
+    "id": "xy10-104",
+    "name": "Mega Catcher",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch 1 of your opponent's Benched Mega Evolution Pokémon with his or her Active Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "104",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/104.png",
+      "large": "https://images.pokemontcg.io/xy10/104_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-104",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 1.46,
+          "market": 0.1,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.32,
+          "high": 1.51,
+          "market": 0.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-104",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.38,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.44,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.2,
+        "avg7": 0.16,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.38,
+        "reverseHoloAvg7": 0.45,
+        "reverseHoloAvg30": 0.38
+      }
+    }
+  },
+  {
+    "id": "xy10-105",
+    "name": "N",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles his or her hand into his or her deck. Then, each player draws a card for each of his or her remaining Prize cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "105",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/105.png",
+      "large": "https://images.pokemontcg.io/xy10/105_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-105",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.5,
+          "mid": 1.31,
+          "high": 4.99,
+          "market": 1.32,
+          "directLow": 2.96
+        },
+        "reverseHolofoil": {
+          "low": 1.17,
+          "mid": 3.03,
+          "high": 14.99,
+          "market": 3.4,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-105",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0,
+        "lowPrice": 0,
+        "trendPrice": 0,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0,
+        "avg1": 0,
+        "avg7": 0,
+        "avg30": 0,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "xy10-105a",
+    "name": "N",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles his or her hand into his or her deck. Then, each player draws a card for each of his or her remaining Prize cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "105a",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/105a.png",
+      "large": "https://images.pokemontcg.io/xy10/105a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-105a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 148.26,
+        "lowPrice": 170,
+        "trendPrice": 154.51,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 19.11,
+        "lowPriceExPlus": 170,
+        "avg1": 160,
+        "avg7": 156.29,
+        "avg30": 108.72,
+        "reverseHoloAvg1": 35,
+        "reverseHoloAvg7": 21.79,
+        "reverseHoloAvg30": 16.72
+      }
+    }
+  },
+  {
+    "id": "xy10-106",
+    "name": "Old Amber Aerodactyl",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the bottom 7 cards of your deck. You may reveal an Aerodactyl you find there and put it onto your Bench. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "106",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/106.png",
+      "large": "https://images.pokemontcg.io/xy10/106_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-106",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 1.5,
+          "market": 0.1,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.32,
+          "high": 4.64,
+          "market": 0.27,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-106",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.45,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.91,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.3,
+        "avg7": 0.14,
+        "avg30": 0.18,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.47,
+        "reverseHoloAvg30": 0.84
+      }
+    }
+  },
+  {
+    "id": "xy10-107",
+    "name": "Pokémon Fan Club",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "107",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/107.png",
+      "large": "https://images.pokemontcg.io/xy10/107_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-107",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.17,
+          "high": 1.47,
+          "market": 0.09,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.35,
+          "high": 2,
+          "market": 0.31,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-107",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.48,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.67,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.18,
+        "avg7": 0.09,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.8,
+        "reverseHoloAvg30": 0.53
+      }
+    }
+  },
+  {
+    "id": "xy10-108",
+    "name": "Power Memory",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Zygarde-EX this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.)",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "attacks": [
+      {
+        "name": "All Cells Burn",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Discard 3 Energy attached to this Pokémon."
+      }
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "108",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/108.png",
+      "large": "https://images.pokemontcg.io/xy10/108_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-108",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.04,
+          "mid": 0.19,
+          "high": 2.46,
+          "market": 0.17,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.35,
+          "high": 30,
+          "market": 0.31,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-108",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.16,
+        "lowPrice": 0.02,
+        "trendPrice": 0.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.56,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.63,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.3,
+        "avg7": 0.16,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 0.9,
+        "reverseHoloAvg7": 0.38,
+        "reverseHoloAvg30": 0.58
+      }
+    }
+  },
+  {
+    "id": "xy10-109",
+    "name": "Random Receiver",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Reveal cards from the top of your deck until you reveal a Supporter card. Put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "109",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/109.png",
+      "large": "https://images.pokemontcg.io/xy10/109_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-109",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.27,
+          "high": 1.99,
+          "market": 0.26,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.6,
+          "high": 3.99,
+          "market": 0.61,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-109",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.35,
+        "lowPrice": 0.02,
+        "trendPrice": 0.32,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.62,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 1.21,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.59,
+        "avg7": 0.35,
+        "avg30": 0.34,
+        "reverseHoloAvg1": 0.75,
+        "reverseHoloAvg7": 0.91,
+        "reverseHoloAvg30": 1.05
+      }
+    }
+  },
+  {
+    "id": "xy10-110",
+    "name": "Scorched Earth",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, that player may discard a Fire or Fighting Energy card from his or her hand. If that player does so, he or she draws 2 cards.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "110",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/110.png",
+      "large": "https://images.pokemontcg.io/xy10/110_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-110",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.04,
+          "mid": 0.22,
+          "high": 1.99,
+          "market": 0.15,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.38,
+          "high": 2,
+          "market": 0.39,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-110",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.14,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.14,
+        "reverseHoloLow": 0.19,
+        "reverseHoloTrend": 1.32,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.28,
+        "avg7": 0.11,
+        "avg30": 0.19,
+        "reverseHoloAvg1": 0.74,
+        "reverseHoloAvg7": 1.27,
+        "reverseHoloAvg30": 0.99
+      }
+    }
+  },
+  {
+    "id": "xy10-111",
+    "name": "Shauna",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "111",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/111.png",
+      "large": "https://images.pokemontcg.io/xy10/111_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-111",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.15,
+          "high": 1.46,
+          "market": 0.06,
+          "directLow": 0.06
+        },
+        "reverseHolofoil": {
+          "low": 0.12,
+          "mid": 0.41,
+          "high": 1.61,
+          "market": 0.47,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-111",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.65,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.73,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.09,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.45,
+        "reverseHoloAvg7": 0.8,
+        "reverseHoloAvg30": 0.64
+      }
+    }
+  },
+  {
+    "id": "xy10-111a",
+    "name": "Shauna",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "111a",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/111a.png",
+      "large": "https://images.pokemontcg.io/xy10/111a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-111a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 49.36,
+        "lowPrice": 44.89,
+        "trendPrice": 48.41,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 27.91,
+        "lowPriceExPlus": 44.89,
+        "avg1": 40,
+        "avg7": 49.36,
+        "avg30": 53.19,
+        "reverseHoloAvg1": 30,
+        "reverseHoloAvg7": 31.58,
+        "reverseHoloAvg30": 16.27
+      }
+    }
+  },
+  {
+    "id": "xy10-112",
+    "name": "Team Rocket's Handiwork",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Flip 2 coins. For each heads, discard 2 cards from the top of your opponent's deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "112",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/112.png",
+      "large": "https://images.pokemontcg.io/xy10/112_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-112",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.15,
+          "mid": 0.34,
+          "high": 1.66,
+          "market": 0.33,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.3,
+          "mid": 0.6,
+          "high": 9,
+          "market": 0.64,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-112",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.52,
+        "lowPrice": 0.02,
+        "trendPrice": 0.5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.25,
+        "reverseHoloLow": 0.12,
+        "reverseHoloTrend": 0.88,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.49,
+        "avg7": 0.72,
+        "avg30": 0.4,
+        "reverseHoloAvg1": 1.25,
+        "reverseHoloAvg7": 0.99,
+        "reverseHoloAvg30": 0.85
+      }
+    }
+  },
+  {
+    "id": "xy10-113",
+    "name": "Ultra Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "113",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/113.png",
+      "large": "https://images.pokemontcg.io/xy10/113_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-113",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.06,
+          "mid": 0.25,
+          "high": 1.55,
+          "market": 0.18,
+          "directLow": 0.17
+        },
+        "reverseHolofoil": {
+          "low": 0.85,
+          "mid": 1.22,
+          "high": 3,
+          "market": 1.2,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-113",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.29,
+        "lowPrice": 0.02,
+        "trendPrice": 0.31,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.01,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 1.83,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.2,
+        "avg7": 0.3,
+        "avg30": 0.3,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 2.21,
+        "reverseHoloAvg30": 1.94
+      }
+    }
+  },
+  {
+    "id": "xy10-124",
+    "name": "Team Rocket's Handiwork",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Flip 2 coins. For each heads, discard 2 cards from the top of your opponent's deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "124",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/124.png",
+      "large": "https://images.pokemontcg.io/xy10/124_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-124",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 19.22,
+          "mid": 30,
+          "high": 59.99,
+          "market": 29.73,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy10-124",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 26.04,
+        "lowPrice": 5,
+        "trendPrice": 26.95,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 6.16,
+        "lowPriceExPlus": 15,
+        "avg1": 10,
+        "avg7": 21.79,
+        "avg30": 30.39,
+        "reverseHoloAvg1": 9.95,
+        "reverseHoloAvg7": 6.23,
+        "reverseHoloAvg30": 6.26
+      }
+    }
+  }
+]

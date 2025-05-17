@@ -1,0 +1,407 @@
+[
+  {
+    "id": "bw11-109",
+    "name": "Bianca",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 6 cards in your hand.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw11",
+      "name": "Legendary Treasures",
+      "series": "Black & White",
+      "printedTotal": 113,
+      "total": 140,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LTR",
+      "releaseDate": "2013/11/06",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw11/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw11/logo.png"
+      }
+    },
+    "number": "109",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw11/109.png",
+      "large": "https://images.pokemontcg.io/bw11/109_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw11-109",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.24,
+          "high": 4.95,
+          "market": 0.12,
+          "directLow": 0.16
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.5,
+          "high": 4.95,
+          "market": 0.6,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw11-109",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.15,
+        "lowPrice": 0.59,
+        "trendPrice": 1.41,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.94,
+        "lowPriceExPlus": 0.8,
+        "avg1": 1.5,
+        "avg7": 1.39,
+        "avg30": 1.15,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.93,
+        "reverseHoloAvg30": 0.84
+      }
+    }
+  },
+  {
+    "id": "bw11-110",
+    "name": "Cedric Juniper",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put a Pokémon from your hand face down in front of you and tell your opponent its name. Your opponent guesses the height of that Pokémon. Reveal that Pokémon. If your opponent guessed right, he or she draws 3 cards. If your opponent guessed wrong, you draw 3 cards. Return the Pokémon to your hand. (You can't choose a Pokémon that doesn't have the height printed on the card.)",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw11",
+      "name": "Legendary Treasures",
+      "series": "Black & White",
+      "printedTotal": 113,
+      "total": 140,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LTR",
+      "releaseDate": "2013/11/06",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw11/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw11/logo.png"
+      }
+    },
+    "number": "110",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw11/110.png",
+      "large": "https://images.pokemontcg.io/bw11/110_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw11-110",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1.55,
+          "market": 0.22,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.13,
+          "mid": 0.63,
+          "high": 2.99,
+          "market": 0.63,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw11-110",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.33,
+        "lowPrice": 0.09,
+        "trendPrice": 0.25,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 1.49,
+        "reverseHoloTrend": 1.8,
+        "lowPriceExPlus": 0.09,
+        "avg1": 0.39,
+        "avg7": 0.3,
+        "avg30": 0.24,
+        "reverseHoloAvg1": 2.99,
+        "reverseHoloAvg7": 1.31,
+        "reverseHoloAvg30": 0.8
+      }
+    }
+  },
+  {
+    "id": "bw11-111",
+    "name": "Crushing Hammer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw11",
+      "name": "Legendary Treasures",
+      "series": "Black & White",
+      "printedTotal": 113,
+      "total": 140,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LTR",
+      "releaseDate": "2013/11/06",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw11/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw11/logo.png"
+      }
+    },
+    "number": "111",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw11/111.png",
+      "large": "https://images.pokemontcg.io/bw11/111_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw11-111",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.09,
+          "mid": 0.5,
+          "high": 1.99,
+          "market": 0.56,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.4,
+          "mid": 0.75,
+          "high": 3.5,
+          "market": 1.17,
+          "directLow": 1.77
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw11-111",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.09,
+        "trendPrice": 0.46,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.5,
+        "reverseHoloTrend": 1.23,
+        "lowPriceExPlus": 0.09,
+        "avg1": 0.89,
+        "avg7": 0.5,
+        "avg30": 0.36,
+        "reverseHoloAvg1": 0.95,
+        "reverseHoloAvg7": 1.25,
+        "reverseHoloAvg30": 1.16
+      }
+    }
+  },
+  {
+    "id": "bw11-112",
+    "name": "Energy Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw11",
+      "name": "Legendary Treasures",
+      "series": "Black & White",
+      "printedTotal": 113,
+      "total": 140,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LTR",
+      "releaseDate": "2013/11/06",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw11/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw11/logo.png"
+      }
+    },
+    "number": "112",
+    "artist": "Kent Kanetsuna",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw11/112.png",
+      "large": "https://images.pokemontcg.io/bw11/112_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw11-112",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.15,
+          "mid": 0.33,
+          "high": 1.61,
+          "market": 0.41,
+          "directLow": 0.43
+        },
+        "reverseHolofoil": {
+          "low": 0.5,
+          "mid": 1.17,
+          "high": 2.66,
+          "market": 1.04,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw11-112",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.22,
+        "lowPrice": 0.05,
+        "trendPrice": 0.32,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.5,
+        "reverseHoloTrend": 2.66,
+        "lowPriceExPlus": 0.15,
+        "avg1": 0.3,
+        "avg7": 0.31,
+        "avg30": 0.34,
+        "reverseHoloAvg1": 3.48,
+        "reverseHoloAvg7": 3.05,
+        "reverseHoloAvg30": 1.21
+      }
+    }
+  },
+  {
+    "id": "bw11-RC20",
+    "name": "Elesa",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for 3 Pokémon Tool cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw11",
+      "name": "Legendary Treasures",
+      "series": "Black & White",
+      "printedTotal": 113,
+      "total": 140,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LTR",
+      "releaseDate": "2013/11/06",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw11/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw11/logo.png"
+      }
+    },
+    "number": "RC20",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw11/RC20.png",
+      "large": "https://images.pokemontcg.io/bw11/RC20_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw11-RC20",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.12,
+          "mid": 0.7,
+          "high": 4.49,
+          "market": 0.76,
+          "directLow": 0.77
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw11-RC20",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.58,
+        "lowPrice": 0.05,
+        "trendPrice": 0.59,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.99,
+        "reverseHoloTrend": 1.3,
+        "lowPriceExPlus": 0.25,
+        "avg1": 0.79,
+        "avg7": 0.63,
+        "avg30": 0.74,
+        "reverseHoloAvg1": 0.88,
+        "reverseHoloAvg7": 1.25,
+        "reverseHoloAvg30": 0.92
+      }
+    }
+  }
+]

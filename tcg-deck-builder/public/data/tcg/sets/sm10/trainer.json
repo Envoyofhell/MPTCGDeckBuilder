@@ -1,0 +1,3167 @@
+[
+  {
+    "id": "sm10-164",
+    "name": "Beast Bringer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If you have exactly 6 Prize cards remaining, and if your opponent's Active Pokémon-GX or Pokémon-EX is Knocked Out by damage from an attack of the Ultra Beast this card is attached to, take 1 more Prize card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "164",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/164.png",
+      "large": "https://images.pokemontcg.io/sm10/164_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-164",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.1,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.14,
+          "mid": 0.32,
+          "high": 5.32,
+          "market": 0.28,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-164",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.16,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.26,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.16,
+        "reverseHoloAvg7": 0.33,
+        "reverseHoloAvg30": 0.34
+      }
+    }
+  },
+  {
+    "id": "sm10-165",
+    "name": "Chip-Chip Ice Axe",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 3 cards of your opponent's deck and choose 1 of them. Your opponent shuffles the other cards back into their deck. Then, put the card you chose on top of their deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "165",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Banned"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/165.png",
+      "large": "https://images.pokemontcg.io/sm10/165_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-165",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.04,
+          "mid": 0.2,
+          "high": 1.5,
+          "market": 0.11,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.11,
+          "mid": 0.29,
+          "high": 2,
+          "market": 0.29,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-165",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.5,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.61,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.08,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.49,
+        "reverseHoloAvg7": 0.57,
+        "reverseHoloAvg30": 0.49
+      }
+    }
+  },
+  {
+    "id": "sm10-166",
+    "name": "Devolution Spray Z",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Devolve 1 of your evolved Pokémon by shuffling any number of Evolution cards on it into your deck. (That Pokémon can't evolve this turn.)",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "166",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/166.png",
+      "large": "https://images.pokemontcg.io/sm10/166_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-166",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 1.49,
+          "market": 0.14,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.38,
+          "high": 1.81,
+          "market": 0.31,
+          "directLow": 0.3
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-166",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.15,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.38,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.44,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.12,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.45,
+        "reverseHoloAvg30": 0.48
+      }
+    }
+  },
+  {
+    "id": "sm10-167",
+    "name": "Dusk Stone",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a Mismagius, Honchkrow, Chandelure, or Aegislash, including Pokémon-GX, that evolves from 1 of your Pokémon in play, and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can use this card during your first turn or on a Pokémon that was put into play this turn.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "167",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/167.png",
+      "large": "https://images.pokemontcg.io/sm10/167_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-167",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.08,
+          "mid": 0.25,
+          "high": 1.4,
+          "market": 0.13,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.5,
+          "high": 4,
+          "market": 0.4,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-167",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.26,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.45,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.1,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.36,
+        "reverseHoloAvg30": 0.53
+      }
+    }
+  },
+  {
+    "id": "sm10-168",
+    "name": "Dust Island",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Whenever either player switches their Poisoned Active Pokémon with 1 of their Benched Pokémon with the effect of a Trainer card, the new Active Pokémon is now affected by that Special Condition.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "168",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/168.png",
+      "large": "https://images.pokemontcg.io/sm10/168_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-168",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 1.46,
+          "market": 0.22,
+          "directLow": 0.17
+        },
+        "reverseHolofoil": {
+          "low": 0.11,
+          "mid": 0.45,
+          "high": 1.66,
+          "market": 0.38,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-168",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.19,
+        "lowPrice": 0.02,
+        "trendPrice": 0.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.38,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.54,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.18,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.38,
+        "reverseHoloAvg30": 0.45
+      }
+    }
+  },
+  {
+    "id": "sm10-169",
+    "name": "Electromagnetic Radar",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can play this card only if you discard 2 other cards from your hand.",
+      "Search your deck for up to 2 in any combination of Lightning Pokémon-GX and Lightning Pokémon-EX, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "169",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/169.png",
+      "large": "https://images.pokemontcg.io/sm10/169_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-169",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.4,
+          "market": 0.13,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.36,
+          "high": 1.24,
+          "market": 0.33,
+          "directLow": 0.33
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-169",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0,
+        "lowPrice": 0.2,
+        "trendPrice": 0,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.2,
+        "avg1": 0,
+        "avg7": 0,
+        "avg30": 0,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sm10-170",
+    "name": "Energy Spinner",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a basic Energy card, reveal it, and put it into your hand. If you go second and it's your first turn, search for up to 3 basic Energy cards instead of 1. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "170",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/170.png",
+      "large": "https://images.pokemontcg.io/sm10/170_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-170",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.3,
+          "mid": 0.53,
+          "high": 1.99,
+          "market": 0.52,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.04,
+          "mid": 0.2,
+          "high": 1.49,
+          "market": 0.12,
+          "directLow": 0.2
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-170",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.67,
+        "reverseHoloLow": 0.19,
+        "reverseHoloTrend": 0.74,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.2,
+        "avg7": 0.07,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.7,
+        "reverseHoloAvg7": 0.5,
+        "reverseHoloAvg30": 0.58
+      }
+    }
+  },
+  {
+    "id": "sm10-171",
+    "name": "Fairy Charm Ability",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Prevent all damage done to the Fairy Pokémon this card is attached to by attacks from your opponent's Pokémon-GX and Pokémon-EX that have Abilities.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "171",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/171.png",
+      "large": "https://images.pokemontcg.io/sm10/171_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-171",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.04,
+          "mid": 0.2,
+          "high": 1.34,
+          "market": 0.13,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.35,
+          "high": 1.35,
+          "market": 0.29,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-171",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 0.42,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.07,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.67,
+        "reverseHoloAvg7": 0.46,
+        "reverseHoloAvg30": 0.38
+      }
+    }
+  },
+  {
+    "id": "sm10-172",
+    "name": "Fairy Charm Lightning",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Prevent all damage done to the Fairy Pokémon this card is attached to by attacks from your opponent's Lightning Pokémon-GX and Lightning Pokémon-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "172",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/172.png",
+      "large": "https://images.pokemontcg.io/sm10/172_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.11,
+          "mid": 0.3,
+          "high": 2,
+          "market": 0.28,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 1.34,
+          "market": 0.13,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.37,
+        "reverseHoloLow": 0.06,
+        "reverseHoloTrend": 0.28,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.08,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.21,
+        "reverseHoloAvg30": 0.31
+      }
+    }
+  },
+  {
+    "id": "sm10-173",
+    "name": "Fire Crystal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put 3 Fire Energy cards from your discard pile into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "173",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/173.png",
+      "large": "https://images.pokemontcg.io/sm10/173_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-173",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.09,
+          "mid": 0.29,
+          "high": 2.16,
+          "market": 0.25,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.5,
+          "mid": 1,
+          "high": 3.99,
+          "market": 1.74,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-173",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.32,
+        "lowPrice": 0.02,
+        "trendPrice": 0.3,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.6,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 1.35,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.22,
+        "avg30": 0.27,
+        "reverseHoloAvg1": 1.6,
+        "reverseHoloAvg7": 1.43,
+        "reverseHoloAvg30": 1.05
+      }
+    }
+  },
+  {
+    "id": "sm10-174",
+    "name": "Giovanni's Exile",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard up to 2 of your Benched Pokémon that have no damage counters on them and all cards attached to them.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "174",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/174.png",
+      "large": "https://images.pokemontcg.io/sm10/174_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-174",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.2,
+          "high": 1.34,
+          "market": 0.12,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.13,
+          "mid": 0.35,
+          "high": 1.27,
+          "market": 0.35,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-174",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.15,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.34,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.54,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.14,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0.34,
+        "reverseHoloAvg7": 0.49,
+        "reverseHoloAvg30": 0.46
+      }
+    }
+  },
+  {
+    "id": "sm10-175",
+    "name": "Green's Exploration",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if you have no Pokémon with Abilities in play.",
+      "Search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "175",
+    "artist": "Naoki Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/175.png",
+      "large": "https://images.pokemontcg.io/sm10/175_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-175",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.7,
+          "mid": 1.14,
+          "high": 5,
+          "market": 0.99,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.1,
+          "mid": 0.27,
+          "high": 3,
+          "market": 0.27,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-175",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.24,
+        "lowPrice": 0.02,
+        "trendPrice": 0.23,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.45,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 1.4,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.4,
+        "avg7": 0.21,
+        "avg30": 0.22,
+        "reverseHoloAvg1": 1.95,
+        "reverseHoloAvg7": 1.15,
+        "reverseHoloAvg30": 1.36
+      }
+    }
+  },
+  {
+    "id": "sm10-176",
+    "name": "Janine",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "176",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/176.png",
+      "large": "https://images.pokemontcg.io/sm10/176_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-176",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.33,
+          "high": 0.99,
+          "market": 0.31,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 1.5,
+          "market": 0.13,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-176",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.4,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.73,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.09,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.4,
+        "reverseHoloAvg7": 0.5,
+        "reverseHoloAvg30": 0.52
+      }
+    }
+  },
+  {
+    "id": "sm10-177",
+    "name": "Koga's Trap",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent's Active Pokémon is now Confused and Poisoned.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "177",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/177.png",
+      "large": "https://images.pokemontcg.io/sm10/177_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-177",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.04,
+          "mid": 0.2,
+          "high": 1.4,
+          "market": 0.17,
+          "directLow": 0.15
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.36,
+          "high": 1.34,
+          "market": 0.36,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-177",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.16,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.2,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.41,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.2,
+        "avg7": 0.11,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.34,
+        "reverseHoloAvg30": 0.53
+      }
+    }
+  },
+  {
+    "id": "sm10-178",
+    "name": "Lt. Surge's Strategy",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if you have more Prize cards remaining than your opponent.",
+      "During this turn, you can play 3 Supporter cards (including this card).",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "178",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Banned"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/178.png",
+      "large": "https://images.pokemontcg.io/sm10/178_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-178",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1.5,
+          "market": 0.18,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.29,
+          "mid": 0.5,
+          "high": 1.49,
+          "market": 0.5,
+          "directLow": 0.62
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-178",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.49,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.56,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.17,
+        "avg7": 0.12,
+        "avg30": 0.15,
+        "reverseHoloAvg1": 0.49,
+        "reverseHoloAvg7": 0.49,
+        "reverseHoloAvg30": 0.54
+      }
+    }
+  },
+  {
+    "id": "sm10-179",
+    "name": "Martial Arts Dojo",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "The attacks of non-Ultra Beast Pokémon that have any basic Fighting Energy attached to them (both yours and your opponent's) do 10 more damage to the opponent's Active Pokémon (before applying Weakness and Resistance). If the attacking player has more Prize cards remaining than their opponent, those attacks do 40 more damage instead.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "179",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/179.png",
+      "large": "https://images.pokemontcg.io/sm10/179_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-179",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.13,
+          "mid": 0.25,
+          "high": 1.99,
+          "market": 0.21,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.34,
+          "mid": 0.69,
+          "high": 1.11,
+          "market": 0.7,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-179",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.21,
+        "lowPrice": 0.02,
+        "trendPrice": 0.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.99,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 0.94,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.5,
+        "avg7": 0.25,
+        "avg30": 0.23,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 0.91,
+        "reverseHoloAvg30": 0.77
+      }
+    }
+  },
+  {
+    "id": "sm10-180",
+    "name": "Metal Core Barrier",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn.",
+      "The Metal Pokémon this card is attached to takes 70 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "180",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/180.png",
+      "large": "https://images.pokemontcg.io/sm10/180_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-180",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 1.4,
+          "market": 0.15,
+          "directLow": 0.18
+        },
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.44,
+          "high": 2.05,
+          "market": 0.4,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-180",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.15,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.33,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.38,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.1,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.33,
+        "reverseHoloAvg30": 0.42
+      }
+    }
+  },
+  {
+    "id": "sm10-181",
+    "name": "Molayne",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if you discard 2 Metal Energy cards from your hand.",
+      "Shuffle a Trainer card from your discard pile into your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "181",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/181.png",
+      "large": "https://images.pokemontcg.io/sm10/181_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-181",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.35,
+          "high": 1.55,
+          "market": 0.24,
+          "directLow": 0.35
+        },
+        "normal": {
+          "low": 0.02,
+          "mid": 0.2,
+          "high": 1.35,
+          "market": 0.08,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-181",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.37,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.58,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.08,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.48,
+        "reverseHoloAvg30": 0.42
+      }
+    }
+  },
+  {
+    "id": "sm10-182",
+    "name": "Pokégear 3.0",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "182",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/182.png",
+      "large": "https://images.pokemontcg.io/sm10/182_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-182",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 3,
+          "mid": 5.99,
+          "high": 14.99,
+          "market": 4.13,
+          "directLow": null
+        },
+        "normal": {
+          "low": 1.08,
+          "mid": 1.71,
+          "high": 4.19,
+          "market": 1.87,
+          "directLow": 1.72
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-182",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.85,
+        "lowPrice": 0.02,
+        "trendPrice": 2.32,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 3.72,
+        "reverseHoloLow": 0.5,
+        "reverseHoloTrend": 3.38,
+        "lowPriceExPlus": 0.5,
+        "avg1": 1.6,
+        "avg7": 3.06,
+        "avg30": 2.27,
+        "reverseHoloAvg1": 1.2,
+        "reverseHoloAvg7": 2.25,
+        "reverseHoloAvg30": 2.42
+      }
+    }
+  },
+  {
+    "id": "sm10-182a",
+    "name": "Pokégear 3.0",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "182a",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/182a.png",
+      "large": "https://images.pokemontcg.io/sm10/182a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-182a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 12.49,
+        "lowPrice": 10,
+        "trendPrice": 12.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 3.06,
+        "lowPriceExPlus": 10,
+        "avg1": 13.99,
+        "avg7": 14.65,
+        "avg30": 12.35,
+        "reverseHoloAvg1": 1.49,
+        "reverseHoloAvg7": 3.72,
+        "reverseHoloAvg30": 3.16
+      }
+    }
+  },
+  {
+    "id": "sm10-182b",
+    "name": "Pokégear 3.0",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "182b",
+    "artist": "OOYAMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/182b.png",
+      "large": "https://images.pokemontcg.io/sm10/182b_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-182b",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4,
+        "lowPrice": 0.25,
+        "trendPrice": 3.23,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.25,
+        "avg1": 3.29,
+        "avg7": 3.4,
+        "avg30": 3.25,
+        "reverseHoloAvg1": 0.12,
+        "reverseHoloAvg7": 0.19,
+        "reverseHoloAvg30": 0.19
+      }
+    }
+  },
+  {
+    "id": "sm10-183",
+    "name": "Power Plant",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Pokémon-GX and Pokémon-EX in play (both yours and your opponent's) have no Abilities.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "183",
+    "artist": "aky CG Works",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/183.png",
+      "large": "https://images.pokemontcg.io/sm10/183_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-183",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.14,
+          "mid": 0.4,
+          "high": 2.43,
+          "market": 0.35,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 2,
+          "market": 0.14,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-183",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.09,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.4,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.25,
+        "avg7": 0.12,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.09,
+        "reverseHoloAvg7": 0.82,
+        "reverseHoloAvg30": 0.85
+      }
+    }
+  },
+  {
+    "id": "sm10-184",
+    "name": "Red's Challenge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if you discard 2 other cards from your hand.",
+      "Search your deck for a card and put it into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "184",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/184.png",
+      "large": "https://images.pokemontcg.io/sm10/184_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-184",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.12,
+          "mid": 0.46,
+          "high": 3,
+          "market": 0.41,
+          "directLow": 0.43
+        },
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.51,
+          "high": 2.5,
+          "market": 0.53,
+          "directLow": 0.79
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-184",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.77,
+        "lowPrice": 0.09,
+        "trendPrice": 0.73,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.61,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 0.79,
+        "lowPriceExPlus": 0.09,
+        "avg1": 0.63,
+        "avg7": 0.66,
+        "avg30": 0.66,
+        "reverseHoloAvg1": 0.95,
+        "reverseHoloAvg7": 0.64,
+        "reverseHoloAvg30": 0.95
+      }
+    }
+  },
+  {
+    "id": "sm10-185",
+    "name": "Samson Oak",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If both Active Pokémon are the same type, draw 2 more cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "185",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/185.png",
+      "large": "https://images.pokemontcg.io/sm10/185_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-185",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.3,
+          "high": 2,
+          "market": 0.28,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.5,
+          "market": 0.1,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-185",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.25,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.35,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.11,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.32,
+        "reverseHoloAvg30": 0.32
+      }
+    }
+  },
+  {
+    "id": "sm10-186",
+    "name": "Stealthy Hood",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Prevent all effects of your opponent's Abilities done to the Pokémon this card is attached to. Remove any such existing effects.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "186",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/186.png",
+      "large": "https://images.pokemontcg.io/sm10/186_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-186",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.46,
+          "high": 1.37,
+          "market": 0.46,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1.53,
+          "market": 0.14,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-186",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.21,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.56,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.52,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.14,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0.6,
+        "reverseHoloAvg7": 0.48,
+        "reverseHoloAvg30": 0.52
+      }
+    }
+  },
+  {
+    "id": "sm10-187",
+    "name": "Surprise Box",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put a card from your opponent's discard pile into their hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "187",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/187.png",
+      "large": "https://images.pokemontcg.io/sm10/187_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-187",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.21,
+          "high": 1.47,
+          "market": 0.21,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.33,
+          "high": 1.99,
+          "market": 0.34,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-187",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.15,
+        "lowPrice": 0.02,
+        "trendPrice": 0.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.45,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.36,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.15,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.49,
+        "reverseHoloAvg7": 0.46,
+        "reverseHoloAvg30": 0.4
+      }
+    }
+  },
+  {
+    "id": "sm10-188",
+    "name": "Ultra Forest Kartenvoy",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "During this turn, damage from your Ultra Beasts' attacks isn't affected by any effects on your opponent's Active Pokémon.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "188",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/188.png",
+      "large": "https://images.pokemontcg.io/sm10/188_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-188",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.29,
+          "high": 1.5,
+          "market": 0.22,
+          "directLow": 0.2
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 1.32,
+          "market": 0.08,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-188",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.1,
+        "reverseHoloLow": 0.08,
+        "reverseHoloTrend": 0.36,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.26,
+        "reverseHoloAvg30": 0.31
+      }
+    }
+  },
+  {
+    "id": "sm10-189",
+    "name": "Welder",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Attach up to 2 Fire Energy cards from your hand to 1 of your Pokémon. If you do, draw 3 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "189",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/189.png",
+      "large": "https://images.pokemontcg.io/sm10/189_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-189",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.15,
+          "mid": 0.46,
+          "high": 2.99,
+          "market": 0.37,
+          "directLow": 0.4
+        },
+        "reverseHolofoil": {
+          "low": 0.3,
+          "mid": 0.64,
+          "high": 5,
+          "market": 0.76,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-189",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0,
+        "lowPrice": 0.5,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 1,
+        "avg1": 0.1,
+        "avg7": 0.1,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sm10-189a",
+    "name": "Welder",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Attach up to 2 Fire Energy cards from your hand to 1 of your Pokémon. If you do, draw 3 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "189a",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/189a.png",
+      "large": "https://images.pokemontcg.io/sm10/189a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-189a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0,
+        "lowPrice": 5,
+        "trendPrice": 12.31,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 7.46,
+        "lowPriceExPlus": 5,
+        "avg1": 24.99,
+        "avg7": 13.5,
+        "avg30": 10.31,
+        "reverseHoloAvg1": 5.99,
+        "reverseHoloAvg7": 6.24,
+        "reverseHoloAvg30": 7.58
+      }
+    }
+  },
+  {
+    "id": "sm10-209",
+    "name": "Green's Exploration",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if you have no Pokémon with Abilities in play.",
+      "Search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "209",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/209.png",
+      "large": "https://images.pokemontcg.io/sm10/209_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-209",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 86.89,
+          "mid": 115.76,
+          "high": 199.95,
+          "market": 111.04,
+          "directLow": 86.89
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-209",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 50.55,
+        "lowPrice": 24.99,
+        "trendPrice": 56.29,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 56.31,
+        "lowPriceExPlus": 58.99,
+        "avg1": 70,
+        "avg7": 51.32,
+        "avg30": 68.47,
+        "reverseHoloAvg1": 69.5,
+        "reverseHoloAvg7": 47.79,
+        "reverseHoloAvg30": 34.59
+      }
+    }
+  },
+  {
+    "id": "sm10-210",
+    "name": "Janine",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "210",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/210.png",
+      "large": "https://images.pokemontcg.io/sm10/210_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-210",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 14.63,
+          "mid": 15.99,
+          "high": 48.99,
+          "market": 14.63,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-210",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 16.81,
+        "lowPrice": 8.95,
+        "trendPrice": 16.64,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 11.2,
+        "lowPriceExPlus": 10,
+        "avg1": 19.9,
+        "avg7": 18.68,
+        "avg30": 16.28,
+        "reverseHoloAvg1": 9.98,
+        "reverseHoloAvg7": 10.41,
+        "reverseHoloAvg30": 10.05
+      }
+    }
+  },
+  {
+    "id": "sm10-211",
+    "name": "Koga's Trap",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent's Active Pokémon is now Confused and Poisoned.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "211",
+    "artist": "TOKIYA",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/211.png",
+      "large": "https://images.pokemontcg.io/sm10/211_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-211",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 13.55,
+          "mid": 19,
+          "high": 28.64,
+          "market": 17.8,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-211",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 16.51,
+        "lowPrice": 3.99,
+        "trendPrice": 17.84,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 12.73,
+        "lowPriceExPlus": 8,
+        "avg1": 20,
+        "avg7": 16.79,
+        "avg30": 15.28,
+        "reverseHoloAvg1": 10,
+        "reverseHoloAvg7": 12.56,
+        "reverseHoloAvg30": 11.44
+      }
+    }
+  },
+  {
+    "id": "sm10-212",
+    "name": "Molayne",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if you discard 2 Metal Energy cards from your hand.",
+      "Shuffle a Trainer card from your discard pile into your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "212",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/212.png",
+      "large": "https://images.pokemontcg.io/sm10/212_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-212",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4,
+          "mid": 5.61,
+          "high": 43,
+          "market": 5.06,
+          "directLow": 7.41
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-212",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 7.29,
+        "lowPrice": 3,
+        "trendPrice": 7.96,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 5.36,
+        "lowPriceExPlus": 4.38,
+        "avg1": 5.35,
+        "avg7": 6.71,
+        "avg30": 6.91,
+        "reverseHoloAvg1": 9,
+        "reverseHoloAvg7": 5.62,
+        "reverseHoloAvg30": 4.88
+      }
+    }
+  },
+  {
+    "id": "sm10-213",
+    "name": "Red's Challenge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if you discard 2 other cards from your hand.",
+      "Search your deck for a card and put it into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "213",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/213.png",
+      "large": "https://images.pokemontcg.io/sm10/213_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-213",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 104.99,
+          "mid": 138.37,
+          "high": 199.69,
+          "market": 110.36,
+          "directLow": 114.59
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-213",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 65.3,
+        "lowPrice": 14.95,
+        "trendPrice": 71.92,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 43.86,
+        "lowPriceExPlus": 59.98,
+        "avg1": 68,
+        "avg7": 60.56,
+        "avg30": 62.25,
+        "reverseHoloAvg1": 25,
+        "reverseHoloAvg7": 40.22,
+        "reverseHoloAvg30": 34.45
+      }
+    }
+  },
+  {
+    "id": "sm10-214",
+    "name": "Welder",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Attach up to 2 Fire Energy cards from your hand to 1 of your Pokémon. If you do, draw 3 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "214",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/214.png",
+      "large": "https://images.pokemontcg.io/sm10/214_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-214",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 40.95,
+          "mid": 61.04,
+          "high": 100,
+          "market": 49.49,
+          "directLow": 60.43
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-214",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 23.75,
+        "lowPrice": 7.89,
+        "trendPrice": 29.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 32.46,
+        "lowPriceExPlus": 13.98,
+        "avg1": 40,
+        "avg7": 27.12,
+        "avg30": 25.02,
+        "reverseHoloAvg1": 28.99,
+        "reverseHoloAvg7": 31.14,
+        "reverseHoloAvg30": 26.89
+      }
+    }
+  },
+  {
+    "id": "sm10-229",
+    "name": "Beast Bringer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If you have exactly 6 Prize cards remaining, and if your opponent's Active Pokémon-GX or Pokémon-EX is Knocked Out by damage from an attack of the Ultra Beast this card is attached to, take 1 more Prize card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "229",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/229.png",
+      "large": "https://images.pokemontcg.io/sm10/229_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-229",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.75,
+          "mid": 3.25,
+          "high": 20,
+          "market": 3.02,
+          "directLow": 7.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-229",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.3,
+        "lowPrice": 1,
+        "trendPrice": 4.45,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 4.83,
+        "lowPriceExPlus": 3.7,
+        "avg1": 4.94,
+        "avg7": 4.14,
+        "avg30": 4.77,
+        "reverseHoloAvg1": 7,
+        "reverseHoloAvg7": 4.86,
+        "reverseHoloAvg30": 4.47
+      }
+    }
+  },
+  {
+    "id": "sm10-230",
+    "name": "Electromagnetic Radar",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can play this card only if you discard 2 other cards from your hand.",
+      "Search your deck for up to 2 in any combination of Lightning Pokémon-GX and Lightning Pokémon-EX, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "230",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/230.png",
+      "large": "https://images.pokemontcg.io/sm10/230_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-230",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.68,
+          "mid": 3.69,
+          "high": 89,
+          "market": 3,
+          "directLow": 3.68
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-230",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.68,
+        "lowPrice": 2,
+        "trendPrice": 4.37,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 7.92,
+        "lowPriceExPlus": 3.34,
+        "avg1": 4.6,
+        "avg7": 4.59,
+        "avg30": 4.81,
+        "reverseHoloAvg1": 6.99,
+        "reverseHoloAvg7": 7.5,
+        "reverseHoloAvg30": 6.29
+      }
+    }
+  },
+  {
+    "id": "sm10-231",
+    "name": "Fire Crystal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put 3 Fire Energy cards from your discard pile into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "231",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/231.png",
+      "large": "https://images.pokemontcg.io/sm10/231_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-231",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 6.43,
+          "mid": 8.27,
+          "high": 29.99,
+          "market": 8.21,
+          "directLow": 29.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-231",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.32,
+        "lowPrice": 3.9,
+        "trendPrice": 8.5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 11.97,
+        "lowPriceExPlus": 4.5,
+        "avg1": 9.99,
+        "avg7": 6.75,
+        "avg30": 8.22,
+        "reverseHoloAvg1": 11.99,
+        "reverseHoloAvg7": 10.77,
+        "reverseHoloAvg30": 10.05
+      }
+    }
+  },
+  {
+    "id": "sm10-232",
+    "name": "Metal Core Barrier",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn.",
+      "The Metal Pokémon this card is attached to takes 70 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "232",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/232.png",
+      "large": "https://images.pokemontcg.io/sm10/232_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-232",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.91,
+          "mid": 3.36,
+          "high": 9.99,
+          "market": 3.36,
+          "directLow": 7.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-232",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.97,
+        "lowPrice": 3.45,
+        "trendPrice": 5.22,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 5.35,
+        "lowPriceExPlus": 4,
+        "avg1": 4.5,
+        "avg7": 5.04,
+        "avg30": 5.48,
+        "reverseHoloAvg1": 5,
+        "reverseHoloAvg7": 5.14,
+        "reverseHoloAvg30": 4.9
+      }
+    }
+  },
+  {
+    "id": "sm10-233",
+    "name": "Pokégear 3.0",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "series": "Sun & Moon",
+      "printedTotal": 214,
+      "total": 234,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "UNB",
+      "releaseDate": "2019/05/03",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm10/logo.png"
+      }
+    },
+    "number": "233",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm10/233.png",
+      "large": "https://images.pokemontcg.io/sm10/233_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm10-233",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 61.19,
+          "mid": 76.99,
+          "high": 87.99,
+          "market": 62.85,
+          "directLow": 76.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm10-233",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 41.04,
+        "lowPrice": 25,
+        "trendPrice": 41.55,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 10.54,
+        "lowPriceExPlus": 32,
+        "avg1": 52.99,
+        "avg7": 43.64,
+        "avg30": 45.03,
+        "reverseHoloAvg1": 8.83,
+        "reverseHoloAvg7": 10.48,
+        "reverseHoloAvg30": 9.3
+      }
+    }
+  }
+]

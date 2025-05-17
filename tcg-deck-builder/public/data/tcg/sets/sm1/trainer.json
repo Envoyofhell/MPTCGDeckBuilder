@@ -1,0 +1,2421 @@
+[
+  {
+    "id": "sm1-114",
+    "name": "Big Malasada",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 20 damage and remove a Special Condition from your Active Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "114",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/114.png",
+      "large": "https://images.pokemontcg.io/sm1/114_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-114",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": 0.06
+        },
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.21,
+          "directLow": 0.2
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-114",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.21,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.17,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.09,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.45,
+        "reverseHoloAvg7": 0.21,
+        "reverseHoloAvg30": 0.21
+      }
+    }
+  },
+  {
+    "id": "sm1-115",
+    "name": "Crushing Hammer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, discard an Energy from 1 of your opponent's Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "115",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/115.png",
+      "large": "https://images.pokemontcg.io/sm1/115_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-115",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.19,
+          "high": 1.5,
+          "market": 0.08,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.29,
+          "high": 5,
+          "market": 0.26,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-115",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.27,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.3,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.18,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0.02,
+        "reverseHoloAvg7": 0.28,
+        "reverseHoloAvg30": 0.41
+      }
+    }
+  },
+  {
+    "id": "sm1-116",
+    "name": "Energy Retrieval",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put 2 basic Energy cards from your discard pile into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "116",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/116.png",
+      "large": "https://images.pokemontcg.io/sm1/116_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-116",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 1.5,
+          "market": 0.15,
+          "directLow": 0.11
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.33,
+          "high": 1.54,
+          "market": 0.37,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-116",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.4,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.34,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.1,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.4,
+        "reverseHoloAvg7": 0.42,
+        "reverseHoloAvg30": 0.34
+      }
+    }
+  },
+  {
+    "id": "sm1-117",
+    "name": "Energy Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "117",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/117.png",
+      "large": "https://images.pokemontcg.io/sm1/117_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-117",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.53,
+          "market": 0.15,
+          "directLow": 0.15
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.31,
+          "high": 2.49,
+          "market": 0.31,
+          "directLow": 0.31
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-117",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.34,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.38,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.07,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.31,
+        "reverseHoloAvg30": 0.36
+      }
+    }
+  },
+  {
+    "id": "sm1-118",
+    "name": "Exp. Share",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "When your Active Pokémon is Knocked Out by damage from an opponent's attack, you may move 1 basic Energy card from that Pokémon to the Pokémon this card is attached to.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "118",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/118.png",
+      "large": "https://images.pokemontcg.io/sm1/118_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-118",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.16,
+          "high": 1.5,
+          "market": 0.12,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.08,
+          "mid": 0.28,
+          "high": 1.95,
+          "market": 0.27,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-118",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.13,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.35,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.35,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.1,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 0.48,
+        "reverseHoloAvg7": 0.35,
+        "reverseHoloAvg30": 0.32
+      }
+    }
+  },
+  {
+    "id": "sm1-119",
+    "name": "Great Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "119",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/119.png",
+      "large": "https://images.pokemontcg.io/sm1/119_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-119",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 30.08,
+          "market": 0.09,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.25,
+          "high": 1.62,
+          "market": 0.22,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-119",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.03,
+        "trendPrice": 0.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.09,
+        "avg7": 0.14,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sm1-120",
+    "name": "Hau",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "120",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/120.png",
+      "large": "https://images.pokemontcg.io/sm1/120_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-120",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 1.45,
+          "market": 0.07,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.25,
+          "high": 1.5,
+          "market": 0.21,
+          "directLow": 0.15
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-120",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0,
+        "lowPrice": 0.03,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.13,
+        "avg30": 0.25,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sm1-121",
+    "name": "Ilima",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand into their deck and flips a coin. If heads, that player draws 6 cards. If tails, they draw 3 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "121",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/121.png",
+      "large": "https://images.pokemontcg.io/sm1/121_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-121",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.15,
+          "high": 1.47,
+          "market": 0.09,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.25,
+          "high": 2,
+          "market": 0.17,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-121",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.11,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.14,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.13,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.02,
+        "reverseHoloAvg7": 0.11,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "sm1-122",
+    "name": "Lillie",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 6 cards in your hand. If it's your first turn, draw cards until you have 8 cards in your hand.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "122",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/122.png",
+      "large": "https://images.pokemontcg.io/sm1/122_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-122",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 1.47,
+          "market": 0.17,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.35,
+          "high": 1.55,
+          "market": 0.35,
+          "directLow": 0.23
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-122",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.15,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.35,
+        "reverseHoloLow": 0.09,
+        "reverseHoloTrend": 0.37,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.15,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.39,
+        "reverseHoloAvg7": 0.33,
+        "reverseHoloAvg30": 0.31
+      }
+    }
+  },
+  {
+    "id": "sm1-123",
+    "name": "Nest Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "123",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/123.png",
+      "large": "https://images.pokemontcg.io/sm1/123_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-123",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.15,
+          "mid": 0.91,
+          "high": 3.15,
+          "market": 0.9,
+          "directLow": 0.97
+        },
+        "reverseHolofoil": {
+          "low": 2,
+          "mid": 3.74,
+          "high": 89,
+          "market": 3.57,
+          "directLow": 4.72
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-123",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 20.33,
+        "lowPrice": 4,
+        "trendPrice": 20.82,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.98,
+        "lowPriceExPlus": 14.95,
+        "avg1": 15,
+        "avg7": 19.79,
+        "avg30": 15.13,
+        "reverseHoloAvg1": 1.7,
+        "reverseHoloAvg7": 1.88,
+        "reverseHoloAvg30": 1.31
+      }
+    }
+  },
+  {
+    "id": "sm1-124",
+    "name": "Poison Barb",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If the Pokémon this card is attached to is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "124",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/124.png",
+      "large": "https://images.pokemontcg.io/sm1/124_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-124",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.55,
+          "market": 0.15,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.26,
+          "high": 1.45,
+          "market": 0.26,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-124",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.27,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.37,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.07,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.27,
+        "reverseHoloAvg7": 0.32,
+        "reverseHoloAvg30": 0.33
+      }
+    }
+  },
+  {
+    "id": "sm1-125",
+    "name": "Poké Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "125",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/125.png",
+      "large": "https://images.pokemontcg.io/sm1/125_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-125",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 1.33,
+          "market": 0.06,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.25,
+          "high": 1.55,
+          "market": 0.22,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-125",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.19,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "reverseHoloAvg1": 0.19,
+        "reverseHoloAvg7": 0.21,
+        "reverseHoloAvg30": 0.21
+      }
+    }
+  },
+  {
+    "id": "sm1-126",
+    "name": "Pokémon Catcher",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "126",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/126.png",
+      "large": "https://images.pokemontcg.io/sm1/126_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-126",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 1.31,
+          "market": 0.07,
+          "directLow": 0.07
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 1.61,
+          "market": 0.18,
+          "directLow": 0.19
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-126",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.45,
+        "reverseHoloLow": 0.09,
+        "reverseHoloTrend": 0.25,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.14,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.49,
+        "reverseHoloAvg7": 0.4,
+        "reverseHoloAvg30": 0.38
+      }
+    }
+  },
+  {
+    "id": "sm1-127",
+    "name": "Potion",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 30 damage from 1 of your Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "127",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/127.png",
+      "large": "https://images.pokemontcg.io/sm1/127_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-127",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2.94,
+          "market": 0.07,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.25,
+          "high": 2,
+          "market": 0.14,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-127",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.03,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.1,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sm1-128",
+    "name": "Professor Kukui",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. During this turn, your Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "128",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/128.png",
+      "large": "https://images.pokemontcg.io/sm1/128_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-128",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.16,
+          "high": 1.99,
+          "market": 0.13,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.3,
+          "high": 89,
+          "market": 0.31,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-128",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.97,
+        "lowPrice": 2.44,
+        "trendPrice": 5.71,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.27,
+        "lowPriceExPlus": 3,
+        "avg1": 2.45,
+        "avg7": 2.4,
+        "avg30": 3.68,
+        "reverseHoloAvg1": 1.8,
+        "reverseHoloAvg7": 1.99,
+        "reverseHoloAvg30": 1.71
+      }
+    }
+  },
+  {
+    "id": "sm1-129",
+    "name": "Rare Candy",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "129",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/129.png",
+      "large": "https://images.pokemontcg.io/sm1/129_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.08,
+          "mid": 0.25,
+          "high": 1.53,
+          "market": 0.2,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.54,
+          "high": 2,
+          "market": 0.54,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-129",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.15,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.61,
+        "reverseHoloLow": 0.04,
+        "reverseHoloTrend": 0.54,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.2,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0.45,
+        "reverseHoloAvg7": 0.61,
+        "reverseHoloAvg30": 0.71
+      }
+    }
+  },
+  {
+    "id": "sm1-130",
+    "name": "Repel",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "130",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/130.png",
+      "large": "https://images.pokemontcg.io/sm1/130_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.17,
+          "high": 1.5,
+          "market": 0.12,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.25,
+          "high": 1.49,
+          "market": 0.2,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-130",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.09,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.12,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.25
+      }
+    }
+  },
+  {
+    "id": "sm1-131",
+    "name": "Rotom Dex",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "After counting your Prize cards, shuffle them into your deck. Then, take that many cards from the top of your deck and put them face down as your Prize cards.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "131",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/131.png",
+      "large": "https://images.pokemontcg.io/sm1/131_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 1.32,
+          "market": 0.09,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.28,
+          "high": 2,
+          "market": 0.28,
+          "directLow": 0.26
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-131",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.18,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.16,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.07,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.18,
+        "reverseHoloAvg7": 0.16,
+        "reverseHoloAvg30": 0.22
+      }
+    }
+  },
+  {
+    "id": "sm1-132",
+    "name": "Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "132",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/132.png",
+      "large": "https://images.pokemontcg.io/sm1/132_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.17,
+          "high": 1.53,
+          "market": 0.08,
+          "directLow": 0.11
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.29,
+          "high": 89,
+          "market": 0.27,
+          "directLow": 0.28
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-132",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.5,
+        "reverseHoloTrend": 0.15,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.04,
+        "avg7": 0.21,
+        "avg30": 0.19,
+        "reverseHoloAvg1": 0.15,
+        "reverseHoloAvg7": 0.15,
+        "reverseHoloAvg30": 0.15
+      }
+    }
+  },
+  {
+    "id": "sm1-133",
+    "name": "Team Skull Grunt",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent reveals their hand. Discard 2 Energy cards from it.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "133",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/133.png",
+      "large": "https://images.pokemontcg.io/sm1/133_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 1.5,
+          "market": 0.11,
+          "directLow": 0.15
+        },
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.25,
+          "high": 1.56,
+          "market": 0.22,
+          "directLow": 0.2
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.28,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.21,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.19,
+        "avg7": 0.14,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 0.25,
+        "reverseHoloAvg30": 0.25
+      }
+    }
+  },
+  {
+    "id": "sm1-134",
+    "name": "Timer Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip 2 coins. For each heads, search your deck for an Evolution Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "134",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/134.png",
+      "large": "https://images.pokemontcg.io/sm1/134_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.99,
+          "market": 0.16,
+          "directLow": 0.15
+        },
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.59,
+          "high": 2.27,
+          "market": 0.66,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.39,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.38,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.17,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.4,
+        "reverseHoloAvg7": 0.44,
+        "reverseHoloAvg30": 0.39
+      }
+    }
+  },
+  {
+    "id": "sm1-135",
+    "name": "Ultra Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "135",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/135.png",
+      "large": "https://images.pokemontcg.io/sm1/135_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 2.14,
+          "market": 0.17,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.29,
+          "mid": 0.56,
+          "high": 4.99,
+          "market": 0.56,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.4,
+        "lowPrice": 0.95,
+        "trendPrice": 0.46,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.95,
+        "avg1": 0.5,
+        "avg7": 0.52,
+        "avg30": 0.33,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "sm1-146",
+    "name": "Ilima",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand into their deck and flips a coin. If heads, that player draws 6 cards. If tails, they draw 3 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "146",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/146.png",
+      "large": "https://images.pokemontcg.io/sm1/146_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.8,
+          "mid": 3.03,
+          "high": 20,
+          "market": 2.93,
+          "directLow": 3.5
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.58,
+        "lowPrice": 1.2,
+        "trendPrice": 3.73,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 6.77,
+        "lowPriceExPlus": 2,
+        "avg1": 3.47,
+        "avg7": 3.57,
+        "avg30": 3.87,
+        "reverseHoloAvg1": 14.87,
+        "reverseHoloAvg7": 5.25,
+        "reverseHoloAvg30": 4.87
+      }
+    }
+  },
+  {
+    "id": "sm1-147",
+    "name": "Lillie",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 6 cards in your hand. If it's your first turn, draw cards until you have 8 cards in your hand.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "147",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/147.png",
+      "large": "https://images.pokemontcg.io/sm1/147_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 50,
+          "mid": 67.06,
+          "high": 199.99,
+          "market": 68.23,
+          "directLow": 38.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 31.33,
+        "lowPrice": 9,
+        "trendPrice": 34.22,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 23.62,
+        "lowPriceExPlus": 16,
+        "avg1": 64.99,
+        "avg7": 33.59,
+        "avg30": 32.19,
+        "reverseHoloAvg1": 30,
+        "reverseHoloAvg7": 20.63,
+        "reverseHoloAvg30": 20.9
+      }
+    }
+  },
+  {
+    "id": "sm1-148",
+    "name": "Professor Kukui",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. During this turn, your Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "148",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/148.png",
+      "large": "https://images.pokemontcg.io/sm1/148_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 2.99,
+          "mid": 5.06,
+          "high": 29,
+          "market": 4.87,
+          "directLow": 4.6
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.86,
+        "lowPrice": 1.49,
+        "trendPrice": 3.34,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 4.73,
+        "lowPriceExPlus": 2.45,
+        "avg1": 2.7,
+        "avg7": 3.68,
+        "avg30": 3.95,
+        "reverseHoloAvg1": 3.9,
+        "reverseHoloAvg7": 5.05,
+        "reverseHoloAvg30": 5.37
+      }
+    }
+  },
+  {
+    "id": "sm1-149",
+    "name": "Team Skull Grunt",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your opponent reveals their hand. Discard 2 Energy cards from it.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "149",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/149.png",
+      "large": "https://images.pokemontcg.io/sm1/149_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.66,
+          "mid": 8.09,
+          "high": 1000,
+          "market": 7.5,
+          "directLow": 5.33
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.86,
+        "lowPrice": 1.99,
+        "trendPrice": 4.86,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 5.05,
+        "lowPriceExPlus": 3.5,
+        "avg1": 7.28,
+        "avg7": 5,
+        "avg30": 5.16,
+        "reverseHoloAvg1": 3.85,
+        "reverseHoloAvg7": 5.32,
+        "reverseHoloAvg30": 6.79
+      }
+    }
+  },
+  {
+    "id": "sm1-158",
+    "name": "Nest Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "158",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/158.png",
+      "large": "https://images.pokemontcg.io/sm1/158_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 23.52,
+          "mid": 30.97,
+          "high": 179,
+          "market": 25.49,
+          "directLow": 20.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-158",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 20.67,
+        "lowPrice": 6.99,
+        "trendPrice": 22.67,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 13.89,
+        "lowPriceExPlus": 12,
+        "avg1": 20.95,
+        "avg7": 21.1,
+        "avg30": 22.11,
+        "reverseHoloAvg1": 9.95,
+        "reverseHoloAvg7": 14.63,
+        "reverseHoloAvg30": 12.81
+      }
+    }
+  },
+  {
+    "id": "sm1-159",
+    "name": "Rotom Dex",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "After counting your Prize cards, shuffle them into your deck. Then, take that many cards from the top of your deck and put them face down as your Prize cards.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "159",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/159.png",
+      "large": "https://images.pokemontcg.io/sm1/159_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.5,
+          "mid": 5.5,
+          "high": 20,
+          "market": 5.53,
+          "directLow": 7.77
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.83,
+        "lowPrice": 2,
+        "trendPrice": 6.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 9.48,
+        "lowPriceExPlus": 3.99,
+        "avg1": 5,
+        "avg7": 6.56,
+        "avg30": 6.45,
+        "reverseHoloAvg1": 6,
+        "reverseHoloAvg7": 8.33,
+        "reverseHoloAvg30": 7.68
+      }
+    }
+  },
+  {
+    "id": "sm1-160",
+    "name": "Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "160",
+    "artist": "Ryo Ueda",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/160.png",
+      "large": "https://images.pokemontcg.io/sm1/160_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 8,
+          "mid": 11.64,
+          "high": 179,
+          "market": 10.88,
+          "directLow": 10.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-160",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 9.48,
+        "lowPrice": 3.79,
+        "trendPrice": 10.41,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 19.37,
+        "lowPriceExPlus": 4,
+        "avg1": 9.66,
+        "avg7": 10.29,
+        "avg30": 11.27,
+        "reverseHoloAvg1": 15,
+        "reverseHoloAvg7": 20.87,
+        "reverseHoloAvg30": 19.79
+      }
+    }
+  },
+  {
+    "id": "sm1-161",
+    "name": "Ultra Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "series": "Sun & Moon",
+      "printedTotal": 149,
+      "total": 173,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SUM",
+      "releaseDate": "2017/02/03",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm1/logo.png"
+      }
+    },
+    "number": "161",
+    "artist": "Ryo Ueda",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/161.png",
+      "large": "https://images.pokemontcg.io/sm1/161_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm1-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 40.05,
+          "mid": 50,
+          "high": 79.69,
+          "market": 40.25,
+          "directLow": 49.92
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm1-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 32.7,
+        "lowPrice": 14.99,
+        "trendPrice": 29.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 27.79,
+        "lowPriceExPlus": 17.5,
+        "avg1": 24.99,
+        "avg7": 29.81,
+        "avg30": 30.92,
+        "reverseHoloAvg1": 39.95,
+        "reverseHoloAvg7": 29.42,
+        "reverseHoloAvg30": 23.7
+      }
+    }
+  }
+]

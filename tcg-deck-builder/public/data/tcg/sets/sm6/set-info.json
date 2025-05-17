@@ -1,0 +1,18 @@
+{
+  "id": "sm6",
+  "name": "Forbidden Light",
+  "series": "Sun & Moon",
+  "printedTotal": 131,
+  "total": 150,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "FLI",
+  "releaseDate": "2018/05/04",
+  "updatedAt": "2019/02/19 23:25:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+    "logo": "https://images.pokemontcg.io/sm6/logo.png"
+  }
+}

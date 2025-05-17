@@ -1,0 +1,18 @@
+{
+  "id": "sm2",
+  "name": "Guardians Rising",
+  "series": "Sun & Moon",
+  "printedTotal": 145,
+  "total": 180,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "GRI",
+  "releaseDate": "2017/05/05",
+  "updatedAt": "2022/10/11 21:39:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/sm2/symbol.png",
+    "logo": "https://images.pokemontcg.io/sm2/logo.png"
+  }
+}

@@ -7,25 +7,61 @@ const validFilters = ['name'];
 const allSets = [TwilightMasquerade, ShroudedFable, StellarCrown];
 
 class PrereleaseCardFilter {
-    static filter(filterParams){
-        // External card set in assets
-        let fullSet = [].concat(...allSets);
-        // Results
-        let filteredResults  = [];
+    // Modify utils/PrereleaseCardFilter.js
 
-        for(let card of fullSet){
-            // console.log(fullSet)
-            for(let filter in filterParams){
-                if (validFilters.includes(filter)) {
-                    if((card[filter].toLowerCase()).includes((filterParams[filter].toLowerCase()))){
-                        filteredResults.push(card);
-                        break;
-                    }
-                }
-            }
-        }
-        return filteredResults;
+// In PrereleaseCardFilter.js - Update the filter method
+
+static filter(filterParams) {
+    // External card set in assets
+    let fullSet = [].concat(...allSets);
+    
+    // Copy the array to avoid modifying the original
+    let results = [...fullSet];
+    
+    // Filter by name if provided
+    if (filterParams.name) {
+      const searchTerm = filterParams.name.toLowerCase();
+      results = results.filter(card => 
+        card.name.toLowerCase().includes(searchTerm)
+      );
     }
+    
+    // Filter by type
+    if (filterParams.types && filterParams.types.length > 0) {
+      results = results.filter(card => {
+        if (!card.types) return false;
+        return filterParams.types.some(type => 
+          card.types.includes(type) || 
+          card.name.toLowerCase().includes(type.toLowerCase())
+        );
+      });
+    }
+    
+    // Filter by supertype
+    if (filterParams.supertypes && filterParams.supertypes.length > 0) {
+      results = results.filter(card => 
+        filterParams.supertypes.includes(card.supertype)
+      );
+    }
+    
+    // Filter by set
+    if (filterParams.sets && filterParams.sets.length > 0) {
+      results = results.filter(card => {
+        if (!card.set) return false;
+        return filterParams.sets.includes(card.set.id);
+      });
+    }
+    
+    // Filter by rarity
+    if (filterParams.rarities && filterParams.rarities.length > 0) {
+      results = results.filter(card => {
+        if (!card.rarity) return false;
+        return filterParams.rarities.includes(card.rarity);
+      });
+    }
+    
+    return results;
+  }
 }
 
 export default PrereleaseCardFilter;

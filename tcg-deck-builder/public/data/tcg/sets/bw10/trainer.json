@@ -1,0 +1,1566 @@
+[
+  {
+    "id": "bw10-78",
+    "name": "Caitlin",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put as many cards from your hand as you like on the bottom of your deck in any order. Then, draw a card for each card you put on the bottom of your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "78",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/78.png",
+      "large": "https://images.pokemontcg.io/bw10/78_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-78",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 2.46,
+          "market": 0.24,
+          "directLow": 0.19
+        },
+        "reverseHolofoil": {
+          "low": 0.4,
+          "mid": 0.65,
+          "high": 3.84,
+          "market": 0.46,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-78",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.18,
+        "lowPrice": 0.02,
+        "trendPrice": 0.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.9,
+        "reverseHoloLow": 0.19,
+        "reverseHoloTrend": 0.82,
+        "lowPriceExPlus": 0.1,
+        "avg1": 0.08,
+        "avg7": 0.17,
+        "avg30": 0.19,
+        "reverseHoloAvg1": 0.9,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.77
+      }
+    }
+  },
+  {
+    "id": "bw10-79",
+    "name": "Cover Fossil",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the bottom 7 cards of your deck. You may reveal a Tirtouga you find there and put it onto your Bench. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "79",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/79.png",
+      "large": "https://images.pokemontcg.io/bw10/79_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-79",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.08,
+          "mid": 0.25,
+          "high": 2,
+          "market": 0.22,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.23,
+          "mid": 0.49,
+          "high": 5.03,
+          "market": 0.46,
+          "directLow": 0.47
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-79",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.34,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.36,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.19,
+        "avg30": 0.15,
+        "reverseHoloAvg1": 0.7,
+        "reverseHoloAvg7": 0.42,
+        "reverseHoloAvg30": 0.43
+      }
+    }
+  },
+  {
+    "id": "bw10-80",
+    "name": "Energy Retrieval",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put 2 basic Energy cards from your discard pile into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "80",
+    "artist": "Kent Kanetsuna",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/80.png",
+      "large": "https://images.pokemontcg.io/bw10/80_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-80",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 1.75,
+          "market": 0.21,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.24,
+          "mid": 0.44,
+          "high": 3.13,
+          "market": 0.45,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-80",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.1,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 0.7,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.25,
+        "avg7": 0.15,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 1.5,
+        "reverseHoloAvg7": 1,
+        "reverseHoloAvg30": 0.59
+      }
+    }
+  },
+  {
+    "id": "bw10-81",
+    "name": "Iris",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "During this turn, your Pokémon's attacks do 10 more damage to the Active Pokémon for each Prize card your opponent has taken (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "81",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/81.png",
+      "large": "https://images.pokemontcg.io/bw10/81_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-81",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.12,
+          "mid": 0.32,
+          "high": 2.26,
+          "market": 0.34,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.4,
+          "mid": 0.7,
+          "high": 1.69,
+          "market": 0.73,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-81",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.24,
+        "lowPrice": 0.02,
+        "trendPrice": 0.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.93,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 1.08,
+        "lowPriceExPlus": 0.1,
+        "avg1": 0.07,
+        "avg7": 0.26,
+        "avg30": 0.41,
+        "reverseHoloAvg1": 1.5,
+        "reverseHoloAvg7": 1.02,
+        "reverseHoloAvg30": 0.89
+      }
+    }
+  },
+  {
+    "id": "bw10-82",
+    "name": "Plume Fossil",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the bottom 7 cards of your deck. You may reveal an Archen you find there and put it onto your Bench. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "82",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/82.png",
+      "large": "https://images.pokemontcg.io/bw10/82_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-82",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.26,
+          "high": 1.76,
+          "market": 0.39,
+          "directLow": 0.42
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.49,
+          "high": 9.08,
+          "market": 0.42,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-82",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.5,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.54,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.12,
+        "avg7": 0.09,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.54
+      }
+    }
+  },
+  {
+    "id": "bw10-83",
+    "name": "Pokémon Catcher",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch your opponent's Active Pokémon with 1 of his or her Benched Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "83",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/83.png",
+      "large": "https://images.pokemontcg.io/bw10/83_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-83",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.35,
+          "mid": 0.69,
+          "high": 2.71,
+          "market": 0.83,
+          "directLow": 0.65
+        },
+        "reverseHolofoil": {
+          "low": 0.78,
+          "mid": 1.04,
+          "high": 5.64,
+          "market": 1.84,
+          "directLow": 1.97
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-83",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.15,
+        "lowPrice": 0.05,
+        "trendPrice": 0.19,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.83,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 0.61,
+        "lowPriceExPlus": 0.08,
+        "avg1": 0.1,
+        "avg7": 0.24,
+        "avg30": 0.3,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.89,
+        "reverseHoloAvg30": 0.93
+      }
+    }
+  },
+  {
+    "id": "bw10-84",
+    "name": "Professor Juniper",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "84",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/84.png",
+      "large": "https://images.pokemontcg.io/bw10/84_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-84",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.27,
+          "high": 1.5,
+          "market": 0.23,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.33,
+          "mid": 0.72,
+          "high": 3.74,
+          "market": 0.8,
+          "directLow": 0.35
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-84",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.22,
+        "lowPrice": 0.04,
+        "trendPrice": 0.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.75,
+        "reverseHoloLow": 0.3,
+        "reverseHoloTrend": 0.84,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.4,
+        "avg7": 0.24,
+        "avg30": 0.26,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.88,
+        "reverseHoloAvg30": 0.93
+      }
+    }
+  },
+  {
+    "id": "bw10-85",
+    "name": "Rare Candy",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "85",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/85.png",
+      "large": "https://images.pokemontcg.io/bw10/85_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-85",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.45,
+          "mid": 0.66,
+          "high": 1.99,
+          "market": 0.85,
+          "directLow": 0.62
+        },
+        "reverseHolofoil": {
+          "low": 1.46,
+          "mid": 2.09,
+          "high": 3.59,
+          "market": 2.74,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-85",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.36,
+        "lowPrice": 0.03,
+        "trendPrice": 0.3,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 3.17,
+        "reverseHoloLow": 0.35,
+        "reverseHoloTrend": 1.65,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.5,
+        "avg7": 0.4,
+        "avg30": 0.53,
+        "reverseHoloAvg1": 3.17,
+        "reverseHoloAvg7": 2.19,
+        "reverseHoloAvg30": 1.4
+      }
+    }
+  },
+  {
+    "id": "bw10-86",
+    "name": "Reversal Trigger",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Team Plasma"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "When the Team Plasma Pokémon this card is attached to is Knocked Out by damage from an opponent's attack, search your deck for a card and put it into your hand. Shuffle your deck afterward.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "86",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/86.png",
+      "large": "https://images.pokemontcg.io/bw10/86_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-86",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.23,
+          "high": 1.5,
+          "market": 0.2,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.44,
+          "high": 5,
+          "market": 0.44,
+          "directLow": 0.23
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-86",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.15,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.15,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.22,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.13,
+        "avg30": 0.15,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.26,
+        "reverseHoloAvg30": 0.5
+      }
+    }
+  },
+  {
+    "id": "bw10-87",
+    "name": "Root Fossil Lileep",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the bottom 7 cards of your deck. You may reveal a Lileep you find there and put it onto your Bench. Shuffle the other cards back into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "87",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/87.png",
+      "large": "https://images.pokemontcg.io/bw10/87_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-87",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.15,
+          "mid": 0.28,
+          "high": 1.64,
+          "market": 0.25,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.45,
+          "high": 1.71,
+          "market": 0.44,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-87",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.19,
+        "lowPrice": 0.02,
+        "trendPrice": 0.12,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.95,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.65,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.2,
+        "avg30": 0.24,
+        "reverseHoloAvg1": 0.7,
+        "reverseHoloAvg7": 0.72,
+        "reverseHoloAvg30": 0.54
+      }
+    }
+  },
+  {
+    "id": "bw10-88",
+    "name": "Silver Bangle",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The attacks of the Pokémon this card is attached to (excluding Pokémon-EX) do 30 more damage to Active Pokémon-EX (before applying Weakness and Resistance).",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "88",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/88.png",
+      "large": "https://images.pokemontcg.io/bw10/88_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-88",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.07,
+          "mid": 0.25,
+          "high": 1.54,
+          "market": 0.22,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.35,
+          "high": 2,
+          "market": 0.23,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-88",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.21,
+        "lowPrice": 0.02,
+        "trendPrice": 0.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.5,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.62,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.2,
+        "avg7": 0.22,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 0.6,
+        "reverseHoloAvg7": 0.61,
+        "reverseHoloAvg30": 0.55
+      }
+    }
+  },
+  {
+    "id": "bw10-89",
+    "name": "Silver Mirror",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Prevent all effects of attacks, including damage, done to the Pokémon this card is attached to (excluding Pokémon-EX) by your opponent's Team Plasma Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "89",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/89.png",
+      "large": "https://images.pokemontcg.io/bw10/89_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-89",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.15,
+          "mid": 0.25,
+          "high": 1.61,
+          "market": 0.18,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.35,
+          "high": 3.68,
+          "market": 0.36,
+          "directLow": 0.47
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-89",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.55,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 0.4,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.2,
+        "avg7": 0.16,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.7,
+        "reverseHoloAvg7": 0.51,
+        "reverseHoloAvg30": 0.48
+      }
+    }
+  },
+  {
+    "id": "bw10-90",
+    "name": "Ultra Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "90",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/90.png",
+      "large": "https://images.pokemontcg.io/bw10/90_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-90",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.25,
+          "mid": 0.48,
+          "high": 2.49,
+          "market": 0.48,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 2.65,
+          "mid": 3.12,
+          "high": 4,
+          "market": 3.5,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-90",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.46,
+        "lowPrice": 0.04,
+        "trendPrice": 0.67,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 4,
+        "reverseHoloLow": 0.59,
+        "reverseHoloTrend": 2.56,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.99,
+        "avg7": 0.79,
+        "avg30": 0.51,
+        "reverseHoloAvg1": 4,
+        "reverseHoloAvg7": 2.4,
+        "reverseHoloAvg30": 2.01
+      }
+    }
+  },
+  {
+    "id": "bw10-92",
+    "name": "G Booster",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "ACE SPEC",
+      "Team Plasma"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Genesect-EX this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.)",
+      "You may play as many Item cards as you like during your turn (before your attack).",
+      "You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "G Booster",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Discard 2 Energy attached to this Pokémon. This attack's damage isn't affected by any effects on the Defending Pokémon."
+      }
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "92",
+    "artist": "5ban Graphics",
+    "rarity": "Rare ACE",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/92.png",
+      "large": "https://images.pokemontcg.io/bw10/92_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-92",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1.59,
+          "mid": 3,
+          "high": 9.99,
+          "market": 2.96,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-92",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.99,
+        "lowPrice": 1,
+        "trendPrice": 3.22,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 1.5,
+        "reverseHoloTrend": 4.24,
+        "lowPriceExPlus": 1.89,
+        "avg1": 0.98,
+        "avg7": 3.84,
+        "avg30": 3.69,
+        "reverseHoloAvg1": 3,
+        "reverseHoloAvg7": 3.89,
+        "reverseHoloAvg30": 2.9
+      }
+    }
+  },
+  {
+    "id": "bw10-93",
+    "name": "G Scope",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "ACE SPEC",
+      "Team Plasma"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Genesect-EX this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.)",
+      "You may play as many Item cards as you like during your turn (before your attack).",
+      "You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "G Scope",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "This attack does 100 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+      }
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "93",
+    "artist": "5ban Graphics",
+    "rarity": "Rare ACE",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/93.png",
+      "large": "https://images.pokemontcg.io/bw10/93_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-93",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 1,
+          "mid": 2.48,
+          "high": 5,
+          "market": 2.9,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-93",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.54,
+        "lowPrice": 1,
+        "trendPrice": 3.01,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 1.75,
+        "reverseHoloTrend": 3.26,
+        "lowPriceExPlus": 1.7,
+        "avg1": 4,
+        "avg7": 2.81,
+        "avg30": 2.62,
+        "reverseHoloAvg1": 4.99,
+        "reverseHoloAvg7": 2.85,
+        "reverseHoloAvg30": 1.87
+      }
+    }
+  },
+  {
+    "id": "bw10-94",
+    "name": "Master Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "You may play as many Item cards as you like during your turn (before your attack).",
+      "You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "94",
+    "artist": "5ban Graphics",
+    "rarity": "Rare ACE",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/94.png",
+      "large": "https://images.pokemontcg.io/bw10/94_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-94",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 4.3,
+          "mid": 14.42,
+          "high": 44,
+          "market": 18.46,
+          "directLow": 9.53
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-94",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 11,
+        "lowPrice": 7,
+        "trendPrice": 16.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 8,
+        "reverseHoloTrend": 11.18,
+        "lowPriceExPlus": 14,
+        "avg1": 6,
+        "avg7": 15.24,
+        "avg30": 20.54,
+        "reverseHoloAvg1": 7.99,
+        "reverseHoloAvg7": 12.1,
+        "reverseHoloAvg30": 7.45
+      }
+    }
+  },
+  {
+    "id": "bw10-95",
+    "name": "Scoop Up Cyclone",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "rules": [
+      "Put 1 of your Pokémon and all cards attached to it into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack).",
+      "You can't have more than 1 ACE SPEC card in your deck."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "95",
+    "artist": "5ban Graphics",
+    "rarity": "Rare ACE",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/95.png",
+      "large": "https://images.pokemontcg.io/bw10/95_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-95",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 7.5,
+          "mid": 13.45,
+          "high": 53.99,
+          "market": 13.26,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-95",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 23.95,
+        "lowPrice": 5.5,
+        "trendPrice": 16.76,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 5.5,
+        "reverseHoloTrend": 14.44,
+        "lowPriceExPlus": 14.99,
+        "avg1": 10.9,
+        "avg7": 16.78,
+        "avg30": 17.2,
+        "reverseHoloAvg1": 17.95,
+        "reverseHoloAvg7": 13.12,
+        "reverseHoloAvg30": 8.3
+      }
+    }
+  },
+  {
+    "id": "bw10-101",
+    "name": "Iris",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "During this turn, your Pokémon's attacks do 10 more damage to the Active Pokémon for each Prize card your opponent has taken (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "101",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/101.png",
+      "large": "https://images.pokemontcg.io/bw10/101_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-101",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 96.21,
+          "mid": 171.93,
+          "high": 999.99,
+          "market": 172.12,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-101",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 54.96,
+        "lowPrice": 18,
+        "trendPrice": 71.43,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 85,
+        "reverseHoloTrend": 61.01,
+        "lowPriceExPlus": 45.99,
+        "avg1": 94.5,
+        "avg7": 56.97,
+        "avg30": 63.8,
+        "reverseHoloAvg1": 29,
+        "reverseHoloAvg7": 49.57,
+        "reverseHoloAvg30": 38.34
+      }
+    }
+  },
+  {
+    "id": "bw10-105",
+    "name": "Rare Candy",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "series": "Black & White",
+      "printedTotal": 101,
+      "total": 105,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLB",
+      "releaseDate": "2013/08/14",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw10/logo.png"
+      }
+    },
+    "number": "105",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/105.png",
+      "large": "https://images.pokemontcg.io/bw10/105_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw10-105",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 129.99,
+          "mid": 172.12,
+          "high": 279.99,
+          "market": 119.9,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/bw10-105",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 67.79,
+        "lowPrice": 29,
+        "trendPrice": 51.22,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 16.49,
+        "lowPriceExPlus": 70,
+        "avg1": 27.99,
+        "avg7": 56.15,
+        "avg30": 51.93,
+        "reverseHoloAvg1": 17.9,
+        "reverseHoloAvg7": 16.34,
+        "reverseHoloAvg30": 21.62
+      }
+    }
+  }
+]

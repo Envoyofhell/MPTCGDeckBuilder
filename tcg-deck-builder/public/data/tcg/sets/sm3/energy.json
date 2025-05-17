@@ -1,0 +1,214 @@
+[
+  {
+    "id": "sm3-167",
+    "name": "Fire Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "set": {
+      "id": "sm3",
+      "name": "Burning Shadows",
+      "series": "Sun & Moon",
+      "printedTotal": 147,
+      "total": 177,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BUS",
+      "releaseDate": "2017/08/05",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm3/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm3/logo.png"
+      }
+    },
+    "number": "167",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm3/167.png",
+      "large": "https://images.pokemontcg.io/sm3/167_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm3-167",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 27.99,
+          "mid": 44.41,
+          "high": 70.68,
+          "market": 28.37,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm3-167",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 11.71,
+        "lowPrice": 7,
+        "trendPrice": 8.72,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 28.85,
+        "lowPriceExPlus": 8.99,
+        "avg1": 18.99,
+        "avg7": 11.39,
+        "avg30": 12.4,
+        "reverseHoloAvg1": 24.61,
+        "reverseHoloAvg7": 25.81,
+        "reverseHoloAvg30": 26.96
+      }
+    }
+  },
+  {
+    "id": "sm3-168",
+    "name": "Darkness Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "set": {
+      "id": "sm3",
+      "name": "Burning Shadows",
+      "series": "Sun & Moon",
+      "printedTotal": 147,
+      "total": 177,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BUS",
+      "releaseDate": "2017/08/05",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm3/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm3/logo.png"
+      }
+    },
+    "number": "168",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm3/168.png",
+      "large": "https://images.pokemontcg.io/sm3/168_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm3-168",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 37.31,
+          "mid": 54.42,
+          "high": 60,
+          "market": 39.17,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm3-168",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 19.11,
+        "lowPrice": 15,
+        "trendPrice": 18.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 43.34,
+        "lowPriceExPlus": 18.98,
+        "avg1": 29.08,
+        "avg7": 21.53,
+        "avg30": 20.53,
+        "reverseHoloAvg1": 45,
+        "reverseHoloAvg7": 43.1,
+        "reverseHoloAvg30": 31.78
+      }
+    }
+  },
+  {
+    "id": "sm3-169",
+    "name": "Fairy Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "set": {
+      "id": "sm3",
+      "name": "Burning Shadows",
+      "series": "Sun & Moon",
+      "printedTotal": 147,
+      "total": 177,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BUS",
+      "releaseDate": "2017/08/05",
+      "updatedAt": "2022/10/11 21:39:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm3/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm3/logo.png"
+      }
+    },
+    "number": "169",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm3/169.png",
+      "large": "https://images.pokemontcg.io/sm3/169_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm3-169",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 57.01,
+          "mid": 94.99,
+          "high": 199.99,
+          "market": 62.12,
+          "directLow": 57.51
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/sm3-169",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 42.15,
+        "lowPrice": 17,
+        "trendPrice": 38.33,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 31.03,
+        "lowPriceExPlus": 28,
+        "avg1": 38,
+        "avg7": 38.33,
+        "avg30": 30.67,
+        "reverseHoloAvg1": 38.75,
+        "reverseHoloAvg7": 29.46,
+        "reverseHoloAvg30": 33.13
+      }
+    }
+  }
+]

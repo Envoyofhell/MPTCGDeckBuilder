@@ -1,0 +1,18 @@
+{
+  "id": "sma",
+  "name": "Hidden Fates Shiny Vault",
+  "series": "Sun & Moon",
+  "printedTotal": 94,
+  "total": 94,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "HIF",
+  "releaseDate": "2019/08/23",
+  "updatedAt": "2021/09/01 05:37:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/sma/symbol.png",
+    "logo": "https://images.pokemontcg.io/sma/logo.png"
+  }
+}

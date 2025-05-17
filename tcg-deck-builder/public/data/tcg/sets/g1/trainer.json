@@ -1,0 +1,1448 @@
+[
+  {
+    "id": "g1-59",
+    "name": "Clemont",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 4 Lightning Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "59",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/59.png",
+      "large": "https://images.pokemontcg.io/g1/59_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-59",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.26,
+          "high": 3.12,
+          "market": 0.23,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.16,
+          "mid": 0.49,
+          "high": 9.99,
+          "market": 0.5,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-59",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.03,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.16,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.88,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.2,
+        "avg7": 0.1,
+        "avg30": 0.14,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 1.08,
+        "reverseHoloAvg30": 0.74
+      }
+    }
+  },
+  {
+    "id": "g1-60",
+    "name": "Crushing Hammer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "60",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/60.png",
+      "large": "https://images.pokemontcg.io/g1/60_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-60",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.28,
+          "high": 1.99,
+          "market": 0.28,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.77,
+          "high": 2.99,
+          "market": 0.72,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-60",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.24,
+        "lowPrice": 0.03,
+        "trendPrice": 0.3,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.8,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.6,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.98,
+        "avg7": 0.31,
+        "avg30": 0.29,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.72,
+        "reverseHoloAvg30": 0.94
+      }
+    }
+  },
+  {
+    "id": "g1-61",
+    "name": "Energy Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "61",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/61.png",
+      "large": "https://images.pokemontcg.io/g1/61_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-61",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 1.55,
+          "market": 0.25,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.13,
+          "mid": 0.5,
+          "high": 1.61,
+          "market": 0.51,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-61",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.11,
+        "lowPrice": 0.02,
+        "trendPrice": 0.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.28,
+        "reverseHoloLow": 0.19,
+        "reverseHoloTrend": 0.78,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.38,
+        "avg7": 0.12,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 1.98,
+        "reverseHoloAvg7": 1.19,
+        "reverseHoloAvg30": 0.88
+      }
+    }
+  },
+  {
+    "id": "g1-62",
+    "name": "Evosoda",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward. You can't use this card during your first turn or on a Pokémon that was put into play this turn.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "62",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/62.png",
+      "large": "https://images.pokemontcg.io/g1/62_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-62",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.15,
+          "mid": 0.7,
+          "high": 89,
+          "market": 0.61,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.51,
+          "mid": 2.8,
+          "high": 6.47,
+          "market": 2.7,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-62",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.94,
+        "lowPrice": 0.02,
+        "trendPrice": 0.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.96,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 1.94,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.79,
+        "avg7": 0.79,
+        "avg30": 0.9,
+        "reverseHoloAvg1": 1.99,
+        "reverseHoloAvg7": 2,
+        "reverseHoloAvg30": 2.06
+      }
+    }
+  },
+  {
+    "id": "g1-63",
+    "name": "Imakuni?",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Your Active Pokémon is now Confused.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "63",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/63.png",
+      "large": "https://images.pokemontcg.io/g1/63_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-63",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.59,
+          "mid": 0.81,
+          "high": 2.11,
+          "market": 0.87,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.88,
+          "mid": 3.15,
+          "high": 4.49,
+          "market": 2.21,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-63",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.46,
+        "lowPrice": 0.09,
+        "trendPrice": 0.48,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.38,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 1.63,
+        "lowPriceExPlus": 0.09,
+        "avg1": 0.09,
+        "avg7": 0.42,
+        "avg30": 0.44,
+        "reverseHoloAvg1": 1.99,
+        "reverseHoloAvg7": 1.57,
+        "reverseHoloAvg30": 1.39
+      }
+    }
+  },
+  {
+    "id": "g1-64",
+    "name": "Maintenance",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Shuffle 2 cards from your hand into your deck. (If you can't shuffle 2 cards into your deck, you can't play this card.) Then, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "64",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/64.png",
+      "large": "https://images.pokemontcg.io/g1/64_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-64",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.08,
+          "mid": 0.2,
+          "high": 1.53,
+          "market": 0.15,
+          "directLow": 0.18
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.35,
+          "high": 5,
+          "market": 0.34,
+          "directLow": 0.26
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-64",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.16,
+        "lowPrice": 0.02,
+        "trendPrice": 0.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.41,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.63,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.25,
+        "avg7": 0.16,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 0.52,
+        "reverseHoloAvg30": 0.57
+      }
+    }
+  },
+  {
+    "id": "g1-65",
+    "name": "Max Revive",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put a Pokémon from your discard pile on top of your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "65",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/65.png",
+      "large": "https://images.pokemontcg.io/g1/65_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-65",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 8.2,
+          "market": 0.2,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.4,
+          "high": 4.95,
+          "market": 0.4,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-65",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.2,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.58,
+        "reverseHoloLow": 0.08,
+        "reverseHoloTrend": 0.72,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.25,
+        "avg7": 0.17,
+        "avg30": 0.16,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.62
+      }
+    }
+  },
+  {
+    "id": "g1-66",
+    "name": "Olympia",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, heal 30 damage from the Pokémon you moved to your Bench.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "66",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/66.png",
+      "large": "https://images.pokemontcg.io/g1/66_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-66",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.09,
+          "mid": 0.25,
+          "high": 1,
+          "market": 0.22,
+          "directLow": 0.26
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.57,
+          "high": 3.94,
+          "market": 0.6,
+          "directLow": 0.35
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-66",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.03,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.8,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.78,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.1,
+        "avg7": 0.14,
+        "avg30": 0.18,
+        "reverseHoloAvg1": 1.35,
+        "reverseHoloAvg7": 0.8,
+        "reverseHoloAvg30": 0.72
+      }
+    }
+  },
+  {
+    "id": "g1-67",
+    "name": "Poké Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "67",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/67.png",
+      "large": "https://images.pokemontcg.io/g1/67_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-67",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 1.45,
+          "market": 0.14,
+          "directLow": 0.11
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.36,
+          "high": 2,
+          "market": 0.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-67",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.54,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.43,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.06,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.8,
+        "reverseHoloAvg7": 0.59,
+        "reverseHoloAvg30": 0.6
+      }
+    }
+  },
+  {
+    "id": "g1-68",
+    "name": "Pokémon Center Lady",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Heal 60 damage and remove all Special Conditions from 1 of your Pokémon.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "68",
+    "artist": "Maiko Fujiwara",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/68.png",
+      "large": "https://images.pokemontcg.io/g1/68_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-68",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.21,
+          "high": 1.9,
+          "market": 0.19,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.13,
+          "mid": 0.68,
+          "high": 3.49,
+          "market": 0.71,
+          "directLow": 0.4
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-68",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.18,
+        "lowPrice": 0.02,
+        "trendPrice": 0.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.91,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 0.91,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.15,
+        "avg30": 0.15,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 0.98,
+        "reverseHoloAvg30": 0.82
+      }
+    }
+  },
+  {
+    "id": "g1-69",
+    "name": "Pokémon Fan Club",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "69",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/69.png",
+      "large": "https://images.pokemontcg.io/g1/69_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-69",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.24,
+          "high": 2.04,
+          "market": 0.12,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.5,
+          "high": 2,
+          "market": 0.58,
+          "directLow": 0.29
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-69",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.16,
+        "lowPrice": 0.02,
+        "trendPrice": 0.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.36,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.63,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.2,
+        "avg7": 0.17,
+        "avg30": 0.18,
+        "reverseHoloAvg1": 0.7,
+        "reverseHoloAvg7": 0.53,
+        "reverseHoloAvg30": 0.55
+      }
+    }
+  },
+  {
+    "id": "g1-70",
+    "name": "Revitalizer",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put 2 Grass Pokémon from your discard pile into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "70",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/70.png",
+      "large": "https://images.pokemontcg.io/g1/70_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-70",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.2,
+          "mid": 0.99,
+          "high": 2.99,
+          "market": 1.08,
+          "directLow": 1.16
+        },
+        "reverseHolofoil": {
+          "low": 0.5,
+          "mid": 1,
+          "high": 2.94,
+          "market": 1,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-70",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.63,
+        "lowPrice": 0.49,
+        "trendPrice": 0.54,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.49,
+        "avg1": 0.49,
+        "avg7": 0.55,
+        "avg30": 0.37,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "g1-71",
+    "name": "Red Card",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Your opponent shuffles his or her hand into his or her deck and draws 4 cards.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "71",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Banned"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/71.png",
+      "large": "https://images.pokemontcg.io/g1/71_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-71",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.2,
+          "mid": 0.36,
+          "high": 1.93,
+          "market": 0.32,
+          "directLow": 0.38
+        },
+        "reverseHolofoil": {
+          "low": 0.24,
+          "mid": 0.5,
+          "high": 2,
+          "market": 0.55,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-71",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.27,
+        "lowPrice": 0.02,
+        "trendPrice": 0.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.95,
+        "reverseHoloLow": 0.28,
+        "reverseHoloTrend": 1.16,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.18,
+        "avg7": 0.26,
+        "avg30": 0.26,
+        "reverseHoloAvg1": 1.95,
+        "reverseHoloAvg7": 1.09,
+        "reverseHoloAvg30": 0.9
+      }
+    }
+  },
+  {
+    "id": "g1-72",
+    "name": "Shauna",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw 5 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "72",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/72.png",
+      "large": "https://images.pokemontcg.io/g1/72_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-72",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 1.5,
+          "market": 0.16,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.14,
+          "mid": 0.5,
+          "high": 2,
+          "market": 0.54,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-72",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.13,
+        "lowPrice": 0.02,
+        "trendPrice": 0.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.49,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.49,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.14,
+        "avg30": 0.15,
+        "reverseHoloAvg1": 1.99,
+        "reverseHoloAvg7": 0.57,
+        "reverseHoloAvg30": 0.57
+      }
+    }
+  },
+  {
+    "id": "g1-73",
+    "name": "Team Flare Grunt",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard an Energy attached to your opponent's Active Pokémon.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "73",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/73.png",
+      "large": "https://images.pokemontcg.io/g1/73_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-73",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.39,
+          "high": 3.14,
+          "market": 0.39,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.23,
+          "mid": 0.75,
+          "high": 2.27,
+          "market": 0.98,
+          "directLow": 0.79
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-73",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.39,
+        "lowPrice": 0.04,
+        "trendPrice": 0.27,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.92,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.9,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.64,
+        "avg7": 0.45,
+        "avg30": 0.32,
+        "reverseHoloAvg1": 1.65,
+        "reverseHoloAvg7": 0.88,
+        "reverseHoloAvg30": 0.83
+      }
+    }
+  },
+  {
+    "id": "g1-73a",
+    "name": "Team Flare Grunt",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard an Energy attached to your opponent's Active Pokémon.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "73a",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/73a.png",
+      "large": "https://images.pokemontcg.io/g1/73a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-73a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 19.06,
+        "lowPrice": 9,
+        "trendPrice": 18.7,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 6.13,
+        "lowPriceExPlus": 17.95,
+        "avg1": 15,
+        "avg7": 19.06,
+        "avg30": 16.4,
+        "reverseHoloAvg1": 7,
+        "reverseHoloAvg7": 5.71,
+        "reverseHoloAvg30": 4.91
+      }
+    }
+  },
+  {
+    "id": "g1-RC26",
+    "name": "Floral Crown",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "At the end of your opponent's turn, heal 20 damage from the Basic Pokémon this card is attached to.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "RC26",
+    "artist": "Aya Kusube",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/RC26.png",
+      "large": "https://images.pokemontcg.io/g1/RC26_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-RC26",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.09,
+          "mid": 0.71,
+          "high": 9.99,
+          "market": 0.99,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-RC26",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.2,
+        "lowPrice": 0.02,
+        "trendPrice": 0.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.13,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.05,
+        "avg7": 0.21,
+        "avg30": 0.22,
+        "reverseHoloAvg1": 0.1,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "g1-RC27",
+    "name": "Wally",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a card that evolves from 1 of your Pokémon (excluding Pokémon-EX) and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward. You can use this card during your first turn or on a Pokémon that was put into play this turn.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "g1",
+      "name": "Generations",
+      "series": "XY",
+      "printedTotal": 83,
+      "total": 117,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "GEN",
+      "releaseDate": "2016/02/22",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+        "logo": "https://images.pokemontcg.io/g1/logo.png"
+      }
+    },
+    "number": "RC27",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/RC27.png",
+      "large": "https://images.pokemontcg.io/g1/RC27_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/g1-RC27",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 0.5,
+          "mid": 1.78,
+          "high": 4.99,
+          "market": 1.74,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/g1-RC27",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.83,
+        "lowPrice": 0.07,
+        "trendPrice": 0.7,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.89,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 1.02,
+        "lowPriceExPlus": 0.25,
+        "avg1": 0.66,
+        "avg7": 0.88,
+        "avg30": 0.79,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 1,
+        "reverseHoloAvg30": 0.76
+      }
+    }
+  }
+]

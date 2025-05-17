@@ -1,0 +1,18 @@
+{
+  "id": "sm9",
+  "name": "Team Up",
+  "series": "Sun & Moon",
+  "printedTotal": 181,
+  "total": 198,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "TEU",
+  "releaseDate": "2019/02/01",
+  "updatedAt": "2021/09/01 05:37:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/sm9/symbol.png",
+    "logo": "https://images.pokemontcg.io/sm9/logo.png"
+  }
+}

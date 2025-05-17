@@ -1,0 +1,18 @@
+{
+  "id": "sm10",
+  "name": "Unbroken Bonds",
+  "series": "Sun & Moon",
+  "printedTotal": 214,
+  "total": 234,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "UNB",
+  "releaseDate": "2019/05/03",
+  "updatedAt": "2021/09/01 05:37:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+    "logo": "https://images.pokemontcg.io/sm10/logo.png"
+  }
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "xy6-97",
+    "name": "Double Dragon Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "This card can only be attached to Dragon Pokémon. This card provides every type of Energy, but provides only 2 Energy at a time, only while this card is attached to a Dragon Pokémon.",
+      "(If this card is attached to anything other than a Dragon Pokémon, discard this card.)"
+    ],
+    "set": {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 112,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "ROS",
+      "releaseDate": "2015/05/06",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy6/logo.png"
+      }
+    },
+    "number": "97",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy6/97.png",
+      "large": "https://images.pokemontcg.io/xy6/97_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy6-97",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 2.59,
+          "mid": 4.5,
+          "high": 89,
+          "market": 4.5,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 5.35,
+          "mid": 6.75,
+          "high": 11.99,
+          "market": 6.9,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy6-97",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.08,
+        "lowPrice": 1,
+        "trendPrice": 3.86,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 9.35,
+        "reverseHoloLow": 3.75,
+        "reverseHoloTrend": 8.65,
+        "lowPriceExPlus": 2,
+        "avg1": 2.49,
+        "avg7": 3.41,
+        "avg30": 4.5,
+        "reverseHoloAvg1": 8.46,
+        "reverseHoloAvg7": 8.31,
+        "reverseHoloAvg30": 8.01
+      }
+    }
+  }
+]

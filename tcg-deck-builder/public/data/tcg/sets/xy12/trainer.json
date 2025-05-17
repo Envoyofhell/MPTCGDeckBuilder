@@ -1,0 +1,1629 @@
+[
+  {
+    "id": "xy12-73",
+    "name": "Blastoise Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Blastoise-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "73",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/73.png",
+      "large": "https://images.pokemontcg.io/xy12/73_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-73",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.77,
+          "high": 4.7,
+          "market": 0.95,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-73",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.12,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 3.18,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 3.44,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.17,
+        "avg7": 0.15,
+        "avg30": 0.12,
+        "reverseHoloAvg1": 1.5,
+        "reverseHoloAvg7": 3.33,
+        "reverseHoloAvg30": 2.15
+      }
+    }
+  },
+  {
+    "id": "xy12-74",
+    "name": "Brock's Grit",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle 6 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "74",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/74.png",
+      "large": "https://images.pokemontcg.io/xy12/74_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-74",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 3,
+          "market": 0.12,
+          "directLow": 0.09
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.28,
+          "high": 10.44,
+          "market": 0.26,
+          "directLow": 0.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-74",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.51,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.59,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.08,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.62,
+        "reverseHoloAvg7": 0.53,
+        "reverseHoloAvg30": 0.45
+      }
+    }
+  },
+  {
+    "id": "xy12-75",
+    "name": "Charizard Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Charizard-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "75",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/75.png",
+      "large": "https://images.pokemontcg.io/xy12/75_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-75",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 3,
+          "market": 0.17,
+          "directLow": 0.14
+        },
+        "reverseHolofoil": {
+          "low": 0.45,
+          "mid": 1.56,
+          "high": 9.95,
+          "market": 1.9,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-75",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.34,
+        "lowPrice": 0.02,
+        "trendPrice": 0.49,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 5.68,
+        "reverseHoloLow": 0.7,
+        "reverseHoloTrend": 4.99,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.24,
+        "avg7": 0.16,
+        "avg30": 0.31,
+        "reverseHoloAvg1": 5.42,
+        "reverseHoloAvg7": 5.87,
+        "reverseHoloAvg30": 4.69
+      }
+    }
+  },
+  {
+    "id": "xy12-76",
+    "name": "Devolution Spray",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Devolve 1 of your evolved Pokémon and put the highest Stage Evolution card on it into your hand. (That Pokémon can't evolve this turn.)",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "76",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/76.png",
+      "large": "https://images.pokemontcg.io/xy12/76_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-76",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 1.47,
+          "market": 0.12,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.49,
+          "high": 4.5,
+          "market": 0.43,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-76",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.14,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.16,
+        "reverseHoloLow": 0.08,
+        "reverseHoloTrend": 1.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.12,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.88,
+        "reverseHoloAvg7": 1.13,
+        "reverseHoloAvg30": 1.35
+      }
+    }
+  },
+  {
+    "id": "xy12-77",
+    "name": "Energy Retrieval",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put 2 basic Energy cards from your discard pile into your hand.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "77",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/77.png",
+      "large": "https://images.pokemontcg.io/xy12/77_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-77",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.19,
+          "high": 1.5,
+          "market": 0.16,
+          "directLow": 0.12
+        },
+        "reverseHolofoil": {
+          "low": 0.45,
+          "mid": 0.99,
+          "high": 89,
+          "market": 1.16,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-77",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.72,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.85,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.11,
+        "avg7": 0.09,
+        "avg30": 0.08,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 1.68,
+        "reverseHoloAvg30": 1.94
+      }
+    }
+  },
+  {
+    "id": "xy12-78",
+    "name": "Full Heal",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Remove all Special Conditions from your Active Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "78",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/78.png",
+      "large": "https://images.pokemontcg.io/xy12/78_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-78",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 1.49,
+          "market": 0.08,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.41,
+          "high": 89,
+          "market": 0.39,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-78",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.21,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.55,
+        "reverseHoloLow": 0.03,
+        "reverseHoloTrend": 0.97,
+        "lowPriceExPlus": 0.02,
+        "avg1": 1.39,
+        "avg7": 0.17,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 1.25,
+        "reverseHoloAvg30": 1.14
+      }
+    }
+  },
+  {
+    "id": "xy12-79",
+    "name": "Maintenance",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Shuffle 2 cards from your hand into your deck. (If you can't shuffle 2 cards into your deck, you can't play this card.) Then, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "79",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/79.png",
+      "large": "https://images.pokemontcg.io/xy12/79_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-79",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 1.47,
+          "market": 0.08,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.5,
+          "high": 1.48,
+          "market": 0.61,
+          "directLow": 0.67
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-79",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.23,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 1.28,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.06,
+        "avg7": 0.07,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.4,
+        "reverseHoloAvg7": 1.03,
+        "reverseHoloAvg30": 1.33
+      }
+    }
+  },
+  {
+    "id": "xy12-80",
+    "name": "Misty's Determination",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard a card from your hand. If you do, look at the top 8 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "80",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/80.png",
+      "large": "https://images.pokemontcg.io/xy12/80_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-80",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.35,
+          "high": 3,
+          "market": 0.35,
+          "directLow": 0.24
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.6,
+          "high": 89,
+          "market": 0.6,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-80",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.63,
+        "reverseHoloLow": 0.09,
+        "reverseHoloTrend": 0.7,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.08,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.38,
+        "reverseHoloAvg7": 0.55,
+        "reverseHoloAvg30": 0.49
+      }
+    }
+  },
+  {
+    "id": "xy12-81",
+    "name": "Pidgeot Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Pidgeot-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "81",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/81.png",
+      "large": "https://images.pokemontcg.io/xy12/81_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-81",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 1.49,
+          "market": 0.1,
+          "directLow": 0.09
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.5,
+          "high": 2,
+          "market": 0.57,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-81",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.43,
+        "reverseHoloLow": 0.05,
+        "reverseHoloTrend": 1.21,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.2,
+        "avg7": 0.08,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 1.53,
+        "reverseHoloAvg30": 1.34
+      }
+    }
+  },
+  {
+    "id": "xy12-82",
+    "name": "Pokédex",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 5 cards of your deck and put them back in any order.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "82",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/82.png",
+      "large": "https://images.pokemontcg.io/xy12/82_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-82",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.15,
+          "high": 3,
+          "market": 0.13,
+          "directLow": 0.09
+        },
+        "reverseHolofoil": {
+          "low": 0.11,
+          "mid": 0.53,
+          "high": 89,
+          "market": 0.57,
+          "directLow": 0.45
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-82",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.94,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 1.54,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.12,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.7,
+        "reverseHoloAvg7": 1.37,
+        "reverseHoloAvg30": 1.62
+      }
+    }
+  },
+  {
+    "id": "xy12-83",
+    "name": "Potion",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 30 damage from 1 of your Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "83",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/83.png",
+      "large": "https://images.pokemontcg.io/xy12/83_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-83",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 1.45,
+          "market": 0.1,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.5,
+          "high": 89,
+          "market": 0.47,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-83",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.07,
+        "lowPrice": 0.02,
+        "trendPrice": 0.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.63,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.74,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.08,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 2.14,
+        "reverseHoloAvg30": 1.38
+      }
+    }
+  },
+  {
+    "id": "xy12-84",
+    "name": "Professor Oak's Hint",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 7 cards in your hand. Your turn ends.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "84",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/84.png",
+      "large": "https://images.pokemontcg.io/xy12/84_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-84",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 2.01,
+          "market": 0.09,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.35,
+          "high": 4.51,
+          "market": 0.35,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-84",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0.02,
+        "trendPrice": 0.11,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.49,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.54,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.23,
+        "avg7": 0.07,
+        "avg30": 0.11,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.52,
+        "reverseHoloAvg30": 0.47
+      }
+    }
+  },
+  {
+    "id": "xy12-85",
+    "name": "Revive",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put a Basic Pokémon from your discard pile onto your Bench.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "85",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/85.png",
+      "large": "https://images.pokemontcg.io/xy12/85_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-85",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 1.49,
+          "market": 0.1,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.22,
+          "mid": 0.51,
+          "high": 4.99,
+          "market": 0.48,
+          "directLow": 0.39
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-85",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.07,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.1,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.78,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.06,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.25,
+        "reverseHoloAvg7": 2.14,
+        "reverseHoloAvg30": 1.73
+      }
+    }
+  },
+  {
+    "id": "xy12-86",
+    "name": "Slowbro Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Slowbro-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "86",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/86.png",
+      "large": "https://images.pokemontcg.io/xy12/86_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-86",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 1.45,
+          "market": 0.1,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.18,
+          "mid": 0.8,
+          "high": 2,
+          "market": 0.87,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-86",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.72,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 1.68,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.11,
+        "avg7": 0.09,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 1.59,
+        "reverseHoloAvg30": 1.29
+      }
+    }
+  },
+  {
+    "id": "xy12-87",
+    "name": "Super Potion",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 60 damage from 1 of your Pokémon. If you do, discard an Energy attached to that Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "87",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/87.png",
+      "large": "https://images.pokemontcg.io/xy12/87_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-87",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.15,
+          "high": 16,
+          "market": 0.11,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.5,
+          "high": 89,
+          "market": 0.84,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-87",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.28,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 1.39,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.22,
+        "avg7": 0.11,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 1.2,
+        "reverseHoloAvg7": 1.44,
+        "reverseHoloAvg30": 1.17
+      }
+    }
+  },
+  {
+    "id": "xy12-88",
+    "name": "Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "88",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/88.png",
+      "large": "https://images.pokemontcg.io/xy12/88_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-88",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.2,
+          "high": 2.1,
+          "market": 0.13,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.43,
+          "high": 89,
+          "market": 0.36,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-88",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.08,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.78,
+        "reverseHoloLow": 0.02,
+        "reverseHoloTrend": 0.73,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.09,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0.45,
+        "reverseHoloAvg7": 0.6,
+        "reverseHoloAvg30": 0.7
+      }
+    }
+  },
+  {
+    "id": "xy12-89",
+    "name": "Venusaur Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Venusaur-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "89",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/89.png",
+      "large": "https://images.pokemontcg.io/xy12/89_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-89",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 1.5,
+          "market": 0.15,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.5,
+          "high": 1.51,
+          "market": 0.57,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-89",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 3.06,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 2.81,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.1,
+        "avg7": 0.1,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 1.99,
+        "reverseHoloAvg7": 3.05,
+        "reverseHoloAvg30": 2.46
+      }
+    }
+  },
+  {
+    "id": "xy12-107",
+    "name": "Brock's Grit",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle 6 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "107",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/107.png",
+      "large": "https://images.pokemontcg.io/xy12/107_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-107",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 3.72,
+          "mid": 7.55,
+          "high": 29.1,
+          "market": 6.48,
+          "directLow": 6.48
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-107",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 10.18,
+        "lowPrice": 1.5,
+        "trendPrice": 10.14,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 11.14,
+        "lowPriceExPlus": 6.5,
+        "avg1": 12,
+        "avg7": 11.08,
+        "avg30": 11.85,
+        "reverseHoloAvg1": 12.44,
+        "reverseHoloAvg7": 13.18,
+        "reverseHoloAvg30": 10.84
+      }
+    }
+  },
+  {
+    "id": "xy12-108",
+    "name": "Misty's Determination",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard a card from your hand. If you do, look at the top 8 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "108",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/108.png",
+      "large": "https://images.pokemontcg.io/xy12/108_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-108",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 18.74,
+          "mid": 26.04,
+          "high": 99.99,
+          "market": 24.8,
+          "directLow": 23.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-108",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 25.98,
+        "lowPrice": 4,
+        "trendPrice": 25.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 20.36,
+        "lowPriceExPlus": 9.99,
+        "avg1": 9.98,
+        "avg7": 27.39,
+        "avg30": 24.81,
+        "reverseHoloAvg1": 18.69,
+        "reverseHoloAvg7": 17.03,
+        "reverseHoloAvg30": 17.7
+      }
+    }
+  },
+  {
+    "id": "xy12-113",
+    "name": "Here Comes Team Rocket!",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player turns all of his or her Prize cards face up. (Those Prize cards remain face up for the rest of the game.)",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "113",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Secret",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/113.png",
+      "large": "https://images.pokemontcg.io/xy12/113_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-113",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.23,
+          "mid": 0.66,
+          "high": 9.95,
+          "market": 0.65,
+          "directLow": 0.64
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy12-113",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.47,
+        "lowPrice": 0.02,
+        "trendPrice": 1.57,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.5,
+        "lowPriceExPlus": 0.25,
+        "avg1": 1,
+        "avg7": 1.37,
+        "avg30": 1.35,
+        "reverseHoloAvg1": 5,
+        "reverseHoloAvg7": 1.42,
+        "reverseHoloAvg30": 1.46
+      }
+    }
+  }
+]

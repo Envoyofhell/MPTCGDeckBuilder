@@ -1,0 +1,1638 @@
+[
+  {
+    "id": "xyp-XY27",
+    "name": "Champions Festival",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY27",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY27.png",
+      "large": "https://images.pokemontcg.io/xyp/XY27_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY27",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 199.99,
+          "mid": 316.92,
+          "high": 534.1,
+          "market": null,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY27",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 60,
+        "lowPrice": 60,
+        "trendPrice": 118.86,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 29.83,
+        "lowPriceExPlus": 60,
+        "avg1": 60,
+        "avg7": 105.44,
+        "avg30": 59.77,
+        "reverseHoloAvg1": 19.95,
+        "reverseHoloAvg7": 24.56,
+        "reverseHoloAvg30": 24.56
+      }
+    }
+  },
+  {
+    "id": "xyp-XY33",
+    "name": "Trevor",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY33",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY33.png",
+      "large": "https://images.pokemontcg.io/xyp/XY33_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY33",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.4,
+          "mid": 1.44,
+          "high": 3.84,
+          "market": 1.57,
+          "directLow": 1.54
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY33",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.99,
+        "lowPrice": 3,
+        "trendPrice": 5.23,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 4.33,
+        "lowPriceExPlus": 3.99,
+        "avg1": 3.99,
+        "avg7": 4.51,
+        "avg30": 4.55,
+        "reverseHoloAvg1": 4.5,
+        "reverseHoloAvg7": 3.25,
+        "reverseHoloAvg30": 3.25
+      }
+    }
+  },
+  {
+    "id": "xyp-XY91",
+    "name": "Champions Festival",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY91",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY91.png",
+      "large": "https://images.pokemontcg.io/xyp/XY91_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY91",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 200,
+          "mid": 253.02,
+          "high": 306.04,
+          "market": null,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY91",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 50,
+        "lowPrice": 24,
+        "trendPrice": 78.61,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 23.76,
+        "lowPriceExPlus": 39.99,
+        "avg1": 50,
+        "avg7": 60.39,
+        "avg30": 111.63,
+        "reverseHoloAvg1": 24.48,
+        "reverseHoloAvg7": 22.24,
+        "reverseHoloAvg30": 22.24
+      }
+    }
+  },
+  {
+    "id": "xyp-XY99",
+    "name": "Aerodactyl Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Aerodactyl-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY99",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY99.png",
+      "large": "https://images.pokemontcg.io/xyp/XY99_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY99",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.5,
+          "mid": 1,
+          "high": 2.99,
+          "market": 1.21,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY99",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5,
+        "lowPrice": 2.5,
+        "trendPrice": 3,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 2,
+        "lowPriceExPlus": 2.95,
+        "avg1": 5,
+        "avg7": 3.22,
+        "avg30": 3.11,
+        "reverseHoloAvg1": 2,
+        "reverseHoloAvg7": 2,
+        "reverseHoloAvg30": 2
+      }
+    }
+  },
+  {
+    "id": "xyp-XY105",
+    "name": "Mawile Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Mawile-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY105",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY105.png",
+      "large": "https://images.pokemontcg.io/xyp/XY105_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY105",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 1.52,
+          "mid": 2.36,
+          "high": 4.99,
+          "market": 2.62,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY105",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.26,
+        "lowPrice": 2.15,
+        "trendPrice": 3.85,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.5,
+        "lowPriceExPlus": 2.2,
+        "avg1": 6.99,
+        "avg7": 3.66,
+        "avg30": 3.65,
+        "reverseHoloAvg1": 1.5,
+        "reverseHoloAvg7": 1.49,
+        "reverseHoloAvg30": 1.49
+      }
+    }
+  },
+  {
+    "id": "xyp-XY159",
+    "name": "Beedrill Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Beedrill-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY159",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY159.png",
+      "large": "https://images.pokemontcg.io/xyp/XY159_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.35,
+          "mid": 0.62,
+          "high": 4.95,
+          "market": 0.64,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY159",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.9,
+        "lowPrice": 1.75,
+        "trendPrice": 3.03,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.89,
+        "lowPriceExPlus": 1.75,
+        "avg1": 2.99,
+        "avg7": 3.16,
+        "avg30": 2.86,
+        "reverseHoloAvg1": 1.35,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.58
+      }
+    }
+  },
+  {
+    "id": "xyp-XY169",
+    "name": "Garchomp Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Garchomp-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY169",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY169.png",
+      "large": "https://images.pokemontcg.io/xyp/XY169_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY169",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 2.99,
+          "mid": 3.63,
+          "high": 5,
+          "market": 3.44,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY169",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 25.44,
+        "lowPrice": 19.9,
+        "trendPrice": 22.02,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 2.63,
+        "lowPriceExPlus": 24.99,
+        "avg1": 34.89,
+        "avg7": 20.67,
+        "avg30": 11.65,
+        "reverseHoloAvg1": 2.5,
+        "reverseHoloAvg7": 2.79,
+        "reverseHoloAvg30": 2.79
+      }
+    }
+  },
+  {
+    "id": "xyp-XY172",
+    "name": "Salamence Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Salamence-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY172",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY172.png",
+      "large": "https://images.pokemontcg.io/xyp/XY172_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 1.41,
+          "mid": 1.46,
+          "high": 2.36,
+          "market": 2.62,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY172",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 9.35,
+        "lowPrice": 8.99,
+        "trendPrice": 9.31,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1,
+        "lowPriceExPlus": 8.99,
+        "avg1": 9.99,
+        "avg7": 8.59,
+        "avg30": 4.4,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 1.5,
+        "reverseHoloAvg30": 1.5
+      }
+    }
+  },
+  {
+    "id": "xyp-XY176",
+    "name": "Champions Festival",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Once during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY176",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY176.png",
+      "large": "https://images.pokemontcg.io/xyp/XY176_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY176",
+      "updatedAt": "2023/03/27"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY176",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 70.65,
+        "lowPrice": 50,
+        "trendPrice": 50.28,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 18.73,
+        "lowPriceExPlus": 50,
+        "avg1": 60,
+        "avg7": 84.83,
+        "avg30": 219.32,
+        "reverseHoloAvg1": 18.92,
+        "reverseHoloAvg7": 17.53,
+        "reverseHoloAvg30": 16.9
+      }
+    }
+  },
+  {
+    "id": "xyp-XY177",
+    "name": "Karen",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles all Pokémon in his or her discard pile into his or her deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY177",
+    "artist": "You Iribi",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY177.png",
+      "large": "https://images.pokemontcg.io/xyp/XY177_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY177",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.58,
+          "mid": 1.24,
+          "high": 20.69,
+          "market": 1.29,
+          "directLow": 1.32
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY177",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.31,
+        "lowPrice": 0.45,
+        "trendPrice": 4.49,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.46,
+        "lowPriceExPlus": 0.45,
+        "avg1": 1.5,
+        "avg7": 4.45,
+        "avg30": 2.69,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.51,
+        "reverseHoloAvg30": 0.54
+      }
+    }
+  },
+  {
+    "id": "xyp-XY177a",
+    "name": "Karen",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles all Pokémon in his or her discard pile into his or her deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY177a",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY177a.png",
+      "large": "https://images.pokemontcg.io/xyp/XY177a_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY177a",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 53.3,
+        "lowPrice": 45,
+        "trendPrice": 57.56,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 33.6,
+        "lowPriceExPlus": 45,
+        "avg1": 64.98,
+        "avg7": 57.7,
+        "avg30": 54.88,
+        "reverseHoloAvg1": 34.99,
+        "reverseHoloAvg7": 40.57,
+        "reverseHoloAvg30": 13.51
+      }
+    }
+  },
+  {
+    "id": "xyp-XY199",
+    "name": "Camerupt Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Camerupt-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY199",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY199.png",
+      "large": "https://images.pokemontcg.io/xyp/XY199_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY199",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.36,
+          "mid": 0.51,
+          "high": 2.98,
+          "market": 0.47,
+          "directLow": 0.47
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY199",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.95,
+        "lowPrice": 0.9,
+        "trendPrice": 1.95,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.99,
+        "lowPriceExPlus": 1.59,
+        "avg1": 1.95,
+        "avg7": 2.19,
+        "avg30": 1.72,
+        "reverseHoloAvg1": 0.99,
+        "reverseHoloAvg7": 1,
+        "reverseHoloAvg30": 1
+      }
+    }
+  },
+  {
+    "id": "xyp-XY201",
+    "name": "Sharpedo Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Sharpedo-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY201",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY201.png",
+      "large": "https://images.pokemontcg.io/xyp/XY201_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY201",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 1.5,
+          "mid": 1.97,
+          "high": 6.99,
+          "market": 1.97,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY201",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.95,
+        "lowPrice": 2,
+        "trendPrice": 3.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.87,
+        "lowPriceExPlus": 2,
+        "avg1": 1.26,
+        "avg7": 3.43,
+        "avg30": 2.81,
+        "reverseHoloAvg1": 2.95,
+        "reverseHoloAvg7": 1.56,
+        "reverseHoloAvg30": 1.56
+      }
+    }
+  },
+  {
+    "id": "xyp-XY203",
+    "name": "Gym Badge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin until you get tails. For each heads, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY203",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY203.png",
+      "large": "https://images.pokemontcg.io/xyp/XY203_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY203",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.99,
+          "mid": 11.99,
+          "high": 19.95,
+          "market": 11.49,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY203",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 10.25,
+        "lowPrice": 8.5,
+        "trendPrice": 2.46,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 10.2,
+        "lowPriceExPlus": 9,
+        "avg1": 8.95,
+        "avg7": 9.93,
+        "avg30": 17.83,
+        "reverseHoloAvg1": 30,
+        "reverseHoloAvg7": 14.28,
+        "reverseHoloAvg30": 5.85
+      }
+    }
+  },
+  {
+    "id": "xyp-XY204",
+    "name": "Gym Badge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin until you get tails. For each heads, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY204",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY204.png",
+      "large": "https://images.pokemontcg.io/xyp/XY204_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY204",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 9.99,
+          "mid": 19.99,
+          "high": 39.95,
+          "market": 22.7,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY204",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 12.13,
+        "lowPrice": 10,
+        "trendPrice": 13.51,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 12.29,
+        "lowPriceExPlus": 13,
+        "avg1": 19.99,
+        "avg7": 10.56,
+        "avg30": 12.59,
+        "reverseHoloAvg1": 40,
+        "reverseHoloAvg7": 15.5,
+        "reverseHoloAvg30": 6.4
+      }
+    }
+  },
+  {
+    "id": "xyp-XY205",
+    "name": "Gym Badge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin until you get tails. For each heads, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY205",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY205.png",
+      "large": "https://images.pokemontcg.io/xyp/XY205_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY205",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5,
+          "mid": 9.99,
+          "high": 14.99,
+          "market": 9.63,
+          "directLow": 6.95
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY205",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.76,
+        "lowPrice": 3,
+        "trendPrice": 6.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 8.44,
+        "lowPriceExPlus": 3,
+        "avg1": 7,
+        "avg7": 5.47,
+        "avg30": 5.44,
+        "reverseHoloAvg1": 15,
+        "reverseHoloAvg7": 10.57,
+        "reverseHoloAvg30": 4.48
+      }
+    }
+  },
+  {
+    "id": "xyp-XY206",
+    "name": "Gym Badge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin until you get tails. For each heads, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY206",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY206.png",
+      "large": "https://images.pokemontcg.io/xyp/XY206_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY206",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 9.99,
+          "mid": 15.45,
+          "high": 18.89,
+          "market": 15.39,
+          "directLow": 9.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY206",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 4.63,
+        "lowPrice": 4.5,
+        "trendPrice": 5.37,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 10.46,
+        "lowPriceExPlus": 4.99,
+        "avg1": 8,
+        "avg7": 5.89,
+        "avg30": 5.58,
+        "reverseHoloAvg1": 17.99,
+        "reverseHoloAvg7": 8.22,
+        "reverseHoloAvg30": 4.87
+      }
+    }
+  },
+  {
+    "id": "xyp-XY207",
+    "name": "Gym Badge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin until you get tails. For each heads, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY207",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY207.png",
+      "large": "https://images.pokemontcg.io/xyp/XY207_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY207",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5,
+          "mid": 8.75,
+          "high": 16.09,
+          "market": 8.29,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY207",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 5.72,
+        "lowPrice": 5,
+        "trendPrice": 6.39,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 7.83,
+        "lowPriceExPlus": 5,
+        "avg1": 8,
+        "avg7": 5.57,
+        "avg30": 5.7,
+        "reverseHoloAvg1": 15,
+        "reverseHoloAvg7": 8.05,
+        "reverseHoloAvg30": 4.46
+      }
+    }
+  },
+  {
+    "id": "xyp-XY208",
+    "name": "Gym Badge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin until you get tails. For each heads, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY208",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY208.png",
+      "large": "https://images.pokemontcg.io/xyp/XY208_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY208",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 10,
+          "mid": 14.11,
+          "high": 16.75,
+          "market": 14.1,
+          "directLow": 15.29
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY208",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.07,
+        "lowPrice": 4.99,
+        "trendPrice": 7,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 5.31,
+        "lowPriceExPlus": 5,
+        "avg1": 8,
+        "avg7": 5.75,
+        "avg30": 6.11,
+        "reverseHoloAvg1": 10,
+        "reverseHoloAvg7": 4.67,
+        "reverseHoloAvg30": 3.23
+      }
+    }
+  },
+  {
+    "id": "xyp-XY209",
+    "name": "Gym Badge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin until you get tails. For each heads, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY209",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY209.png",
+      "large": "https://images.pokemontcg.io/xyp/XY209_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY209",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 5.99,
+          "mid": 11.29,
+          "high": 19.93,
+          "market": 10.15,
+          "directLow": 8.04
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY209",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.08,
+        "lowPrice": 4.75,
+        "trendPrice": 6.9,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 6.82,
+        "lowPriceExPlus": 5.89,
+        "avg1": 15,
+        "avg7": 6.55,
+        "avg30": 6,
+        "reverseHoloAvg1": 10,
+        "reverseHoloAvg7": 5.4,
+        "reverseHoloAvg30": 3.34
+      }
+    }
+  },
+  {
+    "id": "xyp-XY210",
+    "name": "Gym Badge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin until you get tails. For each heads, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY210",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY210.png",
+      "large": "https://images.pokemontcg.io/xyp/XY210_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY210",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 8.99,
+          "mid": 14.99,
+          "high": 19.5,
+          "market": 13.11,
+          "directLow": 14.99
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY210",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 6.27,
+        "lowPrice": 4.75,
+        "trendPrice": 6.46,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 7.07,
+        "lowPriceExPlus": 5,
+        "avg1": 8,
+        "avg7": 5.67,
+        "avg30": 5.83,
+        "reverseHoloAvg1": 9.9,
+        "reverseHoloAvg7": 7.12,
+        "reverseHoloAvg30": 3.69
+      }
+    }
+  },
+  {
+    "id": "xyp-XY211",
+    "name": "Lucario Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Lucario-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "series": "XY",
+      "printedTotal": 211,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PR-XY",
+      "releaseDate": "2013/10/12",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+        "logo": "https://images.pokemontcg.io/xyp/logo.png"
+      }
+    },
+    "number": "XY211",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xyp/XY211.png",
+      "large": "https://images.pokemontcg.io/xyp/XY211_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY211",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.25,
+          "mid": 0.84,
+          "high": 2.99,
+          "market": 0.74,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY211",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.4,
+        "lowPrice": 1.99,
+        "trendPrice": 2.76,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.19,
+        "lowPriceExPlus": 1.99,
+        "avg1": 4.95,
+        "avg7": 2.64,
+        "avg30": 2.1,
+        "reverseHoloAvg1": 1.19,
+        "reverseHoloAvg7": 1.2,
+        "reverseHoloAvg30": 1.2
+      }
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "sm7",
+  "name": "Celestial Storm",
+  "series": "Sun & Moon",
+  "printedTotal": 168,
+  "total": 187,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "CES",
+  "releaseDate": "2018/08/03",
+  "updatedAt": "2022/10/11 21:39:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/sm7/symbol.png",
+    "logo": "https://images.pokemontcg.io/sm7/logo.png"
+  }
+}

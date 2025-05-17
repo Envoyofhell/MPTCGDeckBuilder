@@ -1,0 +1,18 @@
+{
+  "id": "sm35",
+  "name": "Shining Legends",
+  "series": "Sun & Moon",
+  "printedTotal": 73,
+  "total": 81,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "SLG",
+  "releaseDate": "2017/10/06",
+  "updatedAt": "2022/10/11 21:39:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+    "logo": "https://images.pokemontcg.io/sm35/logo.png"
+  }
+}

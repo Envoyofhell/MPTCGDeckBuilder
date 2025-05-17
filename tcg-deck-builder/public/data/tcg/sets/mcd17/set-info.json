@@ -1,0 +1,17 @@
+{
+  "id": "mcd17",
+  "name": "McDonald's Collection 2017",
+  "series": "Other",
+  "printedTotal": 12,
+  "total": 12,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "releaseDate": "2017/11/07",
+  "updatedAt": "2022/10/10 15:12:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/mcd17/symbol.png",
+    "logo": "https://images.pokemontcg.io/mcd17/logo.png"
+  }
+}

@@ -1,0 +1,1678 @@
+[
+  {
+    "id": "xy8-133",
+    "name": "Assault Vest",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Any damage done to the Pokémon this card is attached to by attacks from your opponent's Pokémon that have any Special Energy attached to them is reduced by 40 (after applying Weakness and Resistance).",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "133",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/133.png",
+      "large": "https://images.pokemontcg.io/xy8/133_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": 0.12
+        },
+        "reverseHolofoil": {
+          "low": 0.11,
+          "mid": 0.36,
+          "high": 4.95,
+          "market": 0.39,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-133",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.13,
+        "lowPrice": 0.02,
+        "trendPrice": 0.2,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.94,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 0.91,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.09,
+        "avg7": 0.13,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 2.5,
+        "reverseHoloAvg7": 0.74,
+        "reverseHoloAvg30": 0.67
+      }
+    }
+  },
+  {
+    "id": "xy8-134",
+    "name": "Brigette",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for 1 Basic Pokémon-EX or 3 Basic Pokémon (except for Pokémon-EX) and put them onto your Bench. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "134",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/134.png",
+      "large": "https://images.pokemontcg.io/xy8/134_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.48,
+          "mid": 1.32,
+          "high": 89,
+          "market": 1.35,
+          "directLow": 0.5
+        },
+        "reverseHolofoil": {
+          "low": 1,
+          "mid": 3.25,
+          "high": 89,
+          "market": 3.75,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-134",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.94,
+        "lowPrice": 3.25,
+        "trendPrice": 1.97,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 3.25,
+        "avg1": 2.94,
+        "avg7": 1.95,
+        "avg30": 2.77,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "xy8-135",
+    "name": "Buddy-Buddy Rescue",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Each player puts a Pokémon from his or her discard pile into his or her hand. (Your opponent chooses first.)",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "135",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/135.png",
+      "large": "https://images.pokemontcg.io/xy8/135_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.08,
+          "mid": 0.25,
+          "high": 1.62,
+          "market": 0.2,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.45,
+          "high": 2,
+          "market": 0.4,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-135",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.22,
+        "lowPrice": 0.02,
+        "trendPrice": 0.22,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.95,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 1.18,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.26,
+        "avg7": 0.26,
+        "avg30": 0.22,
+        "reverseHoloAvg1": 0.95,
+        "reverseHoloAvg7": 1,
+        "reverseHoloAvg30": 0.83
+      }
+    }
+  },
+  {
+    "id": "xy8-136",
+    "name": "Fisherman",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Put 4 basic Energy cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "136",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/136.png",
+      "large": "https://images.pokemontcg.io/xy8/136_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 2.35,
+          "market": 0.23,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.49,
+          "high": 2.99,
+          "market": 0.45,
+          "directLow": 0.5
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-136",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.18,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.63,
+        "reverseHoloLow": 0.25,
+        "reverseHoloTrend": 0.59,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.12,
+        "avg7": 0.17,
+        "avg30": 0.21,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.67,
+        "reverseHoloAvg30": 0.62
+      }
+    }
+  },
+  {
+    "id": "xy8-137",
+    "name": "Float Stone",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Pokémon this card is attached to has no Retreat Cost.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "137",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/137.png",
+      "large": "https://images.pokemontcg.io/xy8/137_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 4,
+          "mid": 5.75,
+          "high": 89,
+          "market": 5.84,
+          "directLow": 6.97
+        },
+        "reverseHolofoil": {
+          "low": 4.81,
+          "mid": 6.99,
+          "high": 19.99,
+          "market": 6.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-137",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 1.3,
+        "lowPrice": 0,
+        "trendPrice": 1.35,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0,
+        "avg1": 1.25,
+        "avg7": 0.95,
+        "avg30": 0.95,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "xy8-138",
+    "name": "Giovanni's Scheme",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1:\n• Draw cards until you have 5 cards in your hand.\n• During this turn, your Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "138",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/138.png",
+      "large": "https://images.pokemontcg.io/xy8/138_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.24,
+          "high": 2.25,
+          "market": 0.18,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.16,
+          "mid": 0.41,
+          "high": 3.59,
+          "market": 0.39,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-138",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.19,
+        "lowPrice": 0.02,
+        "trendPrice": 0.15,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.89,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.85,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.09,
+        "avg30": 0.18,
+        "reverseHoloAvg1": 0.98,
+        "reverseHoloAvg7": 0.77,
+        "reverseHoloAvg30": 0.77
+      }
+    }
+  },
+  {
+    "id": "xy8-139",
+    "name": "Glalie Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Glalie-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "139",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/139.png",
+      "large": "https://images.pokemontcg.io/xy8/139_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.47,
+          "market": 0.2,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.12,
+          "mid": 0.5,
+          "high": 1.57,
+          "market": 0.59,
+          "directLow": 0.3
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-139",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.14,
+        "lowPrice": 0.02,
+        "trendPrice": 0.13,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.52,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.82,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.1,
+        "avg30": 0.17,
+        "reverseHoloAvg1": 0.19,
+        "reverseHoloAvg7": 0.71,
+        "reverseHoloAvg30": 0.62
+      }
+    }
+  },
+  {
+    "id": "xy8-140",
+    "name": "Heavy Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a Pokémon with a Retreat Cost of 3 or more, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "140",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/140.png",
+      "large": "https://images.pokemontcg.io/xy8/140_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.45,
+          "mid": 0.67,
+          "high": 4.25,
+          "market": 0.62,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.64,
+          "mid": 1.09,
+          "high": 3.84,
+          "market": 1.25,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-140",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2.49,
+        "lowPrice": 0.05,
+        "trendPrice": 1.95,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 2.4,
+        "avg1": 2.49,
+        "avg7": 1.7,
+        "avg30": 1.34,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "xy8-141",
+    "name": "Heavy Boots",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If the Retreat Cost of the Pokémon this card is attached to is 3 or more, that Pokémon gets +20 HP and can't be Confused. (If that Pokémon is currently Confused, remove that Special Condition.)",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "141",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/141.png",
+      "large": "https://images.pokemontcg.io/xy8/141_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 1.53,
+          "market": 0.1,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.08,
+          "mid": 0.33,
+          "high": 1.23,
+          "market": 0.2,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-141",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.16,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.68,
+        "reverseHoloLow": 0.1,
+        "reverseHoloTrend": 0.53,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.14,
+        "avg30": 0.13,
+        "reverseHoloAvg1": 0.96,
+        "reverseHoloAvg7": 0.56,
+        "reverseHoloAvg30": 0.44
+      }
+    }
+  },
+  {
+    "id": "xy8-142",
+    "name": "Houndoom Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Houndoom-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "142",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/142.png",
+      "large": "https://images.pokemontcg.io/xy8/142_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.22,
+          "high": 1.51,
+          "market": 0.22,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.36,
+          "high": 4.42,
+          "market": 0.36,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-142",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.21,
+        "lowPrice": 0.02,
+        "trendPrice": 0.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.56,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 0.66,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.15,
+        "avg7": 0.21,
+        "avg30": 0.19,
+        "reverseHoloAvg1": 0.8,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.61
+      }
+    }
+  },
+  {
+    "id": "xy8-143",
+    "name": "Judge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles his or her hand into his or her deck and draws 4 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "143",
+    "artist": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/143.png",
+      "large": "https://images.pokemontcg.io/xy8/143_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.29,
+          "high": 30.2,
+          "market": 0.25,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.34,
+          "mid": 1.11,
+          "high": 4.95,
+          "market": 1.31,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-143",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.26,
+        "lowPrice": 0.05,
+        "trendPrice": 0.31,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 1.03,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.13,
+        "avg7": 0.26,
+        "avg30": 0.34,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 1.18,
+        "reverseHoloAvg30": 1.48
+      }
+    }
+  },
+  {
+    "id": "xy8-144",
+    "name": "Mewtwo Spirit Link",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Mewtwo-EX.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "144",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/144.png",
+      "large": "https://images.pokemontcg.io/xy8/144_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.26,
+          "high": 1.99,
+          "market": 0.27,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.41,
+          "mid": 0.94,
+          "high": 3.99,
+          "market": 1.01,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-144",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.55,
+        "lowPrice": 0.07,
+        "trendPrice": 0.54,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.13,
+        "reverseHoloLow": 0.24,
+        "reverseHoloTrend": 2.58,
+        "lowPriceExPlus": 0.09,
+        "avg1": 0.75,
+        "avg7": 0.42,
+        "avg30": 0.52,
+        "reverseHoloAvg1": 1.5,
+        "reverseHoloAvg7": 2.67,
+        "reverseHoloAvg30": 1.81
+      }
+    }
+  },
+  {
+    "id": "xy8-145",
+    "name": "Parallel City",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Choose which way this card faces before you play it. This ↓ player can't have more than 3 Benched Pokémon. (When this card comes into play, this ↓ player discards Benched Pokémon until he or she has 3 Pokémon on the Bench.)",
+      "Choose which way this card faces before you play it. Any damage done by attacks from this ↓ player's Grass, Fire, or Water Pokémon is reduced by 20 (before applying Weakness and Resistance).",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "145",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/145.png",
+      "large": "https://images.pokemontcg.io/xy8/145_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.85,
+          "mid": 3,
+          "high": 5.99,
+          "market": 3.7,
+          "directLow": 4.95
+        },
+        "reverseHolofoil": {
+          "low": 1.9,
+          "mid": 3,
+          "high": 7.74,
+          "market": 3.19,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-145",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 2,
+        "lowPrice": 0,
+        "trendPrice": 1.98,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0,
+        "avg1": 2,
+        "avg7": 0.69,
+        "avg30": 0.69,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "xy8-146",
+    "name": "Professor's Letter",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "146",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/146.png",
+      "large": "https://images.pokemontcg.io/xy8/146_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.14,
+          "mid": 0.29,
+          "high": 89,
+          "market": 0.3,
+          "directLow": 0.29
+        },
+        "reverseHolofoil": {
+          "low": 0.24,
+          "mid": 0.94,
+          "high": 9.99,
+          "market": 0.89,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-146",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.23,
+        "lowPrice": 0.02,
+        "trendPrice": 0.33,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 2.5,
+        "reverseHoloLow": 0.45,
+        "reverseHoloTrend": 1.77,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.79,
+        "avg7": 0.41,
+        "avg30": 0.3,
+        "reverseHoloAvg1": 2.5,
+        "reverseHoloAvg7": 2.05,
+        "reverseHoloAvg30": 1.9
+      }
+    }
+  },
+  {
+    "id": "xy8-146a",
+    "name": "Professor's Letter",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "146a",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/146a.png",
+      "large": "https://images.pokemontcg.io/xy8/146a_hires.png"
+    }
+  },
+  {
+    "id": "xy8-147",
+    "name": "Reserved Ticket",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, search your deck for a card, shuffle your deck, then put that card on top of it.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "147",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/147.png",
+      "large": "https://images.pokemontcg.io/xy8/147_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 1.45,
+          "market": 0.11,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.3,
+          "high": 5,
+          "market": 0.25,
+          "directLow": 0.19
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-147",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.09,
+        "lowPrice": 0.02,
+        "trendPrice": 0.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0.64,
+        "reverseHoloLow": 0.15,
+        "reverseHoloTrend": 0.51,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.2,
+        "avg7": 0.09,
+        "avg30": 0.1,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.41
+      }
+    }
+  },
+  {
+    "id": "xy8-148",
+    "name": "Skyla",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a Trainer card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "148",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/148.png",
+      "large": "https://images.pokemontcg.io/xy8/148_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.25,
+          "high": 1.5,
+          "market": 0.19,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.2,
+          "mid": 0.5,
+          "high": 2.34,
+          "market": 0.59,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-148",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.17,
+        "lowPrice": 0.02,
+        "trendPrice": 0.22,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 1.07,
+        "reverseHoloLow": 0.2,
+        "reverseHoloTrend": 0.99,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.25,
+        "avg7": 0.22,
+        "avg30": 0.19,
+        "reverseHoloAvg1": 1.15,
+        "reverseHoloAvg7": 0.85,
+        "reverseHoloAvg30": 0.75
+      }
+    }
+  },
+  {
+    "id": "xy8-149",
+    "name": "Super Rod",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Shuffle 3 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "149",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/149.png",
+      "large": "https://images.pokemontcg.io/xy8/149_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 0.35,
+          "mid": 1.5,
+          "high": 89,
+          "market": 1.02,
+          "directLow": 0.82
+        },
+        "reverseHolofoil": {
+          "low": 1.16,
+          "mid": 3.46,
+          "high": 89,
+          "market": 3.92,
+          "directLow": 4.95
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-149",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 0.1,
+        "lowPrice": 0,
+        "trendPrice": 0.1,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0,
+        "avg1": 0.1,
+        "avg7": 0.09,
+        "avg30": 0.09,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "xy8-150",
+    "name": "Town Map",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.)",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "150",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/150.png",
+      "large": "https://images.pokemontcg.io/xy8/150_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "normal": {
+          "low": 2,
+          "mid": 3.5,
+          "high": 89,
+          "market": 3.52,
+          "directLow": 3.13
+        },
+        "reverseHolofoil": {
+          "low": 3.44,
+          "mid": 4.5,
+          "high": 33.11,
+          "market": 4.68,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-150",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 3.75,
+        "lowPrice": 0.05,
+        "trendPrice": 3.82,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 1.49,
+        "reverseHoloTrend": 4.01,
+        "lowPriceExPlus": 0.05,
+        "avg1": 2.75,
+        "avg7": 4.55,
+        "avg30": 3.44,
+        "reverseHoloAvg1": 1.9,
+        "reverseHoloAvg7": 4.94,
+        "reverseHoloAvg30": 4.17
+      }
+    }
+  },
+  {
+    "id": "xy8-161",
+    "name": "Brigette",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for 1 Basic Pokémon-EX or 3 Basic Pokémon (except for Pokémon-EX), and put them onto your Bench. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "161",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/161.png",
+      "large": "https://images.pokemontcg.io/xy8/161_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 19,
+          "mid": 33.05,
+          "high": 80,
+          "market": 33.83,
+          "directLow": 31.98
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-161",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 25.58,
+        "lowPrice": 4,
+        "trendPrice": 25.39,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 12.15,
+        "lowPriceExPlus": 20,
+        "avg1": 26,
+        "avg7": 27.92,
+        "avg30": 25.72,
+        "reverseHoloAvg1": 11.95,
+        "reverseHoloAvg7": 11.64,
+        "reverseHoloAvg30": 11.24
+      }
+    }
+  },
+  {
+    "id": "xy8-162",
+    "name": "Giovanni's Scheme",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1:\n• Draw cards until you have 5 cards in your hand.\n• During this turn, your Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "series": "XY",
+      "printedTotal": 162,
+      "total": 165,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "BKT",
+      "releaseDate": "2015/11/04",
+      "updatedAt": "2019/04/10 19:59:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy8/logo.png"
+      }
+    },
+    "number": "162",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/162.png",
+      "large": "https://images.pokemontcg.io/xy8/162_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy8-162",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "holofoil": {
+          "low": 12.68,
+          "mid": 21.28,
+          "high": 89.99,
+          "market": 23.4,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/xy8-162",
+      "updatedAt": "2025/05/16",
+      "prices": {
+        "averageSellPrice": 14.9,
+        "lowPrice": 2.95,
+        "trendPrice": 14.06,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 7.26,
+        "lowPriceExPlus": 16,
+        "avg1": 5,
+        "avg7": 15.97,
+        "avg30": 13.71,
+        "reverseHoloAvg1": 7.8,
+        "reverseHoloAvg7": 5.99,
+        "reverseHoloAvg30": 6.47
+      }
+    }
+  }
+]

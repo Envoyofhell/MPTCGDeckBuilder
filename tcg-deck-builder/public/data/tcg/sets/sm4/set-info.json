@@ -1,0 +1,18 @@
+{
+  "id": "sm4",
+  "name": "Crimson Invasion",
+  "series": "Sun & Moon",
+  "printedTotal": 111,
+  "total": 126,
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "ptcgoCode": "CIN",
+  "releaseDate": "2017/11/03",
+  "updatedAt": "2022/10/11 21:39:00",
+  "images": {
+    "symbol": "https://images.pokemontcg.io/sm4/symbol.png",
+    "logo": "https://images.pokemontcg.io/sm4/logo.png"
+  }
+}
