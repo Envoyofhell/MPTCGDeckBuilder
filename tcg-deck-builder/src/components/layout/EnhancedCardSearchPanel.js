@@ -1,4 +1,5 @@
-// src/components/layout/EnhancedCardSearchPanel.js
+// src/components/layout/EnhancedCardSearchPanel.js - Complete fixed version
+
 import React, { useState, useEffect, useContext, useCallback, useRef } from "react";
 import Card from 'react-bootstrap/Card';
 import CardContainer from "../CardContainer";
@@ -35,14 +36,13 @@ import { useDoubleClick } from "../../context/DoubleClickContext";
 import CardJSONValidator from "../../utils/CardJsonValidator";
 import { CardStorageManager } from "../../utils/TCGapi/CardStorageManager";
 import { CardSearchManager } from "../../utils/TCGapi/CardSearchManager";
-import { CustomCardManager } from "../../utils/TCGapi/CustomCardManager";
+// Ensure correct casing for CustomCardManager import
+import { customCardManager } from "../../utils/TCGapi/CustomCardManager";
 import CustomCardCreator from "../modals/CustomCardCreator";
 import { AppThemeContext } from "../../context/AppThemeContext";
 import PkmnCard from "../PkmnCard";
-
-// Import the modularized managers that will replace EnhancedTCGController
-// Note: These will need to be created as part of this update
-// For now, we'll continue using EnhancedTCGController but plan for the transition
+import CustomCardImportExport from '../modals/CustomCardImportExport';
+import CardPreviewModal from '../CardPreviewModal';
 
 // For backward compatibility until the new modules are fully implemented
 import EnhancedTCGController from "../../utils/TCGapi/EnhancedTCGController";
@@ -106,6 +106,9 @@ function EnhancedCardSearchPanel() {
     const [filterSearchTerm, setFilterSearchTerm] = useState('');
     const [previewCard, setPreviewCard] = useState(null);
     const [showPreviewModal, setShowPreviewModal] = useState(false);
+    const [showCustomCardImportExport, setShowCustomCardImportExport] = useState(false);
+    const [customCardSearchTerm, setCustomCardSearchTerm] = useState('');
+    const [showCustomCardModal, setShowCustomCardModal] = useState(false); // Added this missing state
     
     // Basic filter state
     const [filterOptions, setFilterOptions] = useState({
@@ -146,9 +149,6 @@ function EnhancedCardSearchPanel() {
         series: [],
         regulationMarks: ['D', 'E', 'F', 'G', 'I']
     });
-    
-    // State for custom card modal
-    const [showCustomCardModal, setShowCustomCardModal] = useState(false);
 
     // Handle sets section expansion
     useEffect(() => {
@@ -760,6 +760,26 @@ function EnhancedCardSearchPanel() {
     const formatDate = (timestamp) => {
         const date = new Date(timestamp);
         return date.toLocaleDateString() + ' ' + date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+    };
+
+    // Handle custom card search - Fixed
+    const handleCustomCardSearch = (term) => {
+        setCustomCardSearchTerm(term);
+        if (term.trim() === '') {
+            setCustomCards(customCardManager.getAllCustomCards());
+        } else {
+            setCustomCards(customCardManager.searchCustomCards(term));
+        }
+    };
+
+    // Add function for custom card import/export
+    const handleCustomCardImportExport = () => {
+        setShowCustomCardImportExport(true);
+    };
+
+    // Add function for custom card import completion
+    const handleCustomCardImportComplete = () => {
+        loadCustomCards(); // Refresh the custom cards list
     };
 
     // Basic Search Tab Content
@@ -1489,54 +1509,6 @@ function EnhancedCardSearchPanel() {
         </div>
     );
 
-    // Card preview modal
-    const CardPreviewModal = () => (
-        <Modal
-            show={showPreviewModal}
-            onHide={() => setShowPreviewModal(false)}
-            centered
-            size="lg"
-            contentClassName={theme === 'dark' ? 'bg-dark text-white' : ''}
-        >
-            <Modal.Header closeButton>
-                <Modal.Title>{previewCard?.name || 'Card Preview'}</Modal.Title>
-            </Modal.Header>
-            <Modal.Body className="text-center">
-                {previewCard && (
-                    <div className="d-flex flex-column align-items-center">
-                        <img 
-                            src={previewCard.images?.large || previewCard.image} 
-                            alt={previewCard.name} 
-                            style={{ maxWidth: '100%', maxHeight: '70vh' }} 
-                        />
-                        <div className="mt-3">
-                            <h5>{previewCard.name}</h5>
-                            {previewCard.supertype && <p>{previewCard.supertype} - {previewCard.subtypes?.join(', ')}</p>}
-                            {previewCard.hp && <p>HP: {previewCard.hp}</p>}
-                            {previewCard.types && <p>Types: {previewCard.types.join(', ')}</p>}
-                        </div>
-                    </div>
-                )}
-            </Modal.Body>
-            <Modal.Footer>
-                <Button variant="secondary" onClick={() => setShowPreviewModal(false)}>
-                    Close
-                </Button>
-                {previewCard && (
-                    <Button 
-                        variant="primary" 
-                        onClick={() => {
-                            handleCardDoubleClick(previewCard);
-                            setShowPreviewModal(false);
-                        }}
-                    >
-                        Add to Deck
-                    </Button>
-                )}
-            </Modal.Footer>
-        </Modal>
-    );
-
     return (
         <div className={styles.searchPanel} ref={searchPanelRef}>
             <Card className={styles.fixedHeaderCard}>
@@ -1651,14 +1623,39 @@ function EnhancedCardSearchPanel() {
                         <>
                             <div className="d-flex justify-content-between align-items-center mb-3">
                                 <h5>{customCards.length} Custom Cards</h5>
-                                <Button 
-                                    variant="primary" 
-                                    onClick={() => setShowCustomCardModal(true)}
-                                >
-                                    <FontAwesomeIcon icon={faPlus} className="me-2" />
-                                    Create Custom Card
-                                </Button>
+                                <div>
+                                    <Button 
+                                        variant="primary" 
+                                        onClick={() => setShowCustomCardModal(true)}
+                                        className="me-2"
+                                    >
+                                        <FontAwesomeIcon icon={faPlus} className="me-2" />
+                                        Create Card
+                                    </Button>
+                                    <Button 
+                                        variant="info" 
+                                        onClick={handleCustomCardImportExport}
+                                    >
+                                        <FontAwesomeIcon icon={faFileImport} className="me-2" />
+                                        Import/Export
+                                    </Button>
+                                </div>
                             </div>
+                            
+                            {/* Add search for custom cards */}
+                            <Form className="mb-3">
+                                <InputGroup>
+                                    <Form.Control
+                                        type="text"
+                                        placeholder="Search custom cards..."
+                                        value={customCardSearchTerm}
+                                        onChange={(e) => handleCustomCardSearch(e.target.value)}
+                                    />
+                                    <Button variant="outline-secondary">
+                                        <FontAwesomeIcon icon={faMagnifyingGlass} />
+                                    </Button>
+                                </InputGroup>
+                            </Form>
                             
                             {customCards.length > 0 ? (
                                 <CardContainer 
@@ -1804,7 +1801,21 @@ function EnhancedCardSearchPanel() {
                 onCardCreated={handleCustomCardCreated}
             />
             
-            <CardPreviewModal />
+            <CustomCardImportExport
+                show={showCustomCardImportExport}
+                onHide={() => setShowCustomCardImportExport(false)}
+                onImportComplete={handleCustomCardImportComplete}
+                theme={theme}
+            />
+
+            {/* Use the improved CardPreviewModal component */}
+            <CardPreviewModal
+                show={showPreviewModal}
+                onHide={() => setShowPreviewModal(false)}
+                card={previewCard}
+                theme={theme}
+                onAddToDeck={handleCardDoubleClick}
+            />
         </div>
     );
 }

@@ -1,3 +1,5 @@
+// src/components/PkmnCard.js - Improved card display
+
 import React, { useState, useCallback } from 'react';
 import PropTypes from 'prop-types';
 import Card from 'react-bootstrap/Card';
@@ -9,7 +11,7 @@ import styles from './css/PkmnCard.module.css';
 import CardJSONValidator from '../utils/CardJsonValidator';
 
 /**
- * Enhanced Pokémon Card component with improved error handling and customization options
+ * Enhanced Pokémon Card component with improved error handling and display
  */
 function PkmnCard({ 
   cardObj, 
@@ -34,9 +36,6 @@ function PkmnCard({
         console.error("Card object is null or undefined");
         return '';
       }
-      
-      // Debug log the card object to help diagnose issues
-      console.log('Processing card:', cardObj.name, 'type:', cardObj.supertype, 'image data:', cardObj.images || cardObj.image || cardObj.imageUrl || 'none');
       
       // For database cards (from API)
       if (validator.isDatabaseCard(cardObj)) {
@@ -98,20 +97,19 @@ function PkmnCard({
   /**
    * Handle image load success
    */
-  const handleImageLoad = () => {
-    console.log("Image loaded successfully for:", cardObj.name);
+  const handleImageLoad = useCallback(() => {
     setIsLoading(false);
     setImageError(false);
-  };
+  }, []);
 
   /**
    * Handle image load error
    */
-  const handleImageError = () => {
+  const handleImageError = useCallback(() => {
     console.error("Image load error for:", cardObj.name, "image path:", getCardImage());
     setIsLoading(false);
     setImageError(true);
-  };
+  }, [cardObj]);
 
   /**
    * Get card type display text
@@ -176,10 +174,10 @@ function PkmnCard({
           />
         )}
         
-        {/* Fallback for missing images */}
+        {/* Fallback for missing images - Enhanced with card name display */}
         {!isLoading && imageError && (
           <div className="d-flex flex-column align-items-center justify-content-center h-100 p-2 text-center">
-            <div style={{ fontSize: '0.8rem', fontWeight: 'bold' }}>
+            <div style={{ fontSize: '0.9rem', fontWeight: 'bold' }}>
               {cardObj?.name || 'Unknown Card'}
             </div>
             {cardObj?.supertype && (
@@ -191,6 +189,19 @@ function PkmnCard({
                 {getCardTypeText()}
               </Badge>
             )}
+            {/* Add HP display for Pokémon cards */}
+            {cardObj?.supertype === 'Pokémon' && cardObj?.hp && (
+              <Badge bg="dark" className="mt-1">
+                HP {cardObj.hp}
+              </Badge>
+            )}
+          </div>
+        )}
+        
+        {/* Custom card badge now displays the card name */}
+        {cardObj?.isCustom && (
+          <div className={styles.customNameBadge}>
+            {cardObj?.name || 'Custom Card'}
           </div>
         )}
       </Card>

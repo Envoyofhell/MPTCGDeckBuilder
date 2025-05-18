@@ -9,9 +9,10 @@
     max-height: 70vh;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
     border-radius: 8px;
-    margin: 10px auto;
-    overflow-y: hidden;
+    margin: 20px auto;
+    overflow-y: auto;
     position: relative;
+    padding-top: 2.5rem;
 }
 
 .cardContainer {

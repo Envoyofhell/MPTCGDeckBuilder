@@ -1,176 +1,180 @@
-/* src/components/layout/css/CardSearchPanel.module.css */
+/* src/components/layout/css/CardSearchPanel.module.css - Fixed container styles */
 .searchPanel {
-    margin: 1rem;
-    border-radius: 0.5rem;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.3s ease, border-color 0.3s ease;
     height: 100%;
-}
-
-/* Fixed Header Card Structure */
-.fixedHeaderCard {
+    display: flex;
+    flex-direction: column;
+    border-radius: 0.5rem; /* Kept original border-radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Kept original box-shadow */
+    transition: background-color 0.3s ease, border-color 0.3s ease; /* Kept original transition */
+    margin: 0; /* Remove margin to prevent gaps */
+    overflow: hidden; /* Prevent overall scrolling */
+    padding-top: 2.5rem;
+  }
+  
+  /* Fixed Header Card Structure */
+  .fixedHeaderCard {
     display: flex;
     flex-direction: column;
     height: 100%;
     overflow: hidden; /* Prevent card itself from scrolling */
-}
-
-.fixedHeader {
+  }
+  
+  .fixedHeader {
     position: sticky;
     top: 0;
     z-index: 10;
-    background-color: inherit;
-}
-
-.secondaryHeader {
+    background-color: inherit; /* Or your desired header background */
+  }
+  
+  .secondaryHeader {
     position: sticky;
     top: 56px; /* Adjust based on the height of the primary header */
     z-index: 9;
-    border-bottom: 1px solid rgba(0,0,0,0.125);
-}
-
-.searchFormHeader {
+    border-bottom: 1px solid rgba(0,0,0,0.125); /* Style for separation */
+  }
+  
+  .searchFormHeader {
     position: sticky;
     top: 112px; /* Adjust based on the combined height of the headers above */
     z-index: 8;
-    border-bottom: 1px solid rgba(0,0,0,0.125);
-    padding-bottom: 0.5rem;
-}
-
-.scrollableBody {
-    flex: 1;
-    overflow-y: hidden;
-    padding: 11rem;
-}
-
-.fixedSearchForm {
-    position: relative;
-    z-index: 7;
-}
-
-/* Accordion and Filter Styling */
-.accordionBodyEnhanced {
+    border-bottom: 1px solid rgba(0,0,0,0.125); /* Style for separation */
+    padding-bottom: 0.5rem; /* Space before content below */
+  }
+  
+  .scrollableBody {
+    flex: 1; /* Allows this area to grow and take available space */
+    overflow-y: auto; /* Only the body scrolls vertically */
+    padding: 0.5rem; /* Reduce padding to avoid overflow and ensure content is visible */
+  }
+  
+  .fixedSearchForm {
+    position: relative; /* Changed from sticky as headers above handle stickiness */
+    z-index: 7; /* Ensures it's above general content but below fixed headers */
+  }
+  
+  /* Accordion and Filter Styling */
+  .accordionBodyEnhanced {
     border-top: 1px solid var(--theme-accent-purple-primary, #8a2be2);
     background-color: rgba(138, 43, 226, 0.05); /* Very subtle purple background */
     padding: 1.25rem;
-}
-
-/* Filter Headers with Glow */
-.filterHeaderGlow {
+  }
+  
+  /* Filter Headers with Glow */
+  .filterHeaderGlow {
     color: var(--theme-accent-purple-primary, #8a2be2);
     text-shadow: 0 0 5px var(--theme-accent-purple-glow, rgba(138, 43, 226, 0.3));
     font-weight: 600;
     margin-bottom: 0.75rem;
     font-size: 1.1rem;
     letter-spacing: 0.5px;
-}
-
-/* For dark theme */
-:global(.dark-theme) .filterHeaderGlow {
+  }
+  
+  /* For dark theme */
+  :global(.dark-theme) .filterHeaderGlow {
     color: #c29efa;
     text-shadow: 0 0 8px rgba(194, 158, 250, 0.5);
-}
-
-/* Enhanced Checkbox */
-.enhancedCheckbox label {
+  }
+  
+  /* Enhanced Checkbox */
+  .enhancedCheckbox label {
     color: var(--theme-accent-purple-primary, #8a2be2);
     font-weight: 500;
-}
-
-:global(.dark-theme) .enhancedCheckbox label {
+  }
+  
+  :global(.dark-theme) .enhancedCheckbox label {
     color: #c29efa;
-}
-
-/* Autocomplete Dropdown */
-.searchInputContainer {
-    position: relative;
-}
-
-.autocompleteDropdown {
+  }
+  
+  /* Autocomplete Dropdown */
+  .searchInputContainer {
+    position: relative; /* Needed for absolute positioning of dropdown */
+  }
+  
+  .autocompleteDropdown {
     position: absolute;
-    top: 100%;
+    top: 100%; /* Position below the input */
     left: 0;
     width: 100%;
-    max-height: 200px;
-    overflow-y: auto;
-    background-color: white;
-    border: 1px solid #ced4da;
-    border-radius: 0.25rem;
-    z-index: 1000;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-:global(.dark-theme) .autocompleteDropdown {
-    background-color: #2c3034;
-    border-color: #495057;
-    color: #f8f9fa;
-}
-
-.autocompleteItem {
-    padding: 0.5rem 1rem;
-    cursor: pointer;
-}
-
-.autocompleteItem:hover {
-    background-color: #f8f9fa;
-}
-
-:global(.dark-theme) .autocompleteItem:hover {
-    background-color: #343a40;
-}
-
-/* Favorite button positioning */
-.favoriteContainer {
+    max-height: 200px; /* Limit height to prevent overly long dropdowns */
+    overflow-y: auto; /* Allow scrolling within dropdown */
+    background-color: white; /* Default background */
+    border: 1px solid #ced4da; /* Standard border */
+    border-radius: 0.25rem; /* Slight rounding */
+    z-index: 1000; /* Ensure dropdown is above other elements */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  :global(.dark-theme) .autocompleteDropdown {
+    background-color: #2c3034; /* Dark theme background */
+    border-color: #495057; /* Dark theme border */
+    color: #f8f9fa; /* Dark theme text color */
+  }
+  
+  .autocompleteItem {
+    padding: 0.5rem 1rem; /* Padding for items */
+    cursor: pointer; /* Indicate interactivity */
+  }
+  
+  .autocompleteItem:hover {
+    background-color: #f8f9fa; /* Hover effect for light theme */
+  }
+  
+  :global(.dark-theme) .autocompleteItem:hover {
+    background-color: #343a40; /* Hover effect for dark theme */
+  }
+  
+  /* Favorite button positioning */
+  .favoriteContainer {
     position: absolute;
     top: 10px;
-    left: 10px; /* Changed from right to left */
-    z-index: 100;
-}
-
-.favoriteButton {
+    left: 10px; /* Changed from right to left as per original */
+    z-index: 100; /* Ensure it's above card content */
+  }
+  
+  .favoriteButton {
     cursor: pointer;
-    background-color: rgba(255, 255, 255, 0.8);
-    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    border-radius: 50%; /* Circular button */
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-}
-
-:global(.dark-theme) .favoriteButton {
-    background-color: rgba(52, 58, 64, 0.8);
-}
-
-/* Advanced Accordion */
-.advancedAccordion :global(.accordion-button:not(.collapsed)) {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Shadow for depth */
+  }
+  
+  :global(.dark-theme) .favoriteButton {
+    background-color: rgba(52, 58, 64, 0.8); /* Dark theme background for button */
+  }
+  
+  /* Advanced Accordion */
+  .advancedAccordion :global(.accordion-button:not(.collapsed)) {
     color: var(--theme-accent-purple-primary, #8a2be2);
-    background-color: rgba(138, 43, 226, 0.08);
-    box-shadow: inset 0 -1px 0 var(--theme-border-accent-purple, rgba(138, 43, 226, 0.2));
-}
-
-:global(.dark-theme) .advancedAccordion :global(.accordion-button:not(.collapsed)) {
-    color: #c29efa;
-    background-color: rgba(138, 43, 226, 0.15);
-}
-
-.formRow {
-    margin-bottom: 1rem;
-}
-
-.searchInput {
-    border-top-right-radius: 0;
+    background-color: rgba(138, 43, 226, 0.08); /* Slightly different background when open */
+    box-shadow: inset 0 -1px 0 var(--theme-border-accent-purple, rgba(138, 43, 226, 0.2)); /* Inner shadow for separation */
+  }
+  
+  :global(.dark-theme) .advancedAccordion :global(.accordion-button:not(.collapsed)) {
+    color: #c29efa; /* Dark theme accent color */
+    background-color: rgba(138, 43, 226, 0.15); /* Dark theme background when open */
+  }
+  
+  .formRow {
+    margin-bottom: 1rem; /* Spacing between form rows */
+  }
+  
+  .searchInput {
+    border-top-right-radius: 0; /* For seamless connection with search button */
     border-bottom-right-radius: 0;
-}
-
-.searchButton {
-    border-top-left-radius: 0;
+  }
+  
+  .searchButton {
+    border-top-left-radius: 0; /* For seamless connection with search input */
     border-bottom-left-radius: 0;
-}
-
-/* Card preview hover effect */
-.cardPreviewHover {
+  }
+  
+  /* Card preview hover effect */
+  .cardPreviewHover {
     position: absolute;
     bottom: 10px;
     right: 10px;
@@ -181,41 +185,41 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    opacity: 0;
-    transition: opacity 0.2s;
+    opacity: 0; /* Hidden by default */
+    transition: opacity 0.2s; /* Smooth transition for visibility */
     cursor: pointer;
     z-index: 100;
-    overflow: hidden;
-}
-
-:global(.card-item:hover) .cardPreviewHover {
-    opacity: 1;
-}
-
-:global(.dark-theme) .cardPreviewHover {
-    background-color: rgba(52, 58, 64, 0.8);
-    color: white;
-}
-
-/* For making the card name visible in search results */
-.cardNameTooltip {
+    overflow: hidden; /* Ensure content (icon) doesn't spill */
+  }
+  
+  :global(.card-item:hover) .cardPreviewHover {
+    opacity: 1; /* Show on hover of parent .card-item */
+  }
+  
+  :global(.dark-theme) .cardPreviewHover {
+    background-color: rgba(52, 58, 64, 0.8); /* Dark theme background */
+    color: white; /* Icon color for dark theme */
+  }
+  
+  /* For making the card name visible in search results */
+  .cardNameTooltip {
     position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(0, 0, 0, 0.7);
-    color: white;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent dark background */
+    color: white; /* Light text color */
     padding: 5px;
     text-align: center;
-    opacity: 0;
-    transition: opacity 0.2s;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    z-index: 90;
-}
-
-:global(.card-item:hover) .cardNameTooltip {
-    opacity: 1;
-}
+    opacity: 0; /* Hidden by default */
+    transition: opacity 0.2s; /* Smooth transition */
+    white-space: nowrap; /* Prevent name from wrapping */
+    overflow: hidden; /* Hide overflow */
+    text-overflow: ellipsis; /* Show ellipsis for long names */
+    z-index: 90; /* Below preview hover icon but above card image */
+  }
+  
+  :global(.card-item:hover) .cardNameTooltip {
+    opacity: 1; /* Show on hover of parent .card-item */
+  }
+  

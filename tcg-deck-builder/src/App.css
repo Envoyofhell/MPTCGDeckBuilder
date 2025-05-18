@@ -1,4 +1,4 @@
-/* src/App.css */
+/* src/App.css - Fixed layout */
 
 .App {
   display: flex;
@@ -10,7 +10,8 @@
 }
 
 .content {
-  padding-top: 75px; /* IMPORTANT: Adjust to your Header height! */
+  /* Adjusted to match exactly the header height */
+  padding-top: 56px;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -25,15 +26,31 @@
 
 .enhanced-card-search-panel-container,
 .deck-view-panel-container {
-  height: 100%;
-  overflow-y: hidden;
-  /* Removed padding: 1rem; from here to avoid double padding if Card has its own */
+  /* Viewport height minus header height minus padding */
+  height: calc(100vh - 56px - 2rem);
+  /* Changed from overflow-y to overflow to prevent horizontal scroll */
+  overflow: hidden;
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
 }
 
 .enhanced-card-search-panel-container { flex: 1; }
 .deck-view-panel-container { flex: 1; }
 
+/* Card containers should have internal scrolling */
+.card-body {
+  overflow-y: auto;
+  flex: 1;
+}
+
+/* Fixed header elements should not scroll */
+.fixed-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: inherit; /* Or your desired header background */
+}
 
 /* --- Global Base Button Styling --- */
 /* This will apply to all elements with the .btn class from Bootstrap */
@@ -64,7 +81,7 @@
 /* For icon-only buttons or when text is hidden, remove margin */
 .btn .d-none.d-sm-inline + .svg-inline--fa, /* If text is hidden before icon */
 .btn .svg-inline--fa:last-child:not(:first-child) { /* If icon is last and not only child (less common) */
-   /* This might be too complex, better handle in component if text is truly hidden */
+    /* This might be too complex, better handle in component if text is truly hidden */
 }
 .btn > .svg-inline--fa:first-child:last-child { /* Icon-only button */
     margin-right: 0;
@@ -210,4 +227,3 @@
 .light-theme .input-group-text { background-color: var(--theme-light-surface1); border: 1px solid var(--theme-border-light); color: var(--theme-text-muted-light); }
 .light-theme .input-group-text .form-select { background-color: transparent; color: var(--theme-text-ominous-blue-primary); border: none !important; box-shadow: none !important; }
 .light-theme .input-group-text .form-select:focus { background-color: var(--theme-light-surface2); }
-

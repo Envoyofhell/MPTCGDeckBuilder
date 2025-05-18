@@ -1,9 +1,9 @@
-// src/utils/TCGapi/CustomCardManager.js
+// src/utils/TCGapi/CustomCardManager.js - Properly cased file
 
 /**
  * CustomCardManager
- * Manages creation, storage, and manipulation of custom cards
- * @version 1.0.0
+ * Manages creation, storage, and manipulation of custom cards with improved search
+ * @version 1.1.0
  */
 export class CustomCardManager {
     constructor() {
@@ -235,6 +235,61 @@ export class CustomCardManager {
     }
     
     /**
+     * Search custom cards by name or attributes
+     * @param {string} query - Search term
+     * @returns {Array} Filtered custom cards
+     */
+    searchCustomCards(query) {
+        if (!query || query.trim() === '') {
+            return this.getAllCustomCards();
+        }
+        
+        // Normalize query for case-insensitive search
+        const normalizedQuery = query.toLowerCase().trim();
+        
+        return this.customCards.filter(card => {
+            // Search in card name
+            if (card.name && card.name.toLowerCase().includes(normalizedQuery)) {
+                return true;
+            }
+            
+            // Search in subtypes
+            if (card.subtypes && card.subtypes.some(subtype => 
+                subtype.toLowerCase().includes(normalizedQuery))) {
+                return true;
+            }
+            
+            // Search in types (for Pokémon cards)
+            if (card.types && card.types.some(type => 
+                type.toLowerCase().includes(normalizedQuery))) {
+                return true;
+            }
+            
+            // Search in abilities
+            if (card.abilities && card.abilities.some(ability => 
+                ability.name.toLowerCase().includes(normalizedQuery) || 
+                ability.text.toLowerCase().includes(normalizedQuery))) {
+                return true;
+            }
+            
+            // Search in attacks
+            if (card.attacks && card.attacks.some(attack => 
+                attack.name.toLowerCase().includes(normalizedQuery) || 
+                (attack.text && attack.text.toLowerCase().includes(normalizedQuery)))) {
+                return true;
+            }
+            
+            // Search in rules text
+            if (card.rules && card.rules.some(rule => 
+                rule.toLowerCase().includes(normalizedQuery))) {
+                return true;
+            }
+            
+            return false;
+        });
+    }
+    
+    /**
      * Get a custom card by ID
      * @param {String} id - Card ID
      * @returns {Object|null} Custom card or null if not found
@@ -440,6 +495,149 @@ export class CustomCardManager {
     }
     
     /**
+     * Export custom cards to a dedicated format 
+     * @param {Array} cards - Cards to export (or all if not specified)
+     * @param {Boolean} includeFullMetadata - Whether to include all metadata
+     * @returns {String} JSON string with custom cards data
+     */
+    exportCustomCardsToFile(cards = null, includeFullMetadata = true) {
+        try {
+            const cardsToExport = cards || this.getAllCustomCards();
+            
+            if (includeFullMetadata) {
+                // Export complete card data
+                return JSON.stringify(cardsToExport, null, 2);
+            } else {
+                // Export simplified card data
+                const simplifiedCards = cardsToExport.map(card => ({
+                    name: card.name,
+                    supertype: card.supertype,
+                    subtypes: card.subtypes || [],
+                    hp: card.hp || '',
+                    types: card.types || [],
+                    image: card.image || card.imageUrl,
+                    // Include only essential fields for compatibility
+                }));
+                return JSON.stringify(simplifiedCards, null, 2);
+            }
+        } catch (error) {
+            console.error('Error exporting custom cards:', error);
+            throw new Error(`Failed to export custom cards: ${error.message}`);
+        }
+    }
+    
+    /**
+     * Import custom cards from file
+     * @param {String} jsonData - JSON string with card data
+     * @returns {Object} Result with success status and count of imported cards
+     */
+    importCustomCardsFromFile(jsonData) {
+        try {
+            // Parse the JSON data
+            const importedCards = JSON.parse(jsonData);
+            
+            // Validate it's an array
+            if (!Array.isArray(importedCards)) {
+                throw new Error('Invalid format: expected an array of cards');
+            }
+            
+            // Validate each card has the minimum required fields
+            const validCards = importedCards.filter(card => 
+                card && 
+                card.name && 
+                card.supertype && 
+                (card.image || card.imageUrl));
+            
+            if (validCards.length === 0) {
+                throw new Error('No valid cards found in import data');
+            }
+            
+            // Process each card and generate proper custom card format
+            const processedCards = validCards.map(card => {
+                // Generate a unique ID if not present
+                const id = card.id || `custom-${Date.now()}-${Math.random().toString(36).substring(2, 9)}`;
+                
+                // Use the image URL provided or default
+                const imageUrl = card.image || card.imageUrl || this.DEFAULT_IMAGES[card.supertype || 'Unknown'];
+                
+                // Create a properly formatted custom card
+                return {
+                    id: id,
+                    name: card.name,
+                    supertype: card.supertype,
+                    subtypes: card.subtypes || [],
+                    hp: card.hp || '',
+                    types: card.types || [],
+                    rules: card.rules || [],
+                    abilities: card.abilities || [],
+                    attacks: card.attacks || [],
+                    weaknesses: card.weaknesses || [],
+                    resistances: card.resistances || [],
+                    retreatCost: card.retreatCost || [],
+                    convertedRetreatCost: card.retreatCost ? card.retreatCost.length : 0,
+                    rarity: card.rarity || 'Custom',
+                    artist: card.artist || 'Custom Artist',
+                    isCustom: true,
+                    image: imageUrl,
+                    imageUrl: imageUrl,
+                    images: {
+                        small: imageUrl,
+                        large: imageUrl
+                    },
+                    number: card.number || `C${Math.floor(Math.random() * 1000)}`,
+                    set: card.set || {
+                        id: "custom",
+                        name: "Custom Cards",
+                        series: "Custom",
+                        printedTotal: 0,
+                        total: 0,
+                        legalities: {
+                            unlimited: "Legal",
+                            standard: "Legal",
+                            expanded: "Legal"
+                        },
+                        releaseDate: new Date().toISOString().split('T')[0],
+                        updatedAt: new Date().toISOString()
+                    }
+                };
+            });
+            
+            // Check if we need to merge or replace
+            const willExceedLimit = this.customCards.length + processedCards.length > this.MAX_CUSTOM_CARDS;
+            
+            if (willExceedLimit) {
+                // If adding would exceed limit, keep most recent cards
+                const totalToKeep = this.MAX_CUSTOM_CARDS;
+                const existingToKeep = Math.max(0, totalToKeep - processedCards.length);
+                
+                // Keep newest existing cards plus all imported ones up to the limit
+                this.customCards = [
+                    ...this.customCards.slice(-existingToKeep),
+                    ...processedCards.slice(0, totalToKeep - existingToKeep)
+                ];
+            } else {
+                // Just add the new cards
+                this.customCards = [...this.customCards, ...processedCards];
+            }
+            
+            // Save to storage
+            this.saveCustomCards();
+            
+            return {
+                success: true,
+                importedCount: processedCards.length,
+                totalCount: this.customCards.length
+            };
+        } catch (error) {
+            console.error('Error importing custom cards:', error);
+            return {
+                success: false,
+                error: error.message
+            };
+        }
+    }
+    
+    /**
      * Clear all custom cards
      * @returns {Boolean} Success status
      */
@@ -451,60 +649,6 @@ export class CustomCardManager {
             return true;
         } catch (error) {
             console.error("Error clearing custom cards:", error);
-            return false;
-        }
-    }
-    
-    /**
-     * Export custom cards as JSON
-     * @returns {String} JSON string
-     */
-    exportCustomCardsAsJson() {
-        try {
-            return JSON.stringify(this.customCards);
-        } catch (error) {
-            console.error("Error exporting custom cards:", error);
-            return null;
-        }
-    }
-    
-    /**
-     * Import custom cards from JSON
-     * @param {String} jsonData - JSON string
-     * @returns {Boolean} Success status
-     */
-    importCustomCardsFromJson(jsonData) {
-        try {
-            const cards = JSON.parse(jsonData);
-            
-            // Validate that it's an array
-            if (!Array.isArray(cards)) {
-                throw new Error("Invalid custom cards data: not an array");
-            }
-            
-            // Ensure all cards have required fields
-            const validCards = cards.filter(card => 
-                card && 
-                card.name && 
-                card.supertype && 
-                (card.image || card.imageUrl)
-            );
-            
-            if (validCards.length === 0) {
-                throw new Error("No valid cards found in import data");
-            }
-            
-            // Limit to maximum number of cards
-            const limitedCards = validCards.slice(-this.MAX_CUSTOM_CARDS);
-            
-            // Update and save
-            this.customCards = limitedCards;
-            this.saveCustomCards();
-            
-            console.log(`Imported ${limitedCards.length} custom cards`);
-            return true;
-        } catch (error) {
-            console.error("Error importing custom cards:", error);
             return false;
         }
     }

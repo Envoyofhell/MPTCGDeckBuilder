@@ -1,105 +1,121 @@
-/* src/components/layout/css/DeckViewPanel.module.css */
+/* src/components/layout/css/DeckViewPanel.module.css - Fixed styles */
 .viewPanel {
     display: flex; /* Use flexbox for the main panel */
     flex-direction: column; /* Stack children vertically */
-    height: 100%; /* Take full height from parent (.deck-view-panel-container) */
-}
-
-.fullHeightCard {
+    height: 100%; /* Take full height from parent */
+    overflow: hidden; /* Prevent overflow */
+    padding-top: 2.5rem;
+  }
+  
+  .fullHeightCard {
     display: flex;
     flex-direction: column;
     flex-grow: 1; /* Allow card to grow and fill space */
-    height: 100%;
+    height: 100%; /* Ensure it tries to take full height, works with flex-grow */
     overflow: hidden; /* Prevent card itself from scrolling */
-}
-
-.stickyCardHeader {
+  }
+  
+  .stickyCardHeader {
     position: sticky;
-    top: 0;
+    top: 10;
     z-index: 10;
-}
-.stickyCardHeaderSub {
+    background-color: inherit; /* Ensures header blends with card background */
+  }
+  
+  .stickyCardHeaderSub {
     position: sticky;
     top: 60px; /* Adjust based on the height of the primary Card.Header */
-    /* Example: if primary header is ~60px, this sticks below it */
-    z-index: 9;
+    z-index: 9; /* Below primary header but above content */
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-}
-
-.cardBodyScrollable {
+    background-color: inherit; /* Ensures sub-header blends with card background */
+  }
+  
+  .cardBodyScrollable {
     flex-grow: 1; /* Allow body to take remaining space */
     overflow-y: auto; /* Enable vertical scrolling ONLY for the card body */
-    padding: 1rem;
-}
-
-.deckPanelHeader .deckTitle {
+    padding: 1rem; /* Standard padding for content */
+  }
+  
+  /* Additional styles for drag-drop area visibility */
+  .dragOver {
+    background-color: rgba(0, 123, 255, 0.1); /* Subtle blue background on drag over */
+    border: 2px dashed #007bff !important; /* Dashed blue border, !important to override others if necessary */
+  }
+  
+  /* Styles from original DeckViewPanel.module.css that remain unchanged */
+  .deckPanelHeader .deckTitle {
     font-family: var(--theme-font-title);
     font-size: 1.6rem; /* Match Card.Header title size in dark mode */
     margin-bottom: 0; /* Align with buttons */
-    /* Color will be inherited from .dark-theme .card .card-header */
-}
-
-.deckActionsGroup .btn {
+    /* Color will be inherited from .dark-theme .card .card-header or similar global styles */
+  }
+  
+  .deckActionsGroup .btn {
     /* Ensure buttons in the group have consistent styling if needed */
-    /* The general .btn styles from DarkMode.css / LightMode.css will apply */
+    /* The general .btn styles from App.css will apply */
     font-size: 0.85rem; /* Slightly smaller for action bar */
     padding: 0.4rem 0.8rem;
-}
-.deckActionsGroup .btn .svg-inline--fa { /* Target FontAwesomeIcon */
-    margin-right: 0.3rem; /* Default margin */
-}
-/* Hide text on smaller screens for icon-only buttons */
-@media (max-width: 576px) {
-    .deckActionsGroup .btn .d-none.d-sm-inline {
-        display: none !important;
+  }
+  
+  .deckActionsGroup .btn .svg-inline--fa { /* Target FontAwesomeIcon */
+    margin-right: 0.3rem; /* Default margin for icon when text is present */
+  }
+  
+  /* Hide text on smaller screens for icon-only buttons */
+  @media (max-width: 576px) {
+    .deckActionsGroup .btn .d-none.d-sm-inline { /* Hides elements with this class combination */
+      display: none !important;
     }
-     .deckActionsGroup .btn .svg-inline--fa {
-        margin-right: 0; /* No margin if text is hidden */
+    .deckActionsGroup .btn .svg-inline--fa {
+      margin-right: 0; /* No margin if text is hidden and icon is alone */
     }
     .deckActionsGroup .btn {
-        padding: 0.4rem 0.6rem; /* Adjust padding for icon-only */
+      padding: 0.4rem 0.6rem; /* Adjust padding for icon-only buttons */
     }
-}
-
-
-.filterHeader {
-    /* Styles for the filter sub-header */
-}
-
-.filterSwitch .form-check-label {
+  }
+  
+  .filterHeader {
+    /* Styles for the filter sub-header, if any specific are needed beyond Bootstrap or global styles */
+    /* e.g., margin-bottom: 0.5rem; */
+  }
+  
+  .filterSwitch .form-check-label {
     font-family: var(--theme-font-title);
     font-size: 1.1rem;
     letter-spacing: 0.5px;
-    cursor: pointer;
-}
-.filterSwitch .form-check-input {
-    cursor: pointer;
-}
-
-.filterGroup .btn {
+    cursor: pointer; /* Make it clear it's interactive */
+  }
+  
+  .filterSwitch .form-check-input {
+    cursor: pointer; /* Make it clear it's interactive */
+  }
+  
+  .filterGroup .btn {
     font-family: var(--theme-font-title);
     font-size: 0.9rem;
     letter-spacing: 0.5px;
-    padding: 0.3rem 0.7rem;
-}
-.filterGroup .badge {
-    font-size: 0.7rem;
-    font-weight: normal;
-}
-
-/* Checkbox styling within DeckViewPanel (if not using .form-check directly) */
-.checkboxContainer {
+    padding: 0.3rem 0.7rem; /* Custom padding for filter buttons */
+  }
+  
+  .filterGroup .badge {
+    font-size: 0.7rem; /* Smaller font for badges within filter group */
+    font-weight: normal; /* Standard weight for badges */
+  }
+  
+  /* Checkbox styling within DeckViewPanel (if not using .form-check directly or for overrides) */
+  .checkboxContainer {
+    display: flex;
+    align-items: center; /* Vertically align items in the container */
+  }
+  
+  .checkboxes {
     display: flex;
     align-items: center;
-}
-
-.checkboxes {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-.checkboxes .form-check-label {
-    font-size: 0.9rem;
-}
-
+    gap: 10px; /* Space between multiple checkboxes */
+  }
+  
+  .checkboxes .form-check-label {
+    font-size: 0.9rem; /* Consistent label size for checkboxes */
+  }
+  
