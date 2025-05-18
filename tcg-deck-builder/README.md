@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Pokémon TCG Deck Builder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Pokémon TCG Deck Builder! This application helps you create, manage, and export your Pokémon TCG decklists with ease.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+* **Deck Creation:** Build decks by searching for official Pokémon TCG cards.
+* **Custom Cards:** Add your own custom cards with direct image URLs.
+* **Import/Export:**
+    * Export your decklists to CSV format, compatible with popular simulators like PTCG Live and Tabletop Simulator.
+    * Import existing decklists from CSV files.
+* **Image Handling:** Supports official card images, direct URLs for custom cards, and provides fallbacks for missing images.
+* **Theme Toggle:** Switch between light and dark modes for comfortable viewing.
+* **Responsive Design:** Works across different screen sizes.
 
-### `npm start`
+## Recent Changes (v1.2.0)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This version brings significant improvements to custom card handling, deck import/export, and data storage.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Key Highlights:**
 
-### `npm test`
+* **Revamped Custom Card System:** Custom cards now use direct image URLs, eliminating previous storage issues and simplifying the creation process.
+* **Optimized Deck Export:** CSV exports are now more compact and reliable, using direct image URLs.
+* **Improved Data Management:** Storage requirements for custom cards have been drastically reduced.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**For a detailed list of changes, please click the version badge (e.g., `v1.2.0`) in the application header.**
 
-### `npm run build`
+## Getting Started (Example)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1.  **Clone the repository (if applicable):**
+    ```bash
+    git clone <your-repository-url>
+    cd pokemon-tcg-deck-builder
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    # or
+    yarn install
+    # or
+    pnpm install
+    ```
+3.  **Set up API Key (Optional but Recommended):**
+    Create a `.env` file in the root of your project and add your Pokémon TCG API key:
+    ```env
+    REACT_APP_POKEMON_TCG_API_KEY=your_api_key_here
+    ```
+    An API key (`a65acbfc-55e5-4d2c-9278-253872a1bc5a`) is provided by default for basic functionality if you don't have your own.
+4.  **Run the application:**
+    ```bash
+    npm start
+    # or
+    yarn start
+    # or
+    pnpm start
+    ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Custom Card Image URLs
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+When creating custom cards, you'll need to provide a direct URL to an image. This means the URL should point directly to the image file itself (e.g., ending in `.png`, `.jpg`, `.gif`).
 
-### `npm run eject`
+* **Recommended Hosts:** Imgur, ImgBB, or any hosting service that provides stable, direct image links.
+* **Google Drive:** Standard Google Drive sharing links (e.g., `drive.google.com/file/d/.../view`) are **not** direct image links and will not work. Your application will attempt to convert these to a viewable format for display within the app if used, but for best compatibility, use direct image links.
+* **Website Links:** If you are hosting images on your own website, ensure the links are direct paths to the image files.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License (or your chosen license).

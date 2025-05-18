@@ -1,19 +1,19 @@
 {
-  "short_name": "PTCG Deck Builder",
-  "name": "Pokemon TCG Deckbuilder",
+  "short_name": "Meta Deck Builder",
+  "name": "Meta-PTCG Custom Deck Builder",
   "icons": [
     {
-      "src": "ball.ico",
+      "src": "DeckBall.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "ball192.png",
+      "src": "DeckBall.ico",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "ball.png",
+      "src": "DeckBall.ico",
       "type": "image/png",
       "sizes": "512x512"
     }

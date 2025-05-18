@@ -79,33 +79,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV001",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1,
-          "mid": 1.98,
+          "mid": 1.95,
           "high": 89,
-          "market": 1.59,
+          "market": 1.78,
           "directLow": 1.87
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV001",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.97,
         "lowPrice": 1,
-        "trendPrice": 2.2,
+        "trendPrice": 2.23,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.73,
         "lowPriceExPlus": 1.3,
-        "avg1": 1.73,
-        "avg7": 2.13,
-        "avg30": 2.01,
+        "avg1": 1.9,
+        "avg7": 2.16,
+        "avg30": 1.97,
         "reverseHoloAvg1": 6.33,
         "reverseHoloAvg7": 6.01,
         "reverseHoloAvg30": 6.08
@@ -184,33 +184,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV002",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.5,
           "mid": 2.5,
           "high": 9.99,
-          "market": 2.44,
-          "directLow": 3.5
+          "market": 2.37,
+          "directLow": 4.74
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV002",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.05,
         "lowPrice": 1,
-        "trendPrice": 3.31,
+        "trendPrice": 3.26,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 8.66,
         "lowPriceExPlus": 1.2,
-        "avg1": 2.5,
-        "avg7": 3.54,
-        "avg30": 2.99,
+        "avg1": 2.95,
+        "avg7": 3.56,
+        "avg30": 3,
         "reverseHoloAvg1": 9.9,
         "reverseHoloAvg7": 9.67,
         "reverseHoloAvg30": 9.08
@@ -295,33 +295,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV003",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 2.9,
-          "mid": 4.3,
+          "low": 2.94,
+          "mid": 4.41,
           "high": 14.99,
-          "market": 4.65,
-          "directLow": 6.74
+          "market": 4.6,
+          "directLow": 6.95
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV003",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 4.9,
         "lowPrice": 3.79,
-        "trendPrice": 5.16,
+        "trendPrice": 5.01,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 12.55,
         "lowPriceExPlus": 3.79,
-        "avg1": 4.09,
-        "avg7": 4.97,
-        "avg30": 4.54,
+        "avg1": 3.75,
+        "avg7": 4.85,
+        "avg30": 4.56,
         "reverseHoloAvg1": 11.99,
         "reverseHoloAvg7": 12.69,
         "reverseHoloAvg30": 12.62
@@ -399,11 +399,11 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV004",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.75,
-          "mid": 1.46,
+          "low": 0.79,
+          "mid": 1.45,
           "high": 35,
           "market": 1.35,
           "directLow": 2.03
@@ -412,20 +412,20 @@
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV004",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.76,
         "lowPrice": 1,
-        "trendPrice": 1.63,
+        "trendPrice": 1.58,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.53,
         "lowPriceExPlus": 1,
-        "avg1": 1.45,
-        "avg7": 1.56,
-        "avg30": 1.67,
+        "avg1": 1.25,
+        "avg7": 1.57,
+        "avg30": 1.66,
         "reverseHoloAvg1": 7.42,
         "reverseHoloAvg7": 5.41,
         "reverseHoloAvg30": 5.66
@@ -512,33 +512,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV005",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1,
-          "mid": 2.52,
+          "mid": 2.51,
           "high": 17,
-          "market": 2.04,
-          "directLow": 2.96
+          "market": 2.22,
+          "directLow": 3.83
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV005",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.1,
         "lowPrice": 1.2,
-        "trendPrice": 2.94,
+        "trendPrice": 2.82,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 8.57,
         "lowPriceExPlus": 1.2,
-        "avg1": 2.5,
-        "avg7": 2.94,
-        "avg30": 3.02,
+        "avg1": 2.4,
+        "avg7": 2.9,
+        "avg30": 3.05,
         "reverseHoloAvg1": 9.95,
         "reverseHoloAvg7": 8.59,
         "reverseHoloAvg30": 7.54
@@ -626,33 +626,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV006",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 1.68,
+          "low": 1.73,
           "mid": 2.49,
           "high": 24.99,
-          "market": 2.27,
-          "directLow": 1.69
+          "market": 2.33,
+          "directLow": 2.44
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV006",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.06,
         "lowPrice": 1.75,
-        "trendPrice": 3.38,
+        "trendPrice": 3.36,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 9.82,
         "lowPriceExPlus": 1.99,
-        "avg1": 2.65,
+        "avg1": 3,
         "avg7": 3.69,
-        "avg30": 2.86,
+        "avg30": 2.9,
         "reverseHoloAvg1": 10.5,
         "reverseHoloAvg7": 9.66,
         "reverseHoloAvg30": 9.76
@@ -730,32 +730,32 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV007",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.8,
           "mid": 1.5,
           "high": 5,
-          "market": 1.35,
-          "directLow": 1.4
+          "market": 1.33,
+          "directLow": 1.39
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV007",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.42,
         "lowPrice": 1.2,
-        "trendPrice": 2.62,
+        "trendPrice": 2.42,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.57,
         "lowPriceExPlus": 1.2,
-        "avg1": 1.64,
-        "avg7": 1.94,
+        "avg1": 1.29,
+        "avg7": 1.73,
         "avg30": 2.12,
         "reverseHoloAvg1": 5.31,
         "reverseHoloAvg7": 5.81,
@@ -846,20 +846,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV008",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.69,
-          "mid": 1.27,
+          "mid": 1.28,
           "high": 4.99,
-          "market": 1.15,
+          "market": 1.13,
           "directLow": 1.47
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV008",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.11,
         "lowPrice": 0.99,
@@ -956,24 +956,24 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV009",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.7,
           "mid": 1.62,
           "high": 9.99,
-          "market": 1.52,
+          "market": 1.41,
           "directLow": 2.48
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV009",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.12,
         "lowPrice": 0.49,
-        "trendPrice": 2.58,
+        "trendPrice": 2.49,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
@@ -981,7 +981,7 @@
         "reverseHoloTrend": 6.78,
         "lowPriceExPlus": 1.49,
         "avg1": 2,
-        "avg7": 2.41,
+        "avg7": 2.4,
         "avg30": 2.4,
         "reverseHoloAvg1": 6.23,
         "reverseHoloAvg7": 7.23,
@@ -1069,20 +1069,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV010",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.99,
-          "mid": 1.86,
+          "mid": 1.83,
           "high": 6.22,
-          "market": 1.73,
+          "market": 1.68,
           "directLow": 1.97
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV010",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.76,
         "lowPrice": 1.4,
@@ -1180,20 +1180,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV011",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.75,
           "mid": 1.42,
           "high": 89,
-          "market": 1.25,
-          "directLow": 1.25
+          "market": 1.27,
+          "directLow": 1.76
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV011",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.24,
         "lowPrice": 1.09,
@@ -1284,33 +1284,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV012",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 2.5,
-          "mid": 4.59,
+          "low": 2.92,
+          "mid": 4.68,
           "high": 89,
-          "market": 4.83,
+          "market": 4.61,
           "directLow": 6.65
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV012",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.32,
         "lowPrice": 0.35,
-        "trendPrice": 3.06,
+        "trendPrice": 3.1,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.31,
         "lowPriceExPlus": 1.98,
-        "avg1": 3.5,
-        "avg7": 3.03,
-        "avg30": 3.64,
+        "avg1": 3.97,
+        "avg7": 3.32,
+        "avg30": 3.66,
         "reverseHoloAvg1": 6.74,
         "reverseHoloAvg7": 7.11,
         "reverseHoloAvg30": 7.2
@@ -1394,33 +1394,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV013",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.72,
           "mid": 2.5,
           "high": 9.64,
-          "market": 2.5,
-          "directLow": 4.99
+          "market": 2.55,
+          "directLow": 2
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV013",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.04,
         "lowPrice": 1.49,
-        "trendPrice": 3.36,
+        "trendPrice": 3.27,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 9.73,
         "lowPriceExPlus": 1.79,
-        "avg1": 2.39,
-        "avg7": 3.17,
-        "avg30": 2.71,
+        "avg1": 1.9,
+        "avg7": 3.02,
+        "avg30": 2.67,
         "reverseHoloAvg1": 9.5,
         "reverseHoloAvg7": 10.3,
         "reverseHoloAvg30": 8.89
@@ -1506,33 +1506,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV014",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 2.9,
           "mid": 4.3,
           "high": 14,
-          "market": 4.3,
+          "market": 4.33,
           "directLow": 6.29
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV014",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.41,
         "lowPrice": 1.85,
-        "trendPrice": 3.44,
+        "trendPrice": 3.28,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.68,
         "lowPriceExPlus": 1.85,
-        "avg1": 2.5,
-        "avg7": 3.3,
-        "avg30": 3.15,
+        "avg1": 2.72,
+        "avg7": 3.13,
+        "avg30": 3.14,
         "reverseHoloAvg1": 8.5,
         "reverseHoloAvg7": 8.16,
         "reverseHoloAvg30": 8.2
@@ -1610,33 +1610,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV015",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.73,
-          "mid": 2.15,
-          "high": 100,
-          "market": 2.03,
-          "directLow": 1.85
+          "mid": 2.08,
+          "high": 13.5,
+          "market": 1.89,
+          "directLow": 1.75
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV015",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.13,
         "lowPrice": 0.9,
-        "trendPrice": 2.37,
+        "trendPrice": 2.33,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.49,
         "lowPriceExPlus": 0.9,
-        "avg1": 2,
-        "avg7": 2.16,
-        "avg30": 2.07,
+        "avg1": 2.2,
+        "avg7": 2.03,
+        "avg30": 2.1,
         "reverseHoloAvg1": 6.48,
         "reverseHoloAvg7": 5.86,
         "reverseHoloAvg30": 5.46
@@ -1726,20 +1726,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV016",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 3.6,
-          "mid": 4.8,
+          "mid": 4.85,
           "high": 19.95,
-          "market": 4.8,
+          "market": 4.87,
           "directLow": 4.48
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV016",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.59,
         "lowPrice": 3,
@@ -1837,20 +1837,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV017",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 3,
-          "mid": 5.09,
-          "high": 12.01,
-          "market": 5.02,
-          "directLow": 6.94
+          "mid": 5.08,
+          "high": 13.81,
+          "market": 5,
+          "directLow": 5.1
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV017",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 4.31,
         "lowPrice": 3.5,
@@ -1952,33 +1952,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV018",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.98,
-          "mid": 1.97,
+          "low": 0.99,
+          "mid": 1.98,
           "high": 11.48,
-          "market": 1.96,
-          "directLow": 1.46
+          "market": 1.84,
+          "directLow": 1.9
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV018",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.41,
         "lowPrice": 0.79,
-        "trendPrice": 2.34,
+        "trendPrice": 2.35,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.74,
         "lowPriceExPlus": 1.45,
-        "avg1": 1.79,
-        "avg7": 2.28,
-        "avg30": 2.29,
+        "avg1": 1.99,
+        "avg7": 2.02,
+        "avg30": 2.27,
         "reverseHoloAvg1": 7,
         "reverseHoloAvg7": 6.54,
         "reverseHoloAvg30": 6.78
@@ -2068,33 +2068,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV019",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.75,
-          "mid": 1.81,
+          "low": 0.98,
+          "mid": 1.84,
           "high": 89,
-          "market": 1.51,
-          "directLow": 0.97
+          "market": 1.44,
+          "directLow": 1.75
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV019",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.67,
         "lowPrice": 1.6,
-        "trendPrice": 3.17,
+        "trendPrice": 2.96,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.67,
         "lowPriceExPlus": 1.6,
-        "avg1": 2.78,
-        "avg7": 3.12,
-        "avg30": 2.53,
+        "avg1": 1.55,
+        "avg7": 3.05,
+        "avg30": 2.52,
         "reverseHoloAvg1": 6.75,
         "reverseHoloAvg7": 7.93,
         "reverseHoloAvg30": 7.26
@@ -2182,12 +2182,12 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV020",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.85,
-          "mid": 1.6,
-          "high": 100,
+          "low": 0.8,
+          "mid": 1.58,
+          "high": 9.99,
           "market": 1.38,
           "directLow": 1.39
         }
@@ -2195,19 +2195,19 @@
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV020",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
-        "averageSellPrice": 2.48,
+        "averageSellPrice": 2.47,
         "lowPrice": 1.4,
-        "trendPrice": 2.52,
+        "trendPrice": 2.46,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.62,
         "lowPriceExPlus": 1.4,
-        "avg1": 1.96,
-        "avg7": 2.36,
+        "avg1": 2,
+        "avg7": 2.41,
         "avg30": 2.33,
         "reverseHoloAvg1": 6.66,
         "reverseHoloAvg7": 7.47,
@@ -2294,33 +2294,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV021",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.32,
-          "mid": 0.99,
+          "mid": 1,
           "high": 89,
-          "market": 0.75,
-          "directLow": 0.59
+          "market": 0.76,
+          "directLow": 0.95
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV021",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 0.88,
         "lowPrice": 0.5,
-        "trendPrice": 1.22,
+        "trendPrice": 1.29,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.41,
         "lowPriceExPlus": 0.5,
-        "avg1": 1.75,
-        "avg7": 1.12,
-        "avg30": 0.95,
+        "avg1": 1.59,
+        "avg7": 1.15,
+        "avg30": 0.96,
         "reverseHoloAvg1": 3.25,
         "reverseHoloAvg7": 4.61,
         "reverseHoloAvg30": 4.84
@@ -2406,20 +2406,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV022",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 6.99,
           "mid": 8.85,
           "high": 89,
-          "market": 8.23,
-          "directLow": 9.25
+          "market": 8.26,
+          "directLow": 9.45
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV022",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 11.12,
         "lowPrice": 9.9,
@@ -2512,32 +2512,32 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV023",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.56,
+          "low": 0.75,
           "mid": 1.78,
           "high": 9.99,
-          "market": 1.72,
+          "market": 1.62,
           "directLow": 2.48
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV023",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.69,
-        "lowPrice": 0.6,
-        "trendPrice": 2.34,
+        "lowPrice": 0.5,
+        "trendPrice": 2.26,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.02,
-        "lowPriceExPlus": 0.6,
-        "avg1": 2,
-        "avg7": 2.48,
+        "lowPriceExPlus": 0.5,
+        "avg1": 1.85,
+        "avg7": 2.4,
         "avg30": 2.55,
         "reverseHoloAvg1": 7.99,
         "reverseHoloAvg7": 6.86,
@@ -2630,33 +2630,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV024",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.8,
-          "mid": 1.35,
+          "mid": 1.37,
           "high": 5,
           "market": 1.32,
-          "directLow": 1.32
+          "directLow": 1.38
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV024",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.89,
         "lowPrice": 1.2,
-        "trendPrice": 2.06,
+        "trendPrice": 2.01,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.43,
         "lowPriceExPlus": 1.2,
-        "avg1": 2.5,
-        "avg7": 1.9,
-        "avg30": 1.91,
+        "avg1": 1.83,
+        "avg7": 1.88,
+        "avg30": 1.92,
         "reverseHoloAvg1": 4.56,
         "reverseHoloAvg7": 6.03,
         "reverseHoloAvg30": 6.34
@@ -2734,33 +2734,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV025",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.5,
-          "mid": 1.38,
+          "mid": 1.33,
           "high": 89,
-          "market": 1.21,
-          "directLow": 1.83
+          "market": 1.08,
+          "directLow": 1.65
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV025",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.4,
-        "lowPrice": 0.8,
-        "trendPrice": 2.06,
+        "lowPrice": 0.88,
+        "trendPrice": 1.93,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.61,
-        "lowPriceExPlus": 0.8,
-        "avg1": 1.43,
-        "avg7": 1.62,
-        "avg30": 1.46,
+        "lowPriceExPlus": 0.88,
+        "avg1": 0.9,
+        "avg7": 1.48,
+        "avg30": 1.45,
         "reverseHoloAvg1": 4.94,
         "reverseHoloAvg7": 5.7,
         "reverseHoloAvg30": 5.84
@@ -2847,20 +2847,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV026",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.7,
           "mid": 3.15,
           "high": 19.81,
-          "market": 2.86,
+          "market": 2.72,
           "directLow": 4.23
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV026",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.9,
         "lowPrice": 2.4,
@@ -2957,20 +2957,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV027",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 2,
-          "mid": 4.16,
+          "mid": 4.18,
           "high": 89,
-          "market": 4.13,
+          "market": 4.11,
           "directLow": 5.3
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV027",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 5.31,
         "lowPrice": 3,
@@ -3074,33 +3074,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV028",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.02,
           "mid": 1.79,
           "high": 8.99,
-          "market": 1.59,
+          "market": 1.58,
           "directLow": 1.85
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV028",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.64,
         "lowPrice": 1.1,
-        "trendPrice": 2.56,
+        "trendPrice": 2.79,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.27,
         "lowPriceExPlus": 1.1,
-        "avg1": 1.9,
-        "avg7": 1.98,
-        "avg30": 2.36,
+        "avg1": 4.65,
+        "avg7": 2.55,
+        "avg30": 2.47,
         "reverseHoloAvg1": 6.3,
         "reverseHoloAvg7": 6.14,
         "reverseHoloAvg30": 6.3
@@ -3192,33 +3192,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV029",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.99,
-          "mid": 1.71,
-          "high": 100,
-          "market": 1.55,
+          "mid": 1.77,
+          "high": 5,
+          "market": 1.57,
           "directLow": 1.24
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV029",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.67,
         "lowPrice": 0.74,
-        "trendPrice": 2.89,
+        "trendPrice": 2.76,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.97,
         "lowPriceExPlus": 0.74,
-        "avg1": 1,
-        "avg7": 2.18,
-        "avg30": 2.3,
+        "avg1": 2.1,
+        "avg7": 2.29,
+        "avg30": 2.37,
         "reverseHoloAvg1": 5.48,
         "reverseHoloAvg7": 7.61,
         "reverseHoloAvg30": 8.08
@@ -3310,33 +3310,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV030",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.44,
+          "low": 0.45,
           "mid": 0.99,
           "high": 89,
-          "market": 0.73,
-          "directLow": 0.74
+          "market": 0.72,
+          "directLow": null
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV030",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.17,
         "lowPrice": 0.5,
-        "trendPrice": 1.25,
+        "trendPrice": 1.29,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.01,
         "lowPriceExPlus": 0.68,
-        "avg1": 0.99,
-        "avg7": 1.45,
-        "avg30": 1.21,
+        "avg1": 1.64,
+        "avg7": 1.4,
+        "avg30": 1.23,
         "reverseHoloAvg1": 4.38,
         "reverseHoloAvg7": 4.2,
         "reverseHoloAvg30": 4.29
@@ -3414,7 +3414,7 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV031",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.5,
@@ -3427,7 +3427,7 @@
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV031",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.24,
         "lowPrice": 1,
@@ -3525,30 +3525,30 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV032",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.69,
           "mid": 1.47,
           "high": 7.99,
-          "market": 1.43,
+          "market": 1.37,
           "directLow": 1.5
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV032",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.05,
-        "lowPrice": 1,
+        "lowPrice": 0.95,
         "trendPrice": 2.03,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.76,
-        "lowPriceExPlus": 1,
+        "lowPriceExPlus": 0.95,
         "avg1": 1.9,
         "avg7": 1.99,
         "avg30": 2.04,
@@ -3630,33 +3630,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV033",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 1.19,
-          "mid": 1.87,
+          "low": 1.15,
+          "mid": 1.9,
           "high": 89,
-          "market": 1.81,
-          "directLow": 1.5
+          "market": 1.72,
+          "directLow": 2.95
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV033",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.47,
         "lowPrice": 0.8,
-        "trendPrice": 1.6,
+        "trendPrice": 1.66,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.73,
         "lowPriceExPlus": 0.8,
-        "avg1": 1.58,
+        "avg1": 1.74,
         "avg7": 1.59,
-        "avg30": 1.51,
+        "avg30": 1.49,
         "reverseHoloAvg1": 4.95,
         "reverseHoloAvg7": 4.91,
         "reverseHoloAvg30": 5.16
@@ -3741,33 +3741,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV034",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.69,
           "mid": 2.88,
           "high": 89,
-          "market": 2.88,
-          "directLow": 2.85
+          "market": 2.7,
+          "directLow": 3.99
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV034",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.84,
         "lowPrice": 1.5,
-        "trendPrice": 2.79,
+        "trendPrice": 2.7,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.6,
         "lowPriceExPlus": 1.5,
-        "avg1": 2.5,
-        "avg7": 2.58,
-        "avg30": 2.7,
+        "avg1": 1.95,
+        "avg7": 2.57,
+        "avg30": 2.69,
         "reverseHoloAvg1": 9.66,
         "reverseHoloAvg7": 8.58,
         "reverseHoloAvg30": 9.09
@@ -3852,20 +3852,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV035",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 1.45,
-          "mid": 2.5,
-          "high": 32.56,
-          "market": 2.21,
-          "directLow": 1.79
+          "low": 1.46,
+          "mid": 2.59,
+          "high": 32.52,
+          "market": 2.25,
+          "directLow": 4.03
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV035",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.32,
         "lowPrice": 2.7,
@@ -3965,20 +3965,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV036",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.49,
-          "mid": 2.37,
+          "mid": 2.34,
           "high": 19.99,
-          "market": 2.18,
+          "market": 2.29,
           "directLow": 4.98
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV036",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.76,
         "lowPrice": 1.4,
@@ -4082,20 +4082,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV037",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.89,
           "mid": 1.75,
           "high": 89,
-          "market": 1.76,
+          "market": 1.66,
           "directLow": 3.24
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV037",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.91,
         "lowPrice": 1,
@@ -4191,20 +4191,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV038",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.75,
-          "mid": 2.53,
+          "mid": 2.54,
           "high": 8,
-          "market": 2.47,
-          "directLow": 2.86
+          "market": 2.55,
+          "directLow": 2
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV038",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.75,
         "lowPrice": 1.8,
@@ -4304,20 +4304,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV039",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 3,
-          "mid": 5.89,
-          "high": 9.88,
-          "market": 5.68,
+          "mid": 5.92,
+          "high": 9.83,
+          "market": 5.6,
           "directLow": 7.99
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV039",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 4.97,
         "lowPrice": 3.3,
@@ -4418,33 +4418,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV040",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1,
           "mid": 1.9,
           "high": 15.99,
-          "market": 1.9,
-          "directLow": 2.4
+          "market": 1.89,
+          "directLow": 1.78
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV040",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.41,
         "lowPrice": 1.49,
-        "trendPrice": 2.92,
+        "trendPrice": 2.84,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.2,
         "lowPriceExPlus": 1.99,
-        "avg1": 2.6,
-        "avg7": 3.36,
-        "avg30": 2.8,
+        "avg1": 2,
+        "avg7": 3.32,
+        "avg30": 2.78,
         "reverseHoloAvg1": 7,
         "reverseHoloAvg7": 6.55,
         "reverseHoloAvg30": 6.85
@@ -4533,33 +4533,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV041",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.45,
           "mid": 2.61,
           "high": 10.99,
-          "market": 2.61,
-          "directLow": 2.62
+          "market": 2.55,
+          "directLow": 2.99
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV041",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.14,
         "lowPrice": 1.49,
-        "trendPrice": 2.66,
+        "trendPrice": 2.95,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 8.02,
         "lowPriceExPlus": 1.49,
-        "avg1": 1.7,
-        "avg7": 2.55,
-        "avg30": 2.62,
+        "avg1": 5.48,
+        "avg7": 2.94,
+        "avg30": 2.72,
         "reverseHoloAvg1": 8.25,
         "reverseHoloAvg7": 7.67,
         "reverseHoloAvg30": 7.61
@@ -4648,24 +4648,24 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV042",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.4,
-          "mid": 1.16,
-          "high": 100,
-          "market": 1.06,
-          "directLow": 0.99
+          "low": 0.5,
+          "mid": 1.21,
+          "high": 9.99,
+          "market": 0.94,
+          "directLow": 1
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV042",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.8,
         "lowPrice": 0.3,
-        "trendPrice": 1.18,
+        "trendPrice": 1.04,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
@@ -4751,33 +4751,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV043",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.8,
-          "mid": 1.53,
+          "mid": 1.55,
           "high": 30,
-          "market": 1.32,
+          "market": 1.33,
           "directLow": 1.79
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV043",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.51,
-        "lowPrice": 1,
-        "trendPrice": 2.49,
+        "lowPrice": 0.85,
+        "trendPrice": 2.67,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 9.23,
-        "lowPriceExPlus": 1,
-        "avg1": 2.75,
+        "lowPriceExPlus": 0.85,
+        "avg1": 1.99,
         "avg7": 2.63,
-        "avg30": 2.34,
+        "avg30": 2.26,
         "reverseHoloAvg1": 7,
         "reverseHoloAvg7": 9.7,
         "reverseHoloAvg30": 8.35
@@ -4862,20 +4862,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV044",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 2.99,
+          "low": 2.31,
           "mid": 3.96,
           "high": 89,
-          "market": 3.68,
-          "directLow": 5.98
+          "market": 3.72,
+          "directLow": 8.95
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV044",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 4.28,
         "lowPrice": 2.79,
@@ -4979,20 +4979,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV045",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.97,
-          "mid": 1.76,
-          "high": 100,
-          "market": 1.47,
+          "mid": 1.78,
+          "high": 8.99,
+          "market": 1.49,
           "directLow": 2.74
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV045",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.76,
         "lowPrice": 1.9,
@@ -5090,33 +5090,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV046",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.5,
-          "mid": 2.3,
+          "mid": 2.29,
           "high": 6.52,
-          "market": 2.25,
+          "market": 2.26,
           "directLow": null
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV046",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.93,
         "lowPrice": 2.4,
-        "trendPrice": 3.75,
+        "trendPrice": 4.46,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.39,
         "lowPriceExPlus": 2.4,
-        "avg1": 3.24,
-        "avg7": 3.38,
-        "avg30": 3.65,
+        "avg1": 9.9,
+        "avg7": 3.76,
+        "avg30": 3.77,
         "reverseHoloAvg1": 6.49,
         "reverseHoloAvg7": 7.23,
         "reverseHoloAvg30": 6.89
@@ -5200,33 +5200,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV047",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 5.15,
-          "mid": 6.5,
+          "low": 5.36,
+          "mid": 6.59,
           "high": 39.99,
-          "market": 6.12,
-          "directLow": 7.91
+          "market": 6.06,
+          "directLow": 7.71
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV047",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 8.1,
-        "lowPrice": 4.49,
-        "trendPrice": 9.7,
+        "lowPrice": 4.5,
+        "trendPrice": 9.37,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 13.83,
         "lowPriceExPlus": 4.5,
-        "avg1": 9.89,
-        "avg7": 9.02,
-        "avg30": 7.49,
+        "avg1": 6,
+        "avg7": 8.52,
+        "avg30": 7.48,
         "reverseHoloAvg1": 11.7,
         "reverseHoloAvg7": 14.79,
         "reverseHoloAvg30": 14.49
@@ -5316,20 +5316,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV048",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 3.99,
           "mid": 5.82,
           "high": 45,
-          "market": 5.54,
-          "directLow": 4.47
+          "market": 5.45,
+          "directLow": 5.5
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV048",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 6.26,
         "lowPrice": 3.5,
@@ -5427,33 +5427,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV049",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.75,
-          "mid": 1.81,
+          "mid": 1.83,
           "high": 7.99,
-          "market": 1.76,
-          "directLow": 1.73
+          "market": 1.56,
+          "directLow": 2.99
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV049",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.7,
         "lowPrice": 1.2,
-        "trendPrice": 2.96,
+        "trendPrice": 2.91,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.04,
         "lowPriceExPlus": 1.2,
-        "avg1": 2.08,
-        "avg7": 2.46,
-        "avg30": 2.43,
+        "avg1": 2.45,
+        "avg7": 2.44,
+        "avg30": 2.44,
         "reverseHoloAvg1": 6.1,
         "reverseHoloAvg7": 6.29,
         "reverseHoloAvg30": 6.27
@@ -5544,33 +5544,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV050",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.99,
           "mid": 1.89,
           "high": 89,
-          "market": 1.84,
+          "market": 1.71,
           "directLow": 1.65
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV050",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.77,
         "lowPrice": 1.8,
-        "trendPrice": 3.88,
+        "trendPrice": 3.61,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.36,
         "lowPriceExPlus": 1.8,
-        "avg1": 2,
-        "avg7": 2.77,
-        "avg30": 3.18,
+        "avg1": 1.93,
+        "avg7": 2.79,
+        "avg30": 3.15,
         "reverseHoloAvg1": 7,
         "reverseHoloAvg7": 6.83,
         "reverseHoloAvg30": 6.52
@@ -5647,33 +5647,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV051",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.45,
-          "mid": 1.5,
+          "mid": 1.57,
           "high": 89,
-          "market": 1.51,
-          "directLow": 2.37
+          "market": 1.53,
+          "directLow": 2.21
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV051",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.71,
         "lowPrice": 1,
-        "trendPrice": 2.13,
+        "trendPrice": 2.05,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.37,
         "lowPriceExPlus": 1,
-        "avg1": 2.12,
-        "avg7": 1.7,
-        "avg30": 1.71,
+        "avg1": 1.21,
+        "avg7": 1.6,
+        "avg30": 1.68,
         "reverseHoloAvg1": 5.27,
         "reverseHoloAvg7": 5.11,
         "reverseHoloAvg30": 5.25
@@ -5757,20 +5757,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV052",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.37,
           "mid": 2.09,
           "high": 6,
-          "market": 2.09,
-          "directLow": 1.67
+          "market": 2.04,
+          "directLow": 1.69
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV052",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.36,
         "lowPrice": 1.49,
@@ -5873,20 +5873,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV053",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.49,
           "mid": 0.99,
           "high": 9.99,
-          "market": 0.86,
+          "market": 0.88,
           "directLow": null
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV053",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.09,
         "lowPrice": 0.49,
@@ -5993,20 +5993,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV054",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1,
           "mid": 2.48,
           "high": 19.99,
-          "market": 2.36,
+          "market": 2.37,
           "directLow": 4
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV054",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.47,
         "lowPrice": 0.49,
@@ -6114,33 +6114,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV055",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1,
-          "mid": 2.26,
+          "mid": 2.25,
           "high": 8.99,
-          "market": 2.2,
-          "directLow": 3.48
+          "market": 2.17,
+          "directLow": 3.49
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV055",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.58,
         "lowPrice": 1.8,
-        "trendPrice": 3.78,
+        "trendPrice": 3.58,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.43,
         "lowPriceExPlus": 2,
-        "avg1": 1.8,
-        "avg7": 3.65,
-        "avg30": 2.96,
+        "avg1": 2.35,
+        "avg7": 3.14,
+        "avg30": 2.98,
         "reverseHoloAvg1": 9,
         "reverseHoloAvg7": 7.69,
         "reverseHoloAvg30": 7.13
@@ -6230,20 +6230,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV056",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 1.25,
-          "mid": 2.09,
+          "low": 1.31,
+          "mid": 2.07,
           "high": 89,
-          "market": 2.06,
-          "directLow": 3.29
+          "market": 2.05,
+          "directLow": 3.49
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV056",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.75,
         "lowPrice": 1.49,
@@ -6344,20 +6344,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV057",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.99,
-          "mid": 2.6,
-          "high": 100,
-          "market": 2.56,
+          "mid": 2.63,
+          "high": 32.64,
+          "market": 2.49,
           "directLow": 3.99
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV057",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.63,
         "lowPrice": 1.04,
@@ -6456,20 +6456,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV058",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 2,
+          "low": 2.22,
           "mid": 3,
           "high": 6.69,
-          "market": 3,
-          "directLow": 4.14
+          "market": 2.98,
+          "directLow": 2.5
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV058",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.63,
         "lowPrice": 1.79,
@@ -6573,20 +6573,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV059",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.99,
-          "mid": 1.57,
+          "mid": 1.59,
           "high": 7.5,
-          "market": 1.39,
+          "market": 1.41,
           "directLow": 1.99
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV059",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.39,
         "lowPrice": 1.5,
@@ -6683,33 +6683,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV060",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 2.5,
-          "mid": 3.69,
+          "low": 2,
+          "mid": 3.77,
           "high": 89,
-          "market": 3.35,
-          "directLow": 4.26
+          "market": 3.2,
+          "directLow": 4.13
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV060",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.18,
+        "trendPrice": 0.28,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 0,
         "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.12,
-        "avg30": 0.15,
+        "avg1": 1,
+        "avg7": 0.14,
+        "avg30": 0.16,
         "reverseHoloAvg1": 0,
         "reverseHoloAvg7": 0,
         "reverseHoloAvg30": 0
@@ -6804,20 +6804,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV061",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 2.15,
           "mid": 3.7,
           "high": 89,
-          "market": 3.66,
+          "market": 3.49,
           "directLow": 3.81
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV061",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.68,
         "lowPrice": 1.5,
@@ -6916,33 +6916,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV062",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1,
-          "mid": 2,
+          "mid": 1.99,
           "high": 89,
-          "market": 1.91,
-          "directLow": 2.98
+          "market": 1.77,
+          "directLow": 1.99
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV062",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.86,
         "lowPrice": 0.95,
-        "trendPrice": 1.74,
+        "trendPrice": 1.73,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.45,
         "lowPriceExPlus": 0.95,
-        "avg1": 1,
+        "avg1": 1.97,
         "avg7": 1.96,
-        "avg30": 1.74,
+        "avg30": 1.77,
         "reverseHoloAvg1": 6,
         "reverseHoloAvg7": 5.08,
         "reverseHoloAvg30": 5.41
@@ -7030,20 +7030,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV063",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1,
           "mid": 2.1,
           "high": 9.99,
-          "market": 2.14,
+          "market": 2.05,
           "directLow": 7.05
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV063",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.36,
         "lowPrice": 1.65,
@@ -7144,33 +7144,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV064",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.5,
           "mid": 1,
           "high": 7,
-          "market": 0.86,
+          "market": 0.89,
           "directLow": null
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV064",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.65,
         "lowPrice": 0.6,
-        "trendPrice": 1.51,
+        "trendPrice": 1.49,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.97,
         "lowPriceExPlus": 0.79,
-        "avg1": 0.93,
-        "avg7": 1.46,
-        "avg30": 1.53,
+        "avg1": 1.06,
+        "avg7": 1.32,
+        "avg30": 1.5,
         "reverseHoloAvg1": 6.99,
         "reverseHoloAvg7": 5.25,
         "reverseHoloAvg30": 5.4
@@ -7250,32 +7250,32 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV065",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.75,
           "mid": 1.61,
           "high": 89,
-          "market": 1.61,
-          "directLow": 2.49
+          "market": 1.57,
+          "directLow": 1.8
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV065",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.32,
         "lowPrice": 1.2,
-        "trendPrice": 2.78,
+        "trendPrice": 2.69,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.69,
         "lowPriceExPlus": 1.2,
-        "avg1": 2.5,
-        "avg7": 2.87,
+        "avg1": 1.7,
+        "avg7": 2.85,
         "avg30": 2.27,
         "reverseHoloAvg1": 4.39,
         "reverseHoloAvg7": 6.92,
@@ -7365,33 +7365,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV066",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.24,
-          "mid": 2,
+          "mid": 1.98,
           "high": 4.99,
-          "market": 1.91,
-          "directLow": 1.74
+          "market": 1.74,
+          "directLow": null
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV066",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.3,
         "lowPrice": 0.55,
-        "trendPrice": 2.28,
+        "trendPrice": 2.2,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.84,
         "lowPriceExPlus": 0.55,
-        "avg1": 0.95,
-        "avg7": 2.89,
-        "avg30": 2.58,
+        "avg1": 1.65,
+        "avg7": 2.79,
+        "avg30": 2.55,
         "reverseHoloAvg1": 5.5,
         "reverseHoloAvg7": 7.55,
         "reverseHoloAvg30": 7.48
@@ -7470,20 +7470,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV067",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.7,
           "mid": 1.49,
           "high": 7,
-          "market": 1.45,
-          "directLow": 1.98
+          "market": 1.4,
+          "directLow": 2.49
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV067",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.84,
         "lowPrice": 1.18,
@@ -7589,20 +7589,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV068",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.66,
           "mid": 1.45,
           "high": 11.71,
-          "market": 1.3,
-          "directLow": 1.97
+          "market": 1.34,
+          "directLow": 2.48
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV068",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.38,
         "lowPrice": 1,
@@ -7704,20 +7704,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV069",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1,
           "mid": 1.79,
-          "high": 100,
-          "market": 1.79,
-          "directLow": 2.48
+          "high": 9.95,
+          "market": 1.83,
+          "directLow": 2.49
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV069",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.32,
         "lowPrice": 1.11,
@@ -7809,20 +7809,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV070",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.75,
-          "mid": 1.44,
+          "mid": 1.42,
           "high": 9.99,
-          "market": 1.28,
+          "market": 1.21,
           "directLow": 1.61
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV070",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.83,
         "lowPrice": 1,
@@ -7833,9 +7833,9 @@
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.54,
         "lowPriceExPlus": 1,
-        "avg1": 1.95,
-        "avg7": 1.89,
-        "avg30": 1.91,
+        "avg1": 2,
+        "avg7": 1.98,
+        "avg30": 1.92,
         "reverseHoloAvg1": 4.99,
         "reverseHoloAvg7": 5.42,
         "reverseHoloAvg30": 5.59
@@ -7923,20 +7923,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV071",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.82,
-          "mid": 1.49,
+          "mid": 1.5,
           "high": 89,
-          "market": 1.27,
+          "market": 1.29,
           "directLow": 1.54
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV071",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.39,
         "lowPrice": 0.93,
@@ -8028,33 +8028,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV072",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.99,
-          "mid": 1.72,
+          "mid": 1.74,
           "high": 12,
-          "market": 1.59,
-          "directLow": 1.57
+          "market": 1.58,
+          "directLow": 1.79
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV072",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.65,
         "lowPrice": 1.2,
-        "trendPrice": 2.69,
+        "trendPrice": 2.62,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.53,
         "lowPriceExPlus": 1.24,
-        "avg1": 1.95,
-        "avg7": 2.1,
-        "avg30": 2.41,
+        "avg1": 2.33,
+        "avg7": 2.24,
+        "avg30": 2.43,
         "reverseHoloAvg1": 6.99,
         "reverseHoloAvg7": 7.32,
         "reverseHoloAvg30": 8.03
@@ -8143,20 +8143,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV073",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.95,
-          "mid": 1.72,
+          "low": 0.99,
+          "mid": 1.73,
           "high": 9.99,
-          "market": 1.59,
+          "market": 1.57,
           "directLow": 2.22
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV073",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.37,
         "lowPrice": 1,
@@ -8254,33 +8254,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV074",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.45,
+          "low": 0.49,
           "mid": 1,
           "high": 12.95,
-          "market": 0.88,
+          "market": 0.81,
           "directLow": 1.09
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV074",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.08,
         "lowPrice": 0.79,
-        "trendPrice": 1.29,
+        "trendPrice": 1.35,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 3.31,
         "lowPriceExPlus": 0.79,
-        "avg1": 2,
-        "avg7": 1.51,
-        "avg30": 1.23,
+        "avg1": 1.98,
+        "avg7": 1.61,
+        "avg30": 1.25,
         "reverseHoloAvg1": 3.3,
         "reverseHoloAvg7": 3.69,
         "reverseHoloAvg30": 3.96
@@ -8372,20 +8372,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV075",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.44,
           "mid": 1.25,
           "high": 8.99,
-          "market": 1.11,
-          "directLow": 1.52
+          "market": 1.12,
+          "directLow": 1.2
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV075",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.55,
         "lowPrice": 1.39,
@@ -8476,32 +8476,32 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV076",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 3.15,
+          "low": 3.2,
           "mid": 4.5,
           "high": 15,
-          "market": 4.28,
+          "market": 4.16,
           "directLow": 9.01
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV076",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 4.34,
         "lowPrice": 2.5,
-        "trendPrice": 4.55,
+        "trendPrice": 4.48,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.63,
-        "lowPriceExPlus": 3.2,
-        "avg1": 3.95,
-        "avg7": 4.12,
+        "lowPriceExPlus": 2.9,
+        "avg1": 4,
+        "avg7": 4.33,
         "avg30": 4.44,
         "reverseHoloAvg1": 11,
         "reverseHoloAvg7": 9.31,
@@ -8587,33 +8587,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV077",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 1.95,
-          "mid": 3.17,
+          "low": 2,
+          "mid": 3.13,
           "high": 89,
-          "market": 2.98,
+          "market": 2.96,
           "directLow": 4.93
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV077",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.56,
         "lowPrice": 1.9,
-        "trendPrice": 3.24,
+        "trendPrice": 3.39,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 8.46,
         "lowPriceExPlus": 2.5,
-        "avg1": 2.9,
-        "avg7": 3.13,
-        "avg30": 3.68,
+        "avg1": 4.29,
+        "avg7": 3.31,
+        "avg30": 3.67,
         "reverseHoloAvg1": 8.25,
         "reverseHoloAvg7": 7.18,
         "reverseHoloAvg30": 7.57
@@ -8699,33 +8699,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV078",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.7,
-          "mid": 1.27,
+          "mid": 1.28,
           "high": 89,
-          "market": 0.91,
-          "directLow": 0.9
+          "market": 0.92,
+          "directLow": 1.1
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV078",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.55,
         "lowPrice": 0.79,
-        "trendPrice": 1.69,
+        "trendPrice": 1.7,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.05,
         "lowPriceExPlus": 0.79,
-        "avg1": 1.11,
-        "avg7": 1.45,
-        "avg30": 1.5,
+        "avg1": 1.62,
+        "avg7": 1.52,
+        "avg30": 1.51,
         "reverseHoloAvg1": 5.5,
         "reverseHoloAvg7": 5.92,
         "reverseHoloAvg30": 6.02
@@ -8816,20 +8816,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV079",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.17,
-          "mid": 1.92,
+          "mid": 1.91,
           "high": 89,
-          "market": 1.77,
+          "market": 1.7,
           "directLow": 2.48
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV079",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.87,
         "lowPrice": 1,
@@ -8927,33 +8927,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV080",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.24,
-          "mid": 2.15,
+          "mid": 2.19,
           "high": 19.99,
-          "market": 1.7,
-          "directLow": 2.91
+          "market": 1.73,
+          "directLow": 2.96
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV080",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.38,
         "lowPrice": 2,
-        "trendPrice": 3.22,
+        "trendPrice": 3.15,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 10.17,
         "lowPriceExPlus": 2,
-        "avg1": 1.99,
-        "avg7": 2.9,
-        "avg30": 3.03,
+        "avg1": 2.8,
+        "avg7": 2.96,
+        "avg30": 3.05,
         "reverseHoloAvg1": 8,
         "reverseHoloAvg7": 9.54,
         "reverseHoloAvg30": 9.8
@@ -9031,33 +9031,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV081",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.9,
           "mid": 1.88,
           "high": 4.99,
-          "market": 1.88,
+          "market": 1.85,
           "directLow": 2.49
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV081",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
-        "averageSellPrice": 2.32,
+        "averageSellPrice": 2.48,
         "lowPrice": 1.49,
-        "trendPrice": 2.61,
+        "trendPrice": 2.55,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.63,
         "lowPriceExPlus": 1.49,
-        "avg1": 2.6,
-        "avg7": 2.6,
-        "avg30": 2.37,
+        "avg1": 2,
+        "avg7": 2.38,
+        "avg30": 2.35,
         "reverseHoloAvg1": 4,
         "reverseHoloAvg7": 5.83,
         "reverseHoloAvg30": 5.94
@@ -9144,33 +9144,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV082",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.94,
           "mid": 1.75,
           "high": 89,
-          "market": 1.7,
-          "directLow": 1.11
+          "market": 1.69,
+          "directLow": 1.09
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV082",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.67,
         "lowPrice": 1.44,
-        "trendPrice": 2.28,
+        "trendPrice": 2.14,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.73,
         "lowPriceExPlus": 1.49,
-        "avg1": 1.75,
-        "avg7": 1.83,
-        "avg30": 2.45,
+        "avg1": 1.48,
+        "avg7": 1.76,
+        "avg30": 2.42,
         "reverseHoloAvg1": 6.9,
         "reverseHoloAvg7": 6.79,
         "reverseHoloAvg30": 6.8
@@ -9258,11 +9258,11 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV083",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1,
-          "mid": 1.78,
+          "mid": 1.77,
           "high": 19.98,
           "market": 1.61,
           "directLow": 2.68
@@ -9271,20 +9271,20 @@
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV083",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.62,
         "lowPrice": 1.2,
-        "trendPrice": 2.97,
+        "trendPrice": 2.92,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.83,
         "lowPriceExPlus": 1.2,
-        "avg1": 6.98,
-        "avg7": 2.82,
-        "avg30": 2.87,
+        "avg1": 1.99,
+        "avg7": 2.69,
+        "avg30": 2.78,
         "reverseHoloAvg1": 8,
         "reverseHoloAvg7": 6.24,
         "reverseHoloAvg30": 6.08
@@ -9375,33 +9375,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV084",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.81,
-          "mid": 1.62,
+          "mid": 1.61,
           "high": 5.99,
-          "market": 1.56,
+          "market": 1.5,
           "directLow": 2.16
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV084",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.86,
         "lowPrice": 1,
-        "trendPrice": 3.44,
+        "trendPrice": 3.36,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.9,
         "lowPriceExPlus": 1.98,
-        "avg1": 2.55,
-        "avg7": 3.35,
-        "avg30": 2.6,
+        "avg1": 2.49,
+        "avg7": 3.3,
+        "avg30": 2.62,
         "reverseHoloAvg1": 12.5,
         "reverseHoloAvg7": 7.71,
         "reverseHoloAvg30": 7.21
@@ -9488,33 +9488,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV085",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 1.19,
-          "mid": 2.03,
+          "low": 1.15,
+          "mid": 2.05,
           "high": 89,
-          "market": 1.9,
-          "directLow": null
+          "market": 1.85,
+          "directLow": 2.96
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV085",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.05,
         "lowPrice": 1.97,
-        "trendPrice": 3.13,
+        "trendPrice": 2.92,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.68,
         "lowPriceExPlus": 1.97,
-        "avg1": 3.98,
-        "avg7": 3.16,
-        "avg30": 3.03,
+        "avg1": 2.66,
+        "avg7": 3.14,
+        "avg30": 3.04,
         "reverseHoloAvg1": 7.9,
         "reverseHoloAvg7": 7.93,
         "reverseHoloAvg30": 7.49
@@ -9607,20 +9607,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV086",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 1.49,
-          "mid": 2.64,
+          "low": 1.5,
+          "mid": 2.66,
           "high": 89,
-          "market": 2.19,
-          "directLow": 2.23
+          "market": 2.17,
+          "directLow": 3.15
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV086",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.25,
         "lowPrice": 0.95,
@@ -9725,33 +9725,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV087",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.45,
-          "mid": 2.24,
+          "mid": 2.25,
           "high": 9.99,
-          "market": 2.05,
+          "market": 1.95,
           "directLow": 3.38
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV087",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.75,
         "lowPrice": 0.99,
-        "trendPrice": 2.71,
+        "trendPrice": 2.69,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.25,
         "lowPriceExPlus": 1.69,
-        "avg1": 2.18,
-        "avg7": 2.45,
-        "avg30": 2.55,
+        "avg1": 2.5,
+        "avg7": 2.63,
+        "avg30": 2.56,
         "reverseHoloAvg1": 5.99,
         "reverseHoloAvg7": 8.07,
         "reverseHoloAvg30": 7.8
@@ -9841,20 +9841,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV088",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.25,
+          "low": 0.69,
           "mid": 1.45,
           "high": 89,
-          "market": 1.17,
+          "market": 1.09,
           "directLow": 1.36
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV088",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.39,
         "lowPrice": 0.99,
@@ -9961,33 +9961,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV089",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.5,
-          "mid": 1.11,
+          "mid": 1.15,
           "high": 89,
-          "market": 0.87,
-          "directLow": 0.95
+          "market": 0.88,
+          "directLow": 0.99
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV089",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.28,
         "lowPrice": 0.45,
-        "trendPrice": 1.16,
+        "trendPrice": 1.1,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.49,
         "lowPriceExPlus": 0.85,
-        "avg1": 0.95,
+        "avg1": 1,
         "avg7": 0.96,
-        "avg30": 1.2,
+        "avg30": 1.22,
         "reverseHoloAvg1": 3.92,
         "reverseHoloAvg7": 4.37,
         "reverseHoloAvg30": 4.44
@@ -10075,33 +10075,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV090",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.75,
+          "low": 0.79,
           "mid": 1.75,
           "high": 9.99,
-          "market": 1.62,
+          "market": 1.58,
           "directLow": 2.94
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV090",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.98,
         "lowPrice": 1,
-        "trendPrice": 3.31,
+        "trendPrice": 3.23,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.04,
         "lowPriceExPlus": 1,
-        "avg1": 2.19,
-        "avg7": 2.53,
-        "avg30": 2.68,
+        "avg1": 2.5,
+        "avg7": 2.49,
+        "avg30": 2.7,
         "reverseHoloAvg1": 8.8,
         "reverseHoloAvg7": 7.58,
         "reverseHoloAvg30": 7.68
@@ -10196,33 +10196,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV091",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.64,
           "mid": 1.5,
           "high": 9.99,
-          "market": 1.3,
-          "directLow": 1.89
+          "market": 1.26,
+          "directLow": 1.93
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV091",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.19,
-        "lowPrice": 1.25,
-        "trendPrice": 2.62,
+        "lowPrice": 1.2,
+        "trendPrice": 2.55,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.91,
-        "lowPriceExPlus": 1.35,
-        "avg1": 1.44,
+        "lowPriceExPlus": 1.2,
+        "avg1": 2,
         "avg7": 2.37,
-        "avg30": 2.12,
+        "avg30": 2.14,
         "reverseHoloAvg1": 7.99,
         "reverseHoloAvg7": 7.37,
         "reverseHoloAvg30": 7.5
@@ -10315,32 +10315,32 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV092",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 1.05,
-          "mid": 2.42,
-          "high": 100,
-          "market": 2.3,
-          "directLow": 2.28
+          "low": 1.24,
+          "mid": 2.41,
+          "high": 89,
+          "market": 2.23,
+          "directLow": 4.31
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV092",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.55,
         "lowPrice": 1.8,
-        "trendPrice": 2.73,
+        "trendPrice": 2.64,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 6.53,
         "lowPriceExPlus": 1.8,
-        "avg1": 2.5,
-        "avg7": 2.66,
+        "avg1": 2,
+        "avg7": 2.46,
         "avg30": 2.4,
         "reverseHoloAvg1": 5.65,
         "reverseHoloAvg7": 7.6,
@@ -10429,20 +10429,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV093",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 2.89,
-          "mid": 3.58,
+          "low": 2.75,
+          "mid": 3.6,
           "high": 40,
-          "market": 3.6,
-          "directLow": 4.76
+          "market": 3.59,
+          "directLow": 4.95
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV093",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.99,
         "lowPrice": 2.65,
@@ -10538,20 +10538,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV094",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 2.9,
-          "mid": 3.84,
+          "mid": 3.89,
           "high": 50,
-          "market": 3.52,
+          "market": 3.49,
           "directLow": 4.19
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV094",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 4.01,
         "lowPrice": 2.79,
@@ -10648,20 +10648,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV095",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.8,
-          "mid": 1.94,
+          "mid": 1.97,
           "high": 4.14,
-          "market": 1.77,
-          "directLow": 1.5
+          "market": 1.81,
+          "directLow": 2.98
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV095",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.13,
         "lowPrice": 1.85,
@@ -10761,20 +10761,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV096",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.99,
-          "mid": 1.68,
+          "mid": 1.67,
           "high": 9.99,
-          "market": 1.54,
+          "market": 1.53,
           "directLow": 1.98
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV096",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.17,
         "lowPrice": 1.2,
@@ -10866,33 +10866,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV097",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.44,
+          "low": 0.49,
           "mid": 0.99,
           "high": 89,
-          "market": 0.67,
-          "directLow": null
+          "market": 0.62,
+          "directLow": 0.97
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV097",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 0.99,
         "lowPrice": 0.25,
-        "trendPrice": 0.96,
+        "trendPrice": 1.04,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.43,
         "lowPriceExPlus": 0.4,
-        "avg1": 0.85,
-        "avg7": 1.04,
-        "avg30": 1.07,
+        "avg1": 1.24,
+        "avg7": 1.09,
+        "avg30": 1.06,
         "reverseHoloAvg1": 6.49,
         "reverseHoloAvg7": 4.41,
         "reverseHoloAvg30": 4.12
@@ -10977,20 +10977,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV098",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.97,
-          "mid": 1.59,
+          "mid": 1.6,
           "high": 8.98,
-          "market": 1.44,
-          "directLow": 1.5
+          "market": 1.41,
+          "directLow": 1.65
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV098",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.73,
         "lowPrice": 1.49,
@@ -11091,20 +11091,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV099",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.55,
-          "mid": 1.55,
+          "mid": 1.5,
           "high": 6.99,
-          "market": 1.53,
-          "directLow": 1.25
+          "market": 1.38,
+          "directLow": 1.4
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV099",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.82,
         "lowPrice": 1,
@@ -11202,20 +11202,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV100",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1,
-          "mid": 1.47,
+          "mid": 1.49,
           "high": 9.99,
-          "market": 1.4,
-          "directLow": 1
+          "market": 1.45,
+          "directLow": 1.47
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV100",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.88,
         "lowPrice": 0.7,
@@ -11322,33 +11322,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV101",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.99,
           "mid": 1.75,
           "high": 14.99,
-          "market": 1.73,
-          "directLow": 2.39
+          "market": 1.68,
+          "directLow": 2.48
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV101",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.79,
         "lowPrice": 0.99,
-        "trendPrice": 3.47,
+        "trendPrice": 3.22,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 5.79,
         "lowPriceExPlus": 1.5,
-        "avg1": 2.95,
-        "avg7": 3.77,
-        "avg30": 3.19,
+        "avg1": 1.5,
+        "avg7": 2.57,
+        "avg30": 3.14,
         "reverseHoloAvg1": 4.49,
         "reverseHoloAvg7": 7.68,
         "reverseHoloAvg30": 8.04
@@ -11443,33 +11443,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV102",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.84,
-          "mid": 1.72,
+          "mid": 1.75,
           "high": 9.99,
-          "market": 1.75,
-          "directLow": 1.12
+          "market": 1.62,
+          "directLow": 1.84
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV102",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.16,
         "lowPrice": 1,
-        "trendPrice": 2.32,
+        "trendPrice": 2.41,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 7.72,
         "lowPriceExPlus": 1,
-        "avg1": 1.6,
-        "avg7": 2.87,
-        "avg30": 2.3,
+        "avg1": 2.49,
+        "avg7": 2.98,
+        "avg30": 2.24,
         "reverseHoloAvg1": 7.99,
         "reverseHoloAvg7": 8.04,
         "reverseHoloAvg30": 7.71
@@ -11548,24 +11548,24 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV103",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.94,
-          "mid": 1.6,
+          "mid": 1.7,
           "high": 13.68,
-          "market": 1.49,
+          "market": 1.64,
           "directLow": 3.25
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV103",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.87,
         "lowPrice": 0.95,
-        "trendPrice": 1.73,
+        "trendPrice": 1.71,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
@@ -11573,8 +11573,8 @@
         "reverseHoloTrend": 4.22,
         "lowPriceExPlus": 0.95,
         "avg1": 1.45,
-        "avg7": 1.71,
-        "avg30": 1.77,
+        "avg7": 1.72,
+        "avg30": 1.76,
         "reverseHoloAvg1": 3.58,
         "reverseHoloAvg7": 4.5,
         "reverseHoloAvg30": 4.9
@@ -11662,20 +11662,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV104",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.5,
+          "low": 0.75,
           "mid": 1.34,
-          "high": 100,
-          "market": 1.19,
+          "high": 9.99,
+          "market": 1.21,
           "directLow": null
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV104",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.34,
         "lowPrice": 1,
@@ -11780,20 +11780,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV105",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.5,
           "mid": 1.19,
           "high": 35,
-          "market": 0.84,
-          "directLow": 1.39
+          "market": 0.92,
+          "directLow": 1.4
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV105",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.5,
         "lowPrice": 0.49,
@@ -11898,33 +11898,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV106",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 1,
-          "mid": 2.44,
+          "low": 1.14,
+          "mid": 2.49,
           "high": 32.63,
-          "market": 1.69,
+          "market": 1.61,
           "directLow": 2.63
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV106",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.39,
         "lowPrice": 0.75,
-        "trendPrice": 2.35,
+        "trendPrice": 2.29,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 10.5,
         "lowPriceExPlus": 0.75,
-        "avg1": 1.5,
-        "avg7": 2.84,
-        "avg30": 2.44,
+        "avg1": 2.45,
+        "avg7": 2.98,
+        "avg30": 2.47,
         "reverseHoloAvg1": 9.95,
         "reverseHoloAvg7": 10.71,
         "reverseHoloAvg30": 11.07
@@ -12019,33 +12019,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV107",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 99.99,
-          "mid": 124.95,
+          "low": 104.4,
+          "mid": 129.47,
           "high": 445.06,
-          "market": 116.46,
-          "directLow": 106.89
+          "market": 113.28,
+          "directLow": 124.61
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV107",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 125.39,
-        "lowPrice": 59.95,
-        "trendPrice": 135.83,
+        "lowPrice": 35,
+        "trendPrice": 132.04,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 311.67,
         "lowPriceExPlus": 95,
-        "avg1": 220,
-        "avg7": 126.21,
-        "avg30": 118.69,
+        "avg1": 100,
+        "avg7": 129.62,
+        "avg30": 118.4,
         "reverseHoloAvg1": 300,
         "reverseHoloAvg7": 313.8,
         "reverseHoloAvg30": 325.07
@@ -12137,33 +12137,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV108",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.53,
-          "mid": 1.19,
+          "mid": 1.25,
           "high": 89,
-          "market": 0.94,
-          "directLow": 1.09
+          "market": 1.07,
+          "directLow": 1.14
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV108",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.45,
         "lowPrice": 0.73,
-        "trendPrice": 1.56,
+        "trendPrice": 1.6,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.4,
         "lowPriceExPlus": 0.89,
-        "avg1": 1.49,
-        "avg7": 1.3,
-        "avg30": 1.41,
+        "avg1": 2,
+        "avg7": 1.26,
+        "avg30": 1.46,
         "reverseHoloAvg1": 4.67,
         "reverseHoloAvg7": 4.5,
         "reverseHoloAvg30": 5.13
@@ -12244,20 +12244,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV109",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 1.36,
-          "mid": 2.3,
+          "low": 1.37,
+          "mid": 2.29,
           "high": 9.99,
-          "market": 2.25,
-          "directLow": 1.36
+          "market": 2.02,
+          "directLow": 2.03
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV109",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.91,
         "lowPrice": 1.2,
@@ -12361,33 +12361,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV110",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 1.31,
-          "mid": 2.85,
+          "mid": 2.89,
           "high": 30,
-          "market": 2.49,
-          "directLow": 2.51
+          "market": 2.29,
+          "directLow": 3.29
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV110",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.92,
         "lowPrice": 0.9,
-        "trendPrice": 3.27,
+        "trendPrice": 3.14,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 8.46,
         "lowPriceExPlus": 1.77,
-        "avg1": 2.5,
-        "avg7": 3.49,
-        "avg30": 3.1,
+        "avg1": 2.46,
+        "avg7": 3.52,
+        "avg30": 3.09,
         "reverseHoloAvg1": 9.27,
         "reverseHoloAvg7": 9.21,
         "reverseHoloAvg30": 9.74
@@ -12469,33 +12469,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV111",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 3.4,
-          "mid": 5.77,
+          "mid": 5.69,
           "high": 63.99,
-          "market": 4.73,
-          "directLow": 5.94
+          "market": 4.94,
+          "directLow": 7.19
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV111",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 4.9,
-        "lowPrice": 3.97,
-        "trendPrice": 4.67,
+        "lowPrice": 3.98,
+        "trendPrice": 4.74,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 15.66,
         "lowPriceExPlus": 3.99,
-        "avg1": 4.43,
-        "avg7": 4.5,
-        "avg30": 4.89,
+        "avg1": 4.49,
+        "avg7": 4.42,
+        "avg30": 4.74,
         "reverseHoloAvg1": 15.84,
         "reverseHoloAvg7": 16.32,
         "reverseHoloAvg30": 19.2
@@ -12585,32 +12585,32 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV112",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.75,
-          "mid": 1.64,
-          "high": 100,
-          "market": 1.21,
+          "mid": 1.67,
+          "high": 89,
+          "market": 1.07,
           "directLow": 0.95
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV112",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.39,
         "lowPrice": 0.6,
-        "trendPrice": 1.12,
+        "trendPrice": 1.1,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.8,
         "lowPriceExPlus": 0.95,
-        "avg1": 0.95,
-        "avg7": 1.13,
+        "avg1": 1.25,
+        "avg7": 1.11,
         "avg30": 1.35,
         "reverseHoloAvg1": 4.13,
         "reverseHoloAvg7": 4.91,
@@ -12692,33 +12692,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV113",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 2.25,
-          "mid": 3.26,
+          "mid": 3.29,
           "high": 89,
-          "market": 3.17,
+          "market": 3.26,
           "directLow": 3.1
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV113",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.59,
         "lowPrice": 1.89,
-        "trendPrice": 2.44,
+        "trendPrice": 2.41,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 9.85,
         "lowPriceExPlus": 1.89,
-        "avg1": 2.74,
-        "avg7": 2.7,
-        "avg30": 2.65,
+        "avg1": 2.19,
+        "avg7": 2.72,
+        "avg30": 2.63,
         "reverseHoloAvg1": 9.9,
         "reverseHoloAvg7": 9.6,
         "reverseHoloAvg30": 10.95
@@ -12812,33 +12812,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV114",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.5,
           "mid": 1,
           "high": 89,
-          "market": 0.72,
+          "market": 0.74,
           "directLow": null
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV114",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.17,
         "lowPrice": 0.45,
-        "trendPrice": 1.05,
+        "trendPrice": 1.01,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 3.73,
         "lowPriceExPlus": 0.45,
-        "avg1": 1.04,
-        "avg7": 1.1,
-        "avg30": 1.13,
+        "avg1": 0.95,
+        "avg7": 1.01,
+        "avg30": 1.14,
         "reverseHoloAvg1": 3.09,
         "reverseHoloAvg7": 3.92,
         "reverseHoloAvg30": 4.64
@@ -12926,33 +12926,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV115",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.63,
-          "mid": 1,
+          "mid": 1.09,
           "high": 35,
-          "market": 0.84,
-          "directLow": 0.99
+          "market": 1.02,
+          "directLow": null
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV115",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.34,
         "lowPrice": 0.8,
-        "trendPrice": 1.45,
+        "trendPrice": 1.44,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 4.3,
         "lowPriceExPlus": 0.8,
-        "avg1": 1.47,
-        "avg7": 1.54,
-        "avg30": 1.4,
+        "avg1": 1.75,
+        "avg7": 1.71,
+        "avg30": 1.43,
         "reverseHoloAvg1": 4.99,
         "reverseHoloAvg7": 4.6,
         "reverseHoloAvg30": 4.72
@@ -13042,32 +13042,32 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV116",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 0.48,
-          "mid": 1.15,
+          "low": 0.5,
+          "mid": 1.18,
           "high": 20,
-          "market": 0.78,
-          "directLow": 1.17
+          "market": 0.89,
+          "directLow": 0.99
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV116",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.55,
         "lowPrice": 0.95,
-        "trendPrice": 1.69,
+        "trendPrice": 1.62,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 3.97,
         "lowPriceExPlus": 0.95,
-        "avg1": 1.67,
-        "avg7": 1.78,
+        "avg1": 1,
+        "avg7": 1.72,
         "avg30": 1.56,
         "reverseHoloAvg1": 3.53,
         "reverseHoloAvg7": 4.31,
@@ -13150,33 +13150,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV117",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 2,
           "mid": 3.97,
           "high": 40.99,
-          "market": 3.97,
-          "directLow": 4.37
+          "market": 3.7,
+          "directLow": 4.07
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV117",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 3.04,
         "lowPrice": 2,
-        "trendPrice": 2.78,
+        "trendPrice": 2.79,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 9.71,
         "lowPriceExPlus": 2,
-        "avg1": 2.35,
-        "avg7": 2.96,
-        "avg30": 3.03,
+        "avg1": 2.95,
+        "avg7": 3.14,
+        "avg30": 3.01,
         "reverseHoloAvg1": 10.28,
         "reverseHoloAvg7": 10.84,
         "reverseHoloAvg30": 12.25
@@ -13262,32 +13262,32 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV118",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 2.5,
           "mid": 3.75,
           "high": 19.99,
-          "market": 2.75,
-          "directLow": 2.69
+          "market": 2.84,
+          "directLow": 3.98
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV118",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 2.39,
         "lowPrice": 1.5,
-        "trendPrice": 2.58,
+        "trendPrice": 2.52,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 8.38,
         "lowPriceExPlus": 1.5,
-        "avg1": 3.2,
-        "avg7": 2.76,
+        "avg1": 2,
+        "avg7": 2.78,
         "avg30": 2.52,
         "reverseHoloAvg1": 7.3,
         "reverseHoloAvg7": 9.39,
@@ -13370,33 +13370,33 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV119",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 5.83,
-          "mid": 8.93,
+          "mid": 8.86,
           "high": 39.99,
-          "market": 8.12,
-          "directLow": 11.39
+          "market": 8.27,
+          "directLow": 11.96
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV119",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 5.39,
         "lowPrice": 1.99,
-        "trendPrice": 5.75,
+        "trendPrice": 5.62,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 19.44,
-        "lowPriceExPlus": 3.95,
-        "avg1": 5.55,
-        "avg7": 5.18,
-        "avg30": 5.3,
+        "lowPriceExPlus": 4,
+        "avg1": 4.13,
+        "avg7": 5,
+        "avg30": 5.24,
         "reverseHoloAvg1": 18.99,
         "reverseHoloAvg7": 20.09,
         "reverseHoloAvg30": 22.48
@@ -13484,20 +13484,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV120",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 0.49,
-          "mid": 1,
+          "mid": 1.04,
           "high": 89,
-          "market": 0.89,
-          "directLow": 1.24
+          "market": 0.96,
+          "directLow": null
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV120",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 1.23,
         "lowPrice": 0.69,
@@ -13508,9 +13508,9 @@
         "reverseHoloLow": 0,
         "reverseHoloTrend": 3.74,
         "lowPriceExPlus": 0.69,
-        "avg1": 1,
-        "avg7": 1.23,
-        "avg30": 1.24,
+        "avg1": 1.2,
+        "avg7": 1.19,
+        "avg30": 1.23,
         "reverseHoloAvg1": 3.65,
         "reverseHoloAvg7": 4.01,
         "reverseHoloAvg30": 4.72
@@ -13601,32 +13601,32 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV121",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
-          "low": 3,
+          "low": 2.92,
           "mid": 4,
           "high": 89,
-          "market": 3.66,
-          "directLow": 4.44
+          "market": 3.82,
+          "directLow": 4.34
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV121",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 5.47,
         "lowPrice": 2.5,
-        "trendPrice": 5.17,
+        "trendPrice": 5.08,
         "germanProLow": 0,
         "suggestedPrice": 0,
         "reverseHoloSell": 0,
         "reverseHoloLow": 0,
         "reverseHoloTrend": 26.5,
         "lowPriceExPlus": 3,
-        "avg1": 5.24,
-        "avg7": 4.66,
+        "avg1": 4.4,
+        "avg7": 4.6,
         "avg30": 5.36,
         "reverseHoloAvg1": 26.64,
         "reverseHoloAvg7": 27.33,
@@ -13715,20 +13715,20 @@
     },
     "tcgplayer": {
       "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV122",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "holofoil": {
           "low": 3,
           "mid": 5.25,
           "high": 100,
-          "market": 4.82,
-          "directLow": 5.01
+          "market": 4.83,
+          "directLow": 5.2
         }
       }
     },
     "cardmarket": {
       "url": "https://prices.pokemontcg.io/cardmarket/swsh45sv-SV122",
-      "updatedAt": "2025/05/16",
+      "updatedAt": "2025/05/17",
       "prices": {
         "averageSellPrice": 6.04,
         "lowPrice": 2.49,

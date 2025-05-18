@@ -907,8 +907,8 @@
     },
     {
         "name": "Love Ball",
-        "image": "/assets/TwilightMasquerade/Love+Ball.png",
-        "proxy": "/assets/TwilightMasquerade/proxy/Love+Ball.png",
+        "image": "/assets/TwilightMasquerade/Love+DeckBall.ico",
+        "proxy": "/assets/TwilightMasquerade/proxy/Love+DeckBall.ico",
         "supertype": "Trainer"
     },
     {

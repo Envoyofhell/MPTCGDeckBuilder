@@ -596,7 +596,7 @@
     {
         "name": "Master Ball",
         "image": "/assets/TemporalForces/1530_032_T_MasterBall_ol.png",
-        "proxy": "/assets/TemporalForces/proxy/Master+Ball.png",
+        "proxy": "/assets/TemporalForces/proxy/Master+DeckBall.ico",
         "supertype": "Trainer"
     },
     {

@@ -1,6 +1,258 @@
-/* Custom CSS file */
+/* Custom CSS file src/components/layout/Header/Header.css */
+
+/* Theme Variables (Inspired by your examples) */
+:root {
+  --theme-dark-bg: #080808; /* Very dark, almost black */
+  --theme-dark-surface1: #161618; /* Slightly lighter dark, for modal content bg */
+  --theme-dark-surface2: #212124; /* For headers or distinct sections */
+  --theme-text-light: #e0e0e0; /* Main text on dark bg */
+  --theme-text-muted-dark: #888888;
+  --theme-accent-red-primary: #dc2626; /* Bright red (text-red-600) */
+  --theme-accent-red-secondary: #a33030; /* Darker red for borders/bg */
+  --theme-accent-red-glow: rgba(255, 0, 0, 0.6);
+  --theme-accent-purple-primary: #8a2be2; /* Blueviolet solid */
+  --theme-accent-purple-secondary: #4b0082; /* Indigo / Darker Purple */
+  --theme-accent-purple-glow: rgba(138, 43, 226, 0.5);
+  --theme-border-dark: #383838;
+  --theme-border-accent-red: rgba(163, 48, 48, 0.7);
+  --theme-border-accent-purple: rgba(75, 0, 130, 0.7);
+
+  /* Font inspired by your theme.css */
+  --font-theme-title: 'Pirata One', cursive;
+}
+
 .badge-hover:hover {
-    background-color: #036cdb !important; /* Bootstrap primary color, adjust as needed */
-    cursor: pointer; /* Changes the mouse cursor to indicate clickability */
-  }
-  
+  background-color: var(--theme-accent-red-primary) !important;
+  box-shadow: 0 0 10px var(--theme-accent-red-glow);
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+/* General Modal Styling */
+.changelog-modal .modal-content {
+  border-radius: 0.3rem; /* Sharper corners */
+  border: 1px solid var(--theme-border-dark);
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.3);
+}
+
+.changelog-modal-header {
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid var(--theme-border-dark);
+}
+
+.changelog-modal-title {
+  font-family: var(--font-theme-title);
+  font-size: 2rem; /* Larger title */
+  font-weight: normal; /* Pirata One is already boldish */
+  letter-spacing: 1px;
+}
+
+.changelog-modal-body {
+  padding: 1.5rem;
+}
+
+/* --- Dark Mode Theme --- */
+.changelog-modal-dark .modal-content {
+  background-color: var(--theme-dark-surface1);
+  color: var(--theme-text-light);
+  border-color: var(--theme-border-accent-red); /* Red border for modal */
+  box-shadow: 0 0 25px rgba(0,0,0,0.5), 0 0 15px var(--theme-accent-red-glow); /* Outer dark, inner red glow */
+}
+
+.changelog-modal-dark .changelog-modal-header {
+  background-color: var(--theme-dark-surface2);
+  color: var(--theme-accent-red-primary); /* Red title text */
+  border-bottom: 1px solid var(--theme-border-accent-red);
+  text-shadow: 0 0 5px var(--theme-accent-red-glow);
+}
+
+.changelog-modal-dark .modal-header .btn-close {
+  filter: invert(60%) sepia(100%) saturate(5000%) hue-rotate(330deg) brightness(100%) contrast(100%); /* Reddish close button */
+}
+
+.changelog-modal-dark .changelog-category-title {
+  font-family: var(--font-theme-title);
+  color: var(--theme-accent-purple-primary); /* Purple category titles */
+  border-bottom: 1px solid var(--theme-border-accent-purple);
+  text-shadow: 0 0 4px var(--theme-accent-purple-glow);
+  font-size: 1.5rem;
+  letter-spacing: 0.5px;
+}
+
+.changelog-modal-dark .text-muted {
+  color: var(--theme-text-muted-dark) !important;
+}
+
+.changelog-modal-dark hr {
+  border-top: 1px solid var(--theme-border-dark);
+}
+
+/* --- Light Mode Theme (Standard Bootstrap with accents) --- */
+.changelog-modal-light .modal-content {
+  background-color: #fff;
+  color: #212529;
+}
+.changelog-modal-light .changelog-modal-header {
+  background-color: #f1f1f1; /* Slightly off-white header */
+  color: var(--theme-accent-red-secondary); /* Dark red title */
+  border-bottom: 1px solid #dee2e6;
+}
+.changelog-modal-light .changelog-category-title {
+  font-family: var(--font-theme-title);
+  color: var(--theme-accent-purple-secondary); /* Dark purple titles */
+  border-bottom: 1px solid #e0e0e0;
+  font-size: 1.5rem;
+}
+.changelog-modal-light hr {
+  border-top: 1px solid #dee2e6;
+}
+
+/* Changelog Content Styling (Common) */
+.changelog-category {
+  margin-bottom: 2rem; /* More spacing */
+}
+
+.changelog-item {
+  margin-bottom: 0.75rem; /* More spacing */
+  line-height: 1.7;
+  font-size: 0.95rem;
+  padding-left: 15px;
+  position: relative;
+}
+
+.changelog-item::before {
+  content: "†"; /* Dagger/cross symbol */
+  position: absolute;
+  left: -5px;
+  top: 0px;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+.changelog-modal-dark .changelog-item::before {
+  color: var(--theme-accent-red-secondary);
+}
+.changelog-modal-light .changelog-item::before {
+  color: var(--theme-accent-red-primary);
+}
+
+
+/* --- Keyword Styling (Horror Theme for Dark Mode) --- */
+.changelog-keyword {
+  font-weight: bold;
+  padding: 0.15em 0.4em;
+  border-radius: 0.25em;
+  margin-right: 0.5em;
+  font-size: 0.9em;
+  display: inline-block;
+  line-height: 1.3;
+  vertical-align: baseline;
+  text-shadow: 0 0 3px rgba(0,0,0,0.7); /* Subtle shadow for depth */
+}
+
+/* Dark Mode Keyword Colors */
+.changelog-modal-dark .changelog-keyword-added,
+.changelog-modal-dark .changelog-keyword-new {
+  background-color: rgba(75, 0, 130, 0.4); /* Dark Purple BG */
+  color: #dda0dd;      /* Light Plum/Purple Text */
+  border: 1px solid rgba(138, 43, 226, 0.6); /* Purple Border */
+}
+
+.changelog-modal-dark .changelog-keyword-improved,
+.changelog-modal-dark .changelog-keyword-updated {
+  background-color: rgba(100, 20, 20, 0.4); /* Dark Desaturated Red BG */
+  color: #ff7f7f;      /* Light Red/Pink Text */
+  border: 1px solid rgba(178, 34, 34, 0.6); /* Firebrick Red Border */
+}
+
+.changelog-modal-dark .changelog-keyword-fixed {
+  background-color: rgba(139, 69, 19, 0.3); /* Dark Brown/Orange BG (SaddleBrown) */
+  color: #ffcc80;      /* Light Orange/Peach Text */
+  border: 1px solid rgba(210, 105, 30, 0.5); /* Chocolate Border */
+}
+
+.changelog-modal-dark .changelog-keyword-changed,
+.changelog-modal-dark .changelog-keyword-replaced {
+  background-color: #2a2a2e; /* Very Dark Grey BG */
+  color: #aaaaaa;      /* Medium Grey Text */
+  border: 1px solid #444444;
+}
+
+.changelog-modal-dark .changelog-keyword-removed,
+.changelog-modal-dark .changelog-keyword-reduced {
+  background-color: rgba(139, 0, 0, 0.5); /* DarkRed BG */
+  color: #ff6b6b;      /* Bright, slightly lighter Red Text */
+  border: 1px solid rgba(178, 34, 34, 0.8); /* Firebrick Border */
+}
+
+/* Light Mode Keyword Colors (More standard, but with thematic accents) */
+.changelog-modal-light .changelog-keyword-added,
+.changelog-modal-light .changelog-keyword-new {
+  background-color: #e8dff5; /* Light purple */
+  color: var(--theme-accent-purple-secondary);
+  border: 1px solid #c9b8e4;
+}
+
+.changelog-modal-light .changelog-keyword-improved,
+.changelog-modal-light .changelog-keyword-updated {
+  background-color: #f5dddd; /* Light red */
+  color: var(--theme-accent-red-secondary);
+  border: 1px solid #eeb3b3;
+}
+
+.changelog-modal-light .changelog-keyword-fixed {
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+}
+
+.changelog-modal-light .changelog-keyword-changed,
+.changelog-modal-light .changelog-keyword-replaced {
+  background-color: #e2e3e5;
+  color: #383d41;
+  border: 1px solid #d6d8db;
+}
+
+.changelog-modal-light .changelog-keyword-removed,
+.changelog-modal-light .changelog-keyword-reduced {
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+}
+
+
+/* Subsection titles within items */
+.changelog-subsection-title {
+  display: block;
+  font-weight: 600;
+  margin-top: 0.7em;
+  margin-bottom: 0.3em;
+  font-size: 1rem; /* Slightly larger */
+}
+.changelog-modal-dark .changelog-subsection-title {
+  color: #c0c0c0; /* Lighter grey for dark mode */
+}
+.changelog-modal-light .changelog-subsection-title {
+  color: #444;
+}
+
+.changelog-subsection-title.tech-path {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.9rem;
+  background-color: rgba(0,0,0,0.1);
+  padding: 0.1em 0.3em;
+  border-radius: 0.2em;
+}
+.changelog-modal-dark .changelog-subsection-title.tech-path {
+  color: #9e9e9e; /* Muted tech path color */
+  background-color: rgba(255,255,255,0.05);
+  border: 1px dashed #555;
+}
+.changelog-modal-light .changelog-subsection-title.tech-path {
+  color: #555;
+  background-color: #f0f0f0;
+  border: 1px dashed #ccc;
+}
+
+.changelog-category ul {
+  padding-left: 0;
+}

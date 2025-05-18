@@ -1,3 +1,4 @@
+// \src\components\layout\CardSearchPanel.js
 import React, { useState, useEffect, useContext } from "react";
 import Card from 'react-bootstrap/Card';
 // import CardViewerContainer from "../CardViewerContainer";

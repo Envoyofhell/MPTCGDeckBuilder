@@ -1,13 +1,109 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+/* src/index.css */
+
+/* Import Pirata One font for thematic titles */
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+:root {
+  /* Define core theme colors based on your examples */
+  --theme-dark-bg: #080808;
+  --theme-text-light: #d1d5db;
+  --theme-font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
+  --theme-font-monospace: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  --theme-font-title: 'Pirata One', cursive;
+
+  /* Accents (can be used by other component CSS files) */
+  --theme-accent-red-primary: #dc2626;
+  --theme-accent-red-secondary: #a33030;
+  --theme-accent-red-glow: rgba(255, 0, 0, 0.6);
+  --theme-accent-purple-primary: #8a2be2; /* Blueviolet */
+  --theme-accent-purple-secondary: #4b0082; /* Indigo */
+  --theme-accent-purple-glow: rgba(138, 43, 226, 0.5);
+
+  /* Dark Theme Surfaces & Borders */
+  --theme-dark-surface1: #161618; /* Slightly lighter dark, for modal content bg */
+  --theme-dark-surface2: #212124; /* For headers or distinct sections */
+  --theme-border-dark: #383838;
+  --theme-border-accent-red: rgba(163, 48, 48, 0.7);
+  --theme-border-accent-purple: rgba(75, 0, 130, 0.7);
+  --theme-text-muted-dark: #888888;
+
+
+  /* Light Theme (Ominous Blue) Variables */
+  --theme-light-bg: #282c34; /* Dark gray background */
+  --theme-light-surface1: #343a40; /* Slightly lighter dark gray for surfaces */
+  --theme-light-surface2: #1a1d21; /* Light black for accents/headers */
+  --theme-text-ominous-blue-primary: #7aa0c2; /* Ominous blue text */
+  --theme-text-ominous-blue-secondary: #9cb9d3; /* Lighter ominous blue */
+  --theme-text-ominous-blue-accent: #4d88ff; /* Brighter blue for accents/hovers */
+  --theme-border-light: #4a4e54;
+  --theme-text-muted-light: #6c757d;
+}
+
+body {
+  margin: 0;
+  font-family: var(--theme-font-sans);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* Prevent body from scrolling */
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh; /* Ensure body takes full viewport height */
+  position: relative;
+  cursor: default;
+
+  /* Default to dark theme colors, will be overridden by .App class themes */
+  background-color: var(--theme-dark-bg);
+  color: var(--theme-text-light);
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: var(--theme-font-monospace);
+}
+
+#root {
+  width: 100%;
+  height: 100vh; /* Ensure root also takes full height */
+  display: flex; /* Allow .App to fill it */
+  flex-direction: column;
+}
+
+/* Three.js Background Container (from your Main.css) */
+#threejs-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  overflow: hidden;
+}
+
+#threejs-bg canvas {
+  display: block;
+}
+
+/* Cursor Light Effect (from your links_style.css) */
+.cursor-light {
+  position: fixed;
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle, hsla(var(--hue1, 300), 80%, 70%, 0.08) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%) translateZ(0);
+  z-index: 5;
+  mix-blend-mode: screen;
+  will-change: transform;
+  transition: background 0.2s ease-out;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .cursor-light {
+    display: none;
+  }
 }

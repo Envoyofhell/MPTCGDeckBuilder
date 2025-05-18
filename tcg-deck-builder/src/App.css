@@ -1,36 +1,213 @@
+/* src/App.css */
+
 .App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-.content{
-  padding-top: 5vh;
-  width: 100vw;
+.content {
+  padding-top: 75px; /* IMPORTANT: Adjust to your Header height! */
+  width: 100%;
   display: flex;
   flex-direction: row;
+  flex-grow: 1;
+  overflow: hidden;
+  gap: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  box-sizing: border-box;
 }
+
+.enhanced-card-search-panel-container,
+.deck-view-panel-container {
+  height: 100%;
+  overflow-y: auto;
+  /* Removed padding: 1rem; from here to avoid double padding if Card has its own */
+  box-sizing: border-box;
+}
+
+.enhanced-card-search-panel-container { flex: 1; }
+.deck-view-panel-container { flex: 1; }
+
+
+/* --- Global Base Button Styling --- */
+/* This will apply to all elements with the .btn class from Bootstrap */
+.btn {
+  font-family: var(--theme-font-title, 'Pirata One', cursive) !important; /* Use !important if Bootstrap specificity is high */
+  letter-spacing: 1.3px !important;
+  text-transform: uppercase !important;
+  font-size: 0.95rem !important; /* Consistent font size */
+  padding: 0.5rem 1.2rem !important; /* Consistent padding: top/bottom left/right */
+  border-radius: 0.3rem !important; /* Consistent border radius for shape */
+  border-width: 2px !important; /* Consistent border width */
+  line-height: 1.5 !important; /* For vertical text centering */
+  min-height: 38px !important; /* Minimum height for vertical uniformity */
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+  cursor: pointer !important;
+  transition: all 0.15s ease-in-out !important; /* Standard transition */
+  box-shadow: 0 2px 3px rgba(0,0,0,0.15), inset 0 -1px 1px rgba(0,0,0,0.1) !important; /* Subtle default shadow */
+  vertical-align: middle; /* Helps alignment when buttons are next to other inline elements */
+}
+
+.btn .svg-inline--fa { /* Spacing for FontAwesome icons in buttons */
+    margin-right: 0.6em; /* Consistent spacing */
+    vertical-align: middle; /* Better alignment with text */
+}
+/* For icon-only buttons or when text is hidden, remove margin */
+.btn .d-none.d-sm-inline + .svg-inline--fa, /* If text is hidden before icon */
+.btn .svg-inline--fa:last-child:not(:first-child) { /* If icon is last and not only child (less common) */
+   /* This might be too complex, better handle in component if text is truly hidden */
+}
+.btn > .svg-inline--fa:first-child:last-child { /* Icon-only button */
+    margin-right: 0;
+}
+
+
+.btn:active, .btn.active {
+    transform: translateY(1px) scale(0.98) !important;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.3) !important; /* More pronounced press */
+}
+
+.btn:disabled, .btn.disabled {
+    opacity: 0.6 !important; /* Slightly more visible disabled state */
+    cursor: not-allowed !important;
+    box-shadow: none !important;
+    background-image: none !important;
+    /* Ensure text color changes appropriately on disabled */
+}
+
+/* Specific size adjustments if needed globally for sm/lg buttons */
+.btn-sm {
+    font-size: 0.8rem !important;
+    padding: 0.35rem 0.8rem !important;
+    min-height: 32px !important;
+    letter-spacing: 1px !important;
+}
+.btn-sm .svg-inline--fa {
+    margin-right: 0.4em;
+}
+
+.btn-lg {
+    font-size: 1.1rem !important;
+    padding: 0.65rem 1.5rem !important;
+    min-height: 48px !important;
+    letter-spacing: 1.5px !important;
+}
+.btn-lg .svg-inline--fa {
+    margin-right: 0.7em;
+}
+
+
+/* --- Default CRA styles - Remove if not used --- */
+.App-logo { height: 40vmin; pointer-events: none; }
+@media (prefers-reduced-motion: no-preference) { .App-logo { animation: App-logo-spin infinite 20s linear; } }
+.App-link { color: #61dafb; }
+@keyframes App-logo-spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+/* --- End Default CRA styles --- */
+
+
+.loading-spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.mobile-warning {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1050;
+}
+.mobile-warning .alert { margin-bottom: 0; border-radius: 0; }
+
+/* Themed Alerts & Spinner (ensure variables are defined in index.css) */
+.dark-theme .alert-danger {
+  background-color: var(--theme-accent-red-secondary, #a33030);
+  color: var(--theme-text-light, #e0e0e0);
+  border-color: var(--theme-accent-red-primary, #dc2626);
+}
+.dark-theme .alert-danger .alert-heading { color: var(--theme-text-light, #e0e0e0); }
+.dark-theme .alert-danger hr { border-top-color: var(--theme-accent-red-primary, #dc2626); }
+
+.light-theme .alert-danger {
+  background-color: var(--theme-light-surface2, #1a2a3a);
+  color: var(--theme-text-ominous-blue-secondary, #9cb9d3);
+  border-color: var(--theme-text-ominous-blue-accent, #4d88ff);
+}
+.light-theme .alert-danger .alert-heading { color: var(--theme-text-ominous-blue-secondary, #9cb9d3); }
+.light-theme .alert-danger hr { border-top-color: var(--theme-text-ominous-blue-accent, #4d88ff); }
+
+.dark-theme .alert-warning {
+    background-color: #4d3800;
+    color: #ffda6b;
+    border-color: #856404;
+}
+.light-theme .alert-warning {
+    background-color: var(--theme-light-surface1, #343a40);
+    color: var(--theme-text-ominous-blue-primary, #a0b0c0);
+    border-color: var(--theme-border-light, #505a60);
+}
+
+.dark-theme .spinner-border { color: var(--theme-accent-purple-primary, #8a2be2); }
+.light-theme .spinner-border { color: var(--theme-text-ominous-blue-accent, #4d88ff); }
+
+/* Styles for Bootstrap components that might need theme adjustments */
+.dark-theme .form-check-input:checked {
+  background-color: var(--theme-accent-red-primary);
+  border-color: var(--theme-accent-red-secondary);
+}
+.dark-theme .form-check-input {
+  background-color: var(--theme-dark-surface1);
+  border: 1px solid var(--theme-border-accent-purple);
+}
+.dark-theme .form-check-label {
+  color: var(--theme-text-light);
+}
+
+.light-theme .form-check-input:checked {
+  background-color: var(--theme-text-ominous-blue-accent);
+  border-color: var(--theme-text-ominous-blue-primary);
+}
+.light-theme .form-check-input {
+  background-color: var(--theme-light-surface1);
+  border: 1px solid var(--theme-border-light);
+}
+.light-theme .form-check-label {
+  color: var(--theme-text-ominous-blue-primary);
+}
+
+/* Accordion */
+.dark-theme .accordion-button { background-color: var(--theme-dark-surface2); color: var(--theme-text-light); }
+.dark-theme .accordion-button:not(.collapsed) { background-color: var(--theme-dark-surface1); color: var(--theme-accent-purple-primary); box-shadow: inset 0 -1px 0 var(--theme-border-accent-purple); }
+.dark-theme .accordion-button::after { background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23e0e0e0'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e"); }
+.dark-theme .accordion-button:not(.collapsed)::after { background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%238a2be2'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e"); }
+.dark-theme .accordion-body { background-color: var(--theme-dark-surface1); padding: 1rem; }
+.dark-theme .accordion-item { border: 1px solid var(--theme-border-accent-purple); }
+
+.light-theme .accordion-button { background-color: var(--theme-light-surface1); color: var(--theme-text-ominous-blue-secondary); }
+.light-theme .accordion-button:not(.collapsed) { background-color: var(--theme-light-bg); color: var(--theme-text-ominous-blue-accent); box-shadow: inset 0 -1px 0 var(--theme-border-light); }
+.light-theme .accordion-button::after { background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%237aa0c2'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e"); }
+.light-theme .accordion-button:not(.collapsed)::after { background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%234d88ff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e"); }
+.light-theme .accordion-body { background-color: var(--theme-light-bg); padding: 1rem; }
+.light-theme .accordion-item { border: 1px solid var(--theme-border-light); }
+
+/* Input Group (for search mode select) */
+.dark-theme .input-group-text { background-color: var(--theme-dark-surface2); border: 1px solid var(--theme-border-accent-purple); color: var(--theme-text-muted-dark); }
+.dark-theme .input-group-text .form-select { background-color: transparent; color: var(--theme-text-light); border: none !important; box-shadow: none !important; }
+.dark-theme .input-group-text .form-select:focus { background-color: var(--theme-dark-surface1); }
+
+.light-theme .input-group-text { background-color: var(--theme-light-surface1); border: 1px solid var(--theme-border-light); color: var(--theme-text-muted-light); }
+.light-theme .input-group-text .form-select { background-color: transparent; color: var(--theme-text-ominous-blue-primary); border: none !important; box-shadow: none !important; }
+.light-theme .input-group-text .form-select:focus { background-color: var(--theme-light-surface2); }
+

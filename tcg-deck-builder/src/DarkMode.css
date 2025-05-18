@@ -1,17 +1,339 @@
-/* dark-theme.css */
-.dark-theme .content {
-    background-color: black;
-    color: white;
-    width: 100%;
-    height: 100vh;
+/* src/DarkMode.css */
+
+.dark-theme {
+  background-color: var(--theme-dark-bg, #080808);
+  color: var(--theme-text-light, #d1d5db);
 }
 
-.dark-theme .navbar {
-    background-color: #333;
-    color: white; 
-  }
-  
-.dark-theme .card {
-  background-color: #333;
-  color: white; 
+.dark-theme .content {
+  background-color: var(--theme-dark-bg, #080808);
+  color: var(--theme-text-light, #d1d5db);
 }
+
+/* --- Navbar --- */
+.dark-theme .navbar {
+  background-color: var(--theme-dark-surface2, #121212) !important; /* Even darker surface */
+  border-bottom: 2px solid var(--theme-border-accent-red, rgba(180, 40, 40, 0.9)); /* Thicker, slightly darker red border */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.7), 0 0 15px var(--theme-accent-red-glow, rgba(255,0,0,0.5));
+}
+
+.dark-theme .navbar .navbar-brand {
+  color: var(--theme-accent-red-primary, #e53e3e) !important; /* Brighter red */
+  font-family: var(--theme-font-title, 'Pirata One', cursive);
+  font-size: 1.9rem;
+  animation: brand-text-flicker 2.5s linear infinite alternate;
+  /* Keep a base shadow for when animation might not be active or for subtlety */
+  text-shadow: 0 0 3px rgba(255, 80, 80, 0.6),
+               0 0 7px rgba(255, 0, 0, 0.5),
+               0 0 12px var(--theme-accent-purple-glow, rgba(138, 43, 226, 0.3));
+}
+
+@keyframes brand-text-flicker { /* Slightly adjusted flicker */
+  0%, 7%, 9%, 15%, 17%, 25%, 27%, 30%, 32%, 40%, 42%, 50%, 52%, 60%, 62%, 70%, 72%, 80%, 82%, 90%, 92%, 100% {
+    text-shadow: 0 0 5px rgba(255, 100, 100, 0.9),
+                 0 0 10px rgba(255, 0, 0, 0.8),
+                 0 0 20px var(--theme-accent-purple-glow, rgba(138, 43, 226, 0.7));
+    opacity: 1;
+  }
+  8%, 16%, 26%, 31%, 41%, 51%, 61%, 71%, 81%, 91% {
+    text-shadow: 0 0 3px rgba(255, 100, 100, 0.5),
+                 0 0 7px rgba(255, 0, 0, 0.4),
+                 0 0 12px var(--theme-accent-purple-glow, rgba(138, 43, 226, 0.3));
+    opacity: 0.90;
+  }
+}
+
+.dark-theme .navbar .nav-link {
+  color: var(--theme-text-light, #cccccc) !important; /* Slightly less bright for less emphasis */
+  font-weight: 500;
+}
+.dark-theme .navbar .nav-link:hover,
+.dark-theme .navbar .nav-link:focus {
+  color: var(--theme-accent-purple-primary, #a26bf5) !important; /* Brighter purple hover */
+  text-shadow: 0 0 8px var(--theme-accent-purple-glow, rgba(160, 100, 240, 0.6));
+}
+.dark-theme .navbar .badge {
+    background-color: var(--theme-accent-purple-secondary, #5c1f8c) !important; /* Deeper purple */
+    color: var(--theme-text-light, #f0f0f0) !important;
+    border: 1px solid var(--theme-accent-purple-primary, #a26bf5);
+    box-shadow: 0 0 10px var(--theme-accent-purple-glow, rgba(160, 100, 240, 0.5));
+}
+.dark-theme .navbar .badge:hover {
+    background-color: var(--theme-accent-purple-primary, #a26bf5) !important;
+    box-shadow: 0 0 15px var(--theme-accent-purple-glow, rgba(160, 100, 240, 0.7));
+}
+
+/* --- General Card Styling (e.g., Search Panel Card) --- */
+.dark-theme .card { /* This targets Bootstrap cards */
+  background-color: var(--theme-dark-surface1, #1a1a1d) !important;
+  color: var(--theme-text-light, #e0e0e0);
+  border: 1px solid var(--theme-border-dark, #333); /* Subtler border */
+  border-radius: var(--card-border-radius, 8px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.5), inset 0 0 8px rgba(0,0,0,0.3); /* Inner shadow for depth */
+}
+.dark-theme .card .card-header {
+    background-color: var(--theme-dark-surface2, #212124) !important; /* Distinct header */
+    color: var(--theme-accent-red-primary, #e53e3e);
+    font-family: var(--theme-font-title, 'Pirata One', cursive);
+    border-bottom: 1px solid var(--theme-border-accent-red, rgba(180, 40, 40, 0.7));
+    font-size: 1.4rem; /* Consistent header size */
+    text-shadow: 0 0 4px var(--theme-accent-red-glow, rgba(255,0,0,0.4));
+}
+.dark-theme .card .card-body {
+    padding: 1.25rem; /* Ensure padding */
+}
+.dark-theme .card .card-footer {
+    background-color: var(--theme-dark-surface2, #212124);
+    border-top: 1px solid var(--theme-border-dark, #333);
+}
+
+/* --- Scrollbars --- */
+.dark-theme ::-webkit-scrollbar { width: 12px; height: 12px; }
+.dark-theme ::-webkit-scrollbar-track { background: #0a0a0a; border-radius: 6px; } /* Darker track */
+.dark-theme ::-webkit-scrollbar-thumb {
+  background-color: var(--theme-accent-red-secondary, #8b0000);
+  border-radius: 6px;
+  border: 2px solid #0a0a0a; /* Match track for padding effect */
+}
+.dark-theme ::-webkit-scrollbar-thumb:hover { background-color: var(--theme-accent-red-primary, #dc2626); }
+
+/* --- Buttons --- */
+.dark-theme .btn {
+    font-family: var(--theme-font-title, 'Pirata One', cursive);
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 0.95rem; /* Slightly smaller for better fit */
+    padding: 0.5rem 1.1rem;
+    border-radius: 0.25rem; /* Sharper */
+    transition: all 0.15s ease-in-out;
+    border-width: 1px; /* Standard border width */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4), inset 0 -1px 2px rgba(0,0,0,0.2);
+}
+.dark-theme .btn:active {
+    transform: translateY(1px);
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.5);
+}
+
+.dark-theme .btn-primary {
+    background: var(--theme-accent-red-secondary, #a33030) !important;
+    border-color: var(--theme-accent-red-primary, #c0392b) !important;
+    color: #f5f5f5 !important; /* Brighter white */
+    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+}
+.dark-theme .btn-primary:hover, .dark-theme .btn-primary:focus {
+    background: var(--theme-accent-red-primary, #c0392b) !important;
+    border-color: var(--theme-accent-red-secondary, #a33030) !important;
+    color: #fff !important;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.5), 0 0 15px var(--theme-accent-red-glow, rgba(255,0,0,0.5));
+}
+
+.dark-theme .btn-secondary {
+    background: var(--theme-accent-purple-secondary, #4b0082) !important;
+    border-color: var(--theme-accent-purple-primary, #8a2be2) !important;
+    color: #f5f5f5 !important;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+}
+.dark-theme .btn-secondary:hover, .dark-theme .btn-secondary:focus {
+    background: var(--theme-accent-purple-primary, #8a2be2) !important;
+    border-color: var(--theme-accent-purple-secondary, #4b0082) !important;
+    color: #fff !important;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.5), 0 0 15px var(--theme-accent-purple-glow, rgba(138, 43, 226,0.5));
+}
+
+/* Success button (e.g., Import) */
+.dark-theme .btn-success {
+    background-color: var(--theme-accent-purple-secondary, #3a006a) !important; /* Dark purple */
+    border-color: var(--theme-accent-purple-primary, #8a2be2) !important;
+    color: #f0f0f0 !important;
+}
+.dark-theme .btn-success:hover {
+    background-color: var(--theme-accent-purple-primary, #8a2be2) !important;
+    border-color: var(--theme-accent-purple-secondary, #3a006a) !important;
+}
+
+/* Danger button (e.g., Clear, Delete) */
+.dark-theme .btn-danger {
+    background-color: var(--theme-accent-red-secondary, #a33030) !important;
+    border-color: var(--theme-accent-red-primary, #dc2626) !important;
+    color: #f0f0f0 !important;
+}
+.dark-theme .btn-danger:hover {
+    background-color: var(--theme-accent-red-primary, #dc2626) !important;
+    border-color: var(--theme-accent-red-secondary, #a33030) !important;
+}
+
+/* Outline buttons */
+.dark-theme .btn-outline-secondary {
+    color: var(--theme-text-muted-dark, #aaa);
+    border-color: var(--theme-border-dark, #555);
+}
+.dark-theme .btn-outline-secondary:hover {
+    color: var(--theme-text-light, #eee);
+    background-color: var(--theme-dark-surface2, #2a2a2e);
+    border-color: var(--theme-border-dark, #666);
+}
+.dark-theme .btn-outline-danger {
+    color: var(--theme-accent-red-primary, #e57373);
+    border-color: var(--theme-accent-red-secondary, #a33030);
+}
+.dark-theme .btn-outline-danger:hover {
+    color: #fff;
+    background-color: var(--theme-accent-red-secondary, #a33030);
+    border-color: var(--theme-accent-red-primary, #dc2626);
+}
+.dark-theme .btn-outline-primary { /* For "Show Latest Set" etc. */
+    color: var(--theme-accent-purple-primary, #a26bf5);
+    border-color: var(--theme-accent-purple-secondary, #5c1f8c);
+}
+.dark-theme .btn-outline-primary:hover {
+    color: #fff;
+    background-color: var(--theme-accent-purple-secondary, #5c1f8c);
+    border-color: var(--theme-accent-purple-primary, #a26bf5);
+}
+
+
+/* --- Inputs, Search, Tabs --- */
+.dark-theme input[type="text"],
+.dark-theme input[type="search"],
+.dark-theme input[type="number"],
+.dark-theme textarea,
+.dark-theme select,
+.dark-theme .form-control, /* General Bootstrap form control */
+.dark-theme .form-select { /* General Bootstrap form select */
+    background-color: var(--theme-dark-surface1, #101012) !important;
+    color: var(--theme-text-light, #e8e8e8) !important; /* Brighter text */
+    border: 1px solid var(--theme-border-accent-purple, rgba(110, 50, 170, 0.7)) !important; /* Slightly different purple */
+    border-radius: 0.25rem;
+    padding: 0.5rem 0.75rem;
+}
+.dark-theme input[type="text"]:focus,
+.dark-theme input[type="search"]:focus,
+.dark-theme input[type="number"]:focus,
+.dark-theme textarea:focus,
+.dark-theme select:focus,
+.dark-theme .form-control:focus,
+.dark-theme .form-select:focus {
+    border-color: var(--theme-accent-purple-primary, #b39ddb) !important; /* Lighter purple on focus */
+    box-shadow: 0 0 0 0.25rem var(--theme-accent-purple-glow, rgba(179, 157, 219, 0.35)) !important; /* Adjusted glow */
+    outline: none;
+    background-color: var(--theme-dark-surface2, #18181a) !important; /* Slightly different focus bg */
+}
+
+/* Placeholder text color - RED for visibility */
+.dark-theme ::placeholder { color: var(--theme-accent-red-primary, #e57373) !important; opacity: 0.7 !important; }
+.dark-theme :-ms-input-placeholder { color: var(--theme-accent-red-primary, #e57373) !important; opacity: 0.7 !important; }
+.dark-theme ::-ms-input-placeholder { color: var(--theme-accent-red-primary, #e57373) !important; opacity: 0.7 !important; }
+
+/* Tabs (e.g., Search, Favorites, Custom, History) */
+.dark-theme .nav-tabs {
+    border-bottom: 2px solid var(--theme-border-accent-red, rgba(180, 40, 40, 0.9)); /* Thicker red border */
+}
+.dark-theme .nav-tabs .nav-link {
+    font-family: var(--theme-font-title, 'Pirata One', cursive);
+    color: var(--theme-text-muted-dark, #999); /* Muted for inactive */
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-bottom-width: 2px; /* Match bottom border of .nav-tabs */
+    margin-right: 2px;
+    padding: 0.6rem 1.1rem;
+    font-size: 1.15rem; /* Slightly larger */
+    transition: color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+}
+.dark-theme .nav-tabs .nav-link:hover {
+    color: var(--theme-accent-purple-primary, #b39ddb);
+    border-color: transparent transparent var(--theme-accent-purple-primary, rgba(179, 157, 219, 0.5)) transparent;
+}
+.dark-theme .nav-tabs .nav-link.active {
+    color: var(--theme-accent-red-primary, #e53e3e) !important;
+    background-color: var(--theme-dark-surface1, #101012) !important; /* Match input bg */
+    border-color: var(--theme-border-accent-red, rgba(180, 40, 40, 0.9)) var(--theme-border-accent-red, rgba(180, 40, 40, 0.9)) var(--theme-dark-surface1, #101012) !important; /* Top/sides red, bottom transparent */
+    text-shadow: 0 0 5px var(--theme-accent-red-glow, rgba(255,0,0,0.5));
+    font-weight: normal; /* Pirata One is already distinct */
+}
+
+/* "Contains" box or similar filter group boxes */
+.dark-theme .contains-box, .dark-theme .filter-group-box { /* Use a common class or target specific ones */
+    background-color: var(--theme-dark-surface1, #101012);
+    color: var(--theme-text-light, #e0e0e0);
+    border: 1px solid var(--theme-border-accent-purple, rgba(90, 0, 150, 0.6));
+    padding: 1rem;
+    border-radius: 0.3rem;
+    margin-top: 1rem;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+}
+.dark-theme .contains-box label, .dark-theme .filter-group-box label,
+.dark-theme .accordion-body .form-label { /* Labels within filters */
+    color: var(--theme-accent-purple-primary, #b39ddb);
+    font-family: var(--theme-font-title, 'Pirata One', cursive);
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    display: block; /* Ensure labels take full width if needed */
+}
+.dark-theme .accordion-body h6.text-muted { /* For Pokémon/Trainer subtype headers */
+    color: var(--theme-text-muted-dark, #999) !important;
+    font-family: var(--theme-font-title, 'Pirata One', cursive);
+    font-size: 1rem;
+    border-bottom: 1px dashed var(--theme-border-dark);
+    padding-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Checkboxes and Radios */
+.dark-theme .form-check-input {
+    background-color: var(--theme-dark-surface2); /* Darker checkbox */
+    border-color: var(--theme-border-accent-purple);
+}
+.dark-theme .form-check-input:checked {
+    background-color: var(--theme-accent-red-primary);
+    border-color: var(--theme-accent-red-secondary);
+}
+.dark-theme .form-check-input:focus {
+    border-color: var(--theme-accent-purple-primary);
+    box-shadow: 0 0 0 0.25rem var(--theme-accent-purple-glow);
+}
+.dark-theme .form-check-label {
+    color: var(--theme-text-light); /* Ensure label text is light */
+}
+
+/* Pagination controls */
+.dark-theme .pagination .page-link {
+    background-color: var(--theme-dark-surface2);
+    border-color: var(--theme-border-accent-purple);
+    color: var(--theme-text-ominous-blue-primary); /* Use a contrasting blue */
+}
+.dark-theme .pagination .page-link:hover {
+    background-color: var(--theme-dark-surface1);
+    color: var(--theme-text-ominous-blue-accent);
+}
+.dark-theme .pagination .page-item.active .page-link {
+    background-color: var(--theme-accent-red-primary);
+    border-color: var(--theme-accent-red-secondary);
+    color: #fff;
+}
+.dark-theme .pagination .page-item.disabled .page-link {
+    background-color: var(--theme-dark-surface2);
+    border-color: var(--theme-border-dark);
+    color: var(--theme-text-muted-dark);
+}
+
+/* Ensure list group items in history tab are themed */
+.dark-theme .list-group-item {
+    background-color: var(--theme-dark-surface1);
+    border-color: var(--theme-border-dark);
+    color: var(--theme-text-light);
+}
+.dark-theme .list-group-item-action:hover,
+.dark-theme .list-group-item-action:focus {
+    background-color: var(--theme-dark-surface2);
+    color: var(--theme-accent-purple-primary);
+}
+.dark-theme .list-group-item strong {
+    color: var(--theme-accent-red-primary); /* Make term in history stand out */
+}
+.dark-theme .list-group-item .text-muted {
+    color: var(--theme-text-muted-dark) !important;
+}
+.dark-theme .list-group-item .badge { /* Badges within history items */
+    font-size: 0.75em;
+}
+
