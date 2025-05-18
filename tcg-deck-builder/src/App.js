@@ -1,3 +1,4 @@
+// src/App.js
 import React, { useEffect, useState, useContext, lazy, Suspense } from 'react';
 import './App.css';
 import './DarkMode.css';
@@ -121,8 +122,12 @@ function App() {
         ) : (
           <ProxyContextProvider>
             <Suspense fallback={<LoadingSpinner />}>
-              <EnhancedCardSearchPanel />
-              <DeckViewPanel />
+              <div className="enhanced-card-search-panel-container">
+                <EnhancedCardSearchPanel />
+              </div>
+              <div className="deck-view-panel-container">
+                <DeckViewPanel />
+              </div>
             </Suspense>
           </ProxyContextProvider>
         )}

@@ -1,321 +1,721 @@
-// src/utils/TCGapi/EnhancedTCGController.js
-// Implements local-first data fetching strategy, falling back to live API.
+// src/components/layout/EnhancedCardSearchPanel.js
+import React, { useState, useEffect, useContext } from "react";
+import Card from 'react-bootstrap/Card';
+import CardContainer from "../CardContainer";
+import Form from 'react-bootstrap/Form';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Button from 'react-bootstrap/Button'; 
+import Tabs from 'react-bootstrap/Tabs';
+import Tab from 'react-bootstrap/Tab';
+import Badge from 'react-bootstrap/Badge';
+import Accordion from 'react-bootstrap/Accordion';
+import InputGroup from 'react-bootstrap/InputGroup';
+import Spinner from 'react-bootstrap/Spinner';
+import styles from './css/CardSearchPanel.module.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { 
+    faMagnifyingGlass, 
+    faFilter, 
+    faSync, 
+    faPlus, 
+    faHistory, 
+    faStar, 
+    faFileImport
+} from '@fortawesome/free-solid-svg-icons';
+import { useDoubleClick } from "../../context/DoubleClickContext";
+import CardJSONValidator from "../../utils/CardJsonValidator";
+import EnhancedTCGController from "../../utils/TCGapi/EnhancedTCGController";
+import CustomCardCreator from "../modals/CustomCardCreator";
 
-// Cache manager for API requests
-const API_CACHE = {
-    cardCache: {},       // By card ID/name (primarily for API results)
-    setCache: null,        // All sets (can be from local or API)
-    searchResultsCache: {}, // By search query (can cache local or API results)
-    customCardsCache: [],  // User-created cards
-    localSetDataCache: {}, // Cache for loaded local set JSONs to reduce re-fetches
-};
+const validator = new CardJSONValidator();
 
-// Configuration
-const TCGAPI_BASE_URL = "https://api.pokemontcg.io/v2";
-const LOCAL_DATA_BASE_URL = "/data/tcg"; // Assuming your build output is in public/data/tcg
-const REQUEST_TIMEOUT = 15000;
-const MAX_RETRIES = 3;
-const MAX_CUSTOM_CARDS = 50;
-const API_KEY = process.env.REACT_APP_POKEMON_TCG_API_KEY || 'a65acbfc-55e5-4d2c-9278-253872a1bc5a';
+function EnhancedCardSearchPanel() {
+    // Energy types
+    const energyTypes = ['Colorless', 'Darkness', 'Dragon', 'Fairy', 'Fighting', 'Fire', 'Grass', 'Lightning', 'Metal', 'Psychic', 'Water'];
 
-async function fetchWithTimeout(url, options = {}, resourceName = 'resource', retries = MAX_RETRIES, isLocal = false) {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
+    // Helper function to get energy type color - MOVED TO TOP
+    const getEnergyColor = (type) => {
+        const colors = {
+            'Colorless': '#A8A878',
+            'Darkness': '#705848',
+            'Dragon': '#7038F8',
+            'Fairy': '#EE99AC',
+            'Fighting': '#C03028',
+            'Fire': '#F08030',
+            'Grass': '#78C850',
+            'Lightning': '#F8D030',
+            'Metal': '#B8B8D0',
+            'Psychic': '#F85888',
+            'Water': '#6890F0'
+        };
+        
+        return colors[type] || '#68A090';
+    };
+
+    // State for search
+    const [searchResults, setSearchResults] = useState([]);
+    const [searchTerm, setSearchTerm] = useState('');
+    const [searchMode, setSearchMode] = useState('contains'); // 'contains', 'startsWith', 'exact'
+    const [isLoading, setIsLoading] = useState(false);
+    const [tabKey, setTabKey] = useState('search');
+    const [currentPage, setCurrentPage] = useState(1);
+    const [totalPages, setTotalPages] = useState(1);
+    const [totalResults, setTotalResults] = useState(0);
+    const [resultsPerPage, setResultsPerPage] = useState(24);
+    const [activeKey, setActiveKey] = useState('0'); // For accordion
+    const [searchHistory, setSearchHistory] = useState([]);
+    const [favoriteCards, setFavoriteCards] = useState([]);
+    const [customCards, setCustomCards] = useState([]);
     
-    try {
-        const response = await fetch(url, { ...options, signal: controller.signal });
-        clearTimeout(timeoutId);
-        
-        if (!response.ok) {
-            // For local files, a 404 is a common "not found" scenario.
-            if (isLocal && response.status === 404) {
-                console.warn(`Local resource not found: ${url}`);
-                return null; // Indicate not found for local files specifically
+    // State for filters
+    const [filterOptions, setFilterOptions] = useState({
+        types: [],
+        subtypes: [],
+        supertypes: [],
+        rarities: [],
+        sets: [],
+        legalities: {
+            standard: '',
+            expanded: '',
+            unlimited: ''
+        }
+    });
+    
+    // State for available filter options
+    const [availableFilters, setAvailableFilters] = useState({
+        types: [],
+        subtypes: [],
+        supertypes: ['Pokémon', 'Trainer', 'Energy'],
+        rarities: [],
+        sets: []
+    });
+    
+    // State for custom card modal
+    const [showCustomCardModal, setShowCustomCardModal] = useState(false);
+    
+    // Context
+    const { handleDoubleClickData } = useDoubleClick();
+    
+    // Load favorites from localStorage
+    const loadFavorites = () => {
+        try {
+            const storedFavorites = localStorage.getItem('tcg-deck-builder-favorites');
+            if (storedFavorites) {
+                setFavoriteCards(JSON.parse(storedFavorites));
             }
-            let errorMsg = `(${response.status}) ${response.statusText}`;
-            try {
-                const errorData = await response.text();
-                // ... (rest of error handling as before) ...
-                 if (response.status === 404 && errorData.toLowerCase().includes("not found")) { // API might return HTML for 404
-                    errorMsg = `${resourceName} not found (404)`;
+        } catch (error) {
+            console.error('Error loading favorites:', error);
+        }
+    };
+    
+    // Save favorites to localStorage
+    const saveFavorites = (favorites) => {
+        try {
+            localStorage.setItem('tcg-deck-builder-favorites', JSON.stringify(favorites));
+        } catch (error) {
+            console.error('Error saving favorites:', error);
+        }
+    };
+    
+    // Load custom cards
+    const loadCustomCards = () => {
+        // Load custom cards from EnhancedTCGController
+        EnhancedTCGController.loadCustomCards();
+        setCustomCards(EnhancedTCGController.getCustomCards());
+    };
+    
+    // Load search history from localStorage
+    const loadSearchHistory = () => {
+        try {
+            const storedHistory = localStorage.getItem('tcg-deck-builder-search-history');
+            if (storedHistory) {
+                setSearchHistory(JSON.parse(storedHistory));
+            }
+        } catch (error) {
+            console.error('Error loading search history:', error);
+        }
+    };
+    
+    // Save search history to localStorage
+    const saveSearchHistory = (history) => {
+        try {
+            localStorage.setItem('tcg-deck-builder-search-history', JSON.stringify(history));
+        } catch (error) {
+            console.error('Error saving search history:', error);
+        }
+    };
+    
+    // Add a search to history
+    const addToSearchHistory = (term, filters) => {
+        const searchEntry = {
+            term,
+            filters: { ...filters },
+            timestamp: Date.now()
+        };
+        
+        // Add to beginning of array and limit to 20 entries
+        const updatedHistory = [searchEntry, ...searchHistory.slice(0, 19)];
+        setSearchHistory(updatedHistory);
+        saveSearchHistory(updatedHistory);
+    };
+    
+    // Load sets and initialize filters
+    useEffect(() => {
+        initializeFilters();
+        loadFavorites();
+        loadCustomCards();
+        loadSearchHistory();
+    }, []);
+    
+    // Function to initialize filters
+    const initializeFilters = async () => {
+        try {
+            // Fetch sets
+            const sets = await EnhancedTCGController.getAllSets();
+            
+            // Update available filters
+            setAvailableFilters(prev => ({
+                ...prev,
+                types: energyTypes,
+                sets: sets.map(set => ({ id: set.id, name: set.name, series: set.series }))
+            }));
+        } catch (error) {
+            console.error('Error initializing filters:', error);
+        }
+    };
+    
+    // Handle search form submission
+    const handleSearch = async (event) => {
+        if (event) event.preventDefault();
+        
+        setIsLoading(true);
+        setSearchResults([]);
+        
+        try {
+            // Build search parameters
+            const params = { ...filterOptions };
+            
+            // Handle name search based on mode
+            if (searchTerm) {
+                if (searchMode === 'exact') {
+                    params.name = searchTerm;
+                } else if (searchMode === 'startsWith') {
+                    params.name = `${searchTerm}*`;
                 } else {
-                    try {
-                        const jsonData = JSON.parse(errorData);
-                        errorMsg = `(${response.status}): ${jsonData?.error?.message || errorData}`;
-                    } catch (jsonError) {
-                        errorMsg = `(${response.status}): ${errorData || response.statusText}`;
-                    }
+                    params.name = `*${searchTerm}*`;
                 }
-            } catch (e) { /* Ignore parsing errors */ }
-            throw new Error(`Fetch Error for ${resourceName}: ${errorMsg}`);
+            }
+            
+            // Perform search
+            const results = await EnhancedTCGController.advancedSearch(params, currentPage, resultsPerPage);
+            
+            setSearchResults(results.data || []);
+            
+            // Update pagination info
+            if (results.pagination) {
+                setTotalResults(results.pagination.totalCount || 0);
+                setTotalPages(Math.ceil((results.pagination.totalCount || 0) / resultsPerPage));
+            }
+            
+            // Add to search history
+            if (searchTerm.trim() || Object.values(filterOptions).some(v => Array.isArray(v) ? v.length > 0 : v)) {
+                addToSearchHistory(searchTerm, filterOptions);
+            }
+        } catch (error) {
+            console.error('Error performing search:', error);
+        } finally {
+            setIsLoading(false);
         }
-        return await response.json();
-    } catch (error) {
-        clearTimeout(timeoutId);
-        if (isLocal) { // Don't retry local file fetches aggressively
-            console.error(`Failed to fetch local resource ${url}:`, error.message);
-            return null; // Indicate failure for local files
+    };
+    
+    // Handle input change
+    const handleInputChange = (event) => {
+        setSearchTerm(event.target.value);
+    };
+    
+    // Handle search mode change
+    const handleSearchModeChange = (mode) => {
+        setSearchMode(mode);
+    };
+    
+    // Handle filter change
+    const handleFilterChange = (filterType, value, checked) => {
+        setFilterOptions(prev => {
+            const updatedFilters = { ...prev };
+            
+            if (filterType === 'legalities') {
+                // Handle legalities (standard, expanded, unlimited)
+                const [format, legality] = value.split(':');
+                updatedFilters.legalities = { 
+                    ...updatedFilters.legalities,
+                    [format]: checked ? legality : ''
+                };
+            } else {
+                // Handle array filters (types, subtypes, etc.)
+                if (checked) {
+                    if (!updatedFilters[filterType].includes(value)) {
+                        updatedFilters[filterType] = [...updatedFilters[filterType], value];
+                    }
+                } else {
+                    updatedFilters[filterType] = updatedFilters[filterType].filter(item => item !== value);
+                }
+            }
+            
+            return updatedFilters;
+        });
+    };
+    
+    // Clear all filters
+    const clearFilters = () => {
+        setFilterOptions({
+            types: [],
+            subtypes: [],
+            supertypes: [],
+            rarities: [],
+            sets: [],
+            legalities: {
+                standard: '',
+                expanded: '',
+                unlimited: ''
+            }
+        });
+        setSearchTerm('');
+    };
+    
+    // Handle page change
+    const handlePageChange = (newPage) => {
+        if (newPage >= 1 && newPage <= totalPages) {
+            setCurrentPage(newPage);
         }
-        // ... (rest of retry logic for API calls as before) ...
-        if (error.name === "AbortError") {
-            console.error(`Request timed out for ${url}`);
-            throw new Error(`Request for ${resourceName} timed out after ${REQUEST_TIMEOUT / 1000} seconds`);
+    };
+    
+    // Use effect to trigger search when page changes
+    useEffect(() => {
+        if (tabKey === 'search') {
+            handleSearch();
         }
-        if (retries > 0 && (!error.response || error.response.status >= 500)) {
-            console.log(`Retrying fetch for ${resourceName} (${retries} attempts left)`);
-            const delay = (MAX_RETRIES - retries + 1) * 1000;
-            await new Promise(resolve => setTimeout(resolve, delay));
-            return fetchWithTimeout(url, options, resourceName, retries - 1, isLocal);
+    }, [currentPage, resultsPerPage]);
+    
+    // Handle tab change
+    const handleTabChange = (key) => {
+        setTabKey(key);
+        
+        // Reset to first page when changing tabs
+        setCurrentPage(1);
+        
+        // For custom cards tab, refresh the list
+        if (key === 'custom') {
+            loadCustomCards();
         }
-        console.error(`Request failed for ${url}:`, error);
-        throw error; // Re-throw if all retries fail or not a retriable error
-    }
-}
-
-function getApiHeaders() {
-    const headers = { 'Content-Type': 'application/json' };
-    if (API_KEY) headers['X-Api-Key'] = API_KEY;
-    else console.warn('TCG API Key not set.');
-    return headers;
-}
-
-function generateCacheKey(params) {
-    return JSON.stringify(params);
-}
-
-class EnhancedTCGController {
-    static initialize() { /* ... same as before ... */ }
-    static cleanupStorage() { /* ... same as before ... */ }
-    static isApiKeyConfigured() { /* ... same as before ... */ }
-    static loadCustomCards() { /* ... same as before ... */ }
-    static saveCustomCards() { /* ... same as before ... */ }
-    static getCustomCards() { /* ... same as before ... */ }
-    static async addCustomCard(cardData) { /* ... same as before ... */ }
-    static async updateCustomCard(id, cardData) { /* ... same as before ... */ }
-    static deleteCustomCard(id) { /* ... same as before ... */ }
-    static clearCache(cacheType = 'all') { /* ... same as before ... */ }
-
-    static async getAllSets(useCache = true) {
-        if (useCache && API_CACHE.setCache) {
-            // console.log("Using cached sets (either local or API)");
-            return API_CACHE.setCache;
+        
+        // For favorites tab, refresh the list
+        if (key === 'favorites') {
+            loadFavorites();
         }
+    };
+    
+    // Handle card favorite toggle
+    const handleToggleFavorite = (card) => {
+        const isFavorite = favoriteCards.some(fav => fav.id === card.id);
+        
+        if (isFavorite) {
+            // Remove from favorites
+            const updatedFavorites = favoriteCards.filter(fav => fav.id !== card.id);
+            setFavoriteCards(updatedFavorites);
+            saveFavorites(updatedFavorites);
+        } else {
+            // Add to favorites
+            const updatedFavorites = [...favoriteCards, card];
+            setFavoriteCards(updatedFavorites);
+            saveFavorites(updatedFavorites);
+        }
+    };
+    
+    // Handle custom card creation
+    const handleCustomCardCreated = (card) => {
+        setCustomCards(EnhancedTCGController.getCustomCards());
+    };
+    
+    // Delete custom card
+    const handleDeleteCustomCard = (id) => {
+        const confirmed = window.confirm('Are you sure you want to delete this custom card?');
+        if (confirmed) {
+            EnhancedTCGController.deleteCustomCard(id);
+            setCustomCards(EnhancedTCGController.getCustomCards());
+        }
+    };
+    
+    // Apply search from history
+    const applyHistorySearch = (historyItem) => {
+        setSearchTerm(historyItem.term || '');
+        setFilterOptions(historyItem.filters || {
+            types: [],
+            subtypes: [],
+            supertypes: [],
+            rarities: [],
+            sets: [],
+            legalities: {
+                standard: '',
+                expanded: '',
+                unlimited: ''
+            }
+        });
+        setTabKey('search');
+        setCurrentPage(1);
+        
+        // Trigger search after state updates
+        setTimeout(() => {
+            handleSearch();
+        }, 100);
+    };
+    
+    // Format date for display
+    const formatDate = (timestamp) => {
+        const date = new Date(timestamp);
+        return date.toLocaleDateString() + ' ' + date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+    };
 
-        // 1. Try to load from local set-index.json
-        const localSetIndexUrl = `${LOCAL_DATA_BASE_URL}/set-index.json`;
-        try {
-            // console.log(`Attempting to fetch local set index: ${localSetIndexUrl}`);
-            const localSetIndexData = await fetchWithTimeout(localSetIndexUrl, {}, "Local Set Index", 0, true);
-            if (localSetIndexData && typeof localSetIndexData === 'object' && Object.keys(localSetIndexData).length > 0) {
-                // Convert object to array of sets, matching API structure if necessary
-                const setsArray = Object.values(localSetIndexData).map(set => ({
-                    id: set.id || Object.keys(localSetIndexData).find(key => localSetIndexData[key] === set), // Fallback for ID if not in value
-                    name: set.name,
-                    series: set.series,
-                    releaseDate: set.releaseDate,
-                    // Add other relevant fields your app expects from API's /sets endpoint
-                    printedTotal: set.printedTotal,
-                    total: set.total,
-                    images: set.images || { symbol: `${LOCAL_DATA_BASE_URL}/${set.path}symbol.png`, logo: `${LOCAL_DATA_BASE_URL}/${set.path}logo.png` } // Construct image paths if not present
-                })).sort((a,b) => new Date(b.releaseDate) - new Date(a.releaseDate));
+    // Search Bar
+    const SearchBar = (
+        <Form onSubmit={handleSearch}>
+            <Row className={styles.formRow}>
+                <Col xs={12} md={8}>
+                    <InputGroup>
+                        <Form.Control
+                            type="text"
+                            placeholder="Search cards by name"
+                            className={styles.searchInput}
+                            value={searchTerm}
+                            onChange={handleInputChange}
+                        />
+                        <InputGroup.Text>
+                            <Form.Select 
+                                value={searchMode} 
+                                onChange={(e) => handleSearchModeChange(e.target.value)}
+                                style={{ border: 'none', marginLeft: '-10px' }}
+                            >
+                                <option value="contains">Contains</option>
+                                <option value="startsWith">Starts With</option>
+                                <option value="exact">Exact Match</option>
+                            </Form.Select>
+                        </InputGroup.Text>
+                        <Button type="submit" className={styles.searchButton}>
+                            <FontAwesomeIcon icon={faMagnifyingGlass} className="me-1"/> Search
+                        </Button>
+                    </InputGroup>
+                </Col>
+                <Col xs={12} md={4} className="d-flex justify-content-end">
+                    <Button 
+                        variant="outline-secondary" 
+                        className="me-2"
+                        onClick={() => setActiveKey(activeKey === '0' ? '' : '0')}
+                    >
+                        <FontAwesomeIcon icon={faFilter} className="me-1"/> Filters
+                        {Object.values(filterOptions).some(v => Array.isArray(v) ? v.length > 0 : v) && (
+                            <Badge bg="primary" className="ms-2">
+                                {[
+                                    ...filterOptions.types, 
+                                    ...filterOptions.subtypes, 
+                                    ...filterOptions.supertypes,
+                                    ...filterOptions.rarities,
+                                    ...filterOptions.sets,
+                                    ...Object.values(filterOptions.legalities).filter(v => v)
+                                ].length}
+                            </Badge>
+                        )}
+                    </Button>
+                    <Button variant="outline-danger" onClick={clearFilters}>
+                        <FontAwesomeIcon icon={faSync} className="me-1"/> Clear
+                    </Button>
+                </Col>
+            </Row>
+            
+            <Accordion activeKey={activeKey} className="mb-3">
+                <Accordion.Item eventKey="0">
+                    <Accordion.Body>
+                        <Row>
+                            {/* Card Types Filter */}
+                            <Col xs={12} md={4} className="mb-3">
+                                <h6>Card Types</h6>
+                                <div className="d-flex flex-wrap">
+                                    {availableFilters.supertypes.map(supertype => (
+                                        <Form.Check
+                                            key={supertype}
+                                            type="checkbox"
+                                            id={`supertype-${supertype}`}
+                                            label={supertype}
+                                            className="me-3"
+                                            checked={filterOptions.supertypes.includes(supertype)}
+                                            onChange={(e) => handleFilterChange('supertypes', supertype, e.target.checked)}
+                                        />
+                                    ))}
+                                </div>
+                            </Col>
+                            
+                            {/* Energy Types Filter */}
+                            <Col xs={12} md={8} className="mb-3">
+                                <h6>Energy Types</h6>
+                                <div className="d-flex flex-wrap">
+                                    {energyTypes.map(type => (
+                                        <div key={type} className="me-2 mb-2">
+                                            <Button
+                                                variant={filterOptions.types.includes(type) ? "primary" : "outline-secondary"}
+                                                size="sm"
+                                                onClick={() => handleFilterChange('types', type, !filterOptions.types.includes(type))}
+                                                style={{
+                                                    backgroundColor: filterOptions.types.includes(type) ? getEnergyColor(type) : '',
+                                                    borderColor: getEnergyColor(type),
+                                                    color: filterOptions.types.includes(type) && ['Colorless', 'Lightning'].includes(type) ? 'black' : '',
+                                                }}
+                                            >
+                                                {type}
+                                            </Button>
+                                        </div>
+                                    ))}
+                                </div>
+                            </Col>
+                            
+                            {/* Add more filters here */}
+                        </Row>
+                    </Accordion.Body>
+                </Accordion.Item>
+            </Accordion>
+        </Form>
+    );
+
+    // Pagination controls
+    const PaginationControls = () => (
+        <div className="d-flex justify-content-between align-items-center my-3">
+            <div>
+                {totalResults > 0 && (
+                    <span>
+                        Showing {((currentPage - 1) * resultsPerPage) + 1}-
+                        {Math.min(currentPage * resultsPerPage, totalResults)} of {totalResults} results
+                    </span>
+                )}
+            </div>
+            <div className="d-flex">
+                <Button 
+                    variant="outline-secondary" 
+                    onClick={() => handlePageChange(currentPage - 1)}
+                    disabled={currentPage === 1 || isLoading}
+                    className="me-2"
+                >
+                    Previous
+                </Button>
+                <Form.Select 
+                    value={currentPage}
+                    onChange={(e) => handlePageChange(Number(e.target.value))}
+                    disabled={isLoading}
+                    style={{ width: '80px' }}
+                    className="me-2"
+                >
+                    {Array.from({ length: totalPages }, (_, i) => (
+                        <option key={i + 1} value={i + 1}>
+                            {i + 1}
+                        </option>
+                    ))}
+                </Form.Select>
+                <Button 
+                    variant="outline-secondary"
+                    onClick={() => handlePageChange(currentPage + 1)}
+                    disabled={currentPage === totalPages || isLoading}
+                    className="me-2"
+                >
+                    Next
+                </Button>
+                <Form.Select
+                    value={resultsPerPage}
+                    onChange={(e) => {
+                        setResultsPerPage(Number(e.target.value));
+                        setCurrentPage(1); // Reset to first page when changing results per page
+                    }}
+                    disabled={isLoading}
+                    style={{ width: '80px' }}
+                >
+                    <option value={12}>12</option>
+                    <option value={24}>24</option>
+                    <option value={48}>48</option>
+                    <option value={96}>96</option>
+                </Form.Select>
+            </div>
+        </div>
+    );
+
+    return (
+        <div className={styles.searchPanel}>
+            <Card>
+                <Card.Header>
+                    <Tabs
+                        activeKey={tabKey}
+                        onSelect={handleTabChange}
+                        className="mb-3"
+                    >
+                        <Tab eventKey="search" title={<><FontAwesomeIcon icon={faMagnifyingGlass} /> Search</>} />
+                        <Tab eventKey="favorites" title={<><FontAwesomeIcon icon={faStar} /> Favorites</>} />
+                        <Tab eventKey="custom" title={<><FontAwesomeIcon icon={faFileImport} /> Custom Cards</>} />
+                        <Tab eventKey="history" title={<><FontAwesomeIcon icon={faHistory} /> History</>} />
+                    </Tabs>
+                </Card.Header>
                 
-                console.log(`Successfully loaded ${setsArray.length} sets from local set-index.json`);
-                API_CACHE.setCache = setsArray;
-                return setsArray;
-            } else {
-                console.warn("Local set-index.json not found or empty. Falling back to API.");
-            }
-        } catch (error) {
-            console.warn(`Failed to load or parse local set-index.json: ${error.message}. Falling back to API.`);
-        }
-
-        // 2. Fallback to live API
-        console.log("Fetching all sets from live API...");
-        const apiUrl = `${TCGAPI_BASE_URL}/sets?orderBy=-releaseDate`;
-        try {
-            const data = await fetchWithTimeout(apiUrl, { headers: getApiHeaders() }, `TCG sets`);
-            API_CACHE.setCache = data?.data || [];
-            return API_CACHE.setCache;
-        } catch (error) {
-            console.error(`Error fetching TCG sets from API: ${error.message}`);
-            return [];
-        }
-    }
-
-    static async query(params, useCache = true) {
-        const cacheKey = generateCacheKey(params);
-        if (useCache && API_CACHE.searchResultsCache[cacheKey]) {
-            return API_CACHE.searchResultsCache[cacheKey];
-        }
-
-        let allFetchedCards = [];
-        let attemptedLocalFetch = false;
-
-        // Strategy: If specific set IDs are provided, try local first for those sets.
-        if (params['set.id'] && Array.isArray(params['set.id']) && params['set.id'].length > 0) {
-            attemptedLocalFetch = true;
-            console.log("Attempting to fetch cards locally for sets:", params['set.id']);
-            const setIDsToFetch = params['set.id'];
-            let localDataFoundForAllSets = true;
-
-            for (const setId of setIDsToFetch) {
-                // Determine supertypes to fetch for this set
-                const supertypesToFetch = (params.supertypes && params.supertypes.length > 0) 
-                    ? params.supertypes 
-                    : ['Pokémon', 'Trainer', 'Energy']; // Default to all if not specified
-
-                for (const supertype of supertypesToFetch) {
-                    const localCardDataUrl = `${LOCAL_DATA_BASE_URL}/sets/${setId}/${supertype.toLowerCase()}.json`;
-                    // console.log(`Fetching local data: ${localCardDataUrl}`);
-                    
-                    let cardsFromSetSupertype = API_CACHE.localSetDataCache[localCardDataUrl];
-                    if (!cardsFromSetSupertype) {
-                        const fetchedData = await fetchWithTimeout(localCardDataUrl, {}, `Local ${supertype} cards for set ${setId}`, 0, true);
-                        if (fetchedData && Array.isArray(fetchedData)) {
-                            cardsFromSetSupertype = fetchedData;
-                            API_CACHE.localSetDataCache[localCardDataUrl] = cardsFromSetSupertype; // Cache it
-                        } else {
-                            console.warn(`Local data for ${supertype} in set ${setId} not found or invalid. Will fallback to API for this query.`);
-                            localDataFoundForAllSets = false;
-                            break; // Break from supertype loop for this set
-                        }
-                    }
-                    if (cardsFromSetSupertype) {
-                        allFetchedCards.push(...cardsFromSetSupertype);
-                    }
-                }
-                if (!localDataFoundForAllSets) break; // Break from setID loop if any set part failed
-            }
-
-            if (localDataFoundForAllSets && allFetchedCards.length > 0) {
-                console.log(`Locally fetched ${allFetchedCards.length} cards before client-side filtering.`);
-                // Perform client-side filtering
-                const filteredResults = this.filterLocalData(allFetchedCards, params);
-                console.log(`Returning ${filteredResults.length} cards after client-side filtering of local data.`);
-                if (useCache) API_CACHE.searchResultsCache[cacheKey] = filteredResults;
-                return filteredResults;
-            } else {
-                console.log("Could not satisfy query entirely from local data, or some local files missing. Falling back to live API.");
-                allFetchedCards = []; // Reset if local fetch was incomplete
-            }
-        }
-
-        // Fallback to live API if no set.id specified, or local fetch failed/incomplete
-        console.log("Querying live API with params:", params);
-        const queryParts = [];
-        for (const key in params) {
-            if (params.hasOwnProperty(key) && params[key] !== undefined && params[key] !== null) {
-                const value = params[key];
-                if (Array.isArray(value) && value.length === 0) continue;
-                if (typeof value === 'string' && value.trim() === '') continue;
-
-                if (Array.isArray(value) && value.length > 0) {
-                    const arrayQueries = value.map(item => {
-                        const itemStr = String(item);
-                        // Quote only if it has spaces and isn't already quoted or a wildcard query
-                        if (itemStr.includes(' ') && !itemStr.startsWith('"') && !itemStr.endsWith('"') && !itemStr.includes('*')) {
-                            return `${key}:"${itemStr}"`;
-                        }
-                        return `${key}:${itemStr}`;
-                    });
-                    if (arrayQueries.length > 0) queryParts.push(`(${arrayQueries.join(" OR ")})`);
-                } else if (typeof value === 'object' && key === 'legalities') {
-                    Object.entries(value).forEach(([format, status]) => {
-                        if (status) queryParts.push(`legalities.${format}:"${status}"`);
-                    });
-                } else if (typeof value === 'string') {
-                    queryParts.push(`${key}:${value}`);
-                }
-            }
-        }
-        
-        const query = queryParts.join(' ');
-        if (!query && !attemptedLocalFetch) { // If no query and didn't try local (e.g. empty initial search)
-             console.log("Empty query for API, returning empty results.");
-             return [];
-        }
-        
-        const pageSize = params.pageSize || 150;
-        const url = `${TCGAPI_BASE_URL}/cards?q=${encodeURIComponent(query)}&orderBy=-set.releaseDate,number&pageSize=${pageSize}`;
-        // console.log(`API URL: ${url}`);
-        
-        try {
-            const data = await fetchWithTimeout(url, { headers: getApiHeaders() }, `TCG cards with query: ${query}`);
-            const results = data?.data || [];
-            if (useCache) API_CACHE.searchResultsCache[cacheKey] = results;
-            return results;
-        } catch (error) {
-            console.error(`Error fetching TCG cards from API: ${error.message}`);
-            return [];
-        }
-    }
-
-    static filterLocalData(cards, params) {
-        let filtered = [...cards];
-
-        // Name filter (assumes params.name might have wildcards like "*term*")
-        if (params.name) {
-            let searchTerm = params.name.toLowerCase();
-            let mode = 'contains'; // Default
-            if (searchTerm.startsWith('"') && searchTerm.endsWith('"')) {
-                mode = 'exact';
-                searchTerm = searchTerm.substring(1, searchTerm.length - 1);
-            } else if (searchTerm.endsWith('*') && !searchTerm.startsWith('*')) {
-                mode = 'startsWith';
-                searchTerm = searchTerm.slice(0, -1);
-            } else if (searchTerm.startsWith('*') && searchTerm.endsWith('*') && searchTerm.length > 2) {
-                mode = 'contains';
-                searchTerm = searchTerm.substring(1, searchTerm.length - 1);
-            } else if (searchTerm.startsWith('*')) { // Should not happen if UI enforces *term* or term*
-                mode = 'endsWith'; 
-                searchTerm = searchTerm.slice(1);
-            }
-
-
-            filtered = filtered.filter(card => {
-                const cardNameLower = card.name.toLowerCase();
-                if (mode === 'exact') return cardNameLower === searchTerm;
-                if (mode === 'startsWith') return cardNameLower.startsWith(searchTerm);
-                // if (mode === 'endsWith') return cardNameLower.endsWith(searchTerm); // Not typical for card names
-                return cardNameLower.includes(searchTerm); // Default to contains
-            });
-        }
-
-        // Supertype filter
-        if (params.supertypes && params.supertypes.length > 0) {
-            filtered = filtered.filter(card => params.supertypes.includes(card.supertype));
-        }
-
-        // Types filter (OR logic)
-        if (params.types && params.types.length > 0) {
-            filtered = filtered.filter(card => card.types && card.types.some(t => params.types.includes(t)));
-        }
-
-        // Subtypes filter (OR logic)
-        if (params.subtypes && params.subtypes.length > 0) {
-            filtered = filtered.filter(card => card.subtypes && card.subtypes.some(st => params.subtypes.includes(st)));
-        }
-
-        // Rarities filter (OR logic)
-        if (params.rarities && params.rarities.length > 0) {
-            filtered = filtered.filter(card => card.rarity && params.rarities.includes(card.rarity));
-        }
-        
-        // Legalities filter (AND logic for each format specified)
-        if (params.legalities) {
-            Object.entries(params.legalities).forEach(([format, status]) => {
-                if (status) { // Only filter if a status (e.g., "Legal") is specified for the format
-                    filtered = filtered.filter(card => card.legalities && card.legalities[format] === status);
-                }
-            });
-        }
-        
-        // Note: Set filtering was handled by selecting which files to load.
-        // If multiple sets were loaded locally, and then a set filter is applied again here,
-        // it would further refine. But typically, set filter is used to pick the files.
-
-        return filtered;
-    }
+                {tabKey === 'search' && (
+                    <>
+                        <Card.Header>{SearchBar}</Card.Header>
+                        <Card.Body>
+                            {isLoading ? (
+                                <div className="d-flex justify-content-center my-5">
+                                    <Spinner animation="border" size="xl" role="status">
+                                        <span className="visually-hidden">Loading...</span>
+                                    </Spinner>
+                                </div>
+                            ) : searchResults.length > 0 ? (
+                                <>
+                                    <PaginationControls />
+                                    <CardContainer 
+                                        cards={searchResults} 
+                                        handleDoubleClick={handleDoubleClickData} 
+                                        containerType={"Search"}
+                                        handleToggleFavorite={handleToggleFavorite}
+                                        favoriteCards={favoriteCards}
+                                    />
+                                    <PaginationControls />
+                                </>
+                            ) : (
+                                <div className="text-center my-5">
+                                    <p>No cards found matching your search criteria.</p>
+                                    <Button variant="outline-secondary" onClick={clearFilters}>
+                                        Clear Filters
+                                    </Button>
+                                </div>
+                            )}
+                        </Card.Body>
+                    </>
+                )}
+                
+                {tabKey === 'favorites' && (
+                    <Card.Body>
+                        {favoriteCards.length > 0 ? (
+                            <CardContainer 
+                                cards={favoriteCards} 
+                                handleDoubleClick={handleDoubleClickData} 
+                                containerType={"Search"}
+                                handleToggleFavorite={handleToggleFavorite}
+                                favoriteCards={favoriteCards}
+                            />
+                        ) : (
+                            <div className="text-center my-5">
+                                <p>You haven't favorited any cards yet.</p>
+                                <p>Click the star icon on a card to add it to your favorites.</p>
+                            </div>
+                        )}
+                    </Card.Body>
+                )}
+                
+                {tabKey === 'custom' && (
+                    <Card.Body>
+                        <div className="d-flex justify-content-end mb-3">
+                            <Button 
+                                variant="primary" 
+                                onClick={() => setShowCustomCardModal(true)}
+                            >
+                                <FontAwesomeIcon icon={faPlus} className="me-2" />
+                                Create Custom Card
+                            </Button>
+                        </div>
+                        
+                        {customCards.length > 0 ? (
+                            <CardContainer 
+                                cards={customCards} 
+                                handleDoubleClick={handleDoubleClickData} 
+                                containerType={"Search"}
+                                handleDeleteCard={handleDeleteCustomCard}
+                                isCustomContainer={true}
+                            />
+                        ) : (
+                            <div className="text-center my-5">
+                                <p>You haven't created any custom cards yet.</p>
+                                <p>Click the "Create Custom Card" button to get started.</p>
+                            </div>
+                        )}
+                        
+                        {/* Custom Card Creator Modal */}
+                        <CustomCardCreator 
+                            show={showCustomCardModal} 
+                            handleClose={() => setShowCustomCardModal(false)} 
+                            onCardCreated={handleCustomCardCreated}
+                        />
+                    </Card.Body>
+                )}
+                
+                {tabKey === 'history' && (
+                    <Card.Body>
+                        {searchHistory.length > 0 ? (
+                            <div className="list-group">
+                                {searchHistory.map((historyItem, index) => (
+                                    <div 
+                                        key={index} 
+                                        className="list-group-item list-group-item-action d-flex justify-content-between align-items-center"
+                                        onClick={() => applyHistorySearch(historyItem)}
+                                        style={{ cursor: 'pointer' }}
+                                    >
+                                        <div>
+                                            <div className="d-flex align-items-center">
+                                                <FontAwesomeIcon icon={faMagnifyingGlass} className="me-2 text-secondary" />
+                                                <strong>{historyItem.term || '(No search term)'}</strong>
+                                            </div>
+                                            <div className="small text-muted">
+                                                {formatDate(historyItem.timestamp)}
+                                                
+                                                {/* Display active filters */}
+                                                {(historyItem.filters?.types?.length > 0 || 
+                                                 historyItem.filters?.subtypes?.length > 0 ||
+                                                 historyItem.filters?.supertypes?.length > 0 ||
+                                                 historyItem.filters?.sets?.length > 0) && (
+                                                    <div className="mt-1">
+                                                        <span>Filters: </span>
+                                                        {historyItem.filters?.types?.map(type => (
+                                                            <Badge key={type} bg="secondary" className="me-1">{type}</Badge>
+                                                        ))}
+                                                        {historyItem.filters?.subtypes?.map(subtype => (
+                                                            <Badge key={subtype} bg="info" className="me-1">{subtype}</Badge>
+                                                        ))}
+                                                        {historyItem.filters?.supertypes?.map(supertype => (
+                                                            <Badge key={supertype} bg="primary" className="me-1">{supertype}</Badge>
+                                                        ))}
+                                                        {historyItem.filters?.sets?.length > 0 && (
+                                                            <Badge bg="warning" text="dark" className="me-1">
+                                                                {historyItem.filters.sets.length} set(s)
+                                                            </Badge>
+                                                        )}
+                                                    </div>
+                                                )}
+                                            </div>
+                                        </div>
+                                        <Button 
+                                            variant="outline-primary" 
+                                            size="sm"
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                                applyHistorySearch(historyItem);
+                                            }}
+                                        >
+                                            Apply
+                                        </Button>
+                                    </div>
+                                ))}
+                            </div>
+                        ) : (
+                            <div className="text-center my-5">
+                                <p>No search history yet.</p>
+                                <p>Your recent searches will appear here.</p>
+                            </div>
+                        )}
+                    </Card.Body>
+                )}
+            </Card>
+        </div>
+    );
 }
 
-export default EnhancedTCGController;
+export default EnhancedCardSearchPanel;
