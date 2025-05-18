@@ -26,7 +26,7 @@
 .enhanced-card-search-panel-container,
 .deck-view-panel-container {
   height: 100%;
-  overflow-y: auto;
+  overflow-y: hidden;
   /* Removed padding: 1rem; from here to avoid double padding if Card has its own */
   box-sizing: border-box;
 }

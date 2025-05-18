@@ -39,8 +39,8 @@
 
 .scrollableBody {
     flex: 1;
-    overflow-y: auto;
-    padding: 1rem;
+    overflow-y: hidden;
+    padding: 11rem;
 }
 
 .fixedSearchForm {
@@ -185,6 +185,7 @@
     transition: opacity 0.2s;
     cursor: pointer;
     z-index: 100;
+    overflow: hidden;
 }
 
 :global(.card-item:hover) .cardPreviewHover {
@@ -211,6 +212,7 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    overflow: hidden;
     z-index: 90;
 }
 
