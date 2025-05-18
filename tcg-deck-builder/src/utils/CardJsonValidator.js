@@ -1,3 +1,4 @@
+// \src\utils\CardJsonValidator.js
 class CardJSONValidator {
     constructor() {
         // Define unique keys for each type of object

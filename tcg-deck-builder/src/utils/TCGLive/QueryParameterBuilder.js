@@ -1,3 +1,4 @@
+// \src\utils\TCGLive\QueryParameterBuilder.js
 import NewSetList from '../../data/SetLookup.json';
 import PromoGallerySetList from '../../data/PromoGallerySetLookup.json';
 
