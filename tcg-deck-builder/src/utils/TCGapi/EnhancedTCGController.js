@@ -1,9 +1,9 @@
 // src/utils/TCGapi/EnhancedTCGController.js
-// Modified version for direct image URL support
+// Updated with advancedSearch method and improved data fetching
 
 /**
  * Enhanced TCG API Controller with simplified image handling
- * @version 1.4.0
+ * @version 1.5.0
  */
 
 // Cache manager for API requests
@@ -219,6 +219,195 @@ class EnhancedTCGController {
         } catch (error) {
             console.error(`Error fetching TCG cards: ${error.message}`);
             return [];
+        }
+    }
+    
+    /**
+     * Advanced search with pagination and full filter support
+     * @param {object} params - Search parameters
+     * @param {number} page - Page number (starting from 1)
+     * @param {number} pageSize - Results per page
+     * @returns {Promise<object>} Search results with pagination info
+     */
+    static async advancedSearch(params = {}, page = 1, pageSize = 24) {
+        // Validate inputs
+        page = Math.max(1, parseInt(page) || 1);
+        pageSize = Math.min(Math.max(1, parseInt(pageSize) || 24), 250); // Ensure pageSize is between 1 and 250
+        
+        // Cache key includes pagination info
+        const cacheKey = `${generateCacheKey(params)}_page${page}_size${pageSize}`;
+        
+        // Check cache first
+        if (API_CACHE.searchResultsCache[cacheKey]) {
+            console.log(`Using cached results for advanced search: ${cacheKey}`);
+            return API_CACHE.searchResultsCache[cacheKey];
+        }
+        
+        // Build query string from parameters
+        const queryParts = [];
+        
+        // Handle name search
+        if (params.name) {
+            queryParts.push(`name:${params.name}`);
+        }
+        
+        // Handle array parameters like types, subtypes, supertypes, rarities, sets
+        const arrayParams = ['types', 'subtypes', 'supertypes', 'rarities', 'sets'];
+        arrayParams.forEach(paramName => {
+            if (params[paramName] && Array.isArray(params[paramName]) && params[paramName].length > 0) {
+                const values = params[paramName];
+                const paramQueries = values.map(value => {
+                    // Handle sets differently since they use set.id
+                    if (paramName === 'sets') {
+                        return `set.id:"${value}"`;
+                    }
+                    // Use proper field name for the rest
+                    const fieldName = paramName === 'types' ? 'types' : 
+                                    paramName === 'subtypes' ? 'subtypes' :
+                                    paramName === 'supertypes' ? 'supertype' :
+                                    paramName === 'rarities' ? 'rarity' : paramName;
+                    return `${fieldName}:"${value}"`;
+                });
+                
+                // Join with OR for multiple values of the same parameter
+                if (paramQueries.length > 0) {
+                    queryParts.push(`(${paramQueries.join(" OR ")})`);
+                }
+            }
+        });
+        
+        // Handle legalities (standard, expanded, unlimited)
+        if (params.legalities) {
+            Object.entries(params.legalities).forEach(([format, status]) => {
+                if (status) {
+                    queryParts.push(`legalities.${format}:"${status}"`);
+                }
+            });
+        }
+        
+        const query = queryParts.join(' ');
+        
+        // If no query parts, search for all cards (but limit to avoid excessive requests)
+        const url = query
+            ? `${TCGAPI_BASE_URL}/cards?q=${encodeURIComponent(query)}&page=${page}&pageSize=${pageSize}&orderBy=-set.releaseDate,number`
+            : `${TCGAPI_BASE_URL}/cards?page=${page}&pageSize=${pageSize}&orderBy=-set.releaseDate,number`;
+        
+        console.log(`Performing advanced search: ${url}`);
+        
+        try {
+            // Make the API request
+            const data = await fetchWithTimeout(
+                url,
+                { headers: getHeaders() },
+                `Advanced card search (page ${page})`
+            );
+            
+            // Structure results with pagination
+            const results = {
+                data: data?.data || [],
+                pagination: {
+                    page: data.page || page,
+                    pageSize: data.pageSize || pageSize,
+                    count: data?.data?.length || 0,
+                    totalCount: data.totalCount || (data?.data?.length || 0),
+                    totalPages: data.totalCount ? Math.ceil(data.totalCount / pageSize) : 1
+                }
+            };
+            
+            // Combine with custom cards if needed (for page 1 of unfiltered searches)
+            if (page === 1 && !query && this.getCustomCards().length > 0) {
+                results.data = [...this.getCustomCards(), ...results.data];
+                results.pagination.count = results.data.length;
+                results.pagination.totalCount += this.getCustomCards().length;
+            }
+            
+            // Cache the results
+            API_CACHE.searchResultsCache[cacheKey] = results;
+            
+            return results;
+        } catch (error) {
+            console.error(`Error in advanced search: ${error.message}`);
+            
+            // Return empty results on error, but include custom cards if applicable
+            const customCards = (!query && page === 1) ? this.getCustomCards() : [];
+            
+            return {
+                data: customCards,
+                pagination: {
+                    page: page,
+                    pageSize: pageSize,
+                    count: customCards.length,
+                    totalCount: customCards.length,
+                    totalPages: customCards.length > 0 ? 1 : 0
+                }
+            };
+        }
+    }
+    
+    /**
+     * Get all available card subtypes
+     * @param {boolean} useCache - Whether to use cache
+     * @returns {Promise<Array>} List of all available subtypes
+     */
+    static async getAllSubtypes(useCache = true) {
+        if (useCache && API_CACHE.subtypesCache) {
+            return API_CACHE.subtypesCache;
+        }
+        
+        try {
+            const url = `${TCGAPI_BASE_URL}/subtypes`;
+            console.log(`Fetching all subtypes: ${url}`);
+            
+            const data = await fetchWithTimeout(
+                url,
+                { headers: getHeaders() },
+                'TCG subtypes'
+            );
+            
+            const subtypes = data?.data || [];
+            API_CACHE.subtypesCache = subtypes;
+            return subtypes;
+        } catch (error) {
+            console.error(`Error fetching subtypes: ${error.message}`);
+            // Fallback to hardcoded common subtypes
+            return [
+                'Basic', 'Stage 1', 'Stage 2', 'V', 'VMAX', 'VSTAR', 'ex',
+                'GX', 'EX', 'Mega', 'BREAK', 'Baby', 'Tag Team',
+                'Item', 'Tool', 'Supporter', 'Stadium', 'Ace Spec'
+            ];
+        }
+    }
+    
+    /**
+     * Get all available card rarities
+     * @param {boolean} useCache - Whether to use cache
+     * @returns {Promise<Array>} List of all available rarities
+     */
+    static async getAllRarities(useCache = true) {
+        if (useCache && API_CACHE.raritiesCache) {
+            return API_CACHE.raritiesCache;
+        }
+        
+        try {
+            const url = `${TCGAPI_BASE_URL}/rarities`;
+            console.log(`Fetching all rarities: ${url}`);
+            
+            const data = await fetchWithTimeout(
+                url,
+                { headers: getHeaders() },
+                'TCG rarities'
+            );
+            
+            const rarities = data?.data || [];
+            API_CACHE.raritiesCache = rarities;
+            return rarities;
+        } catch (error) {
+            console.error(`Error fetching rarities: ${error.message}`);
+            // Fallback to hardcoded common rarities
+            return [
+                'Common', 'Uncommon', 'Rare', 'Rare Holo', 'Rare Ultra', 
+                'Rare Holo EX', 'Rare Rainbow', 'Rare Secret', 'Promo'
+            ];
         }
     }
     
