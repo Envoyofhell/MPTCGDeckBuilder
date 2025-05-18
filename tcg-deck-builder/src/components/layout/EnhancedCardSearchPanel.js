@@ -1,3 +1,4 @@
+// src/components/layout/EnhancedCardSearchPanel.js
 import React, { useState, useEffect, useContext, useCallback, useRef } from "react";
 import Card from 'react-bootstrap/Card';
 import CardContainer from "../CardContainer";
@@ -11,6 +12,7 @@ import Badge from 'react-bootstrap/Badge';
 import Accordion from 'react-bootstrap/Accordion';
 import InputGroup from 'react-bootstrap/InputGroup';
 import Spinner from 'react-bootstrap/Spinner';
+import Modal from 'react-bootstrap/Modal';
 import styles from './css/CardSearchPanel.module.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { 
@@ -25,13 +27,25 @@ import {
     faSliders,
     faGears,
     faBoxArchive, 
-    faChevronDown
+    faChevronDown,
+    faExpand,
+    faCompressAlt
 } from '@fortawesome/free-solid-svg-icons';
 import { useDoubleClick } from "../../context/DoubleClickContext";
 import CardJSONValidator from "../../utils/CardJsonValidator";
-import EnhancedTCGController from "../../utils/TCGapi/EnhancedTCGController";
+import { CardStorageManager } from "../../utils/TCGapi/CardStorageManager";
+import { CardSearchManager } from "../../utils/TCGapi/CardSearchManager";
+import { CustomCardManager } from "../../utils/TCGapi/CustomCardManager";
 import CustomCardCreator from "../modals/CustomCardCreator";
 import { AppThemeContext } from "../../context/AppThemeContext";
+import PkmnCard from "../PkmnCard";
+
+// Import the modularized managers that will replace EnhancedTCGController
+// Note: These will need to be created as part of this update
+// For now, we'll continue using EnhancedTCGController but plan for the transition
+
+// For backward compatibility until the new modules are fully implemented
+import EnhancedTCGController from "../../utils/TCGapi/EnhancedTCGController";
 
 const validator = new CardJSONValidator();
 
@@ -42,6 +56,9 @@ function EnhancedCardSearchPanel() {
     const { handleDoubleClickData } = useDoubleClick();
     
     // References
+    const searchPanelRef = useRef(null);
+    const searchResultsRef = useRef(null);
+    const headerRef = useRef(null);
     const cardContainerRef = useRef(null);
     
     // Energy types
@@ -69,6 +86,8 @@ function EnhancedCardSearchPanel() {
     // State for search
     const [searchResults, setSearchResults] = useState([]);
     const [searchTerm, setSearchTerm] = useState('');
+    const [searchSuggestions, setSearchSuggestions] = useState([]);
+    const [showSuggestions, setShowSuggestions] = useState(false);
     const [searchMode, setSearchMode] = useState('contains'); // 'contains', 'startsWith', 'exact'
     const [isLoading, setIsLoading] = useState(false);
     const [tabKey, setTabKey] = useState('search');
@@ -85,6 +104,8 @@ function EnhancedCardSearchPanel() {
     const [setsExpanded, setSetsExpanded] = useState(false); 
     const [advancedFiltersExpanded, setAdvancedFiltersExpanded] = useState(false);
     const [filterSearchTerm, setFilterSearchTerm] = useState('');
+    const [previewCard, setPreviewCard] = useState(null);
+    const [showPreviewModal, setShowPreviewModal] = useState(false);
     
     // Basic filter state
     const [filterOptions, setFilterOptions] = useState({
@@ -143,10 +164,11 @@ function EnhancedCardSearchPanel() {
         }
     }, [advancedFiltersExpanded, availableFilters.artists.length]);
     
-    // Handle double click on card
+    // Handle double click on card - now modified to directly add to deck
     const handleCardDoubleClick = useCallback((card) => {
         // Make sure we pass the card with the proper source field to indicate it's from search panel
         if (card) {
+            // Pass the card to the DoubleClickContext for other components to use
             handleDoubleClickData({ 
                 card, 
                 source: 'searchPanel'
@@ -160,6 +182,7 @@ function EnhancedCardSearchPanel() {
         loadFavorites();
         loadCustomCards();
         loadSearchHistory();
+        loadCardSuggestions();
     }, []);
     
     // Function to initialize filters
@@ -184,12 +207,6 @@ function EnhancedCardSearchPanel() {
                 ...prev,
                 subtypes: subtypes || []
             }));
-            
-            // We'll load sets later when the user expands that section
-            // Just initialize with empty array for now
-            
-            // Extract artist data only when advanced filters are expanded
-            // Will load on demand
         } catch (error) {
             console.error('Error initializing filters:', error);
         }
@@ -243,25 +260,114 @@ function EnhancedCardSearchPanel() {
         }
     };
     
-    // Load favorites from localStorage
+    // Function to load card suggestions for autocomplete
+    const loadCardSuggestions = async () => {
+        try {
+            // Load from localStorage first for immediate suggestions
+            const cachedSuggestions = localStorage.getItem('tcg-deck-builder-card-suggestions');
+            if (cachedSuggestions) {
+                setSearchSuggestions(JSON.parse(cachedSuggestions));
+            }
+            
+            // Then attempt to refresh from API in the background
+            const sampleCards = await EnhancedTCGController.query({ pageSize: 500 }); // Get a decent sample size
+            const cardNames = [...new Set(sampleCards.map(card => card.name))].sort();
+            
+            // Only update if we have meaningful data
+            if (cardNames.length > 20) {
+                setSearchSuggestions(cardNames);
+                
+                // Save to localStorage
+                try {
+                    localStorage.setItem('tcg-deck-builder-card-suggestions', JSON.stringify(cardNames));
+                } catch (error) {
+                    console.warn('Error saving card suggestions to localStorage:', error);
+                }
+            }
+        } catch (error) {
+            console.warn('Could not load card name suggestions:', error);
+        }
+    };
+    
+    // Load favorites from localStorage with decompression
     const loadFavorites = () => {
         try {
             const storedFavorites = localStorage.getItem('tcg-deck-builder-favorites');
             if (storedFavorites) {
-                setFavoriteCards(JSON.parse(storedFavorites));
+                // Check if it's in the compressed format
+                try {
+                    // First try parsing as JSON
+                    const parsed = JSON.parse(storedFavorites);
+                    
+                    // If it's an array with an '_isCompressed' flag, decompress it
+                    if (parsed._isCompressed) {
+                        setFavoriteCards(decompressCardData(parsed.data));
+                    } else {
+                        // Otherwise, it's the old format
+                        setFavoriteCards(parsed);
+                    }
+                } catch (e) {
+                    console.warn('Error parsing favorites, using raw data:', e);
+                    setFavoriteCards(JSON.parse(storedFavorites));
+                }
             }
         } catch (error) {
             console.error('Error loading favorites:', error);
         }
     };
     
-    // Save favorites to localStorage
+    // Save favorites to localStorage with compression
     const saveFavorites = (favorites) => {
         try {
-            localStorage.setItem('tcg-deck-builder-favorites', JSON.stringify(favorites));
+            // Compress the data
+            const compressed = {
+                _isCompressed: true,
+                data: compressCardData(favorites),
+                timestamp: Date.now()
+            };
+            
+            localStorage.setItem('tcg-deck-builder-favorites', JSON.stringify(compressed));
         } catch (error) {
             console.error('Error saving favorites:', error);
+            
+            // Fallback to traditional method
+            try {
+                localStorage.setItem('tcg-deck-builder-favorites', JSON.stringify(favorites));
+            } catch (fallbackError) {
+                console.error('Fallback saving also failed:', fallbackError);
+            }
         }
+    };
+    
+    // Compress card data to save space
+    const compressCardData = (cards) => {
+        // Simple compression: keep only essential fields and use abbreviated keys
+        return cards.map(card => ({
+            i: card.id, // id
+            n: card.name, // name
+            s: card.supertype, // supertype
+            t: card.types || [], // types
+            im: card.image || (card.images?.large || card.images?.small), // image
+            st: card.subtypes || [], // subtypes
+            // Add just enough fields to display correctly but minimize storage
+        }));
+    };
+    
+    // Decompress card data
+    const decompressCardData = (compressedData) => {
+        return compressedData.map(c => ({
+            id: c.i,
+            name: c.n,
+            supertype: c.s,
+            types: c.t || [],
+            subtypes: c.st || [],
+            // Ensure images object exists for compatibility
+            images: {
+                large: c.im,
+                small: c.im
+            },
+            image: c.im
+        }));
     };
     
     // Load custom cards
@@ -308,9 +414,12 @@ function EnhancedCardSearchPanel() {
         saveSearchHistory(updatedHistory);
     };
     
-    // Handle search form submission
+    // Handle search form submission - now collapsed filter panel
     const handleSearch = async (event) => {
         if (event) event.preventDefault();
+        
+        // Close the filter panel to focus on results
+        setActiveKey('');
         
         setIsLoading(true);
         setSearchResults([]);
@@ -401,6 +510,11 @@ function EnhancedCardSearchPanel() {
             ) {
                 addToSearchHistory(searchTerm, filterOptions, advancedFilterOptions);
             }
+            
+            // Scroll to results
+            if (searchResultsRef.current) {
+                searchResultsRef.current.scrollIntoView({ behavior: 'smooth' });
+            }
         } catch (error) {
             console.error('Error performing search:', error);
         } finally {
@@ -408,9 +522,34 @@ function EnhancedCardSearchPanel() {
         }
     };
     
-    // Handle input change
+    // Handle input change with autocomplete suggestions
     const handleInputChange = (event) => {
-        setSearchTerm(event.target.value);
+        const value = event.target.value;
+        setSearchTerm(value);
+        
+        // Show suggestions if we have a value and suggestions are available
+        if (value && searchSuggestions.length > 0) {
+            const filteredSuggestions = searchSuggestions
+                .filter(suggestion => 
+                    suggestion.toLowerCase().includes(value.toLowerCase()))
+                .slice(0, 5); // Limit to 5 suggestions
+            
+            setSearchSuggestions(filteredSuggestions);
+            setShowSuggestions(filteredSuggestions.length > 0);
+        } else {
+            setShowSuggestions(false);
+        }
+    };
+    
+    // Handle suggestion selection
+    const handleSuggestionClick = (suggestion) => {
+        setSearchTerm(suggestion);
+        setShowSuggestions(false);
+        
+        // Optional: trigger search immediately
+        setTimeout(() => {
+            handleSearch();
+        }, 100);
     };
     
     // Handle search mode change
@@ -606,6 +745,17 @@ function EnhancedCardSearchPanel() {
         }, 100);
     };
     
+    // Handle card hover for preview
+    const handleCardHover = (card) => {
+        setPreviewCard(card);
+    };
+    
+    // Handle opening the preview modal
+    const handleOpenPreviewModal = (card) => {
+        setPreviewCard(card);
+        setShowPreviewModal(true);
+    };
+    
     // Format date for display
     const formatDate = (timestamp) => {
         const date = new Date(timestamp);
@@ -614,32 +764,50 @@ function EnhancedCardSearchPanel() {
 
     // Basic Search Tab Content
     const BasicSearchTab = (
-        <Form onSubmit={handleSearch}>
+        <Form onSubmit={handleSearch} className={styles.fixedSearchForm}>
             <Row className={styles.formRow}>
                 <Col xs={12} md={8}>
-                    <InputGroup>
-                        <Form.Control
-                            type="text"
-                            placeholder="Search cards by name"
-                            className={styles.searchInput}
-                            value={searchTerm}
-                            onChange={handleInputChange}
-                        />
-                        <InputGroup.Text>
-                            <Form.Select 
-                                value={searchMode} 
-                                onChange={(e) => handleSearchModeChange(e.target.value)}
-                                style={{ border: 'none', marginLeft: '-10px' }}
-                            >
-                                <option value="contains">Contains</option>
-                                <option value="startsWith">Starts With</option>
-                                <option value="exact">Exact Match</option>
-                            </Form.Select>
-                        </InputGroup.Text>
-                        <Button type="submit" className={styles.searchButton}>
-                            <FontAwesomeIcon icon={faMagnifyingGlass} className="me-1"/> Search
-                        </Button>
-                    </InputGroup>
+                    <div className={styles.searchInputContainer}>
+                        <InputGroup>
+                            <Form.Control
+                                type="text"
+                                placeholder="Search cards by name"
+                                className={styles.searchInput}
+                                value={searchTerm}
+                                onChange={handleInputChange}
+                                autoComplete="off"
+                            />
+                            <InputGroup.Text>
+                                <Form.Select 
+                                    value={searchMode} 
+                                    onChange={(e) => handleSearchModeChange(e.target.value)}
+                                    style={{ border: 'none', marginLeft: '-10px' }}
+                                >
+                                    <option value="contains">Contains</option>
+                                    <option value="startsWith">Starts With</option>
+                                    <option value="exact">Exact Match</option>
+                                </Form.Select>
+                            </InputGroup.Text>
+                            <Button type="submit" className={styles.searchButton}>
+                                <FontAwesomeIcon icon={faMagnifyingGlass} className="me-1"/> Search
+                            </Button>
+                        </InputGroup>
+                        
+                        {/* Autocomplete dropdown */}
+                        {showSuggestions && (
+                            <div className={styles.autocompleteDropdown}>
+                                {searchSuggestions.map((suggestion, index) => (
+                                    <div 
+                                        key={index} 
+                                        className={styles.autocompleteItem}
+                                        onClick={() => handleSuggestionClick(suggestion)}
+                                    >
+                                        {suggestion}
+                                    </div>
+                                ))}
+                            </div>
+                        )}
+                    </div>
                 </Col>
                 <Col xs={12} md={4} className="d-flex justify-content-end mt-2 mt-md-0">
                     <Button 
@@ -669,11 +837,11 @@ function EnhancedCardSearchPanel() {
             
             <Accordion activeKey={activeKey} className="mb-3">
                 <Accordion.Item eventKey="0">
-                    <Accordion.Body>
+                    <Accordion.Body className={styles.accordionBodyEnhanced}>
                         <Row>
                             {/* Card Types Filter */}
                             <Col xs={12} md={4} className="mb-3">
-                                <h6>Card Types</h6>
+                                <h6 className={styles.filterHeaderGlow}>Card Types</h6>
                                 <div className="d-flex flex-wrap">
                                     {availableFilters.supertypes.map(supertype => (
                                         <Form.Check
@@ -691,7 +859,7 @@ function EnhancedCardSearchPanel() {
                             
                             {/* Energy Types Filter */}
                             <Col xs={12} md={8} className="mb-3">
-                                <h6>Energy Types</h6>
+                                <h6 className={styles.filterHeaderGlow}>Energy Types</h6>
                                 <div className="d-flex flex-wrap">
                                     {energyTypes.map(type => (
                                         <div key={type} className="me-2 mb-2">
@@ -709,63 +877,6 @@ function EnhancedCardSearchPanel() {
                                             </Button>
                                         </div>
                                     ))}
-                                </div>
-                            </Col>
-                            
-                            {/* Subtypes Filter */}
-                            <Col xs={12} md={6} className="mb-3">
-                                <h6>Card Subtypes</h6>
-                                <div className="d-flex flex-wrap" >
-                                    {availableFilters.subtypes.slice(0, 20).map(subtype => (
-                                        <Form.Check
-                                            key={subtype}
-                                            type="checkbox"
-                                            id={`subtype-${subtype}`}
-                                            label={subtype}
-                                            className="me-3 mb-2"
-                                            checked={filterOptions.subtypes.includes(subtype)}
-                                            onChange={(e) => handleFilterChange('subtypes', subtype, e.target.checked)}
-                                        />
-                                    ))}
-                                </div>
-                            </Col>
-                            
-                            {/* Rarities Filter */}
-                            <Col xs={12} md={6} className="mb-3">
-                                <h6>Rarities</h6>
-                                <div className="d-flex flex-wrap">
-                                    {availableFilters.rarities.map(rarity => (
-                                        <Form.Check
-                                            key={rarity}
-                                            type="checkbox"
-                                            id={`rarity-${rarity}`}
-                                            label={rarity}
-                                            className="me-3"
-                                            checked={filterOptions.rarities.includes(rarity)}
-                                            onChange={(e) => handleFilterChange('rarities', rarity, e.target.checked)}
-                                        />
-                                    ))}
-                                </div>
-                            </Col>
-                            
-                            {/* Legalities Filter */}
-                            <Col xs={12} md={6} className="mb-3">
-                                <h6>Format Legality</h6>
-                                <div className="d-flex flex-wrap">
-                                    {['standard:Legal', 'expanded:Legal', 'unlimited:Legal'].map(legality => {
-                                        const [format, value] = legality.split(':');
-                                        return (
-                                            <Form.Check
-                                                key={legality}
-                                                type="checkbox"
-                                                id={`legality-${legality}`}
-                                                label={`${format.charAt(0).toUpperCase() + format.slice(1)}`}
-                                                className="me-3"
-                                                checked={filterOptions.legalities[format] === value}
-                                                onChange={(e) => handleFilterChange('legalities', legality, e.target.checked)}
-                                            />
-                                        );
-                                    })}
                                 </div>
                             </Col>
                             
@@ -846,7 +957,7 @@ function EnhancedCardSearchPanel() {
                                         <Row>
                                             {/* HP Range */}
                                             <Col xs={12} md={6} className="mb-3">
-                                                <Form.Label>HP Range: {advancedFilterOptions.hpRange[0]} - {advancedFilterOptions.hpRange[1]}</Form.Label>
+                                                <Form.Label className={styles.filterHeaderGlow}>HP Range: {advancedFilterOptions.hpRange[0]} - {advancedFilterOptions.hpRange[1]}</Form.Label>
                                                 <div className="d-flex align-items-center">
                                                     <span className="me-2">0</span>
                                                     <Form.Range
@@ -877,12 +988,13 @@ function EnhancedCardSearchPanel() {
                                                     label="Has Ability"
                                                     checked={advancedFilterOptions.hasAbility}
                                                     onChange={(e) => handleAdvancedFilterChange('hasAbility', e.target.checked)}
+                                                    className={styles.enhancedCheckbox}
                                                 />
                                             </Col>
                                             
                                             {/* Artist Filter */}
                                             <Col xs={12} md={6} className="mb-3">
-                                                <Form.Label>Artist</Form.Label>
+                                                <Form.Label className={styles.filterHeaderGlow}>Artist</Form.Label>
                                                 <Form.Select 
                                                     onChange={(e) => {
                                                         if (e.target.value && !advancedFilterOptions.artists.includes(e.target.value)) {
@@ -912,6 +1024,63 @@ function EnhancedCardSearchPanel() {
                                                     ))}
                                                 </div>
                                             </Col>
+                                            
+                                            {/* Format Legality - MOVED TO BOTTOM */}
+                                            <Col xs={12} className="mb-3 mt-4">
+                                                <h6 className={styles.filterHeaderGlow}>Format Legality</h6>
+                                                <div className="d-flex flex-wrap">
+                                                    {['standard:Legal', 'expanded:Legal', 'unlimited:Legal'].map(legality => {
+                                                        const [format, value] = legality.split(':');
+                                                        return (
+                                                            <Form.Check
+                                                                key={legality}
+                                                                type="checkbox"
+                                                                id={`legality-${legality}`}
+                                                                label={`${format.charAt(0).toUpperCase() + format.slice(1)}`}
+                                                                className="me-3"
+                                                                checked={filterOptions.legalities[format] === value}
+                                                                onChange={(e) => handleFilterChange('legalities', legality, e.target.checked)}
+                                                            />
+                                                        );
+                                                    })}
+                                                </div>
+                                            </Col>
+                                            
+                                            {/* Card Subtypes - MOVED TO BOTTOM */}
+                                            <Col xs={12} className="mb-3">
+                                                <h6 className={styles.filterHeaderGlow}>Card Subtypes</h6>
+                                                <div className="d-flex flex-wrap" >
+                                                    {availableFilters.subtypes.slice(0, 20).map(subtype => (
+                                                        <Form.Check
+                                                            key={subtype}
+                                                            type="checkbox"
+                                                            id={`subtype-${subtype}`}
+                                                            label={subtype}
+                                                            className="me-3 mb-2"
+                                                            checked={filterOptions.subtypes.includes(subtype)}
+                                                            onChange={(e) => handleFilterChange('subtypes', subtype, e.target.checked)}
+                                                        />
+                                                    ))}
+                                                </div>
+                                            </Col>
+                                            
+                                            {/* Rarities Filter - MOVED TO BOTTOM */}
+                                            <Col xs={12} className="mb-3">
+                                                <h6 className={styles.filterHeaderGlow}>Rarities</h6>
+                                                <div className="d-flex flex-wrap">
+                                                    {availableFilters.rarities.map(rarity => (
+                                                        <Form.Check
+                                                            key={rarity}
+                                                            type="checkbox"
+                                                            id={`rarity-${rarity}`}
+                                                            label={rarity}
+                                                            className="me-3"
+                                                            checked={filterOptions.rarities.includes(rarity)}
+                                                            onChange={(e) => handleFilterChange('rarities', rarity, e.target.checked)}
+                                                        />
+                                                    ))}
+                                                </div>
+                                            </Col>
                                         </Row>
                                     </div>
                                 )}
@@ -925,32 +1094,50 @@ function EnhancedCardSearchPanel() {
 
     // Advanced Search Tab Content
     const AdvancedSearchTab = (
-        <Form onSubmit={handleSearch}>
+        <Form onSubmit={handleSearch} className={styles.fixedSearchForm}>
             <Row className={styles.formRow}>
                 <Col xs={12} md={8}>
-                    <InputGroup>
-                        <Form.Control
-                            type="text"
-                            placeholder="Search cards by name"
-                            className={styles.searchInput}
-                            value={searchTerm}
-                            onChange={handleInputChange}
-                        />
-                        <InputGroup.Text>
-                            <Form.Select 
-                                value={searchMode} 
-                                onChange={(e) => handleSearchModeChange(e.target.value)}
-                                style={{ border: 'none', marginLeft: '-10px' }}
-                            >
-                                <option value="contains">Contains</option>
-                                <option value="startsWith">Starts With</option>
-                                <option value="exact">Exact Match</option>
-                            </Form.Select>
-                        </InputGroup.Text>
-                        <Button type="submit" className={styles.searchButton}>
-                            <FontAwesomeIcon icon={faFlask} className="me-1"/> Advanced Search
-                        </Button>
-                    </InputGroup>
+                    <div className={styles.searchInputContainer}>
+                        <InputGroup>
+                            <Form.Control
+                                type="text"
+                                placeholder="Search cards by name"
+                                className={styles.searchInput}
+                                value={searchTerm}
+                                onChange={handleInputChange}
+                                autoComplete="off"
+                            />
+                            <InputGroup.Text>
+                                <Form.Select 
+                                    value={searchMode} 
+                                    onChange={(e) => handleSearchModeChange(e.target.value)}
+                                    style={{ border: 'none', marginLeft: '-10px' }}
+                                >
+                                    <option value="contains">Contains</option>
+                                    <option value="startsWith">Starts With</option>
+                                    <option value="exact">Exact Match</option>
+                                </Form.Select>
+                            </InputGroup.Text>
+                            <Button type="submit" className={styles.searchButton}>
+                                <FontAwesomeIcon icon={faFlask} className="me-1"/> Advanced Search
+                            </Button>
+                        </InputGroup>
+                        
+                        {/* Autocomplete dropdown */}
+                        {showSuggestions && (
+                            <div className={styles.autocompleteDropdown}>
+                                {searchSuggestions.map((suggestion, index) => (
+                                    <div 
+                                        key={index} 
+                                        className={styles.autocompleteItem}
+                                        onClick={() => handleSuggestionClick(suggestion)}
+                                    >
+                                        {suggestion}
+                                    </div>
+                                ))}
+                            </div>
+                        )}
+                    </div>
                 </Col>
                 <Col xs={12} md={4} className="d-flex justify-content-end mt-2 mt-md-0">
                     <Button variant="outline-danger" onClick={clearFilters}>
@@ -961,18 +1148,18 @@ function EnhancedCardSearchPanel() {
             
             {/* Advanced Filter Panels */}
             <div className="mt-3">
-                <Accordion defaultActiveKey="0" alwaysOpen>
+                <Accordion defaultActiveKey="0" alwaysOpen className={styles.advancedAccordion}>
                     {/* Pokemon Stats Panel */}
                     <Accordion.Item eventKey="0">
                         <Accordion.Header>
                             <FontAwesomeIcon icon={faGears} className="me-2" /> 
                             Pokémon Stats & Attributes
                         </Accordion.Header>
-                        <Accordion.Body>
+                        <Accordion.Body className={styles.accordionBodyEnhanced}>
                             <Row>
                                 {/* HP Range */}
                                 <Col xs={12} md={6} className="mb-3">
-                                    <Form.Label>HP Range: {advancedFilterOptions.hpRange[0]} - {advancedFilterOptions.hpRange[1]}</Form.Label>
+                                    <Form.Label className={styles.filterHeaderGlow}>HP Range: {advancedFilterOptions.hpRange[0]} - {advancedFilterOptions.hpRange[1]}</Form.Label>
                                     <div className="d-flex align-items-center">
                                         <span className="me-2">0</span>
                                         <Form.Range
@@ -997,7 +1184,7 @@ function EnhancedCardSearchPanel() {
                                 
                                 {/* Retreat Cost */}
                                 <Col xs={12} md={6} className="mb-3">
-                                    <Form.Label>Retreat Cost: {advancedFilterOptions.retreatCost[0]} - {advancedFilterOptions.retreatCost[1]}</Form.Label>
+                                    <Form.Label className={styles.filterHeaderGlow}>Retreat Cost: {advancedFilterOptions.retreatCost[0]} - {advancedFilterOptions.retreatCost[1]}</Form.Label>
                                     <div className="d-flex align-items-center">
                                         <span className="me-2">0</span>
                                         <Form.Range
@@ -1026,12 +1213,13 @@ function EnhancedCardSearchPanel() {
                                         label="Has Ability"
                                         checked={advancedFilterOptions.hasAbility}
                                         onChange={(e) => handleAdvancedFilterChange('hasAbility', e.target.checked)}
+                                        className={styles.enhancedCheckbox}
                                     />
                                 </Col>
                                 
                                 {/* National Pokedex Number */}
                                 <Col xs={12} md={6} className="mb-3">
-                                    <Form.Label>National Pokédex Number</Form.Label>
+                                    <Form.Label className={styles.filterHeaderGlow}>National Pokédex Number</Form.Label>
                                     <Form.Control
                                         type="number"
                                         placeholder="Enter Pokédex number..."
@@ -1064,7 +1252,7 @@ function EnhancedCardSearchPanel() {
                                 
                                 {/* Attack Energy Cost */}
                                 <Col xs={12} className="mb-3">
-                                    <Form.Label>Attack Energy Requirements</Form.Label>
+                                    <Form.Label className={styles.filterHeaderGlow}>Attack Energy Requirements</Form.Label>
                                     <div className="d-flex flex-wrap">
                                         {energyTypes.map(type => (
                                             <div key={type} className="me-2 mb-2">
@@ -1095,11 +1283,11 @@ function EnhancedCardSearchPanel() {
                             <FontAwesomeIcon icon={faSliders} className="me-2" /> 
                             Card Details & Metadata
                         </Accordion.Header>
-                        <Accordion.Body>
+                        <Accordion.Body className={styles.accordionBodyEnhanced}>
                             <Row>
                                 {/* Series Filter */}
                                 <Col xs={12} md={6} className="mb-3">
-                                    <Form.Label>Series</Form.Label>
+                                    <Form.Label className={styles.filterHeaderGlow}>Series</Form.Label>
                                     <div className="d-flex flex-wrap" style={{ maxHeight: '150px', overflowY: 'auto' }}>
                                         {availableFilters.series.map(series => (
                                             <Form.Check
@@ -1117,7 +1305,7 @@ function EnhancedCardSearchPanel() {
                                 
                                 {/* Regulation Marks */}
                                 <Col xs={12} md={6} className="mb-3">
-                                    <Form.Label>Regulation Mark</Form.Label>
+                                    <Form.Label className={styles.filterHeaderGlow}>Regulation Mark</Form.Label>
                                     <div className="d-flex flex-wrap">
                                         {availableFilters.regulationMarks.map(mark => (
                                             <Badge 
@@ -1135,7 +1323,7 @@ function EnhancedCardSearchPanel() {
                                 
                                 {/* Artist Filter */}
                                 <Col xs={12} md={6} className="mb-3">
-                                    <Form.Label>Artist</Form.Label>
+                                    <Form.Label className={styles.filterHeaderGlow}>Artist</Form.Label>
                                     <Form.Select 
                                         onChange={(e) => {
                                             if (e.target.value && !advancedFilterOptions.artists.includes(e.target.value)) {
@@ -1168,7 +1356,7 @@ function EnhancedCardSearchPanel() {
                                 
                                 {/* Flavor Text Search */}
                                 <Col xs={12} md={6} className="mb-3">
-                                    <Form.Label>Flavor Text</Form.Label>
+                                    <Form.Label className={styles.filterHeaderGlow}>Flavor Text</Form.Label>
                                     <Form.Control
                                         type="text"
                                         placeholder="Search by flavor text..."
@@ -1176,6 +1364,63 @@ function EnhancedCardSearchPanel() {
                                         onChange={(e) => handleAdvancedFilterChange('flavorText', e.target.value)}
                                     />
                                     <small className="text-muted">Search cards by the flavor text at the bottom</small>
+                                </Col>
+                                
+                                {/* Format Legality - MOVED TO BOTTOM */}
+                                <Col xs={12} className="mb-3 mt-4">
+                                    <h6 className={styles.filterHeaderGlow}>Format Legality</h6>
+                                    <div className="d-flex flex-wrap">
+                                        {['standard:Legal', 'expanded:Legal', 'unlimited:Legal'].map(legality => {
+                                            const [format, value] = legality.split(':');
+                                            return (
+                                                <Form.Check
+                                                    key={legality}
+                                                    type="checkbox"
+                                                    id={`legality-${legality}`}
+                                                    label={`${format.charAt(0).toUpperCase() + format.slice(1)}`}
+                                                    className="me-3"
+                                                    checked={filterOptions.legalities[format] === value}
+                                                    onChange={(e) => handleFilterChange('legalities', legality, e.target.checked)}
+                                                />
+                                            );
+                                        })}
+                                    </div>
+                                </Col>
+                                
+                                {/* Card Subtypes - MOVED TO BOTTOM */}
+                                <Col xs={12} className="mb-3">
+                                    <h6 className={styles.filterHeaderGlow}>Card Subtypes</h6>
+                                    <div className="d-flex flex-wrap" >
+                                        {availableFilters.subtypes.slice(0, 20).map(subtype => (
+                                            <Form.Check
+                                                key={subtype}
+                                                type="checkbox"
+                                                id={`subtype-${subtype}`}
+                                                label={subtype}
+                                                className="me-3 mb-2"
+                                                checked={filterOptions.subtypes.includes(subtype)}
+                                                onChange={(e) => handleFilterChange('subtypes', subtype, e.target.checked)}
+                                            />
+                                        ))}
+                                    </div>
+                                </Col>
+                                
+                                {/* Rarities Filter - MOVED TO BOTTOM */}
+                                <Col xs={12} className="mb-3">
+                                    <h6 className={styles.filterHeaderGlow}>Rarities</h6>
+                                    <div className="d-flex flex-wrap">
+                                        {availableFilters.rarities.map(rarity => (
+                                            <Form.Check
+                                                key={rarity}
+                                                type="checkbox"
+                                                id={`rarity-${rarity}`}
+                                                label={rarity}
+                                                className="me-3"
+                                                checked={filterOptions.rarities.includes(rarity)}
+                                                onChange={(e) => handleFilterChange('rarities', rarity, e.target.checked)}
+                                            />
+                                        ))}
+                                    </div>
                                 </Col>
                             </Row>
                         </Accordion.Body>
@@ -1244,228 +1489,322 @@ function EnhancedCardSearchPanel() {
         </div>
     );
 
-    return (
-        <div className={styles.searchPanel}>
-            <Card>
-                <Card.Header>
-                    <Tabs
-                        activeKey={tabKey}
-                        onSelect={handleTabChange}
-                        className="mb-3"
+    // Card preview modal
+    const CardPreviewModal = () => (
+        <Modal
+            show={showPreviewModal}
+            onHide={() => setShowPreviewModal(false)}
+            centered
+            size="lg"
+            contentClassName={theme === 'dark' ? 'bg-dark text-white' : ''}
+        >
+            <Modal.Header closeButton>
+                <Modal.Title>{previewCard?.name || 'Card Preview'}</Modal.Title>
+            </Modal.Header>
+            <Modal.Body className="text-center">
+                {previewCard && (
+                    <div className="d-flex flex-column align-items-center">
+                        <img 
+                            src={previewCard.images?.large || previewCard.image} 
+                            alt={previewCard.name} 
+                            style={{ maxWidth: '100%', maxHeight: '70vh' }} 
+                        />
+                        <div className="mt-3">
+                            <h5>{previewCard.name}</h5>
+                            {previewCard.supertype && <p>{previewCard.supertype} - {previewCard.subtypes?.join(', ')}</p>}
+                            {previewCard.hp && <p>HP: {previewCard.hp}</p>}
+                            {previewCard.types && <p>Types: {previewCard.types.join(', ')}</p>}
+                        </div>
+                    </div>
+                )}
+            </Modal.Body>
+            <Modal.Footer>
+                <Button variant="secondary" onClick={() => setShowPreviewModal(false)}>
+                    Close
+                </Button>
+                {previewCard && (
+                    <Button 
+                        variant="primary" 
+                        onClick={() => {
+                            handleCardDoubleClick(previewCard);
+                            setShowPreviewModal(false);
+                        }}
                     >
-                        <Tab eventKey="search" title={<><FontAwesomeIcon icon={faMagnifyingGlass} /> Search</>} />
-                        <Tab eventKey="favorites" title={<><FontAwesomeIcon icon={faStar} /> Favorites</>} />
-                        <Tab eventKey="custom" title={<><FontAwesomeIcon icon={faFileImport} /> Custom Cards</>} />
-                        <Tab eventKey="history" title={<><FontAwesomeIcon icon={faHistory} /> History</>} />
-                    </Tabs>
-                </Card.Header>
+                        Add to Deck
+                    </Button>
+                )}
+            </Modal.Footer>
+        </Modal>
+    );
+
+    return (
+        <div className={styles.searchPanel} ref={searchPanelRef}>
+            <Card className={styles.fixedHeaderCard}>
+                {/* Fixed header with tabs */}
+                <div className={styles.fixedHeader} ref={headerRef}>
+                    <Card.Header>
+                        <Tabs
+                            activeKey={tabKey}
+                            onSelect={handleTabChange}
+                            className="mb-0"
+                        >
+                            <Tab eventKey="search" title={<><FontAwesomeIcon icon={faMagnifyingGlass} /> Search</>} />
+                            <Tab eventKey="favorites" title={<><FontAwesomeIcon icon={faStar} /> Favorites</>} />
+                            <Tab eventKey="custom" title={<><FontAwesomeIcon icon={faFileImport} /> Custom Cards</>} />
+                            <Tab eventKey="history" title={<><FontAwesomeIcon icon={faHistory} /> History</>} />
+                        </Tabs>
+                    </Card.Header>
+                    
+                    {tabKey === 'search' && (
+                        <>
+                            {/* Search Type Selection Tabs - fixed */}
+                            <Card.Header className={styles.secondaryHeader}>
+                                <Tabs
+                                    activeKey={searchTabKey}
+                                    onSelect={handleSearchTabChange}
+                                    variant={theme === 'dark' ? 'dark' : 'tabs'}
+                                    className="mb-0 searchTypeTabs"
+                                >
+                                    <Tab eventKey="basic" title={<><FontAwesomeIcon icon={faMagnifyingGlass} className="me-1" /> Basic Search</>} />
+                                    <Tab eventKey="advanced" title={<><FontAwesomeIcon icon={faFlask} className="me-1" /> Advanced Search</>} />
+                                </Tabs>
+                            </Card.Header>
+                            
+                            {/* Search Form - fixed */}
+                            <Card.Header className={styles.searchFormHeader}>
+                                {searchTabKey === 'basic' ? BasicSearchTab : AdvancedSearchTab}
+                            </Card.Header>
+                        </>
+                    )}
+                </div>
                 
-                {tabKey === 'search' && (
-                    <>
-                        {/* Search Type Selection Tabs */}
-                        <Card.Header>
-                            <Tabs
-                                activeKey={searchTabKey}
-                                onSelect={handleSearchTabChange}
-                                variant={theme === 'dark' ? 'dark' : 'tabs'}
-                                className="mb-0 searchTypeTabs"
-                            >
-                                <Tab eventKey="basic" title={<><FontAwesomeIcon icon={faMagnifyingGlass} className="me-1" /> Basic Search</>} />
-                                <Tab eventKey="advanced" title={<><FontAwesomeIcon icon={faFlask} className="me-1" /> Advanced Search</>} />
-                            </Tabs>
-                        </Card.Header>
-                        
-                        {/* Search Form */}
-                        <Card.Header>
-                            {searchTabKey === 'basic' ? BasicSearchTab : AdvancedSearchTab}
-                        </Card.Header>
-                        
-                        {/* Search Results */}
-                        <Card.Body>
-                            {isLoading ? (
-                                <div className="d-flex justify-content-center my-5">
-                                    <Spinner animation="border" size="xl" role="status">
-                                        <span className="visually-hidden">Loading...</span>
-                                    </Spinner>
-                                </div>
-                            ) : searchResults.length > 0 ? (
-                                <>
-                                    <PaginationControls />
-                                    <CardContainer 
-                                        cards={searchResults} 
-                                        handleDoubleClick={handleCardDoubleClick} 
-                                        containerType={"Search"}
-                                        handleToggleFavorite={handleToggleFavorite}
-                                        favoriteCards={favoriteCards}
-                                        ref={cardContainerRef}
-                                    />
-                                    <PaginationControls />
-                                </>
+                {/* Scrollable Body */}
+                <Card.Body className={styles.scrollableBody} ref={searchResultsRef}>
+                    {tabKey === 'search' && (
+                        isLoading ? (
+                            <div className="d-flex justify-content-center my-5">
+                                <Spinner animation="border" size="xl" role="status">
+                                    <span className="visually-hidden">Loading...</span>
+                                </Spinner>
+                            </div>
+                        ) : searchResults.length > 0 ? (
+                            <>
+                                <PaginationControls />
+                                <CardContainer 
+                                    cards={searchResults} 
+                                    handleDoubleClick={handleCardDoubleClick} 
+                                    containerType={"Search"}
+                                    handleToggleFavorite={handleToggleFavorite}
+                                    favoriteCards={favoriteCards}
+                                    ref={cardContainerRef}
+                                    onCardHover={handleCardHover}
+                                    onCardPreview={handleOpenPreviewModal}
+                                />
+                                <PaginationControls />
+                            </>
+                        ) : (
+                            <div className="text-center my-5">
+                                <p>No cards found matching your search criteria.</p>
+                                <Button variant="outline-secondary" onClick={clearFilters}>
+                                    Clear Filters
+                                </Button>
+                            </div>
+                        )
+                    )}
+                    
+                    {tabKey === 'favorites' && (
+                        <>
+                            <div className="d-flex justify-content-between align-items-center mb-3">
+                                <h5>{favoriteCards.length} Favorite Cards</h5>
+                                {favoriteCards.length > 0 && (
+                                    <Button variant="outline-danger" size="sm" onClick={() => {
+                                        if (window.confirm('Are you sure you want to clear all favorites?')) {
+                                            setFavoriteCards([]);
+                                            saveFavorites([]);
+                                        }
+                                    }}>
+                                        Clear Favorites
+                                    </Button>
+                                )}
+                            </div>
+                            
+                            {favoriteCards.length > 0 ? (
+                                <CardContainer 
+                                    cards={favoriteCards} 
+                                    handleDoubleClick={handleCardDoubleClick} 
+                                    containerType={"Search"}
+                                    handleToggleFavorite={handleToggleFavorite}
+                                    favoriteCards={favoriteCards}
+                                    onCardHover={handleCardHover}
+                                    onCardPreview={handleOpenPreviewModal}
+                                />
                             ) : (
                                 <div className="text-center my-5">
-                                    <p>No cards found matching your search criteria.</p>
-                                    <Button variant="outline-secondary" onClick={clearFilters}>
-                                        Clear Filters
-                                    </Button>
+                                    <p>You haven't favorited any cards yet.</p>
+                                    <p>Click the star icon on a card to add it to your favorites.</p>
                                 </div>
                             )}
-                        </Card.Body>
-                    </>
-                )}
-                
-                {tabKey === 'favorites' && (
-                    <Card.Body>
-                        {favoriteCards.length > 0 ? (
-                            <CardContainer 
-                                cards={favoriteCards} 
-                                handleDoubleClick={handleCardDoubleClick} 
-                                containerType={"Search"}
-                                handleToggleFavorite={handleToggleFavorite}
-                                favoriteCards={favoriteCards}
-                            />
-                        ) : (
-                            <div className="text-center my-5">
-                                <p>You haven't favorited any cards yet.</p>
-                                <p>Click the star icon on a card to add it to your favorites.</p>
+                        </>
+                    )}
+                    
+                    {tabKey === 'custom' && (
+                        <>
+                            <div className="d-flex justify-content-between align-items-center mb-3">
+                                <h5>{customCards.length} Custom Cards</h5>
+                                <Button 
+                                    variant="primary" 
+                                    onClick={() => setShowCustomCardModal(true)}
+                                >
+                                    <FontAwesomeIcon icon={faPlus} className="me-2" />
+                                    Create Custom Card
+                                </Button>
                             </div>
-                        )}
-                    </Card.Body>
-                )}
-                
-                {tabKey === 'custom' && (
-                    <Card.Body>
-                        <div className="d-flex justify-content-end mb-3">
-                            <Button 
-                                variant="primary" 
-                                onClick={() => setShowCustomCardModal(true)}
-                            >
-                                <FontAwesomeIcon icon={faPlus} className="me-2" />
-                                Create Custom Card
-                            </Button>
-                        </div>
-                        
-                        {customCards.length > 0 ? (
-                            <CardContainer 
-                                cards={customCards} 
-                                handleDoubleClick={handleCardDoubleClick} 
-                                containerType={"Search"}
-                                handleDeleteCard={handleDeleteCustomCard}
-                                isCustomContainer={true}
-                            />
-                        ) : (
-                            <div className="text-center my-5">
-                                <p>You haven't created any custom cards yet.</p>
-                                <p>Click the "Create Custom Card" button to get started.</p>
-                            </div>
-                        )}
-                        
-                        {/* Custom Card Creator Modal */}
-                        <CustomCardCreator 
-                            show={showCustomCardModal} 
-                            handleClose={() => setShowCustomCardModal(false)} 
-                            onCardCreated={handleCustomCardCreated}
-                        />
-                    </Card.Body>
-                )}
-                
-                {tabKey === 'history' && (
-                    <Card.Body>
-                        {searchHistory.length > 0 ? (
-                            <div className="list-group">
-                                {searchHistory.map((historyItem, index) => (
-                                    <div 
-                                        key={index} 
-                                        className="list-group-item list-group-item-action d-flex justify-content-between align-items-center"
-                                        onClick={() => applyHistorySearch(historyItem)}
-                                        style={{ cursor: 'pointer' }}
+                            
+                            {customCards.length > 0 ? (
+                                <CardContainer 
+                                    cards={customCards} 
+                                    handleDoubleClick={handleCardDoubleClick} 
+                                    containerType={"Search"}
+                                    handleDeleteCard={handleDeleteCustomCard}
+                                    isCustomContainer={true}
+                                    onCardHover={handleCardHover}
+                                    onCardPreview={handleOpenPreviewModal}
+                                />
+                            ) : (
+                                <div className="text-center my-5">
+                                    <p>You haven't created any custom cards yet.</p>
+                                    <p>Click the "Create Custom Card" button to get started.</p>
+                                </div>
+                            )}
+                        </>
+                    )}
+                    
+                    {tabKey === 'history' && (
+                        <>
+                            <div className="d-flex justify-content-between align-items-center mb-3">
+                                <h5>Search History</h5>
+                                {searchHistory.length > 0 && (
+                                    <Button 
+                                        variant="outline-secondary" 
+                                        size="sm"
+                                        onClick={() => {
+                                            if (window.confirm('Clear search history?')) {
+                                                setSearchHistory([]);
+                                                saveSearchHistory([]);
+                                            }
+                                        }}
                                     >
-                                        <div>
-                                            <div className="d-flex align-items-center">
-                                                <FontAwesomeIcon 
-                                                    icon={historyItem.isAdvanced ? faFlask : faMagnifyingGlass} 
-                                                    className="me-2 text-secondary" 
-                                                />
-                                                <strong>{historyItem.term || '(No search term)'}</strong>
-                                                {historyItem.isAdvanced && (
-                                                    <Badge bg="info" className="ms-2">Advanced</Badge>
-                                                )}
-                                            </div>
-                                            <div className="small text-muted">
-                                                {formatDate(historyItem.timestamp)}
-                                                
-                                                {/* Display active filters */}
-                                                {(historyItem.filters?.types?.length > 0 || 
-                                                 historyItem.filters?.subtypes?.length > 0 ||
-                                                 historyItem.filters?.supertypes?.length > 0 ||
-                                                 historyItem.filters?.sets?.length > 0) && (
-                                                    <div className="mt-1">
-                                                        <span>Filters: </span>
-                                                        {historyItem.filters?.types?.map(type => (
-                                                            <Badge key={type} bg="secondary" className="me-1">{type}</Badge>
-                                                        ))}
-                                                        {historyItem.filters?.subtypes?.map(subtype => (
-                                                            <Badge key={subtype} bg="info" className="me-1">{subtype}</Badge>
-                                                        ))}
-                                                        {historyItem.filters?.supertypes?.map(supertype => (
-                                                            <Badge key={supertype} bg="primary" className="me-1">{supertype}</Badge>
-                                                        ))}
-                                                        {historyItem.filters?.sets?.length > 0 && (
-                                                            <Badge bg="warning" text="dark" className="me-1">
-                                                                {historyItem.filters.sets.length} set(s)
-                                                            </Badge>
-                                                        )}
-                                                    </div>
-                                                )}
-                                                
-                                                {/* Display advanced filters if available */}
-                                                {historyItem.isAdvanced && historyItem.advancedFilters && (
-                                                    <div className="mt-1">
-                                                        <span>Advanced: </span>
-                                                        {historyItem.advancedFilters.hpRange[0] > 0 || historyItem.advancedFilters.hpRange[1] < 340 ? (
-                                                            <Badge bg="success" className="me-1">
-                                                                HP {historyItem.advancedFilters.hpRange[0]}-{historyItem.advancedFilters.hpRange[1]}
-                                                            </Badge>
-                                                        ) : null}
-                                                        {historyItem.advancedFilters.retreatCost[0] > 0 || historyItem.advancedFilters.retreatCost[1] < 5 ? (
-                                                            <Badge bg="success" className="me-1">
-                                                                Retreat {historyItem.advancedFilters.retreatCost[0]}-{historyItem.advancedFilters.retreatCost[1]}
-                                                            </Badge>
-                                                        ) : null}
-                                                        {historyItem.advancedFilters.hasAbility && (
-                                                            <Badge bg="success" className="me-1">Has Ability</Badge>
-                                                        )}
-                                                        {historyItem.advancedFilters.artists?.length > 0 && (
-                                                            <Badge bg="success" className="me-1">{historyItem.advancedFilters.artists.length} Artist(s)</Badge>
-                                                        )}
-                                                        {historyItem.advancedFilters.series?.length > 0 && (
-                                                            <Badge bg="success" className="me-1">{historyItem.advancedFilters.series.length} Series</Badge>
-                                                        )}
-                                                    </div>
-                                                )}
-                                            </div>
-                                        </div>
-                                        <Button 
-                                            variant="outline-primary" 
-                                            size="sm"
-                                            onClick={(e) => {
-                                                e.stopPropagation();
-                                                applyHistorySearch(historyItem);
-                                            }}
+                                        Clear History
+                                    </Button>
+                                )}
+                            </div>
+                            
+                            {searchHistory.length > 0 ? (
+                                <div className="list-group">
+                                    {searchHistory.map((historyItem, index) => (
+                                        <div 
+                                            key={index} 
+                                            className="list-group-item list-group-item-action d-flex justify-content-between align-items-center"
+                                            onClick={() => applyHistorySearch(historyItem)}
+                                            style={{ cursor: 'pointer' }}
                                         >
-                                            Apply
-                                        </Button>
-                                    </div>
-                                ))}
-                            </div>
-                        ) : (
-                            <div className="text-center my-5">
-                                <p>No search history yet.</p>
-                                <p>Your recent searches will appear here.</p>
-                            </div>
-                        )}
-                    </Card.Body>
-                )}
+                                            <div>
+                                                <div className="d-flex align-items-center">
+                                                    <FontAwesomeIcon 
+                                                        icon={historyItem.isAdvanced ? faFlask : faMagnifyingGlass} 
+                                                        className="me-2 text-secondary" 
+                                                    />
+                                                    <strong>{historyItem.term || '(No search term)'}</strong>
+                                                    {historyItem.isAdvanced && (
+                                                        <Badge bg="info" className="ms-2">Advanced</Badge>
+                                                    )}
+                                                </div>
+                                                <div className="small text-muted">
+                                                    {formatDate(historyItem.timestamp)}
+                                                    
+                                                    {/* Display active filters */}
+                                                    {(historyItem.filters?.types?.length > 0 || 
+                                                     historyItem.filters?.subtypes?.length > 0 ||
+                                                     historyItem.filters?.supertypes?.length > 0 ||
+                                                     historyItem.filters?.sets?.length > 0) && (
+                                                        <div className="mt-1">
+                                                            <span>Filters: </span>
+                                                            {historyItem.filters?.types?.map(type => (
+                                                                <Badge key={type} bg="secondary" className="me-1">{type}</Badge>
+                                                            ))}
+                                                            {historyItem.filters?.subtypes?.map(subtype => (
+                                                                <Badge key={subtype} bg="info" className="me-1">{subtype}</Badge>
+                                                            ))}
+                                                            {historyItem.filters?.supertypes?.map(supertype => (
+                                                                <Badge key={supertype} bg="primary" className="me-1">{supertype}</Badge>
+                                                            ))}
+                                                            {historyItem.filters?.sets?.length > 0 && (
+                                                                <Badge bg="warning" text="dark" className="me-1">
+                                                                    {historyItem.filters.sets.length} set(s)
+                                                                </Badge>
+                                                            )}
+                                                        </div>
+                                                    )}
+                                                    
+                                                    {/* Display advanced filters if available */}
+                                                    {historyItem.isAdvanced && historyItem.advancedFilters && (
+                                                        <div className="mt-1">
+                                                            <span>Advanced: </span>
+                                                            {historyItem.advancedFilters.hpRange[0] > 0 || historyItem.advancedFilters.hpRange[1] < 340 ? (
+                                                                <Badge bg="success" className="me-1">
+                                                                    HP {historyItem.advancedFilters.hpRange[0]}-{historyItem.advancedFilters.hpRange[1]}
+                                                                </Badge>
+                                                            ) : null}
+                                                            {historyItem.advancedFilters.retreatCost[0] > 0 || historyItem.advancedFilters.retreatCost[1] < 5 ? (
+                                                                <Badge bg="success" className="me-1">
+                                                                    Retreat {historyItem.advancedFilters.retreatCost[0]}-{historyItem.advancedFilters.retreatCost[1]}
+                                                                </Badge>
+                                                            ) : null}
+                                                            {historyItem.advancedFilters.hasAbility && (
+                                                                <Badge bg="success" className="me-1">Has Ability</Badge>
+                                                            )}
+                                                            {historyItem.advancedFilters.artists?.length > 0 && (
+                                                                <Badge bg="success" className="me-1">{historyItem.advancedFilters.artists.length} Artist(s)</Badge>
+                                                            )}
+                                                            {historyItem.advancedFilters.series?.length > 0 && (
+                                                                <Badge bg="success" className="me-1">{historyItem.advancedFilters.series.length} Series</Badge>
+                                                            )}
+                                                        </div>
+                                                    )}
+                                                </div>
+                                            </div>
+                                            <Button 
+                                                variant="outline-primary" 
+                                                size="sm"
+                                                onClick={(e) => {
+                                                    e.stopPropagation();
+                                                    applyHistorySearch(historyItem);
+                                                }}
+                                            >
+                                                Apply
+                                            </Button>
+                                        </div>
+                                    ))}
+                                </div>
+                            ) : (
+                                <div className="text-center my-5">
+                                    <p>No search history yet.</p>
+                                    <p>Your recent searches will appear here.</p>
+                                </div>
+                            )}
+                        </>
+                    )}
+                </Card.Body>
             </Card>
+            
+            {/* Modals */}
+            <CustomCardCreator 
+                show={showCustomCardModal} 
+                handleClose={() => setShowCustomCardModal(false)} 
+                onCardCreated={handleCustomCardCreated}
+            />
+            
+            <CardPreviewModal />
         </div>
     );
 }

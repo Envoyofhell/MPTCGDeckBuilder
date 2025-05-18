@@ -1,14 +1,12 @@
-// src/components/layout/DeckViewPanel.js
-import { useEffect, useState, useContext } from 'react';
+// src/components/layout/DeckViewPanel.js - Updated to improve drag-and-drop handling
+import { useEffect, useState, useContext, useRef } from 'react';
 import styles from './css/DeckViewPanel.module.css';
 import CardContainer from '../CardContainer';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import ButtonGroup from 'react-bootstrap/ButtonGroup';
-// import DropdownButton from 'react-bootstrap/DropdownButton'; // Not used in the latest version of the component
-// import Dropdown from 'react-bootstrap/Dropdown'; // Not used in the latest version of the component
 import Spinner from 'react-bootstrap/Spinner';
-import { Form, Row, Col, Stack, Badge } from 'react-bootstrap'; // Added Badge here
+import { Form, Row, Col, Stack, Badge } from 'react-bootstrap';
 import TCGSim from '../../utils/TCGsim/TCGSimController';
 import CardJSONValidator from '../../utils/CardJsonValidator';
 import ImportModal from '../modals/ImportModal';
@@ -36,6 +34,8 @@ function DeckViewPanel() {
     const { doubleClickedData, doubleClickTrigger } = useDoubleClick();
     const [isDeckImageModalOpen, setDeckImageModalOpen] = useState(false);
     const { theme } = useContext(AppThemeContext);
+    const dropZoneRef = useRef(null);
+    const [isDragOver, setIsDragOver] = useState(false);
 
     const validator = new CardJSONValidator();
 
@@ -47,30 +47,58 @@ function DeckViewPanel() {
     const handleDeckImageOpenModal = () => setDeckImageModalOpen(true);
     const handleDeckImageCloseModal = () => setDeckImageModalOpen(false);
 
+    const handleDragOver = (e) => {
+        // Prevent default to allow drop
+        e.preventDefault();
+        
+        // Set visual feedback
+        setIsDragOver(true);
+        
+        // Set drop effect
+        e.dataTransfer.dropEffect = "copy";
+    };
+    
+    const handleDragLeave = (e) => {
+        // Reset visual feedback
+        setIsDragOver(false);
+    };
+
     const handleDrop = (e) => {
         e.preventDefault();
+        setIsDragOver(false);
+        
         try {
-            const data = JSON.parse(e.dataTransfer.getData("application/json"));
-            if (data && data.card) {
-                const cardContainer = data.origContainer;
-                const card = data.card;
-                if (cardContainer === "Deck") {
-                    removeCardFromDecklist(card);
-                } else if (cardContainer === "Search" || cardContainer === "Favorites" || cardContainer === "Custom") {
+            // Try to parse as JSON first
+            const jsonData = e.dataTransfer.getData("application/json");
+            if (jsonData) {
+                const data = JSON.parse(jsonData);
+                if (data && data.card) {
+                    const cardContainer = data.origContainer;
+                    const card = data.card;
+                    
+                    // Add the card regardless of source container
+                    // This simplifies the logic and makes drag-and-drop more intuitive
                     addCardToDecklist(card);
+                    return;
                 }
-            } else {
-                console.warn("Dropped data is not in the expected format:", data);
+            }
+            
+            // Fallback to plain text (card name)
+            const textData = e.dataTransfer.getData("text/plain");
+            if (textData) {
+                console.log("Dropped text data:", textData);
+                // Could implement a card lookup by name here
+                alert(`Card "${textData}" not found. Please drag the complete card.`);
             }
         } catch (error) {
             console.error("Error processing dropped data:", error);
+            alert("Unable to add the card. Please try again.");
         }
     };
     
     const handleDoubleClickToRemove = (card) => {
         removeCardFromDecklist(card);
     };
-
 
     const cardTypeMaxCount = { "energy": 60, "trainer": 4, "pokémon": 4, "pokemon": 4 };
 
@@ -138,8 +166,8 @@ function DeckViewPanel() {
     };
 
     useEffect(() => {
-        // Assuming doubleClickedData now includes a 'source' property
-        if (doubleClickedData && doubleClickedData.source === 'searchPanel') { 
+        // Handle additions from doubleClickedData
+        if (doubleClickedData && doubleClickedData.source === 'searchPanel' && doubleClickedData.card) { 
             addCardToDecklist(doubleClickedData.card);
         }
     }, [doubleClickedData, doubleClickTrigger]);
@@ -166,6 +194,56 @@ function DeckViewPanel() {
         });
     }, [filterByPokemon, filterByTrainer, filterByEnergy, decklist, showAll]);
     
+    // Load work-in-progress deck from localStorage on initial render
+    useEffect(() => {
+        const loadWipDeck = () => {
+            try {
+                const savedDeck = localStorage.getItem('tcg-deck-builder-wip');
+                if (savedDeck) {
+                    const parsedDeck = JSON.parse(savedDeck);
+                    setDecklist(parsedDeck.deck || {});
+                    
+                    // Recalculate counts
+                    let pkmn = 0, trnr = 0, engy = 0;
+                    for (const cardName in parsedDeck.deck) {
+                        parsedDeck.deck[cardName].cards.forEach(cv => {
+                            const count = Number(cv.count) || 0;
+                            const st = cv.data.supertype?.toLowerCase();
+                            if (st === 'pokémon' || st === 'pokemon') pkmn += count;
+                            else if (st === 'trainer') trnr += count;
+                            else if (st === 'energy') engy += count;
+                        });
+                    }
+                    setPokemonCount(pkmn);
+                    setTrainerCount(trnr);
+                    setEnergyCount(engy);
+                }
+            } catch (error) {
+                console.error('Error loading work-in-progress deck:', error);
+            }
+        };
+        
+        loadWipDeck();
+    }, []);
+    
+    // Save work-in-progress deck to localStorage whenever deck changes
+    useEffect(() => {
+        const saveWipDeck = () => {
+            try {
+                localStorage.setItem('tcg-deck-builder-wip', JSON.stringify({
+                    deck: decklist,
+                    timestamp: Date.now()
+                }));
+            } catch (error) {
+                console.error('Error saving work-in-progress deck:', error);
+            }
+        };
+        
+        // Only save if the deck is not empty
+        if (Object.keys(decklist).length > 0) {
+            saveWipDeck();
+        }
+    }, [decklist]);
 
     async function doImport(fileContent) {
         setIsLoading(true);
@@ -221,7 +299,6 @@ function DeckViewPanel() {
             setFilterByEnergy(true);
         }
     };
-
 
     return (
         <div className={`${styles.viewPanel} deck-view-panel-container`}>
@@ -304,7 +381,13 @@ function DeckViewPanel() {
                     </Row>
                 </Card.Header>
 
-                <Card.Body className={styles.cardBodyScrollable}>
+                <Card.Body 
+                    className={`${styles.cardBodyScrollable} ${isDragOver ? styles.dragOver : ''}`}
+                    ref={dropZoneRef}
+                    onDragOver={handleDragOver}
+                    onDragLeave={handleDragLeave}
+                    onDrop={handleDrop}
+                >
                     {isLoading ? (
                         <div className="d-flex justify-content-center align-items-center" style={{minHeight: '200px'}}><Spinner animation="border" /></div>
                     ) : Object.keys(filteredDecklist).length > 0 ? (
@@ -316,8 +399,14 @@ function DeckViewPanel() {
                             removeCardFromDecklist={removeCardFromDecklist} // Pass down for potential - button on card
                         />
                     ) : (
-                        <div className="text-center my-5 p-3">
-                            <p className="lead">{Object.keys(decklist).length === 0 ? "Your deck is empty. Drag cards here or import a deck." : "No cards match the current filter."}</p>
+                        <div className={`text-center my-5 p-3 ${styles.emptyDeckMessage}`}>
+                            <p className="lead">{Object.keys(decklist).length === 0 ? 
+                                "Your deck is empty. Drag cards here or import a deck." : 
+                                "No cards match the current filter."}</p>
+                            <div className={styles.dropHere}>
+                                <FontAwesomeIcon icon={faFileImport} size="3x" className="mb-3" />
+                                <p>Drop cards here to add them to your deck</p>
+                            </div>
                         </div>
                     )}
                 </Card.Body>

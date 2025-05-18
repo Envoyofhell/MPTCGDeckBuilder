@@ -1,16 +1,20 @@
-import React, { useEffect, useState } from "react";
-import styles from './css/CardViewerContainer.module.css'
+// src/components/CardContainer.js - Updated version with enhanced features
+import React, { useEffect, useState, forwardRef } from "react";
+import styles from './css/CardViewerContainer.module.css';
+import newStyles from './layout/css/CardSearchPanel.module.css'; // Import new styles
 import PkmnCard from "./PkmnCard";
 import Button from 'react-bootstrap/Button';
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
+import Badge from 'react-bootstrap/Badge';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar as faStarSolid } from '@fortawesome/free-solid-svg-icons';
 import { faStar as faStarRegular } from '@fortawesome/free-regular-svg-icons';
-import { faTrash, faEdit } from '@fortawesome/free-solid-svg-icons';
+import { faTrash, faEdit, faExpand } from '@fortawesome/free-solid-svg-icons';
 import CardJSONValidator from "../utils/CardJsonValidator";
 
-function CardContainer({ 
+// Use forwardRef to accept a ref from parent component
+const CardContainer = forwardRef(({ 
     cards, 
     handleDoubleClick, 
     containerType, 
@@ -20,10 +24,13 @@ function CardContainer({
     favoriteCards = [],
     handleDeleteCard,
     handleEditCard,
-    isCustomContainer = false
-}) {
+    isCustomContainer = false,
+    onCardHover,
+    onCardPreview
+}, ref) => {
     // State for cards to display
     const [cardsToShow, setCardsToShow] = useState([]);
+    const [hoveredCard, setHoveredCard] = useState(null);
     const validator = new CardJSONValidator();
 
     // Define the priority for each supertype
@@ -73,22 +80,36 @@ function CardContainer({
         }
     }, [cards, containerType]);
 
-    // Default double-click handler
-    const defaultOnDoubleClick = () => console.log("No function provided for Double click.");
+    // Default double-click handler - enhanced to also add to deck
+    const defaultOnDoubleClick = (card) => {
+        console.log("Double-clicked card, but no handler provided:", card);
+        // Attempt to add to deck anyway if this is a Search container
+        if (containerType === "Search" && addCardToDecklist) {
+            addCardToDecklist(card);
+        }
+    };
     
-    // Double-click handler wrapper
+    // Double-click handler wrapper - now works with direct deck adding
     const doubleClickHandler = card => {
         console.log("Double-clicked card:", card);
         if (handleDoubleClick) {
           handleDoubleClick(card);
         } else {
-          defaultOnDoubleClick();
+          defaultOnDoubleClick(card);
         }
     };
 
     // Function to check if a card is a favorite
     const isFavorite = (cardId) => {
         return favoriteCards.some(card => card.id === cardId);
+    };
+
+    // Handle card hover for preview
+    const handleCardHover = (card) => {
+        setHoveredCard(card);
+        if (onCardHover) {
+            onCardHover(card);
+        }
     };
 
     // Get container message based on type when empty
@@ -108,14 +129,43 @@ function CardContainer({
     };
 
     return (
-        <div className={styles.container}>
+        <div className={styles.container} ref={ref}>
             <div className={styles.cardContainer}>
                 {cardsToShow && cardsToShow.length > 0 ? (
                     cardsToShow.map((thisCard) => (
                         <div 
                             key={thisCard.id || Math.random().toString(36)} 
-                            className={styles.cardItem} 
+                            className={`${styles.cardItem} card-item`} 
                             onDoubleClick={() => doubleClickHandler(thisCard)}
+                            onMouseEnter={() => handleCardHover(thisCard)}
+                            onMouseLeave={() => handleCardHover(null)}
+                            draggable="true"
+                            onDragStart={(e) => {
+                                try {
+                                    // Make sure all cards are draggable regardless of container
+                                    // Set a drag image to make the drag preview visible
+                                    if (thisCard.images?.small || thisCard.image) {
+                                        const img = new Image();
+                                        img.src = thisCard.images?.small || thisCard.image;
+                                        img.width = 100; // smaller size for the drag image
+                                        document.body.appendChild(img);
+                                        e.dataTransfer.setDragImage(img, 50, 70);
+                                        setTimeout(() => document.body.removeChild(img), 0);
+                                    }
+                                    
+                                    // For setting the actual data, use a try-catch to handle any serialization errors
+                                    e.dataTransfer.setData("text/plain", thisCard.name); // Fallback
+                                    e.dataTransfer.setData("application/json", JSON.stringify({ 
+                                        card: thisCard, 
+                                        origContainer: containerType 
+                                    }));
+                                    e.dataTransfer.effectAllowed = "copy";
+                                } catch (error) {
+                                    console.error("Error setting drag data:", error);
+                                    // Fallback to just the card name
+                                    e.dataTransfer.setData("text/plain", thisCard.name || "Card");
+                                }
+                            }}
                         >
                             {/* Add/Remove buttons for deck container */}
                             {containerType === "Deck" && (
@@ -141,20 +191,34 @@ function CardContainer({
                                 </div> 
                             )}
 
-                            {/* Favorite button for search container */}
-                            {containerType === "Search" && handleToggleFavorite && !isCustomContainer && (
+                            {/* Favorite button for search container - moved to left */}
+                            {(containerType === "Search" || containerType === "Favorites") && handleToggleFavorite && !isCustomContainer && (
                                 <div 
-                                    className={styles.favoriteButton} 
+                                    className={newStyles.favoriteContainer} 
                                     onClick={(e) => {
                                         e.stopPropagation();
                                         handleToggleFavorite(thisCard);
                                     }}
                                 >
-                                    <FontAwesomeIcon 
-                                        icon={isFavorite(thisCard.id) ? faStarSolid : faStarRegular} 
-                                        color={isFavorite(thisCard.id) ? "gold" : "gray"}
-                                        size="lg"
-                                    />
+                                    <div className={newStyles.favoriteButton}>
+                                        <FontAwesomeIcon 
+                                            icon={isFavorite(thisCard.id) ? faStarSolid : faStarRegular} 
+                                            color={isFavorite(thisCard.id) ? "gold" : "gray"}
+                                        />
+                                    </div>
+                                </div>
+                            )}
+
+                            {/* Preview button for all containers */}
+                            {onCardPreview && (
+                                <div 
+                                    className={newStyles.cardPreviewHover}
+                                    onClick={(e) => {
+                                        e.stopPropagation();
+                                        onCardPreview(thisCard);
+                                    }}
+                                >
+                                    <FontAwesomeIcon icon={faExpand} />
                                 </div>
                             )}
 
@@ -216,6 +280,13 @@ function CardContainer({
                             {thisCard.isCustom && (
                                 <div className={styles.customBadge}>Custom</div>
                             )}
+                            
+                            {/* Card name tooltip for search results */}
+                            {(containerType === "Search" || containerType === "Favorites" || containerType === "Custom") && (
+                                <div className={newStyles.cardNameTooltip}>
+                                    {thisCard.name}
+                                </div>
+                            )}
                         </div>
                     ))
                 ) : (
@@ -226,6 +297,9 @@ function CardContainer({
             </div>
         </div>
     );
-}
+});
+
+// Add displayName for forwardRef component
+CardContainer.displayName = 'CardContainer';
 
 export default CardContainer;
